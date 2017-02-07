@@ -4,7 +4,6 @@ load "lib/airport.rb"
 AIRPORTS = Airport.get_airports
 
 set :layout, false
-
 page "*.json", :content_type => "application/json"
 
 configure :development do
@@ -20,6 +19,7 @@ helpers do
 end
 
 proxy_file = "airport.json"
+ignore proxy_file
 AIRPORTS.drop(1).each do |a|
   if a[:icao]
     proxy "/icao/#{a[:icao].to_s.downcase}.json", proxy_file, :locals => { :airport => a }
