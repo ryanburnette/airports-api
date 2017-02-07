@@ -1,5 +1,3 @@
-require "byebug"
-
 load "lib/airport.rb"
 AIRPORTS = Airport.get_airports
 
