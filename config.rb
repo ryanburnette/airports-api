@@ -19,6 +19,7 @@ end
 proxy_file = "airport.json"
 ignore proxy_file
 AIRPORTS.drop(1).each do |a|
+  a.delete(:id)
   if a[:icao]
     proxy "/icao/#{a[:icao].to_s.downcase}.json", proxy_file, :locals => { :airport => a }
   end
