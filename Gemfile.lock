@@ -9,7 +9,6 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     backports (3.6.8)
-    byebug (9.0.6)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -97,7 +96,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  byebug
   middleman (~> 4)
   rake
 
