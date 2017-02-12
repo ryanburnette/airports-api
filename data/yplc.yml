@@ -1,0 +1,12 @@
+---
+airport_name: Port Lincoln Airport
+city: Port Lincoln
+country: Australia
+iata: PLO
+icao: YPLC
+latitude: -34.6053
+longitude: 135.88
+elevation: 36
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

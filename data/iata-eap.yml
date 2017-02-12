@@ -1,0 +1,12 @@
+---
+airport_name: EuroAirport
+city: Mulhouse
+country: France
+iata: EAP
+icao: 
+latitude: 47.589583
+longitude: 7.529914
+elevation: 885
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Allegheny County Airport
+city: Pittsburgh
+country: United States
+iata: AGC
+icao: KAGC
+latitude: 40.3544
+longitude: -79.9302
+elevation: 1252
+utc_offset: -5
+_class: A
+timezone: America/New_York

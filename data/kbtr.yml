@@ -1,0 +1,12 @@
+---
+airport_name: Baton Rouge Metro Ryan Fld
+city: Baton Rouge
+country: United States
+iata: BTR
+icao: KBTR
+latitude: 30.533167
+longitude: -91.149639
+elevation: 70
+utc_offset: -6
+_class: A
+timezone: America/Chicago

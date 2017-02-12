@@ -1,0 +1,12 @@
+---
+airport_name: Mactan Cebu Intl
+city: Cebu
+country: Philippines
+iata: CEB
+icao: RPVM
+latitude: 10.307542
+longitude: 123.979439
+elevation: 31
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

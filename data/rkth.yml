@@ -1,0 +1,12 @@
+---
+airport_name: Pohang
+city: Pohang
+country: South Korea
+iata: KPO
+icao: RKTH
+latitude: 35.987858
+longitude: 129.420486
+elevation: 70
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

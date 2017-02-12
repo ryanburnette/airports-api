@@ -1,0 +1,12 @@
+---
+airport_name: General Rafael Buelna Intl
+city: Mazatlan
+country: Mexico
+iata: MZT
+icao: MMMZ
+latitude: 23.161356
+longitude: -106.266072
+elevation: 38
+utc_offset: -7
+_class: S
+timezone: America/Mazatlan

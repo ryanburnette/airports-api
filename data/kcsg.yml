@@ -1,0 +1,12 @@
+---
+airport_name: Columbus Metropolitan Airport
+city: Columbus
+country: United States
+iata: CSG
+icao: KCSG
+latitude: 32.5163333
+longitude: -84.9388611
+elevation: 397
+utc_offset: -5
+_class: A
+timezone: America/New_York

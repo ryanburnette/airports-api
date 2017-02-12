@@ -1,0 +1,12 @@
+---
+airport_name: Nondalton Airport
+city: Nondalton
+country: United States
+iata: NNL
+icao: PANO
+latitude: 59.966944
+longitude: -154.851667
+elevation: 262
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

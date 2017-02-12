@@ -1,0 +1,12 @@
+---
+airport_name: Karratha
+city: Karratha
+country: Australia
+iata: KTA
+icao: YPKA
+latitude: -20.712222
+longitude: 116.773333
+elevation: 29
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

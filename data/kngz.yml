@@ -1,0 +1,12 @@
+---
+airport_name: NAS Alameda
+city: Alameda
+country: United States
+iata: NGZ
+icao: KNGZ
+latitude: 37.7861
+longitude: -122.3186
+elevation: 10
+utc_offset: -8
+_class: U
+timezone: America/Los_Angeles

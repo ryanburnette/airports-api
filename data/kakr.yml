@@ -1,0 +1,12 @@
+---
+airport_name: Akron Fulton Intl
+city: Akron
+country: United States
+iata: AKC
+icao: KAKR
+latitude: 41.0375
+longitude: -81.466917
+elevation: 1067
+utc_offset: -5
+_class: A
+timezone: America/New_York

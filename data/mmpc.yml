@@ -1,0 +1,12 @@
+---
+airport_name: Ingeniero Juan Guillermo Villasana
+city: Pachuca
+country: Mexico
+iata: PCA
+icao: MMPC
+latitude: 20.0772
+longitude: -98.782814
+elevation: 7600
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

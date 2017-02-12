@@ -1,0 +1,12 @@
+---
+airport_name: Sormovo
+city: Nizhny Novgorod
+country: Russia
+iata: 
+icao: XUDS
+latitude: 56.1906
+longitude: 43.4742
+elevation: 210
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

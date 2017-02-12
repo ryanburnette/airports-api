@@ -1,0 +1,12 @@
+---
+airport_name: Mont Joli
+city: Mont Joli
+country: Canada
+iata: YYY
+icao: CYYY
+latitude: 48.608612
+longitude: -68.208056
+elevation: 172
+utc_offset: -5
+_class: A
+timezone: America/Toronto

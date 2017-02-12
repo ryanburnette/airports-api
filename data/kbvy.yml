@@ -1,0 +1,12 @@
+---
+airport_name: Beverly Municipal Airport
+city: Beverly
+country: United States
+iata: BVY
+icao: KBVY
+latitude: 42.584141
+longitude: -70.9161444
+elevation: 107
+utc_offset: -5
+_class: A
+timezone: America/New_York

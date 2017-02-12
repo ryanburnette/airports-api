@@ -1,0 +1,12 @@
+---
+airport_name: Gangneung
+city: Kangnung
+country: South Korea
+iata: KAG
+icao: RKNN
+latitude: 37.753561
+longitude: 128.943625
+elevation: 35
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

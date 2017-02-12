@@ -1,0 +1,12 @@
+---
+airport_name: Talkeetna
+city: Talkeetna
+country: United States
+iata: TKA
+icao: PATK
+latitude: 62.3205
+longitude: -150.093694
+elevation: 358
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

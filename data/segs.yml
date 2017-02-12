@@ -1,0 +1,12 @@
+---
+airport_name: Seymour
+city: Galapagos
+country: Ecuador
+iata: GPS
+icao: SEGS
+latitude: -0.453758
+longitude: -90.265914
+elevation: 207
+utc_offset: -6
+_class: U
+timezone: Pacific/Galapagos

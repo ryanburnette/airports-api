@@ -1,0 +1,12 @@
+---
+airport_name: Ellsworth Afb
+city: Rapid City
+country: United States
+iata: RCA
+icao: KRCA
+latitude: 44.145042
+longitude: -103.103567
+elevation: 3279
+utc_offset: -7
+_class: A
+timezone: America/Denver

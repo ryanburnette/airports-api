@@ -1,0 +1,12 @@
+---
+airport_name: Wekweeti Airport
+city: Wekweeti
+country: Canada
+iata: 
+icao: CFJ2
+latitude: 64.190833
+longitude: -114.076667
+elevation: 1206
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

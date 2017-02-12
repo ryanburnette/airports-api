@@ -1,0 +1,12 @@
+---
+airport_name: Entrammes
+city: Laval
+country: France
+iata: LVA
+icao: LFOV
+latitude: 48.031361
+longitude: -0.742986
+elevation: 330
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

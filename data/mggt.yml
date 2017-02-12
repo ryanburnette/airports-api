@@ -1,0 +1,12 @@
+---
+airport_name: La Aurora
+city: Guatemala City
+country: Guatemala
+iata: GUA
+icao: MGGT
+latitude: 14.583272
+longitude: -90.527475
+elevation: 4952
+utc_offset: -6
+_class: U
+timezone: America/Guatemala

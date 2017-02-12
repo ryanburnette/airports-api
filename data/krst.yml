@@ -1,0 +1,12 @@
+---
+airport_name: Rochester
+city: Rochester
+country: United States
+iata: RST
+icao: KRST
+latitude: 43.908283
+longitude: -92.500014
+elevation: 1317
+utc_offset: -6
+_class: A
+timezone: America/Chicago

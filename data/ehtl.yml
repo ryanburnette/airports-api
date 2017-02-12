@@ -1,0 +1,12 @@
+---
+airport_name: Terlet
+city: Arnhem
+country: Netherlands
+iata: 
+icao: EHTL
+latitude: 52.057222
+longitude: 5.924444
+elevation: 276
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

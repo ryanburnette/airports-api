@@ -1,0 +1,12 @@
+---
+airport_name: Brussels South
+city: Charleroi
+country: Belgium
+iata: CRL
+icao: EBCI
+latitude: 50.459197
+longitude: 4.453817
+elevation: 614
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

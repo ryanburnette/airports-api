@@ -1,0 +1,12 @@
+---
+airport_name: Hartford Union Station
+city: Hartford
+country: United States
+iata: ZRT
+icao: 
+latitude: 41.76888
+longitude: -72.6815
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Whiting Fld Nas North
+city: Milton
+country: United States
+iata: NSE
+icao: KNSE
+latitude: 30.724167
+longitude: -87.021944
+elevation: 199
+utc_offset: -6
+_class: A
+timezone: America/Chicago

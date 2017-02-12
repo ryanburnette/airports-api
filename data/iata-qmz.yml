@@ -1,0 +1,12 @@
+---
+airport_name: Mainz
+city: Mainz
+country: Germany
+iata: QMZ
+icao: 
+latitude: 50.00829
+longitude: 8.27356
+elevation: 360
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

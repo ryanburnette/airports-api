@@ -1,0 +1,12 @@
+---
+airport_name: Fort Stockton Pecos Co
+city: Fort Stockton
+country: United States
+iata: FST
+icao: KFST
+latitude: 30.915667
+longitude: -102.916139
+elevation: 3011
+utc_offset: -6
+_class: A
+timezone: America/Chicago

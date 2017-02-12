@@ -1,0 +1,12 @@
+---
+airport_name: Point Salines Intl
+city: Point Salines
+country: Grenada
+iata: GND
+icao: TGPY
+latitude: 12.004247
+longitude: -61.786192
+elevation: 41
+utc_offset: -4
+_class: U
+timezone: America/Grenada

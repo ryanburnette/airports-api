@@ -1,0 +1,12 @@
+---
+airport_name: Inishmore Airport
+city: Inis Mor
+country: Ireland
+iata: IOR
+icao: EIIM
+latitude: 53.1067
+longitude: -9.65361
+elevation: 24
+utc_offset: 0
+_class: U
+timezone: Europe/Dublin

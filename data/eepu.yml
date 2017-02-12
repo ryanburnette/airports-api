@@ -1,0 +1,12 @@
+---
+airport_name: Parnu
+city: Parnu
+country: Estonia
+iata: EPU
+icao: EEPU
+latitude: 58.419044
+longitude: 24.472819
+elevation: 47
+utc_offset: 2
+_class: E
+timezone: Europe/Tallinn

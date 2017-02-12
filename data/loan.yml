@@ -1,0 +1,12 @@
+---
+airport_name: Wiener Neustadt East
+city: Wiener Neustadt Ost
+country: Austria
+iata: 
+icao: LOAN
+latitude: 47.843333
+longitude: 16.260139
+elevation: 896
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

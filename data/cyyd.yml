@@ -1,0 +1,12 @@
+---
+airport_name: Smithers
+city: Smithers
+country: Canada
+iata: YYD
+icao: CYYD
+latitude: 54.824722
+longitude: -127.182778
+elevation: 1712
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

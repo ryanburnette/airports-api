@@ -1,0 +1,12 @@
+---
+airport_name: Manhattan Reigonal
+city: Manhattan
+country: United States
+iata: MHK
+icao: KMHK
+latitude: 39.140972
+longitude: -96.670833
+elevation: 1057
+utc_offset: -6
+_class: A
+timezone: America/Chicago

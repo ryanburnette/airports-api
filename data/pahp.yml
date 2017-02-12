@@ -1,0 +1,12 @@
+---
+airport_name: Hooper Bay Airport
+city: Hooper Bay
+country: United States
+iata: HPB
+icao: PAHP
+latitude: 61.5239
+longitude: -166.147
+elevation: 7
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Togiak Airport
+city: Togiak Village
+country: United States
+iata: TOG
+icao: PATG
+latitude: 59.0528
+longitude: -160.397
+elevation: 21
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

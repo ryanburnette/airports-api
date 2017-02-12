@@ -1,0 +1,12 @@
+---
+airport_name: Illinois Valley Regional
+city: Peru
+country: United States
+iata: VYS
+icao: KVYS
+latitude: 41.351944
+longitude: -89.153056
+elevation: 654
+utc_offset: -6
+_class: A
+timezone: America/Chicago

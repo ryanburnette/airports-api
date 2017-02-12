@@ -1,0 +1,12 @@
+---
+airport_name: Lelystad Airport
+city: Lelystad
+country: Netherlands
+iata: LEY
+icao: 
+latitude: 52.4603
+longitude: 5.52722
+elevation: 12
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

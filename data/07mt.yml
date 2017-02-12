@@ -1,0 +1,12 @@
+---
+airport_name: Glasgow Industrial
+city: Glasgow
+country: United States
+iata: 
+icao: 07MT
+latitude: 48.4211069
+longitude: -106.5277039
+elevation: 2762
+utc_offset: -7
+_class: A
+timezone: America/Denver

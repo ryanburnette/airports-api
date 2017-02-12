@@ -1,0 +1,12 @@
+---
+airport_name: Gaspe
+city: Gaspe
+country: Canada
+iata: YGP
+icao: CYGP
+latitude: 48.775278
+longitude: -64.478611
+elevation: 108
+utc_offset: -5
+_class: A
+timezone: America/Toronto

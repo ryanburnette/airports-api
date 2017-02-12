@@ -1,0 +1,12 @@
+---
+airport_name: Kungsangen
+city: Norrkoeping
+country: Sweden
+iata: NRK
+icao: ESSP
+latitude: 58.586253
+longitude: 16.250622
+elevation: 32
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

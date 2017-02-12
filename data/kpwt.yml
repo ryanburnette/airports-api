@@ -1,0 +1,12 @@
+---
+airport_name: Bremerton National
+city: Bremerton
+country: United States
+iata: PWT
+icao: KPWT
+latitude: 47.490244
+longitude: -122.764814
+elevation: 444
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

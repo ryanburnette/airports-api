@@ -1,0 +1,12 @@
+---
+airport_name: Milos
+city: Milos
+country: Greece
+iata: MLO
+icao: LGML
+latitude: 36.696111
+longitude: 24.4775
+elevation: 12
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

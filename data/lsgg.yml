@@ -1,0 +1,12 @@
+---
+airport_name: Geneve Cointrin
+city: Geneva
+country: Switzerland
+iata: GVA
+icao: LSGG
+latitude: 46.238064
+longitude: 6.10895
+elevation: 1411
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

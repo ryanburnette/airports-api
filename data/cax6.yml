@@ -1,0 +1,12 @@
+---
+airport_name: Ganges Water Aerodrome
+city: Ganges
+country: Canada
+iata: 
+icao: CAX6
+latitude: 48.85
+longitude: -123.5
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

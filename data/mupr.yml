@@ -1,0 +1,12 @@
+---
+airport_name: Pinar Del Rio
+city: Pinar Del Rio Norte
+country: Cuba
+iata: 
+icao: MUPR
+latitude: 22.421356
+longitude: -83.678428
+elevation: 131
+utc_offset: -5
+_class: U
+timezone: America/Havana

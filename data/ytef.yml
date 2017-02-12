@@ -1,0 +1,12 @@
+---
+airport_name: Telfer Airport
+city: Telfer
+country: Australia
+iata: TEF
+icao: YTEF
+latitude: -21.713057
+longitude: 122.21222
+elevation: 970
+utc_offset: 8
+_class: N
+timezone: Australia/Perth

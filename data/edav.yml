@@ -1,0 +1,12 @@
+---
+airport_name: Flugplatz Finow
+city: Eberswalde
+country: Germany
+iata: 
+icao: EDAV
+latitude: 52.827222
+longitude: 13.693611
+elevation: 121
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

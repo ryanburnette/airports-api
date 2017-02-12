@@ -1,0 +1,12 @@
+---
+airport_name: Optand
+city: Optand
+country: Sweden
+iata: 
+icao: ESNM
+latitude: 63.128611
+longitude: 14.802778
+elevation: 1236
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

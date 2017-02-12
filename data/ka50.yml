@@ -1,0 +1,12 @@
+---
+airport_name: Colorado Springs East
+city: Ellicott
+country: United States
+iata: A50
+icao: KA50
+latitude: 38.87
+longitude: -104.41
+elevation: 6145
+utc_offset: -7
+_class: A
+timezone: America/Denver

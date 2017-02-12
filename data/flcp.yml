@@ -1,0 +1,12 @@
+---
+airport_name: Chipata Airport
+city: Chipata
+country: Zambia
+iata: CIP
+icao: FLCP
+latitude: -13.5583
+longitude: 32.5872
+elevation: 3360
+utc_offset: 2
+_class: U
+timezone: Africa/Lusaka

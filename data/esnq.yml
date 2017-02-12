@@ -1,0 +1,12 @@
+---
+airport_name: Kiruna
+city: Kiruna
+country: Sweden
+iata: KRN
+icao: ESNQ
+latitude: 67.821986
+longitude: 20.336764
+elevation: 1508
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

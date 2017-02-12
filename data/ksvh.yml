@@ -1,0 +1,12 @@
+---
+airport_name: Regional Airport
+city: Statesville
+country: United States
+iata: SVH
+icao: KSVH
+latitude: 35.7649958
+longitude: -80.9538958
+elevation: 968
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Polk Aaf
+city: Fort Polk
+country: United States
+iata: POE
+icao: KPOE
+latitude: 31.044833
+longitude: -93.191667
+elevation: 330
+utc_offset: -6
+_class: A
+timezone: America/Chicago

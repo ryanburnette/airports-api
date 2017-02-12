@@ -1,0 +1,12 @@
+---
+airport_name: Cold Bay
+city: Cold Bay
+country: United States
+iata: CDB
+icao: PACD
+latitude: 55.206061
+longitude: -162.725436
+elevation: 96
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

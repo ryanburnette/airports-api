@@ -1,0 +1,12 @@
+---
+airport_name: Cuyo Airport
+city: Cuyo
+country: Philippines
+iata: CYU
+icao: RPLO
+latitude: 10.8581
+longitude: 121.069
+elevation: 0
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

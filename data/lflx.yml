@@ -1,0 +1,12 @@
+---
+airport_name: Deols
+city: Chateauroux
+country: France
+iata: CHR
+icao: LFLX
+latitude: 46.862194
+longitude: 1.730667
+elevation: 529
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Torino
+city: Torino
+country: Italy
+iata: TRN
+icao: LIMF
+latitude: 45.200761
+longitude: 7.649631
+elevation: 989
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

@@ -1,0 +1,12 @@
+---
+airport_name: Oshima
+city: Oshima
+country: Japan
+iata: OIM
+icao: RJTO
+latitude: 34.782033
+longitude: 139.360306
+elevation: 130
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

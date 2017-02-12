@@ -1,0 +1,12 @@
+---
+airport_name: Walgett Airport
+city: Walgett
+country: Australia
+iata: WGE
+icao: YWLG
+latitude: -30.0318
+longitude: 148.1222
+elevation: 439
+utc_offset: 10
+_class: U
+timezone: Australia/Sydney

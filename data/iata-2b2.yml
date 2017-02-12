@@ -1,0 +1,12 @@
+---
+airport_name: Plum Island Airport
+city: Newburyport
+country: United States
+iata: 2B2
+icao: 
+latitude: 42.7953611
+longitude: -70.8394444
+elevation: 11
+utc_offset: -5
+_class: A
+timezone: America/New_York

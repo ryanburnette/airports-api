@@ -1,0 +1,12 @@
+---
+airport_name: Akron Canton Regional Airport
+city: Akron
+country: United States
+iata: CAK
+icao: KCAK
+latitude: 40.9160833
+longitude: -81.4421944
+elevation: 1228
+utc_offset: -5
+_class: A
+timezone: America/New_York

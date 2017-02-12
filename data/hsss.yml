@@ -1,0 +1,12 @@
+---
+airport_name: Khartoum
+city: Khartoum
+country: Sudan
+iata: KRT
+icao: HSSS
+latitude: 15.589497
+longitude: 32.553161
+elevation: 1265
+utc_offset: 3
+_class: U
+timezone: Africa/Khartoum

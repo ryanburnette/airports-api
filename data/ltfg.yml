@@ -1,0 +1,12 @@
+---
+airport_name: Gazipasa Airport
+city: Alanya
+country: Turkey
+iata: GZP
+icao: LTFG
+latitude: 36.2993
+longitude: 32.3014
+elevation: 92
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

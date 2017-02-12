@@ -1,0 +1,12 @@
+---
+airport_name: Johnson County Airport
+city: Olathe
+country: United States
+iata: OJC
+icao: KOJC
+latitude: 38.5051
+longitude: -94.4415
+elevation: 1096
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Somerset County Airport
+city: Somerset
+country: United States
+iata: 2G9
+icao: 
+latitude: 40.0388708
+longitude: -79.0149951
+elevation: 2275
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Lincang Airport
+city: Lincang
+country: China
+iata: LNJ
+icao: ZPLC
+latitude: 23.738333
+longitude: 100.025
+elevation: 1500
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

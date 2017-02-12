@@ -1,0 +1,12 @@
+---
+airport_name: Marcillac
+city: Rodez
+country: France
+iata: RDZ
+icao: LFCR
+latitude: 44.407869
+longitude: 2.482672
+elevation: 1910
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

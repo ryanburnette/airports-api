@@ -1,0 +1,12 @@
+---
+airport_name: Kendall Tamiami Executive
+city: Kendall-tamiami
+country: United States
+iata: TMB
+icao: KTMB
+latitude: 25.647889
+longitude: -80.432777
+elevation: 8
+utc_offset: -5
+_class: A
+timezone: America/New_York

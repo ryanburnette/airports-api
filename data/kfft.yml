@@ -1,0 +1,12 @@
+---
+airport_name: Capital City Airport
+city: Frankfort
+country: United States
+iata: FFT
+icao: KFFT
+latitude: 38.1819722
+longitude: -84.9061389
+elevation: 812
+utc_offset: -5
+_class: A
+timezone: America/New_York

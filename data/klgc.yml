@@ -1,0 +1,12 @@
+---
+airport_name: LaGrange-Callaway Airport
+city: LaGrange
+country: United States
+iata: LGC
+icao: KLGC
+latitude: 33.0088611
+longitude: -85.0726111
+elevation: 694
+utc_offset: -5
+_class: A
+timezone: America/New_York

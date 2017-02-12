@@ -1,0 +1,12 @@
+---
+airport_name: Nightmute Airport
+city: Nightmute
+country: United States
+iata: NME
+icao: PAGT
+latitude: 60.471111
+longitude: -164.700833
+elevation: 4
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

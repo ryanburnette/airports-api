@@ -1,0 +1,12 @@
+---
+airport_name: Sud Corse
+city: Figari
+country: France
+iata: FSC
+icao: LFKF
+latitude: 41.500557
+longitude: 9.097777
+elevation: 87
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

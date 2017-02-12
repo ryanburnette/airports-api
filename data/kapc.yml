@@ -1,0 +1,12 @@
+---
+airport_name: Napa County Airport
+city: Napa
+country: United States
+iata: APC
+icao: KAPC
+latitude: 38.2131944
+longitude: -122.2806944
+elevation: 35
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

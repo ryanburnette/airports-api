@@ -1,0 +1,12 @@
+---
+airport_name: Camarillo Amtrak
+city: Camarillo
+country: United States
+iata: 
+icao: 
+latitude: 34.2164
+longitude: -119.0335
+elevation: 140
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Murmansk
+city: Murmansk
+country: Russia
+iata: MMK
+icao: ULMM
+latitude: 68.781672
+longitude: 32.750822
+elevation: 266
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

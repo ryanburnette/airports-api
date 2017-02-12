@@ -1,0 +1,12 @@
+---
+airport_name: Henry Post Aaf
+city: Fort Sill
+country: United States
+iata: FSI
+icao: KFSI
+latitude: 34.649833
+longitude: -98.402167
+elevation: 1189
+utc_offset: -6
+_class: A
+timezone: America/Chicago

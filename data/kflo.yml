@@ -1,0 +1,12 @@
+---
+airport_name: Florence Rgnl
+city: Florence
+country: United States
+iata: FLO
+icao: KFLO
+latitude: 34.185361
+longitude: -79.723889
+elevation: 146
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Point Mugu Nas
+city: Point Mugu
+country: United States
+iata: NTD
+icao: KNTD
+latitude: 34.120285
+longitude: -119.12094
+elevation: 13
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

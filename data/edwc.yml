@@ -1,0 +1,12 @@
+---
+airport_name: Damme Airport
+city: Damme
+country: Germany
+iata: 
+icao: EDWC
+latitude: 52.4875
+longitude: 8.18556
+elevation: 151
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

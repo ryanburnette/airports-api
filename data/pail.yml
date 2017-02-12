@@ -1,0 +1,12 @@
+---
+airport_name: Iliamna
+city: Iliamna
+country: United States
+iata: ILI
+icao: PAIL
+latitude: 59.754356
+longitude: -154.910961
+elevation: 186
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

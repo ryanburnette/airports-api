@@ -1,0 +1,12 @@
+---
+airport_name: Essen Railway
+city: Essen
+country: Germany
+iata: ZES
+icao: 
+latitude: 51.451389
+longitude: 7.013889
+elevation: 200
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

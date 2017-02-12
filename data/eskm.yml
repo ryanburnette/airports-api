@@ -1,0 +1,12 @@
+---
+airport_name: Mora
+city: Mora
+country: Sweden
+iata: MXX
+icao: ESKM
+latitude: 60.957908
+longitude: 14.511383
+elevation: 634
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

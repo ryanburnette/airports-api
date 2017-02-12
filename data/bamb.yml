@@ -1,0 +1,12 @@
+---
+airport_name: Bamberg BF
+city: Bamberg
+country: Germany
+iata: BAM
+icao: BAMB
+latitude: 49.911
+longitude: 10.9
+elevation: 800
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

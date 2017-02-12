@@ -1,0 +1,12 @@
+---
+airport_name: Igloolik Airport
+city: Igloolik
+country: Canada
+iata: YGT
+icao: CYGT
+latitude: 69.3647
+longitude: -81.8161
+elevation: 174
+utc_offset: -5
+_class: A
+timezone: America/Toronto

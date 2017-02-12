@@ -1,0 +1,12 @@
+---
+airport_name: Caucaya Airport
+city: Puerto Leguízamo
+country: Colombia
+iata: LQM
+icao: SKLG
+latitude: -0.18
+longitude: -74.77
+elevation: 573
+utc_offset: -5
+_class: U
+timezone: America/Bogota

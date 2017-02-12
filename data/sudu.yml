@@ -1,0 +1,12 @@
+---
+airport_name: Santa Bernardina Intl
+city: Durazno
+country: Uruguay
+iata: 
+icao: SUDU
+latitude: -33.358867
+longitude: -56.499172
+elevation: 305
+utc_offset: -3
+_class: S
+timezone: America/Montevideo

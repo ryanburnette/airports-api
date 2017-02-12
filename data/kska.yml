@@ -1,0 +1,12 @@
+---
+airport_name: Fairchild Afb
+city: Spokane
+country: United States
+iata: SKA
+icao: KSKA
+latitude: 47.615058
+longitude: -117.655772
+elevation: 2461
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

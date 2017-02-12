@@ -1,0 +1,12 @@
+---
+airport_name: Kastrup
+city: Copenhagen
+country: Denmark
+iata: CPH
+icao: EKCH
+latitude: 55.617917
+longitude: 12.655972
+elevation: 17
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

@@ -1,0 +1,12 @@
+---
+airport_name: Eday Airport
+city: Eday
+country: United Kingdom
+iata: EOI
+icao: EGED
+latitude: 59.1906
+longitude: -2.77222
+elevation: 10
+utc_offset: 0
+_class: E
+timezone: Europe/London

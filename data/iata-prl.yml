@@ -1,0 +1,12 @@
+---
+airport_name: Port Oceanic Airport
+city: Port Oceanic
+country: United States
+iata: PRL
+icao: 
+latitude: 60.2083333
+longitude: -147.8194444
+elevation: 142
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

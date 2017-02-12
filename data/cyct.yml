@@ -1,0 +1,12 @@
+---
+airport_name: Coronation
+city: Coronation
+country: Canada
+iata: YCT
+icao: CYCT
+latitude: 52.075001
+longitude: -111.445278
+elevation: 2595
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

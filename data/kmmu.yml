@@ -1,0 +1,12 @@
+---
+airport_name: Morristown Municipal Airport
+city: Morristown
+country: United States
+iata: MMU
+icao: KMMU
+latitude: 40.79935
+longitude: -74.4148747
+elevation: 187
+utc_offset: -5
+_class: A
+timezone: America/New_York

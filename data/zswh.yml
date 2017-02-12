@@ -1,0 +1,12 @@
+---
+airport_name: Weihai Airport
+city: Weihai
+country: China
+iata: WEH
+icao: ZSWH
+latitude: 37.1871
+longitude: 122.229
+elevation: 145
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

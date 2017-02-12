@@ -1,0 +1,12 @@
+---
+airport_name: Dubendorf
+city: Dubendorf
+country: Switzerland
+iata: 
+icao: LSMD
+latitude: 47.398644
+longitude: 8.648231
+elevation: 1470
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

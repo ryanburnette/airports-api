@@ -1,0 +1,12 @@
+---
+airport_name: New Brunswick Station
+city: New Brunswick
+country: United States
+iata: 
+icao: NBWK
+latitude: 40.496432
+longitude: -74.446447
+elevation: 62
+utc_offset: -5
+_class: A
+timezone: America/New_York

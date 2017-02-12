@@ -1,0 +1,12 @@
+---
+airport_name: Tanana Airport
+city: Tanana
+country: United States
+iata: TAL
+icao: 
+latitude: 65.179556
+longitude: -152.075833
+elevation: 207
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

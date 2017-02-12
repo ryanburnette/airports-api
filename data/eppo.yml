@@ -1,0 +1,12 @@
+---
+airport_name: Lawica
+city: Poznan
+country: Poland
+iata: POZ
+icao: EPPO
+latitude: 52.421031
+longitude: 16.826325
+elevation: 308
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

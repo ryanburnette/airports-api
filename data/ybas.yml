@@ -1,0 +1,12 @@
+---
+airport_name: Alice Springs
+city: Alice Springs
+country: Australia
+iata: ASP
+icao: YBAS
+latitude: -23.806667
+longitude: 133.902222
+elevation: 1789
+utc_offset: 9.5
+_class: N
+timezone: Australia/Darwin

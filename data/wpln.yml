@@ -1,0 +1,12 @@
+---
+airport_name: White Plains
+city: White Plains
+country: United States
+iata: 
+icao: WPLN
+latitude: 41.032549
+longitude: -73.775069
+elevation: 213
+utc_offset: -5
+_class: A
+timezone: America/New_York

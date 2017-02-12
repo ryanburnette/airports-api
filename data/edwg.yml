@@ -1,0 +1,12 @@
+---
+airport_name: Wangerooge Airport
+city: Wangerooge
+country: Germany
+iata: AGE
+icao: EDWG
+latitude: 53.7828
+longitude: 7.91389
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

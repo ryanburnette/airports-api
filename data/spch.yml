@@ -1,0 +1,12 @@
+---
+airport_name: Tocache Airport
+city: Tocache
+country: Peru
+iata: 
+icao: SPCH
+latitude: -8.183
+longitude: -76.517
+elevation: 1500
+utc_offset: -5
+_class: U
+timezone: America/Lima

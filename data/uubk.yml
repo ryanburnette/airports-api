@@ -1,0 +1,12 @@
+---
+airport_name: Staroselye Airport
+city: Rybinsk
+country: Russia
+iata: RYB
+icao: UUBK
+latitude: 58.1042
+longitude: 38.9294
+elevation: 423
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

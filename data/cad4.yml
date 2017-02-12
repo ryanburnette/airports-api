@@ -1,0 +1,12 @@
+---
+airport_name: Trail Airport
+city: Trail
+country: Canada
+iata: YZZ
+icao: CAD4
+latitude: 49.055556
+longitude: -117.609167
+elevation: 1427
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

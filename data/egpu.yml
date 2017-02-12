@@ -1,0 +1,12 @@
+---
+airport_name: Tiree
+city: Tiree
+country: United Kingdom
+iata: TRE
+icao: EGPU
+latitude: 56.499167
+longitude: -6.869167
+elevation: 38
+utc_offset: 0
+_class: E
+timezone: Europe/London

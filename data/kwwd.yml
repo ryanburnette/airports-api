@@ -1,0 +1,12 @@
+---
+airport_name: Cape May Co
+city: Wildwood
+country: United States
+iata: WWD
+icao: KWWD
+latitude: 39.008507
+longitude: -74.908275
+elevation: 23
+utc_offset: -5
+_class: A
+timezone: America/New_York

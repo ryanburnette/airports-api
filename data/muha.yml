@@ -1,0 +1,12 @@
+---
+airport_name: Jose Marti Intl
+city: Havana
+country: Cuba
+iata: HAV
+icao: MUHA
+latitude: 22.989153
+longitude: -82.409086
+elevation: 210
+utc_offset: -5
+_class: U
+timezone: America/Havana

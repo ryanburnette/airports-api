@@ -1,0 +1,12 @@
+---
+airport_name: Polokwane International
+city: Polokwane
+country: South Africa
+iata: PTG
+icao: FAPI
+latitude: -23.926089
+longitude: 29.484422
+elevation: 4354
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

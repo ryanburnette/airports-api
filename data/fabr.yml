@@ -1,0 +1,12 @@
+---
+airport_name: Barberton Airport
+city: Barberton
+country: South Africa
+iata: 
+icao: FABR
+latitude: -25.7175
+longitude: 30.975
+elevation: 2260
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

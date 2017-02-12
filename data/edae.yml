@@ -1,0 +1,12 @@
+---
+airport_name: Eisenhuttenstadt
+city: Eisenhuettenstadt
+country: Germany
+iata: 
+icao: EDAE
+latitude: 52.197333
+longitude: 14.585667
+elevation: 149
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

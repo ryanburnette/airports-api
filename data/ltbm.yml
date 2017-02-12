@@ -1,0 +1,12 @@
+---
+airport_name: Isparta
+city: Isparta
+country: Turkey
+iata: 
+icao: LTBM
+latitude: 37.785369
+longitude: 30.581817
+elevation: 3250
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

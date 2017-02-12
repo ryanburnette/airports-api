@@ -1,0 +1,12 @@
+---
+airport_name: Zenata
+city: Tlemcen
+country: Algeria
+iata: TLM
+icao: DAON
+latitude: 35.016667
+longitude: -1.45
+elevation: 814
+utc_offset: 1
+_class: N
+timezone: Africa/Algiers

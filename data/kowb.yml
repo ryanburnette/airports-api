@@ -1,0 +1,12 @@
+---
+airport_name: Owensboro Daviess County Airport
+city: Owensboro
+country: United States
+iata: OWB
+icao: KOWB
+latitude: 37.7401
+longitude: -87.1668
+elevation: 406
+utc_offset: -6
+_class: A
+timezone: America/Chicago

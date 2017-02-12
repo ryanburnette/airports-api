@@ -1,0 +1,12 @@
+---
+airport_name: Waterbury-Oxford Airport
+city: Oxford
+country: United States
+iata: OXC
+icao: KOXC
+latitude: 41.4785556
+longitude: -73.13525
+elevation: 726
+utc_offset: -5
+_class: A
+timezone: America/New_York

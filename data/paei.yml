@@ -1,0 +1,12 @@
+---
+airport_name: Eielson Afb
+city: Fairbanks
+country: United States
+iata: EIL
+icao: PAEI
+latitude: 64.665667
+longitude: -147.1015
+elevation: 548
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Bochum Railway
+city: Bochum
+country: Germany
+iata: EBO
+icao: 
+latitude: 51.478506
+longitude: 7.222781
+elevation: 45
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

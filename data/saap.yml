@@ -1,0 +1,12 @@
+---
+airport_name: General Urquiza
+city: Parana
+country: Argentina
+iata: PRA
+icao: SAAP
+latitude: -31.794778
+longitude: -60.480361
+elevation: 243
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

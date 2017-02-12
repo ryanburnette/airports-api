@@ -1,0 +1,12 @@
+---
+airport_name: East 34th Street Heliport
+city: New York
+country: United States
+iata: TSS
+icao: NONE
+latitude: 40.7425
+longitude: -73.971944
+elevation: 10
+utc_offset: -5
+_class: A
+timezone: America/New_York

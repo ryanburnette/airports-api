@@ -1,0 +1,12 @@
+---
+airport_name: St.Stephan
+city: St.Stephan
+country: Switzerland
+iata: 
+icao: LSTS
+latitude: 46.497442
+longitude: 7.412572
+elevation: 3304
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

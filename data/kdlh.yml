@@ -1,0 +1,12 @@
+---
+airport_name: Duluth Intl
+city: Duluth
+country: United States
+iata: DLH
+icao: KDLH
+latitude: 46.842091
+longitude: -92.193649
+elevation: 1428
+utc_offset: -6
+_class: A
+timezone: America/Chicago

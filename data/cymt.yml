@@ -1,0 +1,12 @@
+---
+airport_name: Chapais Airport
+city: Chibougamau
+country: Canada
+iata: YMT
+icao: CYMT
+latitude: 49.7719
+longitude: -74.5281
+elevation: 1270
+utc_offset: -5
+_class: A
+timezone: America/Toronto

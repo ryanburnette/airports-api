@@ -1,0 +1,12 @@
+---
+airport_name: Esler Rgnl
+city: Alexandria
+country: United States
+iata: ESF
+icao: KESF
+latitude: 31.394903
+longitude: -92.295772
+elevation: 112
+utc_offset: -6
+_class: A
+timezone: America/Chicago

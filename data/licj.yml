@@ -1,0 +1,12 @@
+---
+airport_name: Palermo
+city: Palermo
+country: Italy
+iata: PMO
+icao: LICJ
+latitude: 38.175958
+longitude: 13.091019
+elevation: 65
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

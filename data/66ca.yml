@@ -1,0 +1,12 @@
+---
+airport_name: Rancho San Simeon Airport
+city: Cambria
+country: United States
+iata: 
+icao: 66CA
+latitude: 35.607748
+longitude: -121.110192
+elevation: 320
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

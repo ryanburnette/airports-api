@@ -1,0 +1,12 @@
+---
+airport_name: Bahia Piña Airport
+city: Bahia Piña
+country: Panama
+iata: BFQ
+icao: 
+latitude: 7.583
+longitude: -78.2
+elevation: 14
+utc_offset: -5
+_class: U
+timezone: America/Panama

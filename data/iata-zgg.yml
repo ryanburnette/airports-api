@@ -1,0 +1,12 @@
+---
+airport_name: Central Station
+city: Glasgow
+country: United Kingdom
+iata: ZGG
+icao: 
+latitude: 55.858
+longitude: -4.258
+elevation: 25
+utc_offset: 0
+_class: E
+timezone: Europe/London

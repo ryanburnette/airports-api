@@ -1,0 +1,12 @@
+---
+airport_name: Tweed-New Haven Airport
+city: New Haven
+country: United States
+iata: HVN
+icao: KHVN
+latitude: 41.26375
+longitude: -72.886806
+elevation: 14
+utc_offset: -5
+_class: A
+timezone: America/New_York

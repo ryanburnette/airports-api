@@ -1,0 +1,12 @@
+---
+airport_name: Ormond Beach municipal Airport
+city: Ormond Beach
+country: United States
+iata: OMN
+icao: KOMN
+latitude: 29.1804
+longitude: -81.06497
+elevation: 28
+utc_offset: -5
+_class: A
+timezone: America/New_York

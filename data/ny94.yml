@@ -1,0 +1,12 @@
+---
+airport_name: Old Rhinebeck Airport
+city: Rhinebeck
+country: United States
+iata: 
+icao: NY94
+latitude: 41.969833
+longitude: -73.864555
+elevation: 323
+utc_offset: -5
+_class: U
+timezone: America/New_York

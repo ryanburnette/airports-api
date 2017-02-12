@@ -1,0 +1,12 @@
+---
+airport_name: Hudiksvall
+city: Hudiksvall
+country: Sweden
+iata: HUV
+icao: ESNH
+latitude: 61.768092
+longitude: 17.080719
+elevation: 95
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

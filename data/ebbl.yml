@@ -1,0 +1,12 @@
+---
+airport_name: Kleine Brogel
+city: Kleine Brogel
+country: Belgium
+iata: 
+icao: EBBL
+latitude: 51.168333
+longitude: 5.47
+elevation: 200
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

@@ -1,0 +1,12 @@
+---
+airport_name: Robins Afb
+city: Macon
+country: United States
+iata: WRB
+icao: KWRB
+latitude: 32.640144
+longitude: -83.59185
+elevation: 294
+utc_offset: -5
+_class: A
+timezone: America/New_York

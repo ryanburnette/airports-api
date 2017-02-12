@@ -1,0 +1,12 @@
+---
+airport_name: Ensenada
+city: Ensenada
+country: Mexico
+iata: ESE
+icao: MMES
+latitude: 31.795281
+longitude: -116.602772
+elevation: 66
+utc_offset: -8
+_class: S
+timezone: America/Tijuana

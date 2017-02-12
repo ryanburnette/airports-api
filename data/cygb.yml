@@ -1,0 +1,12 @@
+---
+airport_name: Texada Gillies Bay Airport
+city: Texada
+country: Canada
+iata: YGB
+icao: CYGB
+latitude: 49.6942
+longitude: -124.518
+elevation: 326
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

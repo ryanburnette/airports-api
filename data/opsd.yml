@@ -1,0 +1,12 @@
+---
+airport_name: Skardu Airport
+city: Skardu
+country: Pakistan
+iata: KDU
+icao: OPSD
+latitude: 35.335508
+longitude: 75.536047
+elevation: 7316
+utc_offset: 5
+_class: N
+timezone: Asia/Karachi

@@ -1,0 +1,12 @@
+---
+airport_name: Barrow Island Airport
+city: Barrow Island
+country: Australia
+iata: BWB
+icao: YBWX
+latitude: -20.798
+longitude: 115.406
+elevation: 25
+utc_offset: 8
+_class: U
+timezone: Australia/Perth

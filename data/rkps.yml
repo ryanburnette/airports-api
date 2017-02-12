@@ -1,0 +1,12 @@
+---
+airport_name: Sacheon Air Base
+city: Sacheon
+country: South Korea
+iata: HIN
+icao: RKPS
+latitude: 35.088543
+longitude: 128.07037
+elevation: 25
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

@@ -1,0 +1,12 @@
+---
+airport_name: Boryspil Intl
+city: Kiev
+country: Ukraine
+iata: KBP
+icao: UKBB
+latitude: 50.345
+longitude: 30.894722
+elevation: 427
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

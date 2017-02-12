@@ -1,0 +1,12 @@
+---
+airport_name: South Lakeland Airport
+city: Lakeland
+country: United States
+iata: X49
+icao: 
+latitude: 27.9333581
+longitude: -82.0439739
+elevation: 110
+utc_offset: -5
+_class: A
+timezone: America/New_York

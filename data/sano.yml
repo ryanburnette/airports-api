@@ -1,0 +1,12 @@
+---
+airport_name: Chilecito
+city: Chilecito
+country: Argentina
+iata: 
+icao: SANO
+latitude: -29.223888
+longitude: -67.438889
+elevation: 3099
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

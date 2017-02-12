@@ -1,0 +1,12 @@
+---
+airport_name: Donegal Airport
+city: Dongloe
+country: Ireland
+iata: CFN
+icao: EIDL
+latitude: 55.044192
+longitude: -8.341
+elevation: 30
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

@@ -1,0 +1,12 @@
+---
+airport_name: Yecheon
+city: Yechon
+country: South Korea
+iata: YEC
+icao: RKTY
+latitude: 36.631933
+longitude: 128.35485
+elevation: 354
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

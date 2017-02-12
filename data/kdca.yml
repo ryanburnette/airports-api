@@ -1,0 +1,12 @@
+---
+airport_name: Ronald Reagan Washington Natl
+city: Washington
+country: United States
+iata: DCA
+icao: KDCA
+latitude: 38.852083
+longitude: -77.037722
+elevation: 15
+utc_offset: -5
+_class: A
+timezone: America/New_York

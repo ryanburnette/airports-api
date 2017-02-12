@@ -1,0 +1,12 @@
+---
+airport_name: Nordholz
+city: Nordholz
+country: Germany
+iata: 
+icao: ETMN
+latitude: 53.767667
+longitude: 8.6585
+elevation: 74
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Sacramento Executive
+city: Sacramento
+country: United States
+iata: SAC
+icao: KSAC
+latitude: 38.512524
+longitude: -121.49347
+elevation: 24
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

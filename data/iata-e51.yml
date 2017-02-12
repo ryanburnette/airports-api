@@ -1,0 +1,12 @@
+---
+airport_name: Bagdad Airport
+city: Bagdad
+country: United States
+iata: E51
+icao: 
+latitude: 34.5958528
+longitude: -113.170195
+elevation: 4183
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

@@ -1,0 +1,12 @@
+---
+airport_name: Ushuaia Malvinas Argentinas
+city: Ushuaia
+country: Argentina
+iata: USH
+icao: SAWH
+latitude: -54.843278
+longitude: -68.29575
+elevation: 71
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

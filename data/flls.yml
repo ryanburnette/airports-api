@@ -1,0 +1,12 @@
+---
+airport_name: Lusaka Intl
+city: Lusaka
+country: Zambia
+iata: LUN
+icao: FLLS
+latitude: -15.330817
+longitude: 28.452628
+elevation: 3779
+utc_offset: 2
+_class: U
+timezone: Africa/Lusaka

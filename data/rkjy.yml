@@ -1,0 +1,12 @@
+---
+airport_name: Yeosu
+city: Yeosu
+country: South Korea
+iata: RSU
+icao: RKJY
+latitude: 34.842328
+longitude: 127.61685
+elevation: 53
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

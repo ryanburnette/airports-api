@@ -1,0 +1,12 @@
+---
+airport_name: Viracopos
+city: Campinas
+country: Brazil
+iata: VCP
+icao: SBKP
+latitude: -23.0075
+longitude: -47.134444
+elevation: 2170
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

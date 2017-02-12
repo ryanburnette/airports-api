@@ -1,0 +1,12 @@
+---
+airport_name: Akulivik Airport
+city: Akulivik
+country: Canada
+iata: AKV
+icao: CYKO
+latitude: 60.8186
+longitude: -78.1486
+elevation: 75
+utc_offset: -5
+_class: A
+timezone: America/Toronto

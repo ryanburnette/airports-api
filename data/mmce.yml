@@ -1,0 +1,12 @@
+---
+airport_name: Ciudad Del Carmen Intl
+city: Ciudad Del Carmen
+country: Mexico
+iata: CME
+icao: MMCE
+latitude: 18.653739
+longitude: -91.799017
+elevation: 10
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

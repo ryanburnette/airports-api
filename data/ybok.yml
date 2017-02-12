@@ -1,0 +1,12 @@
+---
+airport_name: Oakey Airport
+city: Oakey
+country: Australia
+iata: OKY
+icao: YBOK
+latitude: -27.411389
+longitude: 151.735278
+elevation: 1335
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

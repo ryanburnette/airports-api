@@ -1,0 +1,12 @@
+---
+airport_name: Bardufoss
+city: Bardufoss
+country: Norway
+iata: BDU
+icao: ENDU
+latitude: 69.055758
+longitude: 18.540356
+elevation: 252
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

@@ -1,0 +1,12 @@
+---
+airport_name: Oamaru
+city: Oamaru
+country: New Zealand
+iata: OAM
+icao: NZOU
+latitude: -44.97
+longitude: 171.081667
+elevation: 99
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

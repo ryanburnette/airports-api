@@ -1,0 +1,12 @@
+---
+airport_name: Arnold Palmer Regional Airport
+city: Latrobe
+country: United States
+iata: LBE
+icao: KLBE
+latitude: 40.2759
+longitude: -79.4048
+elevation: 1185
+utc_offset: -5
+_class: A
+timezone: America/New_York

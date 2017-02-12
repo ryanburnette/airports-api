@@ -1,0 +1,12 @@
+---
+airport_name: Somerset Airport
+city: Somerville
+country: United States
+iata: 
+icao: KSMQ
+latitude: 40.6259908
+longitude: -74.6702433
+elevation: 105
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Rodriguez Ballon
+city: Arequipa
+country: Peru
+iata: AQP
+icao: SPQU
+latitude: -16.341072
+longitude: -71.583083
+elevation: 8405
+utc_offset: -5
+_class: U
+timezone: America/Lima

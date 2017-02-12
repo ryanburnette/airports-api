@@ -1,0 +1,12 @@
+---
+airport_name: Rada
+city: Rada
+country: Sweden
+iata: 
+icao: ESFR
+latitude: 58.498136
+longitude: 13.053231
+elevation: 230
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

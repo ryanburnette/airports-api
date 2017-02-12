@@ -1,0 +1,12 @@
+---
+airport_name: Renner Fld
+city: Goodland
+country: United States
+iata: GLD
+icao: KGLD
+latitude: 39.370621
+longitude: -101.698992
+elevation: 3656
+utc_offset: -7
+_class: A
+timezone: America/Denver

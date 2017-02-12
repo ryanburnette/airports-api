@@ -1,0 +1,12 @@
+---
+airport_name: Kaitaia
+city: Kaitaia
+country: New Zealand
+iata: KAT
+icao: NZKT
+latitude: -35.07
+longitude: 173.285278
+elevation: 270
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

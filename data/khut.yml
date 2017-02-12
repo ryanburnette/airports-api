@@ -1,0 +1,12 @@
+---
+airport_name: Hutchinson Municipal Airport
+city: Hutchinson
+country: United States
+iata: HUT
+icao: KHUT
+latitude: 38.0655
+longitude: -97.8606
+elevation: 1543
+utc_offset: -6
+_class: A
+timezone: America/Chicago

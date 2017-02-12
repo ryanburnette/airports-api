@@ -1,0 +1,12 @@
+---
+airport_name: Bonaventure Airport
+city: Bonaventure
+country: Canada
+iata: YVB
+icao: CYVB
+latitude: 48.0711
+longitude: -65.4603
+elevation: 123
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Atlantic City Rail Terminal
+city: Atlantic City NJ
+country: United States
+iata: ZRA
+icao: 
+latitude: 39.3665
+longitude: -74.442
+elevation: 8
+utc_offset: -5
+_class: A
+timezone: America/New_York

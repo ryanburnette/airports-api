@@ -1,0 +1,12 @@
+---
+airport_name: Terminal Maritima
+city: Puerto Vallarta
+country: Mexico
+iata: 
+icao: PRTV
+latitude: 20.657616
+longitude: -105.241082
+elevation: 0
+utc_offset: -6
+_class: A
+timezone: America/Mexico_City

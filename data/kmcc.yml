@@ -1,0 +1,12 @@
+---
+airport_name: Mc Clellan Afld
+city: Sacramento
+country: United States
+iata: MCC
+icao: KMCC
+latitude: 38.667639
+longitude: -121.400611
+elevation: 75
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

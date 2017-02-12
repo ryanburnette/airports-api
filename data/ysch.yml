@@ -1,0 +1,12 @@
+---
+airport_name: Coffs Harbour
+city: Coff's Harbour
+country: Australia
+iata: CFS
+icao: YSCH
+latitude: -30.320556
+longitude: 153.116389
+elevation: 18
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

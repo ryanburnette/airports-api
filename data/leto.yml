@@ -1,0 +1,12 @@
+---
+airport_name: Torrejon
+city: Madrid
+country: Spain
+iata: TOJ
+icao: LETO
+latitude: 40.496747
+longitude: -3.445872
+elevation: 2026
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

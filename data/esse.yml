@@ -1,0 +1,12 @@
+---
+airport_name: Essen HBF
+city: Essen
+country: Germany
+iata: ESX
+icao: ESSE
+latitude: 51.451389
+longitude: 7.0138
+elevation: 1000
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

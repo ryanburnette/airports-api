@@ -1,0 +1,12 @@
+---
+airport_name: Neubrandenburg
+city: Neubrandenburg
+country: Germany
+iata: 
+icao: ETNU
+latitude: 53.602167
+longitude: 13.306
+elevation: 228
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

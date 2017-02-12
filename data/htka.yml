@@ -1,0 +1,12 @@
+---
+airport_name: Kigoma Airport
+city: Kigoma
+country: Tanzania
+iata: TKQ
+icao: HTKA
+latitude: -4.883
+longitude: 29.633
+elevation: 2700
+utc_offset: 3
+_class: U
+timezone: Africa/Dar_es_Salaam

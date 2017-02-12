@@ -1,0 +1,12 @@
+---
+airport_name: Oneonta Municipal Airport
+city: Oneonta
+country: United States
+iata: ONH
+icao: 
+latitude: 42.524722
+longitude: -75.064444
+elevation: 1763
+utc_offset: -5
+_class: A
+timezone: America/New_York

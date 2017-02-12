@@ -1,0 +1,12 @@
+---
+airport_name: Koromiko
+city: Picton
+country: New Zealand
+iata: PCN
+icao: NZPN
+latitude: -41.348333
+longitude: 173.955278
+elevation: 60
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

@@ -1,0 +1,12 @@
+---
+airport_name: Bella Bella Airport
+city: Bella Bella
+country: Canada
+iata: ZEL
+icao: CYJQ
+latitude: 52.139722
+longitude: -128.063611
+elevation: 162
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

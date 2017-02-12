@@ -1,0 +1,12 @@
+---
+airport_name: Andravida
+city: Andravida
+country: Greece
+iata: PYR
+icao: LGAD
+latitude: 37.920708
+longitude: 21.292583
+elevation: 55
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

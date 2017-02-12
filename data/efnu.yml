@@ -1,0 +1,12 @@
+---
+airport_name: Nummela
+city: Nummela
+country: Finland
+iata: 
+icao: EFNU
+latitude: 60.333889
+longitude: 24.296389
+elevation: 367
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

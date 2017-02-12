@@ -1,0 +1,12 @@
+---
+airport_name: Bari
+city: Bari
+country: Italy
+iata: BRI
+icao: LIBD
+latitude: 41.138856
+longitude: 16.760594
+elevation: 177
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

@@ -1,0 +1,12 @@
+---
+airport_name: Flagstaff Pulliam Airport
+city: Flagstaff
+country: United States
+iata: FLG
+icao: KFLG
+latitude: 35.140318
+longitude: -111.6692392
+elevation: 7015
+utc_offset: -7
+_class: N
+timezone: America/Phoenix

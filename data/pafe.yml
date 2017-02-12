@@ -1,0 +1,12 @@
+---
+airport_name: Kake Airport
+city: Kake
+country: United States
+iata: AFE
+icao: PAFE
+latitude: 56.961389
+longitude: -133.910278
+elevation: 172
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

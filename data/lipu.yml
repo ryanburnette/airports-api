@@ -1,0 +1,12 @@
+---
+airport_name: Padova
+city: Padova
+country: Italy
+iata: QPA
+icao: LIPU
+latitude: 45.395767
+longitude: 11.847903
+elevation: 44
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

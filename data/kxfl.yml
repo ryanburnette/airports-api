@@ -1,0 +1,12 @@
+---
+airport_name: Flagler County Airport
+city: Flagler
+country: United States
+iata: XFL
+icao: KXFL
+latitude: 29.2821
+longitude: -81.1212
+elevation: 33
+utc_offset: -5
+_class: A
+timezone: America/New_York

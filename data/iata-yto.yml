@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Toronto
+country: Canada
+iata: YTO
+icao: 
+latitude: 43.653056
+longitude: -79.383056
+elevation: 302
+utc_offset: -5
+_class: A
+timezone: America/Toronto

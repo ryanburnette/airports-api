@@ -1,0 +1,12 @@
+---
+airport_name: Ardmore Amtrak Station
+city: Ardmore
+country: United States
+iata: 
+icao: 
+latitude: 40.01
+longitude: -75.29
+elevation: 360
+utc_offset: -5
+_class: A
+timezone: America/New_York

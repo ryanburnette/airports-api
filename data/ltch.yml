@@ -1,0 +1,12 @@
+---
+airport_name: Sanliurfa Airport
+city: Sanliurfa
+country: Turkey
+iata: SFQ
+icao: LTCH
+latitude: 37.094261
+longitude: 38.847103
+elevation: 1483
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

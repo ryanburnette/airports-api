@@ -1,0 +1,12 @@
+---
+airport_name: Miami University Airport
+city: Oxford
+country: United States
+iata: OXD
+icao: 
+latitude: 39.5022607
+longitude: -84.7843814
+elevation: 1040
+utc_offset: -5
+_class: U
+timezone: America/New_York

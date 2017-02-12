@@ -1,0 +1,12 @@
+---
+airport_name: Pormpuraaw Airport
+city: Pormpuraaw
+country: Australia
+iata: EDR
+icao: YPMP
+latitude: -14.8967
+longitude: 141.609
+elevation: 10
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

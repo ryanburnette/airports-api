@@ -1,0 +1,12 @@
+---
+airport_name: Malamala Airport
+city: Malamala
+country: South Africa
+iata: AAM
+icao: FAMD
+latitude: -24.818111
+longitude: 31.544584
+elevation: 1124
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

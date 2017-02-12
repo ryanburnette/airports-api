@@ -1,0 +1,12 @@
+---
+airport_name: Bautzen
+city: Bautzen
+country: Germany
+iata: BBJ
+icao: EDAB
+latitude: 51.193531
+longitude: 14.519747
+elevation: 568
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

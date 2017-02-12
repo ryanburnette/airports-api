@@ -1,0 +1,12 @@
+---
+airport_name: Phoenix Goodyear
+city: Goodyear
+country: United States
+iata: 
+icao: KGYR
+latitude: 33.423725
+longitude: -112.374456
+elevation: 968
+utc_offset: -7
+_class: N
+timezone: America/Phoenix

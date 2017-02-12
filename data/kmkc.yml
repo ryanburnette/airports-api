@@ -1,0 +1,12 @@
+---
+airport_name: Downtown
+city: Kansas City
+country: United States
+iata: MKC
+icao: KMKC
+latitude: 39.1275
+longitude: -94.598889
+elevation: 759
+utc_offset: -6
+_class: A
+timezone: America/Chicago

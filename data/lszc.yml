@@ -1,0 +1,12 @@
+---
+airport_name: Buochs Airport
+city: Buochs
+country: Switzerland
+iata: BXO
+icao: LSZC
+latitude: 46.9725
+longitude: 8.398611
+elevation: 1464
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

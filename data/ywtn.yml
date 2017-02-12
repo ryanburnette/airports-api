@@ -1,0 +1,12 @@
+---
+airport_name: Winton Airport
+city: Winton
+country: Australia
+iata: WIN
+icao: YWTN
+latitude: -22.3636
+longitude: 143.086
+elevation: 638
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

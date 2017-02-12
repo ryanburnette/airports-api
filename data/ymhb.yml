@@ -1,0 +1,12 @@
+---
+airport_name: Hobart
+city: Hobart
+country: Australia
+iata: HBA
+icao: YMHB
+latitude: -42.836111
+longitude: 147.510278
+elevation: 13
+utc_offset: 10
+_class: O
+timezone: Australia/Melbourne

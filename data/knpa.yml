@@ -1,0 +1,12 @@
+---
+airport_name: Pensacola Nas
+city: Pensacola
+country: United States
+iata: NPA
+icao: KNPA
+latitude: 30.352656
+longitude: -87.318647
+elevation: 28
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Chefornak Airport
+city: Chefornak
+country: United States
+iata: CYF
+icao: PACK
+latitude: 60.149167
+longitude: -164.285556
+elevation: 40
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

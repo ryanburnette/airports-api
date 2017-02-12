@@ -1,0 +1,12 @@
+---
+airport_name: Mesa Falcon Field
+city: Mesa
+country: United States
+iata: FFZ
+icao: KFFZ
+latitude: 33.4608001708984
+longitude: -111.727996826172
+elevation: 1394
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

@@ -1,0 +1,12 @@
+---
+airport_name: Emporia Municipal Airport
+city: Emporia
+country: United States
+iata: EMP
+icao: 
+latitude: 38.3321
+longitude: -96.1912
+elevation: 1208
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Indianapolis Metropolitan Airport
+city: Indianapolis
+country: United States
+iata: UMP
+icao: KUMP
+latitude: 39.935278
+longitude: -86.045
+elevation: 811
+utc_offset: -5
+_class: A
+timezone: America/New_York

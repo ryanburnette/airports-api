@@ -1,0 +1,12 @@
+---
+airport_name: Griffing Sandusky
+city: Sandusky
+country: United States
+iata: SKY
+icao: KSKY
+latitude: 41.433361
+longitude: -82.652333
+elevation: 580
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Ardmore Muni
+city: Ardmore
+country: United States
+iata: ADM
+icao: KADM
+latitude: 34.300833
+longitude: -97.008889
+elevation: 762
+utc_offset: -6
+_class: A
+timezone: America/Chicago

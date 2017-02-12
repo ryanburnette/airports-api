@@ -1,0 +1,12 @@
+---
+airport_name: Couterne
+city: Bagnole-de-l'orne
+country: France
+iata: 
+icao: LFAO
+latitude: 48.545836
+longitude: -0.387444
+elevation: 718
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

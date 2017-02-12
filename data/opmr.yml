@@ -1,0 +1,12 @@
+---
+airport_name: Masroor
+city: Karachi
+country: Pakistan
+iata: 
+icao: OPMR
+latitude: 24.893564
+longitude: 66.938753
+elevation: 35
+utc_offset: 5
+_class: N
+timezone: Asia/Karachi

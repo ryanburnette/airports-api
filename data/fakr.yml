@@ -1,0 +1,12 @@
+---
+airport_name: Krugersdorp
+city: Krugersdorp
+country: South Africa
+iata: 
+icao: FAKR
+latitude: -26.080978
+longitude: 27.725667
+elevation: 5499
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

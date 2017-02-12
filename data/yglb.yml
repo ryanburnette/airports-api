@@ -1,0 +1,12 @@
+---
+airport_name: Goulburn Airport
+city: Goulburn
+country: Australia
+iata: GUL
+icao: YGLB
+latitude: -34.8103
+longitude: 149.726
+elevation: 2141
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

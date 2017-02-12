@@ -1,0 +1,12 @@
+---
+airport_name: Amderma Airport
+city: Amderma
+country: Russia
+iata: AMV
+icao: ULDD
+latitude: 69.7633
+longitude: 61.5564
+elevation: 13
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

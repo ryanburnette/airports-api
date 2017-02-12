@@ -1,0 +1,12 @@
+---
+airport_name: Zurich
+city: Zurich
+country: Switzerland
+iata: 
+icao: 
+latitude: 47.369
+longitude: 8.538
+elevation: 1339
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

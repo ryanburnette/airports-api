@@ -1,0 +1,12 @@
+---
+airport_name: Mucuri Airport
+city: Mucuri
+country: Brazil
+iata: MVS
+icao: SNMU
+latitude: -18.0489
+longitude: -39.8642
+elevation: 276
+utc_offset: -3
+_class: S
+timezone: America/Fortaleza

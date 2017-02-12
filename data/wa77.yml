@@ -1,0 +1,12 @@
+---
+airport_name: Enumclaw Airport
+city: Enumclaw
+country: United States
+iata: 
+icao: WA77
+latitude: 47.1956569
+longitude: -122.0220561
+elevation: 738
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

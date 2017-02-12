@@ -1,0 +1,12 @@
+---
+airport_name: Hamilton Airport
+city: Hamilton
+country: Australia
+iata: HLT
+icao: YHML
+latitude: -37.648889
+longitude: 142.065278
+elevation: 803
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

@@ -1,0 +1,12 @@
+---
+airport_name: El Nido Airport
+city: El Nido
+country: Philippines
+iata: ENI
+icao: 
+latitude: 11.202
+longitude: 119.417
+elevation: 0
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

@@ -1,0 +1,12 @@
+---
+airport_name: Tupelo Regional Airport
+city: Tupelo
+country: United States
+iata: TUP
+icao: KTUP
+latitude: 34.2681
+longitude: -88.7699
+elevation: 346
+utc_offset: -6
+_class: A
+timezone: America/Chicago

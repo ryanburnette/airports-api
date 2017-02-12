@@ -1,0 +1,12 @@
+---
+airport_name: Cicia Airport
+city: Cicia
+country: Fiji
+iata: ICI
+icao: NFCI
+latitude: -17.7433
+longitude: -179.342
+elevation: 13
+utc_offset: 12
+_class: U
+timezone: Pacific/Fiji

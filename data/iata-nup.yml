@@ -1,0 +1,12 @@
+---
+airport_name: Nunapitchuk Airport
+city: Nunapitchuk
+country: United States
+iata: NUP
+icao: 
+latitude: 60.905833
+longitude: -162.439167
+elevation: 12
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

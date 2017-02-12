@@ -1,0 +1,12 @@
+---
+airport_name: Ashland County Airport
+city: Ashland
+country: United States
+iata: 3G4
+icao: 
+latitude: 40.9029722
+longitude: -82.2556389
+elevation: 1206
+utc_offset: -5
+_class: A
+timezone: America/New_York

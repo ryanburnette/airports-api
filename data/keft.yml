@@ -1,0 +1,12 @@
+---
+airport_name: Municipal
+city: Monroe
+country: United States
+iata: 
+icao: KEFT
+latitude: 42.616389
+longitude: -89.591944
+elevation: 1079
+utc_offset: -6
+_class: A
+timezone: America/Chicago

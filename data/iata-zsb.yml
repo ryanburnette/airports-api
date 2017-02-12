@@ -1,0 +1,12 @@
+---
+airport_name: Hauptbahnhof
+city: Salzburg
+country: Austria
+iata: ZSB
+icao: 
+latitude: 47.813056
+longitude: 13.046667
+elevation: 1391
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

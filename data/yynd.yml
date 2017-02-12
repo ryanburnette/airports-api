@@ -1,0 +1,12 @@
+---
+airport_name: 'Yuendumu '
+city: 'Yuendumu '
+country: Australia
+iata: YUE
+icao: YYND
+latitude: -22.254167
+longitude: 131.781944
+elevation: 2205
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

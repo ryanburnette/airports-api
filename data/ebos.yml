@@ -1,0 +1,12 @@
+---
+airport_name: Oostende
+city: Ostend
+country: Belgium
+iata: OST
+icao: EBOS
+latitude: 51.198889
+longitude: 2.862222
+elevation: 13
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

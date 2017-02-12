@@ -1,0 +1,12 @@
+---
+airport_name: Blackwater Airport
+city: Blackwater
+country: Australia
+iata: BLT
+icao: YBTR
+latitude: -23.6031
+longitude: 148.807
+elevation: 657
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

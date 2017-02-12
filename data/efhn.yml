@@ -1,0 +1,12 @@
+---
+airport_name: Hanko
+city: Hanko
+country: Finland
+iata: 
+icao: EFHN
+latitude: 59.848864
+longitude: 23.083583
+elevation: 20
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

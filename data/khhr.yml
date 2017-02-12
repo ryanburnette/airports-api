@@ -1,0 +1,12 @@
+---
+airport_name: Jack Northrop Fld Hawthorne Muni
+city: Hawthorne
+country: United States
+iata: HHR
+icao: KHHR
+latitude: 33.922839
+longitude: -118.335186
+elevation: 66
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

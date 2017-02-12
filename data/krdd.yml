@@ -1,0 +1,12 @@
+---
+airport_name: Redding Muni
+city: Redding
+country: United States
+iata: RDD
+icao: KRDD
+latitude: 40.509
+longitude: -122.293389
+elevation: 504
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

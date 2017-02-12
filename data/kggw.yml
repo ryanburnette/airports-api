@@ -1,0 +1,12 @@
+---
+airport_name: Wokal Field Glasgow International Airport
+city: Glasgow
+country: United States
+iata: GGW
+icao: KGGW
+latitude: 48.2125
+longitude: -106.615
+elevation: 2296
+utc_offset: -7
+_class: A
+timezone: America/Denver

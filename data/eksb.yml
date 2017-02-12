@@ -1,0 +1,12 @@
+---
+airport_name: Sonderborg
+city: Soenderborg
+country: Denmark
+iata: SGD
+icao: EKSB
+latitude: 54.964367
+longitude: 9.791731
+elevation: 24
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

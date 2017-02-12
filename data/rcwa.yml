@@ -1,0 +1,12 @@
+---
+airport_name: Wang An
+city: Wang An
+country: Taiwan
+iata: WOT
+icao: RCWA
+latitude: 23.370833
+longitude: 119.494444
+elevation: 115
+utc_offset: 8
+_class: U
+timezone: Asia/Taipei

@@ -1,0 +1,12 @@
+---
+airport_name: Canakkale Airport
+city: Canakkale
+country: Turkey
+iata: CKZ
+icao: LTBH
+latitude: 40.137722
+longitude: 26.426777
+elevation: 23
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

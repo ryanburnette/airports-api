@@ -1,0 +1,12 @@
+---
+airport_name: Granville
+city: Granville
+country: France
+iata: GFR
+icao: LFRF
+latitude: 48.883057
+longitude: -1.564167
+elevation: 45
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

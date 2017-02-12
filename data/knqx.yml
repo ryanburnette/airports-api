@@ -1,0 +1,12 @@
+---
+airport_name: Key West Nas
+city: Key West
+country: United States
+iata: NQX
+icao: KNQX
+latitude: 24.575834
+longitude: -81.688889
+elevation: 6
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Colville Lake Airport
+city: Colville Lake
+country: Canada
+iata: YCK
+icao: CEB3
+latitude: 67.0333
+longitude: -126.083
+elevation: 850
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

@@ -1,0 +1,12 @@
+---
+airport_name: Bellingham Intl
+city: Bellingham
+country: United States
+iata: BLI
+icao: KBLI
+latitude: 48.792694
+longitude: -122.537528
+elevation: 170
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

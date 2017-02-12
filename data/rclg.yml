@@ -1,0 +1,12 @@
+---
+airport_name: Taichung Airport
+city: Taichung
+country: Taiwan
+iata: TXG
+icao: RCLG
+latitude: 24.1863
+longitude: 120.654
+elevation: 369
+utc_offset: 8
+_class: N
+timezone: Asia/Taipei

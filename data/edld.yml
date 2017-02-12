@@ -1,0 +1,12 @@
+---
+airport_name: Dinslaken Schwarze-Heide
+city: Dinslaken
+country: Germany
+iata: 
+icao: EDLD
+latitude: 51.3659
+longitude: 6.5155
+elevation: 198
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

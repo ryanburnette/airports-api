@@ -1,0 +1,12 @@
+---
+airport_name: Blythe Airport
+city: Blythe
+country: United States
+iata: BLH
+icao: KBLH
+latitude: 33.619167
+longitude: -114.716889
+elevation: 399
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

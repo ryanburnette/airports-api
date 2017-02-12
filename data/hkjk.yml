@@ -1,0 +1,12 @@
+---
+airport_name: Jomo Kenyatta International
+city: Nairobi
+country: Kenya
+iata: NBO
+icao: HKJK
+latitude: -1.319167
+longitude: 36.9275
+elevation: 5327
+utc_offset: 3
+_class: N
+timezone: Africa/Nairobi

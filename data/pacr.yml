@@ -1,0 +1,12 @@
+---
+airport_name: Circle City Airport
+city: Circle
+country: United States
+iata: IRC
+icao: PACR
+latitude: 65.827778
+longitude: -144.076111
+elevation: 613
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

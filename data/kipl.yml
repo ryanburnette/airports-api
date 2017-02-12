@@ -1,0 +1,12 @@
+---
+airport_name: Imperial Co
+city: Imperial
+country: United States
+iata: IPL
+icao: KIPL
+latitude: 32.834219
+longitude: -115.578744
+elevation: -54
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Narrabri Airport
+city: Narrabri
+country: Australia
+iata: NAA
+icao: YNBR
+latitude: -30.3192
+longitude: 149.827
+elevation: 788
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

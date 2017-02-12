@@ -1,0 +1,12 @@
+---
+airport_name: Aarhus
+city: Aarhus
+country: Denmark
+iata: AAR
+icao: EKAH
+latitude: 56.300017
+longitude: 10.619008
+elevation: 82
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

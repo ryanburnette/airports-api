@@ -1,0 +1,12 @@
+---
+airport_name: Tokyo Station
+city: Tokyo
+country: Japan
+iata: 
+icao: 
+latitude: 35.672498
+longitude: 139.753218
+elevation: 16
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

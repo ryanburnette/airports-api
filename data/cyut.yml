@@ -1,0 +1,12 @@
+---
+airport_name: Repulse Bay
+city: Repulse Bay
+country: Canada
+iata: YUT
+icao: CYUT
+latitude: 66.521389
+longitude: -86.224722
+elevation: 80
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

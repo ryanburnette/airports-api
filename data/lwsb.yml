@@ -1,0 +1,12 @@
+---
+airport_name: Lewisburg Bus Stop
+city: Lewisburg
+country: United States
+iata: 
+icao: LWSB
+latitude: 40.963889
+longitude: -76.888056
+elevation: 456
+utc_offset: -5
+_class: A
+timezone: America/New_York

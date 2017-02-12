@@ -1,0 +1,12 @@
+---
+airport_name: Puvirnituq Airport
+city: Puvirnituq
+country: Canada
+iata: YPX
+icao: CYPX
+latitude: 60.0506
+longitude: -77.2869
+elevation: 74
+utc_offset: -5
+_class: A
+timezone: America/Toronto

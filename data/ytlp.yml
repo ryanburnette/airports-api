@@ -1,0 +1,12 @@
+---
+airport_name: Tilpa
+city: Tilpa
+country: Australia
+iata: 
+icao: YTLP
+latitude: -30.556
+longitude: 144.251
+elevation: 280
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

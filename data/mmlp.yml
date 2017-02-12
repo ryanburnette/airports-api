@@ -1,0 +1,12 @@
+---
+airport_name: General Manuel Marquez De Leon Intl
+city: La Paz
+country: Mexico
+iata: LAP
+icao: MMLP
+latitude: 24.072694
+longitude: -110.362475
+elevation: 69
+utc_offset: -7
+_class: S
+timezone: America/Mazatlan

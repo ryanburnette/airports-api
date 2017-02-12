@@ -1,0 +1,12 @@
+---
+airport_name: El Palomar
+city: El Palomar
+country: Argentina
+iata: 
+icao: SADP
+latitude: -34.609939
+longitude: -58.612592
+elevation: 59
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

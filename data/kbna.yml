@@ -1,0 +1,12 @@
+---
+airport_name: Nashville Intl
+city: Nashville
+country: United States
+iata: BNA
+icao: KBNA
+latitude: 36.124472
+longitude: -86.678194
+elevation: 599
+utc_offset: -6
+_class: A
+timezone: America/Chicago

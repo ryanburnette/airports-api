@@ -1,0 +1,12 @@
+---
+airport_name: Goya
+city: Goya
+country: Argentina
+iata: 
+icao: SATG
+latitude: -29.099472
+longitude: -59.250583
+elevation: 125
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

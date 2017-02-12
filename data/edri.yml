@@ -1,0 +1,12 @@
+---
+airport_name: Linkenheim Airport
+city: Linkenheim
+country: Germany
+iata: 
+icao: EDRI
+latitude: 49.1417
+longitude: 8.39472
+elevation: 325
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Alamogordo White Sands Regional Airport
+city: Alamogordo
+country: United States
+iata: ALM
+icao: KALM
+latitude: 32.8399
+longitude: -105.991
+elevation: 4200
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Fort Mcpherson
+city: Fort Mcpherson
+country: Canada
+iata: ZFM
+icao: CZFM
+latitude: 67.4075
+longitude: -134.860556
+elevation: 116
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

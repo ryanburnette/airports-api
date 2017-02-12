@@ -1,0 +1,12 @@
+---
+airport_name: St. Michael Airport
+city: St. Michael
+country: United States
+iata: SMK
+icao: PAMK
+latitude: 63.49
+longitude: -162.110278
+elevation: 98
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

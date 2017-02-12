@@ -1,0 +1,12 @@
+---
+airport_name: Cat Lake Airport
+city: Cat Lake
+country: Canada
+iata: YAC
+icao: CYAC
+latitude: 51.7272
+longitude: -91.8244
+elevation: 1344
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

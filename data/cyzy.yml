@@ -1,0 +1,12 @@
+---
+airport_name: Mackenzie Airport
+city: Mackenzie British Columbia
+country: Canada
+iata: YZY
+icao: CYZY
+latitude: 55.29944
+longitude: -123.08333
+elevation: 2264
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

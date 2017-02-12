@@ -1,0 +1,12 @@
+---
+airport_name: Gesundbrunnen
+city: Berlin
+country: Germany
+iata: BGS
+icao: 
+latitude: 52.548611
+longitude: 13.389444
+elevation: 150
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

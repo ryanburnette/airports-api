@@ -1,0 +1,12 @@
+---
+airport_name: Macau Intl
+city: Macau
+country: Macau
+iata: MFM
+icao: VMMC
+latitude: 22.149556
+longitude: 113.591558
+elevation: 20
+utc_offset: 8
+_class: U
+timezone: Asia/Macau

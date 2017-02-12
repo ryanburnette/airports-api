@@ -1,0 +1,12 @@
+---
+airport_name: Flugplatz
+city: Furstenwalde
+country: Germany
+iata: 
+icao: EDAL
+latitude: 52.393889
+longitude: 14.099722
+elevation: 141
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

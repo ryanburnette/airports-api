@@ -1,0 +1,12 @@
+---
+airport_name: Ketchikan Intl
+city: Ketchikan
+country: United States
+iata: KTN
+icao: PAKT
+latitude: 55.355556
+longitude: -131.71375
+elevation: 88
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

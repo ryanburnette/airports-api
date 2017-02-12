@@ -1,0 +1,12 @@
+---
+airport_name: Martz Trailways
+city: Scranton
+country: United States
+iata: 
+icao: SCRT
+latitude: 41.410253
+longitude: -75.670297
+elevation: 745
+utc_offset: -5
+_class: A
+timezone: America/New_York

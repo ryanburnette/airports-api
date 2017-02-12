@@ -1,0 +1,12 @@
+---
+airport_name: Cuxhaven Airport
+city: Cuxhaven
+country: Germany
+iata: NDZ
+icao: KNDZ
+latitude: 53.768612
+longitude: 8.644722
+elevation: 75
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Albury
+city: Albury
+country: Australia
+iata: ABX
+icao: YMAY
+latitude: -36.067778
+longitude: 146.958056
+elevation: 539
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

@@ -1,0 +1,12 @@
+---
+airport_name: Puerto Rico Airport
+city: Puerto Rico/Manuripi
+country: Bolivia
+iata: PUR
+icao: SLPR
+latitude: -11.1077
+longitude: -67.5512
+elevation: 597
+utc_offset: -4
+_class: U
+timezone: America/La_Paz

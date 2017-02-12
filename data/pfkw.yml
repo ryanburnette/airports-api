@@ -1,0 +1,12 @@
+---
+airport_name: Kwethluk Airport
+city: Kwethluk
+country: United States
+iata: KWT
+icao: PFKW
+latitude: 60.790278
+longitude: -161.443611
+elevation: 30
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

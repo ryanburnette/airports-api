@@ -1,0 +1,12 @@
+---
+airport_name: Bolton Field
+city: Columbus
+country: United States
+iata: TZR
+icao: KTZR
+latitude: 39.901111
+longitude: -83.136944
+elevation: 905
+utc_offset: -5
+_class: A
+timezone: America/New_York

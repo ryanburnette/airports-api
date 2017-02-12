@@ -1,0 +1,12 @@
+---
+airport_name: La Veze
+city: Besancon-la-veze
+country: France
+iata: 
+icao: LFQM
+latitude: 47.206567
+longitude: 6.083681
+elevation: 1271
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

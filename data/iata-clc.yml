@@ -1,0 +1,12 @@
+---
+airport_name: Clear Lake Metroport
+city: Clear Lake City
+country: United States
+iata: CLC
+icao: 
+latitude: 29.5569
+longitude: -95.137497
+elevation: 35
+utc_offset: -6
+_class: A
+timezone: America/Chicago

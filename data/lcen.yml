@@ -1,0 +1,12 @@
+---
+airport_name: Ercan International Airport
+city: Nicosia
+country: Cyprus
+iata: ECN
+icao: LCEN
+latitude: 35.1547
+longitude: 33.4961
+elevation: 404
+utc_offset: 2
+_class: E
+timezone: Asia/Nicosia

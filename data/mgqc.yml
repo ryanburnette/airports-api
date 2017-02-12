@@ -1,0 +1,12 @@
+---
+airport_name: Santa Cruz des Quiche Airport
+city: Santa Cruz des Quiche
+country: Guatemala
+iata: AQB
+icao: MGQC
+latitude: 15.0122004
+longitude: -91.1505966
+elevation: 6631
+utc_offset: -6
+_class: S
+timezone: America/Guatemala

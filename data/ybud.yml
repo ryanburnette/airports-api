@@ -1,0 +1,12 @@
+---
+airport_name: Bundaberg
+city: Bundaberg
+country: Australia
+iata: BDB
+icao: YBUD
+latitude: -24.903889
+longitude: 152.318611
+elevation: 107
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

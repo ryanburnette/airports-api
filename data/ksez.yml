@@ -1,0 +1,12 @@
+---
+airport_name: Sedona
+city: Sedona
+country: United States
+iata: SDX
+icao: KSEZ
+latitude: 34.848628
+longitude: -111.788472
+elevation: 4830
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

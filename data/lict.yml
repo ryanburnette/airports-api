@@ -1,0 +1,12 @@
+---
+airport_name: Trapani Birgi
+city: Trapani
+country: Italy
+iata: TPS
+icao: LICT
+latitude: 37.911403
+longitude: 12.487961
+elevation: 24
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

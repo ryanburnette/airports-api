@@ -1,0 +1,12 @@
+---
+airport_name: Exeter
+city: Exeter
+country: United Kingdom
+iata: EXT
+icao: EGTE
+latitude: 50.734444
+longitude: -3.413889
+elevation: 102
+utc_offset: 0
+_class: E
+timezone: Europe/London

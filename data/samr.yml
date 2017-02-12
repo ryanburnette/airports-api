@@ -1,0 +1,12 @@
+---
+airport_name: San Rafael
+city: San Rafael
+country: Argentina
+iata: AFA
+icao: SAMR
+latitude: -34.588314
+longitude: -68.403854
+elevation: 2470
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

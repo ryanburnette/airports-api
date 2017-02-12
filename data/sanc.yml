@@ -1,0 +1,12 @@
+---
+airport_name: Catamarca
+city: Catamarca
+country: Argentina
+iata: CTC
+icao: SANC
+latitude: -28.593214
+longitude: -65.750925
+elevation: 1522
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

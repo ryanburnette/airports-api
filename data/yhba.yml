@@ -1,0 +1,12 @@
+---
+airport_name: Hervey Bay Airport
+city: Hervey Bay
+country: Australia
+iata: HVB
+icao: YHBA
+latitude: -25.318889
+longitude: 152.880278
+elevation: 60
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

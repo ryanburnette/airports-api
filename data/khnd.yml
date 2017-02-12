@@ -1,0 +1,12 @@
+---
+airport_name: Henderson Executive Airport
+city: Henderson
+country: United States
+iata: HSH
+icao: KHND
+latitude: 35.972778
+longitude: -115.134444
+elevation: 1881
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

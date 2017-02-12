@@ -1,0 +1,12 @@
+---
+airport_name: Reggio Calabria
+city: Reggio Calabria
+country: Italy
+iata: REG
+icao: LICR
+latitude: 38.071206
+longitude: 15.651556
+elevation: 96
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

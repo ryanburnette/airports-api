@@ -1,0 +1,12 @@
+---
+airport_name: Horovice
+city: Horovice
+country: Czech Republic
+iata: 
+icao: LKHV
+latitude: 49.848111
+longitude: 13.893506
+elevation: 1214
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

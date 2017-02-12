@@ -1,0 +1,12 @@
+---
+airport_name: Regional - Hendricks AAF
+city: Sebring
+country: United States
+iata: SEF
+icao: KSEF
+latitude: 27.456389
+longitude: -81.342222
+elevation: 63
+utc_offset: -5
+_class: A
+timezone: America/New_York

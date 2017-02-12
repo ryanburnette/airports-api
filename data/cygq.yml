@@ -1,0 +1,12 @@
+---
+airport_name: Geraldton Greenstone Regional
+city: Geraldton
+country: Canada
+iata: YGQ
+icao: CYGQ
+latitude: 49.778332
+longitude: -86.939445
+elevation: 1144
+utc_offset: -5
+_class: A
+timezone: America/Toronto

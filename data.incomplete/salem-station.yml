@@ -1,0 +1,12 @@
+---
+airport_name: Salem Station
+city: Salem
+country: United States
+iata: 
+icao: 
+latitude: 42.5249995
+longitude: -70.8958333
+elevation: 26
+utc_offset: -5
+_class: A
+timezone: America/New_York

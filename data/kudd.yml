@@ -1,0 +1,12 @@
+---
+airport_name: Bermuda Dunes Airport
+city: Palm Springs
+country: United States
+iata: UDD
+icao: KUDD
+latitude: 33.7484375
+longitude: -116.2748133
+elevation: 73
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

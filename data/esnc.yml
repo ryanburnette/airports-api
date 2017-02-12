@@ -1,0 +1,12 @@
+---
+airport_name: Hedlanda
+city: Hede
+country: Sweden
+iata: 
+icao: ESNC
+latitude: 62.408889
+longitude: 13.747222
+elevation: 1460
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

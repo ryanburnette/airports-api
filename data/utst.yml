@@ -1,0 +1,12 @@
+---
+airport_name: Termez Airport
+city: Termez
+country: Uzbekistan
+iata: TMJ
+icao: UTST
+latitude: 37.286667
+longitude: 67.31
+elevation: 1027
+utc_offset: 5
+_class: U
+timezone: Asia/Samarkand

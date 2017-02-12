@@ -1,0 +1,12 @@
+---
+airport_name: Dubai Intl
+city: Dubai
+country: United Arab Emirates
+iata: DXB
+icao: OMDB
+latitude: 25.252778
+longitude: 55.364444
+elevation: 62
+utc_offset: 4
+_class: U
+timezone: Asia/Dubai

@@ -1,0 +1,12 @@
+---
+airport_name: Great Falls Intl
+city: Great Falls
+country: United States
+iata: GTF
+icao: KGTF
+latitude: 47.482
+longitude: -111.370689
+elevation: 3677
+utc_offset: -7
+_class: A
+timezone: America/Denver

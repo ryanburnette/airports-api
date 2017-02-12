@@ -1,0 +1,12 @@
+---
+airport_name: Frank Wiley Field
+city: Miles City
+country: United States
+iata: MLS
+icao: KMLS
+latitude: 46.428
+longitude: -105.886
+elevation: 2630
+utc_offset: -7
+_class: A
+timezone: America/Denver

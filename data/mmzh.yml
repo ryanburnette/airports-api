@@ -1,0 +1,12 @@
+---
+airport_name: Ixtapa Zihuatanejo Intl
+city: Zihuatanejo
+country: Mexico
+iata: ZIH
+icao: MMZH
+latitude: 17.601569
+longitude: -101.460536
+elevation: 26
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

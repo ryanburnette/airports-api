@@ -1,0 +1,12 @@
+---
+airport_name: Hyvinkaa
+city: Hyvinkaa
+country: Finland
+iata: HYV
+icao: EFHV
+latitude: 60.654444
+longitude: 24.881111
+elevation: 430
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

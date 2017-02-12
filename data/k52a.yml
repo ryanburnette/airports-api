@@ -1,0 +1,12 @@
+---
+airport_name: Madison GA Municipal Airport
+city: Madison
+country: United States
+iata: 52A
+icao: K52A
+latitude: 33.612125
+longitude: -83.4604444
+elevation: 694
+utc_offset: -5
+_class: A
+timezone: America/New_York

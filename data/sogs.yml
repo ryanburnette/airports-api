@@ -1,0 +1,12 @@
+---
+airport_name: Grand-Santi Airport
+city: Grand-Santi
+country: French Guiana
+iata: 
+icao: SOGS
+latitude: 4.283333
+longitude: -54.381111
+elevation: 186
+utc_offset: -3
+_class: S
+timezone: America/Cayenne

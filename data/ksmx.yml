@@ -1,0 +1,12 @@
+---
+airport_name: Santa Maria Pub Cpt G Allan Hancock Airport
+city: Santa Maria
+country: United States
+iata: SMX
+icao: KSMX
+latitude: 34.8989
+longitude: -120.457
+elevation: 261
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

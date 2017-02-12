@@ -1,0 +1,12 @@
+---
+airport_name: Vernal Regional Airport
+city: Vernal
+country: United States
+iata: VEL
+icao: KVEL
+latitude: 40.440833
+longitude: -109.51
+elevation: 5278
+utc_offset: -7
+_class: A
+timezone: America/Denver

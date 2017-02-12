@@ -1,0 +1,12 @@
+---
+airport_name: Braceville Airport
+city: Braceville
+country: United States
+iata: 41N
+icao: 
+latitude: 41.2111675
+longitude: -80.9692572
+elevation: 900
+utc_offset: -5
+_class: A
+timezone: America/New_York

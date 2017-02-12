@@ -1,0 +1,12 @@
+---
+airport_name: Mercedita
+city: Ponce
+country: Puerto Rico
+iata: PSE
+icao: TJPS
+latitude: 18.008306
+longitude: -66.563028
+elevation: 29
+utc_offset: -4
+_class: U
+timezone: America/Puerto_Rico

@@ -1,0 +1,12 @@
+---
+airport_name: Vologda Airport
+city: Vologda
+country: Russia
+iata: VGD
+icao: ULWW
+latitude: 59.281667
+longitude: 39.946667
+elevation: 387
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

@@ -1,0 +1,12 @@
+---
+airport_name: Valenca Airport
+city: Valenca
+country: Brazil
+iata: VAL
+icao: SNVB
+latitude: -13.2965
+longitude: -38.9924
+elevation: 21
+utc_offset: -3
+_class: S
+timezone: America/Fortaleza

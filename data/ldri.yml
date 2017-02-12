@@ -1,0 +1,12 @@
+---
+airport_name: Rijeka
+city: Rijeka
+country: Croatia
+iata: RJK
+icao: LDRI
+latitude: 45.216889
+longitude: 14.570267
+elevation: 278
+utc_offset: 1
+_class: E
+timezone: Europe/Zagreb

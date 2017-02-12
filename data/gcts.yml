@@ -1,0 +1,12 @@
+---
+airport_name: Tenerife Sur
+city: Tenerife
+country: Spain
+iata: TFS
+icao: GCTS
+latitude: 28.044475
+longitude: -16.572489
+elevation: 209
+utc_offset: 0
+_class: E
+timezone: Atlantic/Canary

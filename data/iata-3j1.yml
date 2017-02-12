@@ -1,0 +1,12 @@
+---
+airport_name: Ridgeland Airport
+city: Ridgeland
+country: United States
+iata: 3J1
+icao: 
+latitude: 32.4934167
+longitude: -80.99175
+elevation: 79
+utc_offset: -5
+_class: A
+timezone: America/New_York

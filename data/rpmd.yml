@@ -1,0 +1,12 @@
+---
+airport_name: Francisco Bangoy International
+city: Davao
+country: Philippines
+iata: DVO
+icao: RPMD
+latitude: 7.125522
+longitude: 125.645778
+elevation: 59
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

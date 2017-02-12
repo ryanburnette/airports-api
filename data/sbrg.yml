@@ -1,0 +1,12 @@
+---
+airport_name: Rio Grande
+city: Rio Grande
+country: Brazil
+iata: RIG
+icao: SBRG
+latitude: -32.082617
+longitude: -52.166542
+elevation: 27
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

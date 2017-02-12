@@ -1,0 +1,12 @@
+---
+airport_name: Centennial
+city: Denver
+country: United States
+iata: APA
+icao: KAPA
+latitude: 39.570129
+longitude: -104.849294
+elevation: 5883
+utc_offset: -7
+_class: A
+timezone: America/Denver

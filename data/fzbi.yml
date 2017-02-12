@@ -1,0 +1,12 @@
+---
+airport_name: Nioki Airport
+city: Nioki
+country: Congo (Kinshasa)
+iata: NIO
+icao: FZBI
+latitude: -2.7175
+longitude: 17.6847
+elevation: 1043
+utc_offset: 1
+_class: N
+timezone: Africa/Kinshasa

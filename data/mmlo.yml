@@ -1,0 +1,12 @@
+---
+airport_name: Guanajuato Intl
+city: Del Bajio
+country: Mexico
+iata: BJX
+icao: MMLO
+latitude: 20.993464
+longitude: -101.480847
+elevation: 5956
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

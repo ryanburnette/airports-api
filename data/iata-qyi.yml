@@ -1,0 +1,12 @@
+---
+airport_name: Hilversum Railway Station
+city: Hilversum
+country: Netherlands
+iata: QYI
+icao: 
+latitude: 52.226389
+longitude: 5.181667
+elevation: 3
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

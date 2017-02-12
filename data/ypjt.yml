@@ -1,0 +1,12 @@
+---
+airport_name: Perth Jandakot
+city: Perth
+country: Australia
+iata: JAD
+icao: YPJT
+latitude: -32.0975
+longitude: 115.881111
+elevation: 99
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

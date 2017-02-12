@@ -1,0 +1,12 @@
+---
+airport_name: Zoo
+city: Berlin
+country: Germany
+iata: QWC
+icao: 
+latitude: 52.507222
+longitude: 13.3325
+elevation: 120
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

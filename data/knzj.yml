@@ -1,0 +1,12 @@
+---
+airport_name: El Toro
+city: Santa Ana
+country: United States
+iata: NZJ
+icao: KNZJ
+latitude: 33.676132
+longitude: -117.731164
+elevation: 383
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

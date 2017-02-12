@@ -1,0 +1,12 @@
+---
+airport_name: Francisco De Assis
+city: Juiz De Fora
+country: Brazil
+iata: JDF
+icao: SBJF
+latitude: -21.7915
+longitude: -43.386778
+elevation: 2989
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

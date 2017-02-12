@@ -1,0 +1,12 @@
+---
+airport_name: Northolt
+city: Northolt
+country: United Kingdom
+iata: NHT
+icao: EGWU
+latitude: 51.553
+longitude: -0.418167
+elevation: 124
+utc_offset: 0
+_class: E
+timezone: Europe/London

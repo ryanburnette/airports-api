@@ -1,0 +1,12 @@
+---
+airport_name: Hohn
+city: Hohn
+country: Germany
+iata: 
+icao: ETNH
+latitude: 54.312167
+longitude: 9.538167
+elevation: 39
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

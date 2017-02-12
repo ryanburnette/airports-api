@@ -1,0 +1,12 @@
+---
+airport_name: Reconquista
+city: Reconquista
+country: Argentina
+iata: 
+icao: SATR
+latitude: -29.210278
+longitude: -59.68
+elevation: 161
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

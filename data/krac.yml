@@ -1,0 +1,12 @@
+---
+airport_name: John H. Batten Airport
+city: Racine
+country: United States
+iata: RAC
+icao: KRAC
+latitude: 42.7605
+longitude: -87.8152
+elevation: 674
+utc_offset: -6
+_class: A
+timezone: America/Chicago

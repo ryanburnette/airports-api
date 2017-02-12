@@ -1,0 +1,12 @@
+---
+airport_name: Machu Pichu Airport
+city: Machu Pichu
+country: Peru
+iata: MFT
+icao: 
+latitude: -13.1167
+longitude: -72.5667
+elevation: 9500
+utc_offset: -5
+_class: S
+timezone: America/Lima

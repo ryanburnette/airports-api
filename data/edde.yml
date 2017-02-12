@@ -1,0 +1,12 @@
+---
+airport_name: Erfurt
+city: Erfurt
+country: Germany
+iata: ERF
+icao: EDDE
+latitude: 50.979811
+longitude: 10.958106
+elevation: 1036
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

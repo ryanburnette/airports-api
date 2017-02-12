@@ -1,0 +1,12 @@
+---
+airport_name: Martha\\'s Vineyard
+city: Vineyard Haven MA
+country: United States
+iata: MVY
+icao: KMVY
+latitude: 41.391667
+longitude: -70.615278
+elevation: 67
+utc_offset: -5
+_class: A
+timezone: America/New_York

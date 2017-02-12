@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Chicago
+country: United States
+iata: CHI
+icao: 
+latitude: 41.883611
+longitude: -87.631667
+elevation: 596
+utc_offset: -6
+_class: A
+timezone: America/Chicago

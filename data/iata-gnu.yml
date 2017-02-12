@@ -1,0 +1,12 @@
+---
+airport_name: Goodnews Airport
+city: Goodnews Bay
+country: United States
+iata: GNU
+icao: 
+latitude: 59.1175
+longitude: -161.5775
+elevation: 15
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

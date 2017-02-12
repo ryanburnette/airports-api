@@ -1,0 +1,12 @@
+---
+airport_name: Brienne Le Chateau
+city: Brienne-le Chateau
+country: France
+iata: 
+icao: LFFN
+latitude: 48.429764
+longitude: 4.482222
+elevation: 381
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

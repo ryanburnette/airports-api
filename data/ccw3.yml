@@ -1,0 +1,12 @@
+---
+airport_name: Kings County Municipal Airport
+city: Waterville
+country: Canada
+iata: 
+icao: CCW3
+latitude: 45.0519
+longitude: -64.6517
+elevation: 119
+utc_offset: -4
+_class: A
+timezone: America/Halifax

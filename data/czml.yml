@@ -1,0 +1,12 @@
+---
+airport_name: South Cariboo Regional Airport
+city: 108 Mile Ranch
+country: Canada
+iata: ZML
+icao: CZML
+latitude: 51.4412
+longitude: -121.1958
+elevation: 3129
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

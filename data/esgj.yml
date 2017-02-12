@@ -1,0 +1,12 @@
+---
+airport_name: Jonkoping
+city: Joenkoeping
+country: Sweden
+iata: JKG
+icao: ESGJ
+latitude: 57.757594
+longitude: 14.068731
+elevation: 741
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

@@ -1,0 +1,12 @@
+---
+airport_name: Moree Airport
+city: Moree
+country: Australia
+iata: MRZ
+icao: YMOR
+latitude: -29.4989
+longitude: 149.845
+elevation: 701
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

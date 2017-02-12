@@ -1,0 +1,12 @@
+---
+airport_name: Tulita
+city: Tulita
+country: Canada
+iata: ZFN
+icao: CZFN
+latitude: 64.0833333
+longitude: -125.5833333
+elevation: 320
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

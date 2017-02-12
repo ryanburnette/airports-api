@@ -1,0 +1,12 @@
+---
+airport_name: Cottonwood Airport
+city: Cottonwood
+country: United States
+iata: P52
+icao: KP52
+latitude: 34.7299995422363
+longitude: -112.035003662109
+elevation: 3550
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

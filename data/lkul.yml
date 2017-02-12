@@ -1,0 +1,12 @@
+---
+airport_name: Usti Nad Labem Airport
+city: Usti Nad Labem
+country: Czech Republic
+iata: 
+icao: LKUL
+latitude: 50.698889
+longitude: 13.970833
+elevation: 765
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

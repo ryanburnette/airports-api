@@ -1,0 +1,12 @@
+---
+airport_name: Tokunoshima
+city: Tokunoshima
+country: Japan
+iata: TKN
+icao: RJKN
+latitude: 27.836381
+longitude: 128.881253
+elevation: 17
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

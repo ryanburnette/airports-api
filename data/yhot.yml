@@ -1,0 +1,12 @@
+---
+airport_name: Mount Hotham Airport
+city: Mount Hotham
+country: Australia
+iata: MHU
+icao: YHOT
+latitude: -37.0475
+longitude: 147.334
+elevation: 4260
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

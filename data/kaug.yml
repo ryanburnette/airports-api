@@ -1,0 +1,12 @@
+---
+airport_name: Augusta State
+city: Augusta
+country: United States
+iata: AUG
+icao: KAUG
+latitude: 44.320647
+longitude: -69.797317
+elevation: 352
+utc_offset: -5
+_class: A
+timezone: America/New_York

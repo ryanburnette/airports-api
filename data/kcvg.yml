@@ -1,0 +1,12 @@
+---
+airport_name: Cincinnati Northern Kentucky Intl
+city: Cincinnati
+country: United States
+iata: CVG
+icao: KCVG
+latitude: 39.048836
+longitude: -84.667822
+elevation: 896
+utc_offset: -5
+_class: A
+timezone: America/New_York

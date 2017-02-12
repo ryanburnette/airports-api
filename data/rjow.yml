@@ -1,0 +1,12 @@
+---
+airport_name: Iwami Airport
+city: Iwami
+country: Japan
+iata: IWJ
+icao: RJOW
+latitude: 34.6764
+longitude: 131.79
+elevation: 184
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

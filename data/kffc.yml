@@ -1,0 +1,12 @@
+---
+airport_name: Atlanta Regional Airport - Falcon Field
+city: Atlanta
+country: United States
+iata: FFC
+icao: KFFC
+latitude: 33.35725
+longitude: -84.5718333
+elevation: 808
+utc_offset: -5
+_class: A
+timezone: America/New_York

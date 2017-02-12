@@ -1,0 +1,12 @@
+---
+airport_name: Carlos Ibanez Del Campo Intl
+city: Punta Arenas
+country: Chile
+iata: PUQ
+icao: SCCI
+latitude: -53.002642
+longitude: -70.854586
+elevation: 139
+utc_offset: -4
+_class: S
+timezone: America/Santiago

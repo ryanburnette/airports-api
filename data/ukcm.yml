@@ -1,0 +1,12 @@
+---
+airport_name: Mariupol International Airport
+city: Mariupol International
+country: Ukraine
+iata: MPW
+icao: UKCM
+latitude: 47.0761
+longitude: 37.4496
+elevation: 251
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

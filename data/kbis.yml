@@ -1,0 +1,12 @@
+---
+airport_name: Bismarck Municipal Airport
+city: Bismarck
+country: United States
+iata: BIS
+icao: KBIS
+latitude: 46.775842
+longitude: -100.757931
+elevation: 1661
+utc_offset: -6
+_class: A
+timezone: America/Chicago

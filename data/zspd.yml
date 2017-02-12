@@ -1,0 +1,12 @@
+---
+airport_name: Pudong
+city: Shanghai
+country: China
+iata: PVG
+icao: ZSPD
+latitude: 31.143378
+longitude: 121.805214
+elevation: 13
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

@@ -1,0 +1,12 @@
+---
+airport_name: Yellowknife
+city: Yellowknife
+country: Canada
+iata: YZF
+icao: CYZF
+latitude: 62.462778
+longitude: -114.440278
+elevation: 675
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

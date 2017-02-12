@@ -1,0 +1,12 @@
+---
+airport_name: Velikiye Luki
+city: Velikiye Luki
+country: Russia
+iata: VLU
+icao: ULOL
+latitude: 56.381667
+longitude: 30.61
+elevation: 328
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

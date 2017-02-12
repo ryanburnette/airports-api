@@ -1,0 +1,12 @@
+---
+airport_name: Santa Rosa
+city: Santa Rosa
+country: Argentina
+iata: RSA
+icao: SAZR
+latitude: -36.588322
+longitude: -64.275694
+elevation: 630
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

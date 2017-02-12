@@ -1,0 +1,12 @@
+---
+airport_name: Frankfurt Oder Hbf
+city: Frankfurt Oder
+country: Germany
+iata: ZFR
+icao: 
+latitude: 52.336944
+longitude: 14.547222
+elevation: 177
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

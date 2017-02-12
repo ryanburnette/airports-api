@@ -1,0 +1,12 @@
+---
+airport_name: EL Real Airport
+city: El Real
+country: Panama
+iata: ELE
+icao: 
+latitude: 8.133
+longitude: -77.7
+elevation: 57
+utc_offset: -5
+_class: U
+timezone: America/Panama

@@ -1,0 +1,12 @@
+---
+airport_name: Scottsdale Airport
+city: Scottsdale
+country: United States
+iata: ZSY
+icao: KSDL
+latitude: 33.6228889
+longitude: -111.9105278
+elevation: 1519
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

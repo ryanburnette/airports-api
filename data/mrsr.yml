@@ -1,0 +1,12 @@
+---
+airport_name: Playa Samara Airport
+city: Playa Samara
+country: Costa Rica
+iata: PLD
+icao: MRSR
+latitude: 10.25
+longitude: -85.417
+elevation: 10
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

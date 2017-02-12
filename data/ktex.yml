@@ -1,0 +1,12 @@
+---
+airport_name: Telluride
+city: Telluride
+country: United States
+iata: TEX
+icao: KTEX
+latitude: 37.953759
+longitude: -107.90848
+elevation: 9078
+utc_offset: -7
+_class: A
+timezone: America/Denver

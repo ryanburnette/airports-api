@@ -1,0 +1,12 @@
+---
+airport_name: Domododevo
+city: Moscow
+country: Russia
+iata: DME
+icao: UUDD
+latitude: 55.408611
+longitude: 37.906111
+elevation: 588
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

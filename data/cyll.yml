@@ -1,0 +1,12 @@
+---
+airport_name: Lloydminster
+city: Lloydminster
+country: Canada
+iata: YLL
+icao: CYLL
+latitude: 53.309166
+longitude: -110.0725
+elevation: 2193
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

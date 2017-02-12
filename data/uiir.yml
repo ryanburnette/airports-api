@@ -1,0 +1,12 @@
+---
+airport_name: Irkutsk-2
+city: Irkutsk
+country: Russia
+iata: 
+icao: UIIR
+latitude: 52.3678
+longitude: 104.183
+elevation: 13411
+utc_offset: 9
+_class: N
+timezone: Asia/Irkutsk

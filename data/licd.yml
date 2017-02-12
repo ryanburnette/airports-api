@@ -1,0 +1,12 @@
+---
+airport_name: Lampedusa
+city: Lampedusa
+country: Italy
+iata: LMP
+icao: LICD
+latitude: 35.497914
+longitude: 12.618083
+elevation: 70
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

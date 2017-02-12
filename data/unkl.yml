@@ -1,0 +1,12 @@
+---
+airport_name: Emelyanovo
+city: Krasnoyarsk
+country: Russia
+iata: KJA
+icao: UNKL
+latitude: 56.18
+longitude: 92.475
+elevation: 940
+utc_offset: 8
+_class: N
+timezone: Asia/Krasnoyarsk

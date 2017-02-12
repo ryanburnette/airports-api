@@ -1,0 +1,12 @@
+---
+airport_name: Tipton
+city: Fort Meade
+country: United States
+iata: FME
+icao: KFME
+latitude: 39.085386
+longitude: -76.759414
+elevation: 150
+utc_offset: -5
+_class: A
+timezone: America/New_York

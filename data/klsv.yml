@@ -1,0 +1,12 @@
+---
+airport_name: Nellis Afb
+city: Las Vegas
+country: United States
+iata: LSV
+icao: KLSV
+latitude: 36.236197
+longitude: -115.034253
+elevation: 1870
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

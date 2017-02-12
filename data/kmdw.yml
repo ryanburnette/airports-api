@@ -1,0 +1,12 @@
+---
+airport_name: Chicago Midway Intl
+city: Chicago
+country: United States
+iata: MDW
+icao: KMDW
+latitude: 41.785972
+longitude: -87.752417
+elevation: 620
+utc_offset: -6
+_class: A
+timezone: America/Chicago

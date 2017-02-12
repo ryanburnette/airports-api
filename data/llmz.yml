@@ -1,0 +1,12 @@
+---
+airport_name: I Bar Yehuda
+city: Metzada
+country: Israel
+iata: 
+icao: LLMZ
+latitude: 31.328169
+longitude: 35.388608
+elevation: -1266
+utc_offset: 2
+_class: U
+timezone: Asia/Jerusalem

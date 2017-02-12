@@ -1,0 +1,12 @@
+---
+airport_name: Baotou Airport
+city: Baotou
+country: China
+iata: BAV
+icao: ZBOW
+latitude: 40.56
+longitude: 109.997
+elevation: 3321
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

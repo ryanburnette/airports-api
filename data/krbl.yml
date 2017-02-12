@@ -1,0 +1,12 @@
+---
+airport_name: Red Bluff Municipal Airport
+city: Red Bluff
+country: United States
+iata: 
+icao: KRBL
+latitude: 40.1506944
+longitude: -122.2523056
+elevation: 352
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

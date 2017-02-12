@@ -1,0 +1,12 @@
+---
+airport_name: Landvetter
+city: Gothenborg
+country: Sweden
+iata: GOT
+icao: ESGG
+latitude: 57.662836
+longitude: 12.279819
+elevation: 506
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

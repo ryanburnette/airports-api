@@ -1,0 +1,12 @@
+---
+airport_name: Kununurra
+city: Kununurra
+country: Australia
+iata: KNX
+icao: YPKU
+latitude: -15.778056
+longitude: 128.7075
+elevation: 145
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

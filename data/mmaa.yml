@@ -1,0 +1,12 @@
+---
+airport_name: General Juan N Alvarez Intl
+city: Acapulco
+country: Mexico
+iata: ACA
+icao: MMAA
+latitude: 16.757061
+longitude: -99.753953
+elevation: 16
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

@@ -1,0 +1,12 @@
+---
+airport_name: Zweibrucken
+city: Zweibruecken
+country: Germany
+iata: 
+icao: EDRZ
+latitude: 49.209525
+longitude: 7.400647
+elevation: 1133
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

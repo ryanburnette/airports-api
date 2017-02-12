@@ -1,0 +1,12 @@
+---
+airport_name: Mogilev Airport
+city: Mogilev
+country: Belarus
+iata: MVQ
+icao: UMOO
+latitude: 53.9549
+longitude: 30.0951
+elevation: 637
+utc_offset: 3
+_class: E
+timezone: Europe/Minsk

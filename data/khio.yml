@@ -1,0 +1,12 @@
+---
+airport_name: Portland Hillsboro
+city: Hillsboro
+country: United States
+iata: HIO
+icao: KHIO
+latitude: 45.540394
+longitude: -122.949825
+elevation: 204
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

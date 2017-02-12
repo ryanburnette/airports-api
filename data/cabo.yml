@@ -1,0 +1,12 @@
+---
+airport_name: Bahia San Lucas
+city: Cabo San Lucas
+country: Mexico
+iata: 
+icao: CABO
+latitude: 22.880854
+longitude: -109.902117
+elevation: 0
+utc_offset: -7
+_class: A
+timezone: America/Mazatlan

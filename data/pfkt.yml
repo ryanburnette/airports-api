@@ -1,0 +1,12 @@
+---
+airport_name: Brevig Mission Airport
+city: Brevig Mission
+country: United States
+iata: KTS
+icao: PFKT
+latitude: 65.331389
+longitude: -166.465833
+elevation: 35
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Koln Bonn
+city: Cologne
+country: Germany
+iata: CGN
+icao: EDDK
+latitude: 50.865917
+longitude: 7.142744
+elevation: 302
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

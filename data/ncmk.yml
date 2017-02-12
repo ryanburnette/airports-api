@@ -1,0 +1,12 @@
+---
+airport_name: Mauke Airport
+city: Mauke Island
+country: Cook Islands
+iata: MUK
+icao: NCMK
+latitude: -20.1361
+longitude: -157.345
+elevation: 26
+utc_offset: -10
+_class: U
+timezone: Pacific/Rarotonga

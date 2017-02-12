@@ -1,0 +1,12 @@
+---
+airport_name: Malpensa
+city: Milano
+country: Italy
+iata: MXP
+icao: LIMC
+latitude: 45.630606
+longitude: 8.728111
+elevation: 767
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

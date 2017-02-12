@@ -1,0 +1,12 @@
+---
+airport_name: Stephenville
+city: Stephenville
+country: Canada
+iata: YJT
+icao: CYJT
+latitude: 48.544167
+longitude: -58.549999
+elevation: 80
+utc_offset: -3.5
+_class: A
+timezone: America/St_Johns

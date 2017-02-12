@@ -1,0 +1,12 @@
+---
+airport_name: Raleigh Durham Intl
+city: Raleigh-durham
+country: United States
+iata: RDU
+icao: KRDU
+latitude: 35.877639
+longitude: -78.787472
+elevation: 435
+utc_offset: -5
+_class: A
+timezone: America/New_York

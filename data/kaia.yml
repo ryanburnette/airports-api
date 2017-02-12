@@ -1,0 +1,12 @@
+---
+airport_name: Alliance Municipal Airport
+city: Alliance
+country: United States
+iata: AIA
+icao: KAIA
+latitude: 42.053333
+longitude: -102.803889
+elevation: 3931
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Dortmund
+city: Dortmund
+country: Germany
+iata: DTM
+icao: EDLW
+latitude: 51.518314
+longitude: 7.612242
+elevation: 425
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

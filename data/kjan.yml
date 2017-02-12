@@ -1,0 +1,12 @@
+---
+airport_name: Jackson Evers Intl
+city: Jackson
+country: United States
+iata: JAN
+icao: KJAN
+latitude: 32.311167
+longitude: -90.075889
+elevation: 346
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Tambow
+city: Tambow
+country: Russia
+iata: TBW
+icao: UUOT
+latitude: 52.81
+longitude: 41.48
+elevation: 126
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

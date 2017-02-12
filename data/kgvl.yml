@@ -1,0 +1,12 @@
+---
+airport_name: Lee Gilmer Memorial Airport
+city: Gainesville
+country: United States
+iata: GVL
+icao: KGVL
+latitude: 34.272627
+longitude: -83.8302233
+elevation: 1276
+utc_offset: -5
+_class: A
+timezone: America/New_York

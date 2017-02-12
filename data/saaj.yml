@@ -1,0 +1,12 @@
+---
+airport_name: Junin
+city: Junin
+country: Argentina
+iata: 
+icao: SAAJ
+latitude: -34.545889
+longitude: -60.930556
+elevation: 262
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

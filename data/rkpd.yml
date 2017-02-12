@@ -1,0 +1,12 @@
+---
+airport_name: Jungseok
+city: Seogwipo
+country: South Korea
+iata: 
+icao: RKPD
+latitude: 33.399561
+longitude: 126.711567
+elevation: 1171
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

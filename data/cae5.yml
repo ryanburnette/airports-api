@@ -1,0 +1,12 @@
+---
+airport_name: Whistler/Green Lake Water Aerodrome
+city: Whistler
+country: Canada
+iata: YWS
+icao: CAE5
+latitude: 50.1436
+longitude: -122.949
+elevation: 2100
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

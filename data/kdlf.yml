@@ -1,0 +1,12 @@
+---
+airport_name: Laughlin Afb
+city: Del Rio
+country: United States
+iata: DLF
+icao: KDLF
+latitude: 29.359486
+longitude: -100.777975
+elevation: 1082
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Minsk 1
+city: Minsk
+country: Belarus
+iata: MHP
+icao: UMMM
+latitude: 53.864472
+longitude: 27.539683
+elevation: 748
+utc_offset: 3
+_class: E
+timezone: Europe/Minsk

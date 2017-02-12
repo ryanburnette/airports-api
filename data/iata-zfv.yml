@@ -1,0 +1,12 @@
+---
+airport_name: Philadelphia 30th St Station
+city: Philadelphia
+country: United States
+iata: ZFV
+icao: 
+latitude: 39.9557
+longitude: -75.182
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

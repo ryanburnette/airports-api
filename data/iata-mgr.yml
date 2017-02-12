@@ -1,0 +1,12 @@
+---
+airport_name: Moultrie Municipal Airport
+city: Moultrie
+country: United States
+iata: MGR
+icao: 
+latitude: 31.0849167
+longitude: -83.80325
+elevation: 294
+utc_offset: -5
+_class: A
+timezone: America/New_York

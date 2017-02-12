@@ -1,0 +1,12 @@
+---
+airport_name: Main Station
+city: Taipei
+country: Taiwan
+iata: 
+icao: TPEI
+latitude: 25.046176
+longitude: 121.517532
+elevation: 0
+utc_offset: 8
+_class: N
+timezone: Asia/Taipei

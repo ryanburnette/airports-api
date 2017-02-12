@@ -1,0 +1,12 @@
+---
+airport_name: Black Tickle Airport
+city: Black Tickle
+country: Canada
+iata: YBI
+icao: CCE4
+latitude: 53.47
+longitude: -55.7875
+elevation: 57
+utc_offset: -4
+_class: A
+timezone: America/Halifax

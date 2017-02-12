@@ -1,0 +1,12 @@
+---
+airport_name: Atka Airport
+city: Atka
+country: United States
+iata: AKB
+icao: PAAK
+latitude: 52.220278
+longitude: -174.206389
+elevation: 56
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Exuma Intl
+city: Great Exuma
+country: Bahamas
+iata: GGT
+icao: MYEF
+latitude: 23.562631
+longitude: -75.877958
+elevation: 9
+utc_offset: -5
+_class: U
+timezone: America/Nassau

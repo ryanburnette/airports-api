@@ -1,0 +1,12 @@
+---
+airport_name: Delaware County Airport
+city: Muncie
+country: United States
+iata: MIE
+icao: 
+latitude: 40.2424722
+longitude: -85.39575
+elevation: 937
+utc_offset: -5
+_class: U
+timezone: America/New_York

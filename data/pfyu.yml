@@ -1,0 +1,12 @@
+---
+airport_name: Fort Yukon
+city: Fort Yukon
+country: United States
+iata: FYU
+icao: PFYU
+latitude: 66.571492
+longitude: -145.250417
+elevation: 433
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

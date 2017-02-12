@@ -1,0 +1,12 @@
+---
+airport_name: Quincy Municipal Airport
+city: Quincy
+country: United States
+iata: 2J9
+icao: 
+latitude: 30.5978708
+longitude: -84.557425
+elevation: 225
+utc_offset: -5
+_class: A
+timezone: America/New_York

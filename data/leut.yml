@@ -1,0 +1,12 @@
+---
+airport_name: Leuterschach BF
+city: Leuterschach
+country: Germany
+iata: LES
+icao: LEUT
+latitude: 47.75
+longitude: 10.601
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

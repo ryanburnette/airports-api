@@ -1,0 +1,12 @@
+---
+airport_name: Skelleftea
+city: Skelleftea
+country: Sweden
+iata: SFT
+icao: ESNS
+latitude: 64.624772
+longitude: 21.076892
+elevation: 157
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

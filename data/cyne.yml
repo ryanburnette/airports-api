@@ -1,0 +1,12 @@
+---
+airport_name: Norway House Airport
+city: Norway House
+country: Canada
+iata: YNE
+icao: CYNE
+latitude: 53.9583
+longitude: -97.8442
+elevation: 734
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

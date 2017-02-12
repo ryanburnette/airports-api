@@ -1,0 +1,12 @@
+---
+airport_name: Westport
+city: Westport
+country: New Zealand
+iata: WSZ
+icao: NZWS
+latitude: -41.738056
+longitude: 171.580833
+elevation: 13
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

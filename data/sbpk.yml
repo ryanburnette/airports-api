@@ -1,0 +1,12 @@
+---
+airport_name: Pelotas
+city: Pelotas
+country: Brazil
+iata: PET
+icao: SBPK
+latitude: -31.718353
+longitude: -52.327689
+elevation: 59
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

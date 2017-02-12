@@ -1,0 +1,12 @@
+---
+airport_name: Southwest Michigan Regional Airport
+city: Benton Harbor
+country: United States
+iata: BEH
+icao: 
+latitude: 42.1285833
+longitude: -86.4285
+elevation: 643
+utc_offset: -5
+_class: A
+timezone: America/New_York

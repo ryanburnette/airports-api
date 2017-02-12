@@ -1,0 +1,12 @@
+---
+airport_name: Renaison
+city: Roanne
+country: France
+iata: RNE
+icao: LFLO
+latitude: 46.058334
+longitude: 4.001389
+elevation: 1106
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

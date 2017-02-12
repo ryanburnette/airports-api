@@ -1,0 +1,12 @@
+---
+airport_name: Aviador C Campos
+city: San Martin Des Andes
+country: Argentina
+iata: CPC
+icao: SAZY
+latitude: -40.075383
+longitude: -71.137294
+elevation: 2569
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

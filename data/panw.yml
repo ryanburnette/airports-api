@@ -1,0 +1,12 @@
+---
+airport_name: New Stuyahok Airport
+city: New Stuyahok
+country: United States
+iata: KNW
+icao: PANW
+latitude: 59.4499
+longitude: -157.328
+elevation: 302
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

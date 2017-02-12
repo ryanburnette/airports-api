@@ -1,0 +1,12 @@
+---
+airport_name: Osnova International Airport
+city: Kharkov
+country: Ukraine
+iata: HRK
+icao: UKHH
+latitude: 49.924786
+longitude: 36.289986
+elevation: 508
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

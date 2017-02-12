@@ -1,0 +1,12 @@
+---
+airport_name: Grand Strand Airport
+city: North Myrtle Beach
+country: United States
+iata: CRE
+icao: 
+latitude: 33.81175
+longitude: -78.7239444
+elevation: 31
+utc_offset: -5
+_class: A
+timezone: America/New_York

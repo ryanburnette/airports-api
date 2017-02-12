@@ -1,0 +1,12 @@
+---
+airport_name: Grand Central
+city: Johannesburg
+country: South Africa
+iata: GCJ
+icao: FAGC
+latitude: -25.986267
+longitude: 28.140061
+elevation: 5325
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

@@ -1,0 +1,12 @@
+---
+airport_name: Toowoomba
+city: Toowoomba
+country: Australia
+iata: TWB
+icao: YTWB
+latitude: -27.542778
+longitude: 151.916389
+elevation: 2086
+utc_offset: 10
+_class: N
+timezone: Australia/Brisbane

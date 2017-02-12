@@ -1,0 +1,12 @@
+---
+airport_name: Gimli Industrial Park Airport
+city: Gimli
+country: Canada
+iata: YGM
+icao: CYGM
+latitude: 50.628056
+longitude: -97.043333
+elevation: 753
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

@@ -1,0 +1,12 @@
+---
+airport_name: Kingfisher Lake Airport
+city: Kingfisher Lake
+country: Canada
+iata: KIF
+icao: CNM5
+latitude: 53.0125
+longitude: -89.8553
+elevation: 866
+utc_offset: -5
+_class: A
+timezone: America/Toronto

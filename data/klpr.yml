@@ -1,0 +1,12 @@
+---
+airport_name: Lorain County Regional Airport
+city: Lorain-Elyria
+country: United States
+iata: LPR
+icao: KLPR
+latitude: 41.3442778
+longitude: -82.1776389
+elevation: 793
+utc_offset: -5
+_class: A
+timezone: America/New_York

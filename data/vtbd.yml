@@ -1,0 +1,12 @@
+---
+airport_name: Don Muang Intl
+city: Bangkok
+country: Thailand
+iata: DMK
+icao: VTBD
+latitude: 13.912583
+longitude: 100.60675
+elevation: 9
+utc_offset: 7
+_class: U
+timezone: Asia/Bangkok

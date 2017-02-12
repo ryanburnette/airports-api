@@ -1,0 +1,12 @@
+---
+airport_name: Queen Street Station
+city: Glasgow
+country: United Kingdom
+iata: GLQ
+icao: 
+latitude: 55.8622
+longitude: -4.2512
+elevation: 50
+utc_offset: 0
+_class: E
+timezone: Europe/London

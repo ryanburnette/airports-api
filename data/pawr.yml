@@ -1,0 +1,12 @@
+---
+airport_name: Whittier Airport
+city: Whittier
+country: United States
+iata: 
+icao: PAWR
+latitude: 60.7772125
+longitude: -148.7215775
+elevation: 30
+utc_offset: -9
+_class: U
+timezone: America/Anchorage

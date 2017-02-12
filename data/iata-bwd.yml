@@ -1,0 +1,12 @@
+---
+airport_name: KBWD
+city: Brownwood
+country: United States
+iata: BWD
+icao: 
+latitude: 31.7936111
+longitude: -98.9565
+elevation: 1387
+utc_offset: -6
+_class: A
+timezone: America/Chicago

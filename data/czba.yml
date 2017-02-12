@@ -1,0 +1,12 @@
+---
+airport_name: Burlington Airpark
+city: Burlington
+country: Canada
+iata: 
+icao: CZBA
+latitude: 43.4425
+longitude: -79.850833
+elevation: 602
+utc_offset: -5
+_class: A
+timezone: America/Toronto

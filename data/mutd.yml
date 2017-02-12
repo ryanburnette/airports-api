@@ -1,0 +1,12 @@
+---
+airport_name: Alberto Delgado Airport
+city: Trinidad
+country: Cuba
+iata: TND
+icao: MUTD
+latitude: 21.788461
+longitude: -79.997203
+elevation: 125
+utc_offset: -5
+_class: U
+timezone: America/Havana

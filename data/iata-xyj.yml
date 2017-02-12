@@ -1,0 +1,12 @@
+---
+airport_name: Holesovice
+city: Praha
+country: Czech Republic
+iata: XYJ
+icao: 
+latitude: 50.11
+longitude: 14.439444
+elevation: 616
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

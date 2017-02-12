@@ -1,0 +1,12 @@
+---
+airport_name: Rio Cuarto Area De Material
+city: Rio Cuarto
+country: Argentina
+iata: RCU
+icao: SAOC
+latitude: -33.085128
+longitude: -64.261314
+elevation: 1381
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

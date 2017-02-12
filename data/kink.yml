@@ -1,0 +1,12 @@
+---
+airport_name: Winkler Co
+city: Wink
+country: United States
+iata: INK
+icao: KINK
+latitude: 31.779628
+longitude: -103.201361
+elevation: 2822
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Orlando
+city: Orlando
+country: United States
+iata: DWS
+icao: 
+latitude: 28.398
+longitude: -81.57
+elevation: 340
+utc_offset: -5
+_class: A
+timezone: America/New_York

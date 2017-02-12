@@ -1,0 +1,12 @@
+---
+airport_name: Araracuara Airport
+city: Araracuara
+country: Colombia
+iata: ACR
+icao: SKAC
+latitude: -0.58
+longitude: -72.41
+elevation: 1250
+utc_offset: -5
+_class: U
+timezone: America/Bogota

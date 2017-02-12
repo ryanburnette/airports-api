@@ -1,0 +1,12 @@
+---
+airport_name: DWEST
+city: DWEST
+country: Germany
+iata: 
+icao: 
+latitude: 51.025
+longitude: 7.1837
+elevation: 300
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

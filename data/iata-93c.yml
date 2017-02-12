@@ -1,0 +1,12 @@
+---
+airport_name: Richland Airport
+city: Richland Center
+country: United States
+iata: 93C
+icao: 
+latitude: 43.2833575
+longitude: -90.2982819
+elevation: 742
+utc_offset: -6
+_class: A
+timezone: America/Chicago

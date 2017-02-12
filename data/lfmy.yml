@@ -1,0 +1,12 @@
+---
+airport_name: Salon
+city: Salon
+country: France
+iata: 
+icao: LFMY
+latitude: 43.606415
+longitude: 5.10925
+elevation: 195
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

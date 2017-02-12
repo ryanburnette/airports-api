@@ -1,0 +1,12 @@
+---
+airport_name: Lasalle Station
+city: Chicago
+country: United States
+iata: 
+icao: 
+latitude: 41.875
+longitude: -87.632
+elevation: 592
+utc_offset: -6
+_class: A
+timezone: America/Chicago

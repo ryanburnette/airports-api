@@ -1,0 +1,12 @@
+---
+airport_name: Whakatane
+city: Whakatane
+country: New Zealand
+iata: WHK
+icao: NZWK
+latitude: -37.920556
+longitude: 176.914167
+elevation: 20
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

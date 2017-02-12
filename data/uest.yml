@@ -1,0 +1,12 @@
+---
+airport_name: Tiksi Airport
+city: Tiksi
+country: Russia
+iata: IKS
+icao: UEST
+latitude: 71.6977
+longitude: 128.903
+elevation: 26
+utc_offset: 10
+_class: N
+timezone: Asia/Yakutsk

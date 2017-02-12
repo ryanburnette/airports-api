@@ -1,0 +1,12 @@
+---
+airport_name: Charmeil
+city: Vichy
+country: France
+iata: VHY
+icao: LFLV
+latitude: 46.169689
+longitude: 3.403736
+elevation: 817
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

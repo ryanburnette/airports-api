@@ -1,0 +1,12 @@
+---
+airport_name: Tehuacan
+city: Tehuacan
+country: Mexico
+iata: TCN
+icao: MMHC
+latitude: 18.497189
+longitude: -97.419942
+elevation: 5509
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

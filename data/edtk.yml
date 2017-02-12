@@ -1,0 +1,12 @@
+---
+airport_name: Forchheim Airport
+city: Karlsruhe
+country: Germany
+iata: 
+icao: EDTK
+latitude: 49.097778
+longitude: 8.453056
+elevation: 400
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

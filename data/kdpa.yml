@@ -1,0 +1,12 @@
+---
+airport_name: Dupage
+city: West Chicago
+country: United States
+iata: DPA
+icao: KDPA
+latitude: 41.907778
+longitude: -88.248611
+elevation: 758
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Union Station
+city: Toronto
+country: Canada
+iata: YBZ
+icao: 
+latitude: 43.645278
+longitude: -79.380556
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/Toronto

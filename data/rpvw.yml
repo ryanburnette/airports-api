@@ -1,0 +1,12 @@
+---
+airport_name: Borongan Airport
+city: Borongan
+country: Philippines
+iata: BPR
+icao: RPVW
+latitude: 11.674167
+longitude: 125.478611
+elevation: 7
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

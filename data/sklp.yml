@@ -1,0 +1,12 @@
+---
+airport_name: La Pedrera Airport
+city: La Pedrera
+country: Colombia
+iata: LPD
+icao: SKLP
+latitude: -1.33
+longitude: -69.58
+elevation: 590
+utc_offset: -5
+_class: U
+timezone: America/Bogota

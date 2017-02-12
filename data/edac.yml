@@ -1,0 +1,12 @@
+---
+airport_name: Altenburg Nobitz
+city: Altenburg
+country: Germany
+iata: AOC
+icao: EDAC
+latitude: 50.981817
+longitude: 12.506361
+elevation: 640
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

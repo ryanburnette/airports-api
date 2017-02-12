@@ -1,0 +1,12 @@
+---
+airport_name: Dundo Airport
+city: Dundo
+country: Angola
+iata: DUE
+icao: FNDU
+latitude: -7.40089
+longitude: 20.8185
+elevation: 2451
+utc_offset: 1
+_class: N
+timezone: Africa/Luanda

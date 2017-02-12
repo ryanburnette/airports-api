@@ -1,0 +1,12 @@
+---
+airport_name: Charles De Gaulle
+city: Paris
+country: France
+iata: CDG
+icao: LFPG
+latitude: 49.012779
+longitude: 2.55
+elevation: 392
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

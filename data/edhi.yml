@@ -1,0 +1,12 @@
+---
+airport_name: Hamburg Finkenwerder
+city: Hamburg
+country: Germany
+iata: XFW
+icao: EDHI
+latitude: 53.535886
+longitude: 9.837025
+elevation: 22
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

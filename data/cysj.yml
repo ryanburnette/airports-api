@@ -1,0 +1,12 @@
+---
+airport_name: Saint John
+city: St. John
+country: Canada
+iata: YSJ
+icao: CYSJ
+latitude: 45.316111
+longitude: -65.890278
+elevation: 357
+utc_offset: -4
+_class: A
+timezone: America/Halifax

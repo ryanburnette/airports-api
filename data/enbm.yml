@@ -1,0 +1,12 @@
+---
+airport_name: Bomoen
+city: Voss
+country: Norway
+iata: 
+icao: ENBM
+latitude: 60.63885
+longitude: 6.501497
+elevation: 300
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

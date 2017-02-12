@@ -1,0 +1,12 @@
+---
+airport_name: Hernesaari Heliport
+city: Helsinki
+country: Finland
+iata: HEN
+icao: EFHE
+latitude: 60.1478
+longitude: 24.9244
+elevation: 7
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

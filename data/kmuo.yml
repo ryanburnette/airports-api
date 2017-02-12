@@ -1,0 +1,12 @@
+---
+airport_name: Mountain Home Afb
+city: Mountain Home
+country: United States
+iata: MUO
+icao: KMUO
+latitude: 43.043603
+longitude: -115.872431
+elevation: 2996
+utc_offset: -7
+_class: A
+timezone: America/Denver

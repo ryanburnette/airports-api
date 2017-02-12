@@ -1,0 +1,12 @@
+---
+airport_name: Princeton Muni
+city: Princeton
+country: United States
+iata: PNM
+icao: KPNM
+latitude: 45.559868
+longitude: -93.608217
+elevation: 979
+utc_offset: -6
+_class: A
+timezone: America/Chicago

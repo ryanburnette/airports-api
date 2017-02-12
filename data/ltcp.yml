@@ -1,0 +1,12 @@
+---
+airport_name: Adiyaman Airport
+city: Adiyaman
+country: Turkey
+iata: ADF
+icao: LTCP
+latitude: 37.7314
+longitude: 38.4689
+elevation: 2216
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

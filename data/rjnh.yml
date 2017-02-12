@@ -1,0 +1,12 @@
+---
+airport_name: Hamamatsu
+city: Hamamatsu
+country: Japan
+iata: 
+icao: RJNH
+latitude: 34.750239
+longitude: 137.703083
+elevation: 150
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

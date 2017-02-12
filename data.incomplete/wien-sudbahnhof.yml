@@ -1,0 +1,12 @@
+---
+airport_name: Wien Sudbahnhof
+city: Vienna
+country: Austria
+iata: 
+icao: 
+latitude: 48.1866480486625
+longitude: 16.3815008466187
+elevation: 651
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

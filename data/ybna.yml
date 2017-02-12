@@ -1,0 +1,12 @@
+---
+airport_name: Ballina Byron Gateway
+city: Ballina Byron Bay
+country: Australia
+iata: BNK
+icao: YBNA
+latitude: -28.833889
+longitude: 153.5625
+elevation: 7
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

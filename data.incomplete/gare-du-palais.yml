@@ -1,0 +1,12 @@
+---
+airport_name: Gare du Palais
+city: Quebec
+country: Canada
+iata: 
+icao: 
+latitude: 46.8174
+longitude: -71.2139
+elevation: 13
+utc_offset: -5
+_class: A
+timezone: America/Toronto

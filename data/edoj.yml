@@ -1,0 +1,12 @@
+---
+airport_name: Luesse Airport
+city: Luesse
+country: Germany
+iata: 
+icao: EDOJ
+latitude: 52.1411
+longitude: 12.6647
+elevation: 217
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

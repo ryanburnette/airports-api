@@ -1,0 +1,12 @@
+---
+airport_name: Camden Station
+city: Baltimore
+country: United States
+iata: 
+icao: 
+latitude: 39.2837181
+longitude: -76.621634
+elevation: 49
+utc_offset: -5
+_class: A
+timezone: America/New_York

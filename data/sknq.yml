@@ -1,0 +1,12 @@
+---
+airport_name: Reyes Murillo Airport
+city: Nuquí
+country: Colombia
+iata: NQU
+icao: SKNQ
+latitude: 5.7
+longitude: -77.28
+elevation: 12
+utc_offset: -5
+_class: U
+timezone: America/Bogota

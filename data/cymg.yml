@@ -1,0 +1,12 @@
+---
+airport_name: Manitouwadge
+city: Manitouwadge
+country: Canada
+iata: YMG
+icao: CYMG
+latitude: 49.083889
+longitude: -85.860556
+elevation: 1198
+utc_offset: -5
+_class: A
+timezone: America/Toronto

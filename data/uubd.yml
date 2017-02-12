@@ -1,0 +1,12 @@
+---
+airport_name: Sokerkino
+city: Kostroma
+country: Russia
+iata: KMW
+icao: UUBD
+latitude: 57.7961
+longitude: 41.0204
+elevation: 446
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

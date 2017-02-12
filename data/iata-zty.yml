@@ -1,0 +1,12 @@
+---
+airport_name: Boston Back Bay Station
+city: Boston
+country: United States
+iata: ZTY
+icao: 
+latitude: 42.3478
+longitude: -71.075
+elevation: 20
+utc_offset: -5
+_class: A
+timezone: America/New_York

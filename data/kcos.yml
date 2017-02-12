@@ -1,0 +1,12 @@
+---
+airport_name: City Of Colorado Springs Muni
+city: Colorado Springs
+country: United States
+iata: COS
+icao: KCOS
+latitude: 38.805805
+longitude: -104.700778
+elevation: 6187
+utc_offset: -7
+_class: A
+timezone: America/Denver

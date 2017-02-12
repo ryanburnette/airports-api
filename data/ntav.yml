@@ -1,0 +1,12 @@
+---
+airport_name: Raivavae Airport
+city: Raivavae
+country: French Polynesia
+iata: RVV
+icao: NTAV
+latitude: -23.87
+longitude: -147.67
+elevation: 25
+utc_offset: -10
+_class: N
+timezone: Pacific/Tahiti

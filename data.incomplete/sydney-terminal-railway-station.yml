@@ -1,0 +1,12 @@
+---
+airport_name: Sydney Terminal Railway Station
+city: Sydney
+country: Australia
+iata: 
+icao: 
+latitude: -33.88373
+longitude: 151.20592
+elevation: 100
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

@@ -1,0 +1,12 @@
+---
+airport_name: Sants
+city: Barcelona
+country: Spain
+iata: 
+icao: BSNT
+latitude: 41.379359
+longitude: 2.140474
+elevation: 39
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

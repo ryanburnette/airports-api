@@ -1,0 +1,12 @@
+---
+airport_name: Beauregard Rgnl
+city: Deridder
+country: United States
+iata: DRI
+icao: KDRI
+latitude: 30.831722
+longitude: -93.339917
+elevation: 202
+utc_offset: -6
+_class: A
+timezone: America/Chicago

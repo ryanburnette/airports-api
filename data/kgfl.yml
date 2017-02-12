@@ -1,0 +1,12 @@
+---
+airport_name: Floyd Bennett Memorial Airport
+city: Queensbury
+country: United States
+iata: GFL
+icao: KGFL
+latitude: 43.341222
+longitude: -73.610305
+elevation: 328
+utc_offset: -5
+_class: A
+timezone: America/New_York

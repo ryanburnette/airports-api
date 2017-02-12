@@ -1,0 +1,12 @@
+---
+airport_name: Monte Caseros
+city: Monte Caseros
+country: Argentina
+iata: 
+icao: SARM
+latitude: -30.271922
+longitude: -57.640231
+elevation: 174
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

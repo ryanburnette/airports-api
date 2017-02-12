@@ -1,0 +1,12 @@
+---
+airport_name: Sacramento Intl
+city: Sacramento
+country: United States
+iata: SMF
+icao: KSMF
+latitude: 38.695417
+longitude: -121.590778
+elevation: 27
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

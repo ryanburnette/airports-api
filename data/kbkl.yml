@@ -1,0 +1,12 @@
+---
+airport_name: Burke Lakefront Airport
+city: Cleveland
+country: United States
+iata: BKL
+icao: KBKL
+latitude: 41.5175
+longitude: -81.683333
+elevation: 583
+utc_offset: -5
+_class: A
+timezone: America/New_York

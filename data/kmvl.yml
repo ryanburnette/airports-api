@@ -1,0 +1,12 @@
+---
+airport_name: Morrisville Stowe State Airport
+city: Morrisville
+country: United States
+iata: MVL
+icao: KMVL
+latitude: 44.535
+longitude: -72.614
+elevation: 732
+utc_offset: -5
+_class: A
+timezone: America/New_York

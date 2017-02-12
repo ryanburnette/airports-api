@@ -1,0 +1,12 @@
+---
+airport_name: Delta County Airport
+city: Escanaba
+country: United States
+iata: ESC
+icao: KESC
+latitude: 45.722778
+longitude: -87.093611
+elevation: 609
+utc_offset: -5
+_class: A
+timezone: America/New_York

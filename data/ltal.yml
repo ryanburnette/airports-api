@@ -1,0 +1,12 @@
+---
+airport_name: Uzunyazi
+city: Kastamonu
+country: Turkey
+iata: KFS
+icao: LTAL
+latitude: 41.316944
+longitude: 33.796111
+elevation: 3520
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

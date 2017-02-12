@@ -1,0 +1,12 @@
+---
+airport_name: Genova Sestri
+city: Genoa
+country: Italy
+iata: GOA
+icao: LIMJ
+latitude: 44.413333
+longitude: 8.8375
+elevation: 13
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

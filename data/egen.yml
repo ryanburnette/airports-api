@@ -1,0 +1,12 @@
+---
+airport_name: North Ronaldsay Airport
+city: North Ronaldsay
+country: United Kingdom
+iata: NRL
+icao: EGEN
+latitude: 59.3675
+longitude: -2.43444
+elevation: 40
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Tonopah Test Range
+city: Tonopah
+country: United States
+iata: TNX
+icao: KTNX
+latitude: 37.798836
+longitude: -116.78075
+elevation: 5549
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

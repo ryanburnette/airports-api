@@ -1,0 +1,12 @@
+---
+airport_name: Migalovo
+city: Tver
+country: Russia
+iata: KLD
+icao: UUEM
+latitude: 56.824736
+longitude: 35.757678
+elevation: 469
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

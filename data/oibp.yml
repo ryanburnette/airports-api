@@ -1,0 +1,12 @@
+---
+airport_name: Persian Gulf Airport
+city: Khalije Fars
+country: Iran
+iata: PGU
+icao: OIBP
+latitude: 27.379444
+longitude: 52.7375
+elevation: 27
+utc_offset: 3.5
+_class: U
+timezone: Asia/Tehran

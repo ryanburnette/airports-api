@@ -1,0 +1,12 @@
+---
+airport_name: Columbia Metropolitan
+city: Columbia
+country: United States
+iata: CAE
+icao: KCAE
+latitude: 33.938833
+longitude: -81.119528
+elevation: 236
+utc_offset: -5
+_class: A
+timezone: America/New_York

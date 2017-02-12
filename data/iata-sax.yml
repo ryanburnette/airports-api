@@ -1,0 +1,12 @@
+---
+airport_name: Sambu Airport
+city: Boca de Sábalo
+country: Panama
+iata: SAX
+icao: 
+latitude: 8.017
+longitude: -78.2
+elevation: 32
+utc_offset: -5
+_class: U
+timezone: America/Panama

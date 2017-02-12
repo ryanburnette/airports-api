@@ -1,0 +1,12 @@
+---
+airport_name: Fort Simpson
+city: Fort Simpson
+country: Canada
+iata: YFS
+icao: CYFS
+latitude: 61.760153
+longitude: -121.236525
+elevation: 555
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

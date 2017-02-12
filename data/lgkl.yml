@@ -1,0 +1,12 @@
+---
+airport_name: Kalamata
+city: Kalamata
+country: Greece
+iata: KLX
+icao: LGKL
+latitude: 37.068319
+longitude: 22.025525
+elevation: 26
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

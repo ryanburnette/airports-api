@@ -1,0 +1,12 @@
+---
+airport_name: Changi Intl
+city: Singapore
+country: Singapore
+iata: SIN
+icao: WSSS
+latitude: 1.350189
+longitude: 103.994433
+elevation: 22
+utc_offset: 8
+_class: N
+timezone: Asia/Singapore

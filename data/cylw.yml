@@ -1,0 +1,12 @@
+---
+airport_name: Kelowna
+city: Kelowna
+country: Canada
+iata: YLW
+icao: CYLW
+latitude: 49.956112
+longitude: -119.377778
+elevation: 1409
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

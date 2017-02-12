@@ -1,0 +1,12 @@
+---
+airport_name: Stamford Amtrak Station
+city: Stamford
+country: United States
+iata: ZTF
+icao: 
+latitude: 41.046937
+longitude: -73.541493
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Wilkes-Barre Wyoming Valley Airport
+city: Wilkes-Barre
+country: United States
+iata: WBW
+icao: KWBW
+latitude: 41.2973074
+longitude: -75.8522405
+elevation: 543
+utc_offset: -5
+_class: A
+timezone: America/New_York

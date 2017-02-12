@@ -1,0 +1,12 @@
+---
+airport_name: Volk Fld
+city: Camp Douglas
+country: United States
+iata: VOK
+icao: KVOK
+latitude: 43.938956
+longitude: -90.253433
+elevation: 912
+utc_offset: -6
+_class: A
+timezone: America/Chicago

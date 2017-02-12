@@ -1,0 +1,12 @@
+---
+airport_name: Afyon
+city: Afyon
+country: Turkey
+iata: AFY
+icao: LTAH
+latitude: 38.726425
+longitude: 30.601114
+elevation: 3310
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

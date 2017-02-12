@@ -1,0 +1,12 @@
+---
+airport_name: Treviso
+city: Treviso
+country: Italy
+iata: TSF
+icao: LIPH
+latitude: 45.6484
+longitude: 12.194422
+elevation: 59
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

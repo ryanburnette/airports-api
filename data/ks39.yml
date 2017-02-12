@@ -1,0 +1,12 @@
+---
+airport_name: Prineville Airport
+city: Prineville
+country: United States
+iata: 
+icao: KS39
+latitude: 44.2869939
+longitude: -120.9038328
+elevation: 3250
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

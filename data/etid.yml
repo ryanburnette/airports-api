@@ -1,0 +1,12 @@
+---
+airport_name: Hanau Aaf
+city: Hanau
+country: Germany
+iata: ZNF
+icao: ETID
+latitude: 50.169189
+longitude: 8.961586
+elevation: 368
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

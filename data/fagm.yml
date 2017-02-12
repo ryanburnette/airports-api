@@ -1,0 +1,12 @@
+---
+airport_name: Rand Airport
+city: Johannesburg
+country: South Africa
+iata: QRA
+icao: FAGM
+latitude: -26.242506
+longitude: 28.151169
+elevation: 5483
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

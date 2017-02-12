@@ -1,0 +1,12 @@
+---
+airport_name: Stockton Metropolitan
+city: Stockton
+country: United States
+iata: SCK
+icao: KSCK
+latitude: 37.894167
+longitude: -121.238306
+elevation: 33
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

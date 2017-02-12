@@ -1,0 +1,12 @@
+---
+airport_name: San Nicolas Island Nolf
+city: San Nicolas Island
+country: United States
+iata: 
+icao: KNSI
+latitude: 33.239765
+longitude: -119.45816
+elevation: 506
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

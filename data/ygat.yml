@@ -1,0 +1,12 @@
+---
+airport_name: Gatton
+city: Gatton
+country: Australia
+iata: 
+icao: YGAT
+latitude: -27.5583000183105
+longitude: 152.341995239258
+elevation: 400
+utc_offset: 10
+_class: N
+timezone: Australia/Brisbane

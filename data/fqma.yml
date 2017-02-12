@@ -1,0 +1,12 @@
+---
+airport_name: Maputo
+city: Maputo
+country: Mozambique
+iata: MPM
+icao: FQMA
+latitude: -25.920836
+longitude: 32.572606
+elevation: 145
+utc_offset: 2
+_class: U
+timezone: Africa/Maputo

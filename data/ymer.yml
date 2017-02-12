@@ -1,0 +1,12 @@
+---
+airport_name: Merimbula Airport
+city: Merimbula
+country: Australia
+iata: MIM
+icao: YMER
+latitude: -36.9086
+longitude: 149.901
+elevation: 7
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

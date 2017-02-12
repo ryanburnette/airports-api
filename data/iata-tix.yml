@@ -1,0 +1,12 @@
+---
+airport_name: Space Coast Reg'l Airport
+city: Titusville
+country: United States
+iata: TIX
+icao: 
+latitude: 28.5148
+longitude: -80.7992278
+elevation: 34
+utc_offset: -5
+_class: A
+timezone: America/New_York

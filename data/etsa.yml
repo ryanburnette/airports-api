@@ -1,0 +1,12 @@
+---
+airport_name: Landsberg Lech
+city: Landsberg
+country: Germany
+iata: 
+icao: ETSA
+latitude: 48.0705
+longitude: 10.906
+elevation: 2044
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

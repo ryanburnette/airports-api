@@ -1,0 +1,12 @@
+---
+airport_name: Apataki Airport
+city: Apataki
+country: French Polynesia
+iata: APK
+icao: NTGD
+latitude: -15.5736
+longitude: -146.415
+elevation: 8
+utc_offset: -10
+_class: U
+timezone: Pacific/Tahiti

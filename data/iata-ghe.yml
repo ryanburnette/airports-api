@@ -1,0 +1,12 @@
+---
+airport_name: Garachine Airport
+city: Garachine
+country: Panama
+iata: GHE
+icao: 
+latitude: 8.06
+longitude: -78.36
+elevation: 0
+utc_offset: -5
+_class: U
+timezone: America/Panama

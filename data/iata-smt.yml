@@ -1,0 +1,12 @@
+---
+airport_name: Sun Moon Lake Airport
+city: Sun Moon Lake
+country: Taiwan
+iata: SMT
+icao: 
+latitude: 23.8833
+longitude: 120.933
+elevation: 2405
+utc_offset: 8
+_class: U
+timezone: Asia/Taipei

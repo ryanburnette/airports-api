@@ -1,0 +1,12 @@
+---
+airport_name: Carriel Sur Intl
+city: Concepcion
+country: Chile
+iata: CCP
+icao: SCIE
+latitude: -36.77265
+longitude: -73.063106
+elevation: 26
+utc_offset: -4
+_class: S
+timezone: America/Santiago

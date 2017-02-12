@@ -1,0 +1,12 @@
+---
+airport_name: Lakeland Linder Regional Airport
+city: Lakeland
+country: United States
+iata: LAL
+icao: KLAL
+latitude: 27.9889167
+longitude: -82.0185556
+elevation: 142
+utc_offset: -5
+_class: A
+timezone: America/New_York

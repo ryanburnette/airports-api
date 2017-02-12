@@ -1,0 +1,12 @@
+---
+airport_name: Eisenach Kindel
+city: Eisenach
+country: Germany
+iata: 
+icao: EDGE
+latitude: 50.992797
+longitude: 10.472711
+elevation: 1101
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

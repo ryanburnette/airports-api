@@ -1,0 +1,12 @@
+---
+airport_name: Richfield Minicipal Airport
+city: Richfield
+country: United States
+iata: RIF
+icao: KRIF
+latitude: 38.7364361
+longitude: -112.0989444
+elevation: 5301
+utc_offset: -7
+_class: A
+timezone: America/Denver

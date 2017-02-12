@@ -1,0 +1,12 @@
+---
+airport_name: Easterwood Fld
+city: College Station
+country: United States
+iata: CLL
+icao: KCLL
+latitude: 30.588583
+longitude: -96.363833
+elevation: 321
+utc_offset: -6
+_class: A
+timezone: America/Chicago

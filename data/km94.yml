@@ -1,0 +1,12 @@
+---
+airport_name: Desert Aire
+city: Mattawa
+country: United States
+iata: M94
+icao: KM94
+latitude: 46.4124
+longitude: -119.5518
+elevation: 586
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Hopsten Air Base
+city: Hopsten
+country: Germany
+iata: 
+icao: ETNP
+latitude: 52.3387
+longitude: 7.54133
+elevation: 423
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

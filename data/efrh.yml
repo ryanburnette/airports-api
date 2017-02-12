@@ -1,0 +1,12 @@
+---
+airport_name: Raahe Pattijoki
+city: Pattijoki
+country: Finland
+iata: 
+icao: EFRH
+latitude: 64.688056
+longitude: 24.695833
+elevation: 118
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

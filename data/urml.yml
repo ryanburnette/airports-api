@@ -1,0 +1,12 @@
+---
+airport_name: Uytash
+city: Makhachkala
+country: Russia
+iata: MCX
+icao: URML
+latitude: 42.816822
+longitude: 47.652294
+elevation: 12
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

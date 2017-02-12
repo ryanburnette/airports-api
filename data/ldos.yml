@@ -1,0 +1,12 @@
+---
+airport_name: Osijek
+city: Osijek
+country: Croatia
+iata: OSI
+icao: LDOS
+latitude: 45.462667
+longitude: 18.810156
+elevation: 290
+utc_offset: 1
+_class: E
+timezone: Europe/Zagreb

@@ -1,0 +1,12 @@
+---
+airport_name: Marte
+city: Sao Paulo
+country: Brazil
+iata: 
+icao: SBMT
+latitude: -23.509119
+longitude: -46.637753
+elevation: 2368
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

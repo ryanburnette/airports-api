@@ -1,0 +1,12 @@
+---
+airport_name: Okecie
+city: Warsaw
+country: Poland
+iata: WAW
+icao: EPWA
+latitude: 52.16575
+longitude: 20.967122
+elevation: 362
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

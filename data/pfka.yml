@@ -1,0 +1,12 @@
+---
+airport_name: Kasigluk Airport
+city: Kasigluk
+country: United States
+iata: KUK
+icao: PFKA
+latitude: 60.873333
+longitude: -162.524444
+elevation: 40
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

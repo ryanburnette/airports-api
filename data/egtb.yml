@@ -1,0 +1,12 @@
+---
+airport_name: Booker
+city: Wycombe
+country: United Kingdom
+iata: 
+icao: EGTB
+latitude: 51.611667
+longitude: -0.808056
+elevation: 520
+utc_offset: 0
+_class: E
+timezone: Europe/London

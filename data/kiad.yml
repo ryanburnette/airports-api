@@ -1,0 +1,12 @@
+---
+airport_name: Washington Dulles Intl
+city: Washington
+country: United States
+iata: IAD
+icao: KIAD
+latitude: 38.944533
+longitude: -77.455811
+elevation: 313
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Bromma
+city: Stockholm
+country: Sweden
+iata: BMA
+icao: ESSB
+latitude: 59.354372
+longitude: 17.94165
+elevation: 47
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

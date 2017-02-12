@@ -1,0 +1,12 @@
+---
+airport_name: Bornholm Ronne
+city: Ronne
+country: Denmark
+iata: RNN
+icao: EKRN
+latitude: 55.063267
+longitude: 14.759558
+elevation: 52
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

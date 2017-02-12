@@ -1,0 +1,12 @@
+---
+airport_name: Nikolai Airport
+city: Nikolai
+country: United States
+iata: NIB
+icao: PAFS
+latitude: 63.010833
+longitude: -154.383889
+elevation: 427
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

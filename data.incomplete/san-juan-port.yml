@@ -1,0 +1,12 @@
+---
+airport_name: San Juan Port
+city: San Juan
+country: Puerto Rico
+iata: 
+icao: 
+latitude: 18.458992
+longitude: -66.097693
+elevation: 0
+utc_offset: -4
+_class: N
+timezone: America/Puerto_Rico

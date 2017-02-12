@@ -1,0 +1,12 @@
+---
+airport_name: Kassel Calden
+city: Kassel
+country: Germany
+iata: KSF
+icao: EDVK
+latitude: 51.408394
+longitude: 9.377631
+elevation: 908
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

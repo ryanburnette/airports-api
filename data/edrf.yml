@@ -1,0 +1,12 @@
+---
+airport_name: Bad Duerkheim Airport
+city: Bad Duerkheim
+country: Germany
+iata: 
+icao: EDRF
+latitude: 49.4731
+longitude: 8.19639
+elevation: 351
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

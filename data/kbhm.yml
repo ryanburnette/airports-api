@@ -1,0 +1,12 @@
+---
+airport_name: Birmingham Intl
+city: Birmingham
+country: United States
+iata: BHM
+icao: KBHM
+latitude: 33.562942
+longitude: -86.75355
+elevation: 644
+utc_offset: -6
+_class: A
+timezone: America/Chicago

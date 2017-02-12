@@ -1,0 +1,12 @@
+---
+airport_name: Asturias
+city: Aviles
+country: Spain
+iata: OVD
+icao: LEAS
+latitude: 43.563567
+longitude: -6.034622
+elevation: 416
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

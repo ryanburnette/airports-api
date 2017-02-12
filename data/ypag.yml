@@ -1,0 +1,12 @@
+---
+airport_name: Port Augusta Airport
+city: Argyle
+country: Australia
+iata: PUG
+icao: YPAG
+latitude: -32.506944
+longitude: 137.716667
+elevation: 56
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

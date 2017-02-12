@@ -1,0 +1,12 @@
+---
+airport_name: Wright Aaf
+city: Wright
+country: United States
+iata: 
+icao: KLHW
+latitude: 31.889097
+longitude: -81.562333
+elevation: 45
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Wrangell Airport
+city: Wrangell
+country: United States
+iata: WRG
+icao: PAWG
+latitude: 56.4843
+longitude: -132.37
+elevation: 44
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

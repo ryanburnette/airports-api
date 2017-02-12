@@ -1,0 +1,12 @@
+---
+airport_name: Vicenza
+city: Vicenza
+country: Italy
+iata: VIC
+icao: LIPT
+latitude: 45.573411
+longitude: 11.52955
+elevation: 128
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

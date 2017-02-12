@@ -1,0 +1,12 @@
+---
+airport_name: Manassas
+city: Manassas
+country: United States
+iata: MNZ
+icao: KHEF
+latitude: 38.721389
+longitude: -77.515556
+elevation: 192
+utc_offset: -5
+_class: A
+timezone: America/New_York

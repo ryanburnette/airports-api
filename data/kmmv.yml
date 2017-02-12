@@ -1,0 +1,12 @@
+---
+airport_name: Mc Minnville Muni
+city: Mackminnville
+country: United States
+iata: MMV
+icao: KMMV
+latitude: 45.194444
+longitude: -123.135944
+elevation: 163
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

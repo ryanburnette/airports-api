@@ -1,0 +1,12 @@
+---
+airport_name: Vangso
+city: Vangso
+country: Sweden
+iata: 
+icao: ESSZ
+latitude: 59.13333
+longitude: 17.25
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

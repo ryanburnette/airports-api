@@ -1,0 +1,12 @@
+---
+airport_name: Hughes Airport
+city: Hughes
+country: United States
+iata: HUS
+icao: PAHU
+latitude: 66.039167
+longitude: -154.264722
+elevation: 299
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

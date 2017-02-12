@@ -1,0 +1,12 @@
+---
+airport_name: Ivano Frankivsk International Airport
+city: Ivano-Frankivsk
+country: Ukraine
+iata: IFO
+icao: UKLI
+latitude: 48.884167
+longitude: 24.686111
+elevation: 919
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

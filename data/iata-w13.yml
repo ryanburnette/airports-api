@@ -1,0 +1,12 @@
+---
+airport_name: Eagle's Nest Airport
+city: Waynesboro
+country: United States
+iata: W13
+icao: 
+latitude: 38.076944
+longitude: -78.944167
+elevation: 1437
+utc_offset: -5
+_class: A
+timezone: America/New_York

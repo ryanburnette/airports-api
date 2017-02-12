@@ -1,0 +1,12 @@
+---
+airport_name: Gobernador Gregores Airport
+city: Gobernador Gregores
+country: Argentina
+iata: GGS
+icao: SAWR
+latitude: -48.7831
+longitude: -70.15
+elevation: 356
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

@@ -1,0 +1,12 @@
+---
+airport_name: Waterloo International
+city: London
+country: United Kingdom
+iata: 
+icao: 
+latitude: 51.5031
+longitude: -0.1147
+elevation: 10
+utc_offset: 0
+_class: E
+timezone: Europe/London

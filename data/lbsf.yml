@@ -1,0 +1,12 @@
+---
+airport_name: Sofia
+city: Sofia
+country: Bulgaria
+iata: SOF
+icao: LBSF
+latitude: 42.695194
+longitude: 23.406167
+elevation: 1742
+utc_offset: 2
+_class: E
+timezone: Europe/Sofia

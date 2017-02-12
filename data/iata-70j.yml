@@ -1,0 +1,12 @@
+---
+airport_name: Cairo-Grady County Airport
+city: Cairo
+country: United States
+iata: 70J
+icao: 
+latitude: 30.8879767
+longitude: -84.1547353
+elevation: 265
+utc_offset: -5
+_class: A
+timezone: America/New_York

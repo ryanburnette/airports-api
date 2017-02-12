@@ -1,0 +1,12 @@
+---
+airport_name: Bessemer
+city: Bessemer
+country: United States
+iata: EKY
+icao: KEKY
+latitude: 33.1876
+longitude: -86.5558
+elevation: 700
+utc_offset: -6
+_class: A
+timezone: America/Chicago

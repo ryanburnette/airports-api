@@ -1,0 +1,12 @@
+---
+airport_name: Johnston Atoll
+city: Johnston Island
+country: Johnston Atoll
+iata: JON
+icao: PJON
+latitude: 16.7286
+longitude: -169.534
+elevation: 7
+utc_offset: -10
+_class: U
+timezone: Pacific/Johnston

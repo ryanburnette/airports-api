@@ -1,0 +1,12 @@
+---
+airport_name: Devils Lake Regional Airport
+city: Devils Lake
+country: United States
+iata: DVL
+icao: KDVL
+latitude: 48.114444
+longitude: -98.908611
+elevation: 1445
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Padre Aldamiz
+city: Puerto Maldonado
+country: Peru
+iata: PEM
+icao: SPTU
+latitude: -12.613611
+longitude: -69.228611
+elevation: 659
+utc_offset: -5
+_class: U
+timezone: America/Lima

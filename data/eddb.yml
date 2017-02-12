@@ -1,0 +1,12 @@
+---
+airport_name: Berlin Brandenburg Willy Brandt
+city: Berlin
+country: Germany
+iata: BER
+icao: EDDB
+latitude: 52.366667
+longitude: 13.503333
+elevation: 154
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

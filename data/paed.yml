@@ -1,0 +1,12 @@
+---
+airport_name: Elmendorf Afb
+city: Anchorage
+country: United States
+iata: EDF
+icao: PAED
+latitude: 61.250986
+longitude: -149.806503
+elevation: 212
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Gare Montparnasse
+city: Paris
+country: France
+iata: XGB
+icao: 
+latitude: 48.84
+longitude: 2.318611
+elevation: 423
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

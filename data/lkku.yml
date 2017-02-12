@@ -1,0 +1,12 @@
+---
+airport_name: Kunovice
+city: Kunovice
+country: Czech Republic
+iata: 
+icao: LKKU
+latitude: 49.029444
+longitude: 17.439722
+elevation: 581
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

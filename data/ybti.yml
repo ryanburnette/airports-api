@@ -1,0 +1,12 @@
+---
+airport_name: Bathurst Island Airport
+city: Bathurst Island
+country: Australia
+iata: BRT
+icao: YBTI
+latitude: -11.769167
+longitude: 130.619722
+elevation: 67
+utc_offset: 9.5
+_class: U
+timezone: Australia/Darwin

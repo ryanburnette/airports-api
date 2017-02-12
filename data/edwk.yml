@@ -1,0 +1,12 @@
+---
+airport_name: Karlshoefen Airport
+city: Karlshoefen
+country: Germany
+iata: 
+icao: EDWK
+latitude: 53.3328
+longitude: 9.02833
+elevation: 20
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

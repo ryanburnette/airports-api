@@ -1,0 +1,12 @@
+---
+airport_name: Adak Airport
+city: Adak Island
+country: United States
+iata: ADK
+icao: PADK
+latitude: 51.878
+longitude: -176.646
+elevation: 18
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

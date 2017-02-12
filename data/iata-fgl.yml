@@ -1,0 +1,12 @@
+---
+airport_name: Fox Glacier Airstrip
+city: Fox Glacier
+country: New Zealand
+iata: FGL
+icao: 
+latitude: -43.4
+longitude: 170.033
+elevation: 475
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

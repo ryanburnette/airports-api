@@ -1,0 +1,12 @@
+---
+airport_name: Darsena Norte
+city: Buenos Aires
+country: Argentina
+iata: 
+icao: 
+latitude: -34.5978
+longitude: -58.367841
+elevation: 46
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

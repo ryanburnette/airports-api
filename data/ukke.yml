@@ -1,0 +1,12 @@
+---
+airport_name: Cherkassy
+city: Cherkassy
+country: Ukraine
+iata: CKC
+icao: UKKE
+latitude: 49.416666
+longitude: 32.1333
+elevation: 114
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

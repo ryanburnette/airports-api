@@ -1,0 +1,12 @@
+---
+airport_name: South Bend Rgnl
+city: South Bend
+country: United States
+iata: SBN
+icao: KSBN
+latitude: 41.708661
+longitude: -86.31725
+elevation: 799
+utc_offset: -5
+_class: A
+timezone: America/New_York

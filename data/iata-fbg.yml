@@ -1,0 +1,12 @@
+---
+airport_name: Fredericksburg Amtrak Station
+city: Fredericksburg
+country: United States
+iata: FBG
+icao: 
+latitude: 38.298416
+longitude: -77.456875
+elevation: 130
+utc_offset: -5
+_class: A
+timezone: America/New_York

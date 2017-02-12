@@ -1,0 +1,12 @@
+---
+airport_name: Denver Union Station
+city: Denver
+country: United States
+iata: 
+icao: 
+latitude: 39.753187
+longitude: -105.000093
+elevation: 0
+utc_offset: -7
+_class: A
+timezone: America/Denver

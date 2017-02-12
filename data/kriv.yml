@@ -1,0 +1,12 @@
+---
+airport_name: March Arb
+city: Riverside
+country: United States
+iata: RIV
+icao: KRIV
+latitude: 33.880711
+longitude: -117.259453
+elevation: 1535
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

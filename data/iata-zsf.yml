@@ -1,0 +1,12 @@
+---
+airport_name: Springfield Amtrak Station
+city: Springfield MA
+country: United States
+iata: ZSF
+icao: 
+latitude: 42.106
+longitude: -72.593054
+elevation: 65
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Sunnyvale Station
+city: Sunnyvale
+country: United States
+iata: 
+icao: 
+latitude: 37.3786106
+longitude: -122.0308333
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

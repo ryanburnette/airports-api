@@ -1,0 +1,12 @@
+---
+airport_name: Keflavik International Airport
+city: Keflavik
+country: Iceland
+iata: KEF
+icao: BIKF
+latitude: 63.985
+longitude: -22.605556
+elevation: 171
+utc_offset: 0
+_class: N
+timezone: Atlantic/Reykjavik

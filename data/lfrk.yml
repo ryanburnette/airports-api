@@ -1,0 +1,12 @@
+---
+airport_name: Carpiquet
+city: Caen
+country: France
+iata: CFR
+icao: LFRK
+latitude: 49.173333
+longitude: -0.45
+elevation: 256
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Oxford House Airport
+city: Oxford House
+country: Canada
+iata: YOH
+icao: CYOH
+latitude: 54.9333
+longitude: -95.2789
+elevation: 663
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

@@ -1,0 +1,12 @@
+---
+airport_name: Puerto Obaldia
+city: Puerto Obaldia
+country: Panama
+iata: PUE
+icao: MPOA
+latitude: 8.68333
+longitude: -77.5333
+elevation: 223
+utc_offset: -5
+_class: U
+timezone: America/Panama

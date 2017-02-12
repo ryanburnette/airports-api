@@ -1,0 +1,12 @@
+---
+airport_name: Tulga
+city: Malatya
+country: Turkey
+iata: 
+icao: LTAO
+latitude: 38.35375
+longitude: 38.253944
+elevation: 3016
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

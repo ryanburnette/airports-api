@@ -1,0 +1,12 @@
+---
+airport_name: Kalgoorlie Boulder
+city: Kalgoorlie
+country: Australia
+iata: KGI
+icao: YPKG
+latitude: -30.789444
+longitude: 121.461667
+elevation: 1203
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

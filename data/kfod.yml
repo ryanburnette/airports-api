@@ -1,0 +1,12 @@
+---
+airport_name: Fort Dodge Rgnl
+city: Fort Dodge
+country: United States
+iata: FOD
+icao: KFOD
+latitude: 42.5512
+longitude: -94.191842
+elevation: 1157
+utc_offset: -6
+_class: A
+timezone: America/Chicago

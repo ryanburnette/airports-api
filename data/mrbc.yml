@@ -1,0 +1,12 @@
+---
+airport_name: Barra del Colorado Airport
+city: Pococi
+country: Costa Rica
+iata: BCL
+icao: MRBC
+latitude: 10.768736
+longitude: -83.585614
+elevation: 3
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

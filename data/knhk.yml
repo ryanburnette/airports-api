@@ -1,0 +1,12 @@
+---
+airport_name: Patuxent River Nas
+city: Patuxent River
+country: United States
+iata: NHK
+icao: KNHK
+latitude: 38.285981
+longitude: -76.411781
+elevation: 39
+utc_offset: -5
+_class: A
+timezone: America/New_York

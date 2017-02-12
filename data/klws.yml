@@ -1,0 +1,12 @@
+---
+airport_name: Lewiston Nez Perce Co
+city: Lewiston
+country: United States
+iata: LWS
+icao: KLWS
+latitude: 46.3745
+longitude: -117.015389
+elevation: 1442
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

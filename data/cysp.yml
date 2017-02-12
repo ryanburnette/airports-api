@@ -1,0 +1,12 @@
+---
+airport_name: Marathon
+city: Marathon
+country: Canada
+iata: YSP
+icao: CYSP
+latitude: 48.755278
+longitude: -86.344444
+elevation: 1035
+utc_offset: -5
+_class: A
+timezone: America/Toronto

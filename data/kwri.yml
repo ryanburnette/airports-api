@@ -1,0 +1,12 @@
+---
+airport_name: Mc Guire Afb
+city: Wrightstown
+country: United States
+iata: WRI
+icao: KWRI
+latitude: 40.015556
+longitude: -74.591667
+elevation: 131
+utc_offset: -5
+_class: A
+timezone: America/New_York

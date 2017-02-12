@@ -1,0 +1,12 @@
+---
+airport_name: Alma Airport
+city: Alma
+country: Canada
+iata: YTF
+icao: CYTF
+latitude: 48.508611
+longitude: -71.641389
+elevation: 449
+utc_offset: -5
+_class: A
+timezone: America/Toronto

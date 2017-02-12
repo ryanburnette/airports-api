@@ -1,0 +1,12 @@
+---
+airport_name: Hamburg
+city: Hamburg
+country: Germany
+iata: HAM
+icao: EDDH
+latitude: 53.630389
+longitude: 9.988228
+elevation: 53
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

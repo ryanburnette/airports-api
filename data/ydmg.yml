@@ -1,0 +1,12 @@
+---
+airport_name: Doomadgee Airport
+city: Doomadgee
+country: Australia
+iata: DMD
+icao: YDMG
+latitude: -17.9403
+longitude: 138.822
+elevation: 153
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

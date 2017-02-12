@@ -1,0 +1,12 @@
+---
+airport_name: Municipal Airport
+city: Burlington
+country: United States
+iata: BUU
+icao: KBUU
+latitude: 42.6907171
+longitude: -88.3046825
+elevation: 780
+utc_offset: -6
+_class: A
+timezone: America/Chicago

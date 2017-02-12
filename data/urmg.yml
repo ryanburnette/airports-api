@@ -1,0 +1,12 @@
+---
+airport_name: Grozny Airport
+city: Grozny
+country: Russia
+iata: GRV
+icao: URMG
+latitude: 43.2981
+longitude: 45.7841
+elevation: 548
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

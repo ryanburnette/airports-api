@@ -1,0 +1,12 @@
+---
+airport_name: Cork
+city: Cork
+country: Ireland
+iata: ORK
+icao: EICK
+latitude: 51.841269
+longitude: -8.491111
+elevation: 502
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

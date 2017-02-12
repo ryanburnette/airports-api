@@ -1,0 +1,12 @@
+---
+airport_name: Oakdale Airport
+city: Oakdale
+country: United States
+iata: O27
+icao: 
+latitude: 37.7563333
+longitude: -120.8001944
+elevation: 237
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

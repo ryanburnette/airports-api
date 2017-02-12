@@ -1,0 +1,12 @@
+---
+airport_name: Hana
+city: Hana
+country: United States
+iata: HNM
+icao: PHHN
+latitude: 20.795636
+longitude: -156.014439
+elevation: 78
+utc_offset: -10
+_class: A
+timezone: Pacific/Honolulu

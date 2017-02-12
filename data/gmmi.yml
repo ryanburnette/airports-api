@@ -1,0 +1,12 @@
+---
+airport_name: Mogador Airport
+city: Essadouira
+country: Morocco
+iata: ESU
+icao: GMMI
+latitude: 31.3975
+longitude: -9.681667
+elevation: 384
+utc_offset: 0
+_class: N
+timezone: Africa/Casablanca

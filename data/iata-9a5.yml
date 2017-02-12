@@ -1,0 +1,12 @@
+---
+airport_name: Barwick Lafayette Airport
+city: LaFayette
+country: United States
+iata: 9A5
+icao: 
+latitude: 34.6884792
+longitude: -85.2903319
+elevation: 777
+utc_offset: -5
+_class: A
+timezone: America/New_York

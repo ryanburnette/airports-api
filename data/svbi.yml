@@ -1,0 +1,12 @@
+---
+airport_name: Barinas
+city: Barinas
+country: Venezuela
+iata: BNS
+icao: SVBI
+latitude: 8.619575
+longitude: -70.220825
+elevation: 666
+utc_offset: -4.5
+_class: U
+timezone: America/Caracas

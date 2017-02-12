@@ -1,0 +1,12 @@
+---
+airport_name: Craig Fld
+city: Selma
+country: United States
+iata: SEM
+icao: KSEM
+latitude: 32.343947
+longitude: -86.987803
+elevation: 166
+utc_offset: -6
+_class: A
+timezone: America/Chicago

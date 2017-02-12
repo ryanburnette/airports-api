@@ -1,0 +1,12 @@
+---
+airport_name: Khabarovsk-MVL
+city: Khabarovsk
+country: Russia
+iata: 
+icao: UHHT
+latitude: 48.528
+longitude: 135.179
+elevation: 213
+utc_offset: 11
+_class: N
+timezone: Asia/Vladivostok

@@ -1,0 +1,12 @@
+---
+airport_name: Christmas Valley Airport
+city: Christmas Valley
+country: United States
+iata: 
+icao: K62S
+latitude: 43.2365314
+longitude: -120.6660967
+elevation: 4317
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

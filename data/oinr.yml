@@ -1,0 +1,12 @@
+---
+airport_name: Ramsar
+city: Ramsar
+country: Iran
+iata: RZR
+icao: OINR
+latitude: 36.909908
+longitude: 50.679589
+elevation: -70
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

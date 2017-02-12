@@ -1,0 +1,12 @@
+---
+airport_name: Hannover
+city: Hannover
+country: Germany
+iata: HAJ
+icao: EDDV
+latitude: 52.461056
+longitude: 9.685078
+elevation: 183
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Smyrna Airport
+city: Smyrna
+country: United States
+iata: 
+icao: KMQY
+latitude: 36.009
+longitude: -86.5201
+elevation: 543
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Matecana
+city: Pereira
+country: Colombia
+iata: PEI
+icao: SKPE
+latitude: 4.812675
+longitude: -75.739519
+elevation: 4416
+utc_offset: -5
+_class: U
+timezone: America/Bogota

@@ -1,0 +1,12 @@
+---
+airport_name: Obermehler-Schlotheim Airport
+city: Obermehler
+country: Germany
+iata: 
+icao: EDCO
+latitude: 51.2678
+longitude: 10.6347
+elevation: 909
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

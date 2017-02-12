@@ -1,0 +1,12 @@
+---
+airport_name: Montreal Intl Mirabel
+city: Montreal
+country: Canada
+iata: YMX
+icao: CYMX
+latitude: 45.681944
+longitude: -74.005278
+elevation: 270
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Island Lake Airport
+city: Island Lake
+country: Canada
+iata: YIV
+icao: CYIV
+latitude: 53.8572
+longitude: -94.6536
+elevation: 770
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

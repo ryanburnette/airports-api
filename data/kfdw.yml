@@ -1,0 +1,12 @@
+---
+airport_name: Fairfield County Airport
+city: Winnsboro
+country: United States
+iata: FDW
+icao: KFDW
+latitude: 34.315472
+longitude: -81.108806
+elevation: 577
+utc_offset: -5
+_class: A
+timezone: America/New_York

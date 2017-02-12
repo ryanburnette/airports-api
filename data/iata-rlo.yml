@@ -1,0 +1,12 @@
+---
+airport_name: Aeropuerto Internacional Valle del Conlara
+city: Merlo
+country: Argentina
+iata: RLO
+icao: 
+latitude: -32.349803
+longitude: -65.179932
+elevation: 100
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

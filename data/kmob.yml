@@ -1,0 +1,12 @@
+---
+airport_name: Mobile Rgnl
+city: Mobile
+country: United States
+iata: MOB
+icao: KMOB
+latitude: 30.691231
+longitude: -88.242814
+elevation: 219
+utc_offset: -6
+_class: A
+timezone: America/Chicago

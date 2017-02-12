@@ -1,0 +1,12 @@
+---
+airport_name: Reading Regional Carl A Spaatz Field
+city: Reading
+country: United States
+iata: RDG
+icao: KRDG
+latitude: 40.3785
+longitude: -75.9652
+elevation: 344
+utc_offset: -5
+_class: A
+timezone: America/New_York

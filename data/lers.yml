@@ -1,0 +1,12 @@
+---
+airport_name: Reus
+city: Reus
+country: Spain
+iata: REU
+icao: LERS
+latitude: 41.147392
+longitude: 1.167172
+elevation: 234
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

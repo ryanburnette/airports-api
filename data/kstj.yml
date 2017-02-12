@@ -1,0 +1,12 @@
+---
+airport_name: Rosecrans Mem
+city: Rosecrans
+country: United States
+iata: STJ
+icao: KSTJ
+latitude: 39.771944
+longitude: -94.909706
+elevation: 826
+utc_offset: -6
+_class: A
+timezone: America/Chicago

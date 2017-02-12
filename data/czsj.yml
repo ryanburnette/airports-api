@@ -1,0 +1,12 @@
+---
+airport_name: Sandy Lake Airport
+city: Sandy Lake
+country: Canada
+iata: ZSJ
+icao: CZSJ
+latitude: 53.0642
+longitude: -93.3444
+elevation: 951
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

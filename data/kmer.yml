@@ -1,0 +1,12 @@
+---
+airport_name: Castle
+city: Merced
+country: United States
+iata: MER
+icao: KMER
+latitude: 37.380481
+longitude: -120.568189
+elevation: 189
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

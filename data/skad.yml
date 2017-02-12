@@ -1,0 +1,12 @@
+---
+airport_name: Alcides Fernandez Airport
+city: Acandi
+country: Colombia
+iata: ACD
+icao: SKAD
+latitude: 8.516667
+longitude: -77.3
+elevation: 50
+utc_offset: -5
+_class: U
+timezone: America/Bogota

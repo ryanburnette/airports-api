@@ -1,0 +1,12 @@
+---
+airport_name: Shimla Airport
+city: Shimla
+country: India
+iata: SLV
+icao: VISM
+latitude: 31.081803
+longitude: 77.067967
+elevation: 5072
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

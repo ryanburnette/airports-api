@@ -1,0 +1,12 @@
+---
+airport_name: Collin County Regional Airport at Mc Kinney
+city: DALLAS
+country: United States
+iata: TKI
+icao: KTKI
+latitude: 33.1779444
+longitude: -96.5905278
+elevation: 585
+utc_offset: -6
+_class: A
+timezone: America/Chicago

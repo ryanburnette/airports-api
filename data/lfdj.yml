@@ -1,0 +1,12 @@
+---
+airport_name: Les Pujols
+city: Pamiers
+country: France
+iata: 
+icao: LFDJ
+latitude: 43.090556
+longitude: 1.695833
+elevation: 1115
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

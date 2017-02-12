@@ -1,0 +1,12 @@
+---
+airport_name: Batna Airport
+city: Batna
+country: Algeria
+iata: BLJ
+icao: DABT
+latitude: 35.752106
+longitude: 6.308589
+elevation: 2697
+utc_offset: 1
+_class: N
+timezone: Africa/Algiers

@@ -1,0 +1,12 @@
+---
+airport_name: Svea Airport
+city: Sveagruva
+country: Svalbard
+iata: 
+icao: ENSA
+latitude: 77.9
+longitude: 16.683333
+elevation: 29
+utc_offset: 1
+_class: U
+timezone: Arctic/Longyearbyen

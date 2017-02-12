@@ -1,0 +1,12 @@
+---
+airport_name: Craiova
+city: Craiova
+country: Romania
+iata: CRA
+icao: LRCV
+latitude: 44.318139
+longitude: 23.888611
+elevation: 626
+utc_offset: 2
+_class: E
+timezone: Europe/Bucharest

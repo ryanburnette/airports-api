@@ -1,0 +1,12 @@
+---
+airport_name: Florida Keys Marathon Airport
+city: Marathon
+country: United States
+iata: MTH
+icao: KMTH
+latitude: 24.726111
+longitude: -81.051389
+elevation: 7
+utc_offset: -5
+_class: A
+timezone: America/New_York

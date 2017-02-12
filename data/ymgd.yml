@@ -1,0 +1,12 @@
+---
+airport_name: Maningrida Airport
+city: Maningrida
+country: Australia
+iata: MNG
+icao: YMGD
+latitude: -12.0561
+longitude: 134.234
+elevation: 123
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

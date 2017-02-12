@@ -1,0 +1,12 @@
+---
+airport_name: Jesup-Wayne County Airport
+city: Jesup
+country: United States
+iata: JES
+icao: KJES
+latitude: 31.553889
+longitude: -81.8825
+elevation: 107
+utc_offset: -5
+_class: A
+timezone: America/New_York

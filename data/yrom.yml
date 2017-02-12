@@ -1,0 +1,12 @@
+---
+airport_name: Roma Airport
+city: Roma
+country: Australia
+iata: RMA
+icao: YROM
+latitude: -26.545
+longitude: 148.775
+elevation: 1032
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

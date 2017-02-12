@@ -1,0 +1,12 @@
+---
+airport_name: Cedar City Rgnl
+city: Cedar City
+country: United States
+iata: CDC
+icao: KCDC
+latitude: 37.700967
+longitude: -113.098847
+elevation: 5622
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Lyon Part-Dieu Railway
+city: Lyon
+country: France
+iata: XYD
+icao: 
+latitude: 46
+longitude: 5
+elevation: 821
+utc_offset: 1
+_class: U
+timezone: Europe/Paris

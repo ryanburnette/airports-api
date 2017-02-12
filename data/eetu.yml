@@ -1,0 +1,12 @@
+---
+airport_name: Tartu
+city: Tartu
+country: Estonia
+iata: TAY
+icao: EETU
+latitude: 58.307461
+longitude: 26.690428
+elevation: 219
+utc_offset: 2
+_class: E
+timezone: Europe/Tallinn

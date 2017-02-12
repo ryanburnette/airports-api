@@ -1,0 +1,12 @@
+---
+airport_name: Randall Airport
+city: Middletown
+country: United States
+iata: 06N
+icao: 
+latitude: 41.431912
+longitude: -74.3915611
+elevation: 523
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Miami Seaplane Base
+city: Miami
+country: United States
+iata: MPB
+icao: 
+latitude: 25.7783
+longitude: -80.1703
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

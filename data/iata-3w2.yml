@@ -1,0 +1,12 @@
+---
+airport_name: Put-in-Bay Airport
+city: Put-in-Bay
+country: United States
+iata: 3W2
+icao: 
+latitude: 41.3521
+longitude: -82.497
+elevation: 595
+utc_offset: -5
+_class: A
+timezone: America/New_York

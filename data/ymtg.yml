@@ -1,0 +1,12 @@
+---
+airport_name: Mount Gambier Airport
+city: Mount Gambier
+country: Australia
+iata: MGB
+icao: YMTG
+latitude: -37.7456
+longitude: 140.785
+elevation: 212
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

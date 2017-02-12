@@ -1,0 +1,12 @@
+---
+airport_name: Elazig
+city: Elazig
+country: Turkey
+iata: EZS
+icao: LTCA
+latitude: 38.606925
+longitude: 39.291417
+elevation: 2927
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

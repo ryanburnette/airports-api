@@ -1,0 +1,12 @@
+---
+airport_name: Biggs Aaf
+city: El Paso
+country: United States
+iata: BIF
+icao: KBIF
+latitude: 31.849528
+longitude: -106.380039
+elevation: 3948
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Thunder Bay
+city: Thunder Bay
+country: Canada
+iata: YQT
+icao: CYQT
+latitude: 48.371944
+longitude: -89.323889
+elevation: 653
+utc_offset: -5
+_class: A
+timezone: America/Toronto

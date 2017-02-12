@@ -1,0 +1,12 @@
+---
+airport_name: Aalen Heidenheim Elchingen
+city: Aalen-heidenheim
+country: Germany
+iata: 
+icao: EDPA
+latitude: 48.777833
+longitude: 10.264667
+elevation: 1916
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

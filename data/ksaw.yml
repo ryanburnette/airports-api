@@ -1,0 +1,12 @@
+---
+airport_name: Sawyer Intl
+city: Gwinn
+country: United States
+iata: 
+icao: KSAW
+latitude: 46.353625
+longitude: -87.395353
+elevation: 1221
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Peronne St Quentin
+city: Peronne
+country: France
+iata: 
+icao: LFAG
+latitude: 49.868547
+longitude: 3.029578
+elevation: 295
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

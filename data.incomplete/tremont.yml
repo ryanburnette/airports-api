@@ -1,0 +1,12 @@
+---
+airport_name: Tremont
+city: New York
+country: United States
+iata: 
+icao: 
+latitude: 40.847301
+longitude: -73.89955
+elevation: 200
+utc_offset: -5
+_class: A
+timezone: America/New_York

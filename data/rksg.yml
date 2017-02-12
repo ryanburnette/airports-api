@@ -1,0 +1,12 @@
+---
+airport_name: A 511
+city: Pyongtaek
+country: South Korea
+iata: 
+icao: RKSG
+latitude: 36.962214
+longitude: 127.031072
+elevation: 51
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

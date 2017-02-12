@@ -1,0 +1,12 @@
+---
+airport_name: Theodore Francis Green State
+city: Providence
+country: United States
+iata: PVD
+icao: KPVD
+latitude: 41.732581
+longitude: -71.420383
+elevation: 55
+utc_offset: -5
+_class: A
+timezone: America/New_York

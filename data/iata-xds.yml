@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Ottawa
+country: Canada
+iata: XDS
+icao: 
+latitude: 45.4164
+longitude: -75.6517
+elevation: 374
+utc_offset: -5
+_class: A
+timezone: America/Toronto

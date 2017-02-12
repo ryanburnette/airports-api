@@ -1,0 +1,12 @@
+---
+airport_name: Pikangikum Airport
+city: Pikangikum
+country: Canada
+iata: YPM
+icao: CYPM
+latitude: 51.8197
+longitude: -93.9733
+elevation: 1114
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

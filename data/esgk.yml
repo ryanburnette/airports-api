@@ -1,0 +1,12 @@
+---
+airport_name: Falkoping
+city: Falkoping
+country: Sweden
+iata: 
+icao: ESGK
+latitude: 58.169794
+longitude: 13.587847
+elevation: 785
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

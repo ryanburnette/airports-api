@@ -1,0 +1,12 @@
+---
+airport_name: Worcester Regional Airport
+city: Worcester
+country: United States
+iata: ORH
+icao: KORH
+latitude: 42.2673
+longitude: -71.8757
+elevation: 1009
+utc_offset: -5
+_class: A
+timezone: America/New_York

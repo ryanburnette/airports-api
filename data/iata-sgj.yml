@@ -1,0 +1,12 @@
+---
+airport_name: St. Augustine Airport
+city: St. Augustine
+country: United States
+iata: SGJ
+icao: 
+latitude: 29.95925
+longitude: -81.3397222
+elevation: 10
+utc_offset: -5
+_class: A
+timezone: America/New_York

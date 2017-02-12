@@ -1,0 +1,12 @@
+---
+airport_name: Hiroshima
+city: Hiroshima
+country: Japan
+iata: HIJ
+icao: RJOA
+latitude: 34.436111
+longitude: 132.919444
+elevation: 1088
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

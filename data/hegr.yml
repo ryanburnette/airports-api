@@ -1,0 +1,12 @@
+---
+airport_name: El Gora
+city: El Gorah
+country: Egypt
+iata: EGR
+icao: HEGR
+latitude: 31.068975
+longitude: 34.129194
+elevation: 324
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

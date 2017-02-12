@@ -1,0 +1,12 @@
+---
+airport_name: Thorshofn Airport
+city: Thorshofn
+country: Iceland
+iata: THO
+icao: BITN
+latitude: 66.2185
+longitude: -15.3356
+elevation: 65
+utc_offset: 0
+_class: N
+timezone: Atlantic/Reykjavik

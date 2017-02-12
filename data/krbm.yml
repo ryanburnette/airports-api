@@ -1,0 +1,12 @@
+---
+airport_name: Robinson Aaf
+city: Robinson
+country: United States
+iata: RBM
+icao: KRBM
+latitude: 34.850089
+longitude: -92.300153
+elevation: 587
+utc_offset: -6
+_class: A
+timezone: America/Chicago

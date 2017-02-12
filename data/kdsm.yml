@@ -1,0 +1,12 @@
+---
+airport_name: Des Moines Intl
+city: Des Moines
+country: United States
+iata: DSM
+icao: KDSM
+latitude: 41.533972
+longitude: -93.663083
+elevation: 958
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Nurnberg HBF
+city: Nurnberg
+country: Germany
+iata: NUR
+icao: NURN
+latitude: 49.446
+longitude: 11.081944
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

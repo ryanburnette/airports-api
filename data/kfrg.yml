@@ -1,0 +1,12 @@
+---
+airport_name: Republic Airport
+city: Farmingdale
+country: United States
+iata: 
+icao: KFRG
+latitude: 40.7288
+longitude: -73.4134
+elevation: 82
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Ylivieska
+city: Ylivieska-raudaskyla
+country: Finland
+iata: 
+icao: EFYL
+latitude: 64.060547
+longitude: 24.715953
+elevation: 252
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

@@ -1,0 +1,12 @@
+---
+airport_name: Coen Airport
+city: Coen
+country: Australia
+iata: CUQ
+icao: YCOE
+latitude: -13.7608
+longitude: 143.114
+elevation: 532
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

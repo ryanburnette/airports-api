@@ -1,0 +1,12 @@
+---
+airport_name: Vandenberg Afb
+city: Lompoc
+country: United States
+iata: VBG
+icao: KVBG
+latitude: 34.737333
+longitude: -120.584306
+elevation: 369
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

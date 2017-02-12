@@ -1,0 +1,12 @@
+---
+airport_name: Bruck-Nittenau
+city: Nittenau
+country: Germany
+iata: 
+icao: EDNM
+latitude: 49.2225
+longitude: 12.2967
+elevation: 1161
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

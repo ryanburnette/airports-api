@@ -1,0 +1,12 @@
+---
+airport_name: Memorial Field
+city: Hot Springs
+country: United States
+iata: HOT
+icao: KHOT
+latitude: 34.478
+longitude: -93.0962
+elevation: 540
+utc_offset: -6
+_class: A
+timezone: America/Chicago

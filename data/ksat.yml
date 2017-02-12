@@ -1,0 +1,12 @@
+---
+airport_name: San Antonio Intl
+city: San Antonio
+country: United States
+iata: SAT
+icao: KSAT
+latitude: 29.533694
+longitude: -98.469778
+elevation: 809
+utc_offset: -6
+_class: A
+timezone: America/Chicago

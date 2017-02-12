@@ -1,0 +1,12 @@
+---
+airport_name: Fort Albany Airport
+city: Fort Albany
+country: Canada
+iata: YFA
+icao: CYFA
+latitude: 52.2014
+longitude: -81.6969
+elevation: 48
+utc_offset: -5
+_class: A
+timezone: America/Toronto

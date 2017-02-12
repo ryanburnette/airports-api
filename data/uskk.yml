@@ -1,0 +1,12 @@
+---
+airport_name: Pobedilovo Airport
+city: Kirov
+country: Russia
+iata: KVX
+icao: USKK
+latitude: 58.5033
+longitude: 49.3483
+elevation: 479
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

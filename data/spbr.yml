@@ -1,0 +1,12 @@
+---
+airport_name: Iberia
+city: Iberia
+country: Peru
+iata: 
+icao: SPBR
+latitude: -11.411578
+longitude: -69.488711
+elevation: 750
+utc_offset: -5
+_class: U
+timezone: America/Lima

@@ -1,0 +1,12 @@
+---
+airport_name: Lovell Fld
+city: Chattanooga
+country: United States
+iata: CHA
+icao: KCHA
+latitude: 35.035278
+longitude: -85.203808
+elevation: 683
+utc_offset: -5
+_class: A
+timezone: America/New_York

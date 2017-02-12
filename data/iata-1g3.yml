@@ -1,0 +1,12 @@
+---
+airport_name: Kent State Airport
+city: Kent
+country: United States
+iata: 1G3
+icao: 
+latitude: 41.1513889
+longitude: -81.4151111
+elevation: 1134
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Bairnsdale Airport
+city: Bairnsdale
+country: Australia
+iata: BSJ
+icao: YBNS
+latitude: -37.8875
+longitude: 147.567778
+elevation: 165
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

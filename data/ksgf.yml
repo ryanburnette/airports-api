@@ -1,0 +1,12 @@
+---
+airport_name: Springfield Branson Natl
+city: Springfield
+country: United States
+iata: SGF
+icao: KSGF
+latitude: 37.245667
+longitude: -93.388639
+elevation: 1268
+utc_offset: -6
+_class: A
+timezone: America/Chicago

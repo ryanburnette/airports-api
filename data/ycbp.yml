@@ -1,0 +1,12 @@
+---
+airport_name: Coober Pedy Airport
+city: Coober Pedy
+country: Australia
+iata: CPD
+icao: YCBP
+latitude: -29.04
+longitude: 134.721
+elevation: 740
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

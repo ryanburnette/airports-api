@@ -1,0 +1,12 @@
+---
+airport_name: Kerama Airport
+city: Kerama
+country: Japan
+iata: KJP
+icao: ROKR
+latitude: 26.168333
+longitude: 127.293333
+elevation: 156
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

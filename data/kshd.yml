@@ -1,0 +1,12 @@
+---
+airport_name: Shenandoah Valley Regional Airport
+city: Weyers Cave
+country: United States
+iata: SHD
+icao: KSHD
+latitude: 38.263889
+longitude: -78.896389
+elevation: 1201
+utc_offset: -5
+_class: A
+timezone: America/New_York

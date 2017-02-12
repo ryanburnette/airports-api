@@ -1,0 +1,12 @@
+---
+airport_name: Indianapolis Intl
+city: Indianapolis
+country: United States
+iata: IND
+icao: KIND
+latitude: 39.717331
+longitude: -86.294383
+elevation: 797
+utc_offset: -5
+_class: A
+timezone: America/New_York

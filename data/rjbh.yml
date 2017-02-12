@@ -1,0 +1,12 @@
+---
+airport_name: Hiroshima-Nishi
+city: Hiroshima
+country: Japan
+iata: HIW
+icao: RJBH
+latitude: 34.367
+longitude: 132.408
+elevation: 9
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

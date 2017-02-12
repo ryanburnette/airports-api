@@ -1,0 +1,12 @@
+---
+airport_name: Forrest
+city: Forrest
+country: Australia
+iata: 
+icao: YFRT
+latitude: -30.838056
+longitude: 128.115
+elevation: 511
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

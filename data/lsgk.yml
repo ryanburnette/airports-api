@@ -1,0 +1,12 @@
+---
+airport_name: Saanen
+city: Saanen
+country: Switzerland
+iata: 
+icao: LSGK
+latitude: 46.487499
+longitude: 7.250834
+elevation: 3307
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

@@ -1,0 +1,12 @@
+---
+airport_name: Canyonlands Field
+city: Moab
+country: United States
+iata: CNY
+icao: KCNY
+latitude: 38.755
+longitude: -109.754722
+elevation: 4555
+utc_offset: -7
+_class: A
+timezone: America/Denver

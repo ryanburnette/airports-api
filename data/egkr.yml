@@ -1,0 +1,12 @@
+---
+airport_name: Redhill Aerodrome
+city: Redhill
+country: United Kingdom
+iata: KRH
+icao: EGKR
+latitude: 51.213612
+longitude: -0.13861
+elevation: 221
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Perry-Foley Airport
+city: Perry
+country: United States
+iata: 40J
+icao: 
+latitude: 30.0692778
+longitude: -83.5805833
+elevation: 44
+utc_offset: -5
+_class: A
+timezone: America/New_York

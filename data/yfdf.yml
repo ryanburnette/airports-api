@@ -1,0 +1,12 @@
+---
+airport_name: Dave Forest Airport
+city: Cloudbreak
+country: Australia
+iata: KFE
+icao: YFDF
+latitude: -22.291945
+longitude: 119.437225
+elevation: 1555
+utc_offset: 8
+_class: N
+timezone: Australia/Perth

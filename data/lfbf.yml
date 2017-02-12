@@ -1,0 +1,12 @@
+---
+airport_name: Francazal
+city: Toulouse
+country: France
+iata: 
+icao: LFBF
+latitude: 43.545555
+longitude: 1.3675
+elevation: 535
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Weser-Wuemme
+city: Hellwege
+country: Germany
+iata: 
+icao: EDWM
+latitude: 53.054
+longitude: 9.208667
+elevation: 59
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

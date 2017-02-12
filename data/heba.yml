@@ -1,0 +1,12 @@
+---
+airport_name: Borg El Arab Intl
+city: Alexandria
+country: Egypt
+iata: HBE
+icao: HEBA
+latitude: 30.917669
+longitude: 29.696408
+elevation: 177
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

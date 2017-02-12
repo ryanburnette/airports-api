@@ -1,0 +1,12 @@
+---
+airport_name: Little Rock Afb
+city: Jacksonville
+country: United States
+iata: LRF
+icao: KLRF
+latitude: 34.916944
+longitude: -92.149722
+elevation: 311
+utc_offset: -6
+_class: A
+timezone: America/Chicago

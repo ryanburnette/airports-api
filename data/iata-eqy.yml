@@ -1,0 +1,12 @@
+---
+airport_name: Monroe Reqional Airport
+city: Charlotte
+country: United States
+iata: EQY
+icao: 
+latitude: 35.01833
+longitude: -80.62001
+elevation: 679
+utc_offset: -5
+_class: A
+timezone: America/New_York

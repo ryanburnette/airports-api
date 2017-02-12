@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Tokyo
+country: Japan
+iata: TYO
+icao: 
+latitude: 35.689444
+longitude: 139.691667
+elevation: 123
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

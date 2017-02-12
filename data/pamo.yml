@@ -1,0 +1,12 @@
+---
+airport_name: Mountain Village Airport
+city: Mountain Village
+country: United States
+iata: MOU
+icao: PAMO
+latitude: 62.0954
+longitude: -163.682
+elevation: 337
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

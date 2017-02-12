@@ -1,0 +1,12 @@
+---
+airport_name: Spencer Muni
+city: Spencer
+country: United States
+iata: SPW
+icao: KSPW
+latitude: 43.165527
+longitude: -95.202805
+elevation: 1339
+utc_offset: -6
+_class: A
+timezone: America/Chicago

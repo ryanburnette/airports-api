@@ -1,0 +1,12 @@
+---
+airport_name: Middle Georgia Rgnl
+city: Macon
+country: United States
+iata: MCN
+icao: KMCN
+latitude: 32.69285
+longitude: -83.649211
+elevation: 354
+utc_offset: -5
+_class: A
+timezone: America/New_York

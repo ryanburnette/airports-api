@@ -1,0 +1,12 @@
+---
+airport_name: Ampugnano
+city: Siena
+country: Italy
+iata: SAY
+icao: LIQS
+latitude: 43.256286
+longitude: 11.255036
+elevation: 634
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

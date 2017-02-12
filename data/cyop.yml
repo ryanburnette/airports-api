@@ -1,0 +1,12 @@
+---
+airport_name: Rainbow Lake Airport
+city: Rainbow Lake
+country: Canada
+iata: YOP
+icao: CYOP
+latitude: 58.491389
+longitude: -119.407778
+elevation: 1756
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

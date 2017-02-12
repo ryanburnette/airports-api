@@ -1,0 +1,12 @@
+---
+airport_name: Timmins
+city: Timmins
+country: Canada
+iata: YTS
+icao: CYTS
+latitude: 48.569721
+longitude: -81.376667
+elevation: 967
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Firenze
+city: Florence
+country: Italy
+iata: FLR
+icao: LIRQ
+latitude: 43.809953
+longitude: 11.2051
+elevation: 142
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

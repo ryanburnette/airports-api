@@ -1,0 +1,12 @@
+---
+airport_name: Shin-yokohama-eki
+city: Yokohama
+country: Japan
+iata: 
+icao: 
+latitude: 35.5075
+longitude: 139.6175
+elevation: 50
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

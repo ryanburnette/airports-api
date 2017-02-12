@@ -1,0 +1,12 @@
+---
+airport_name: Windsor Station
+city: Windsor
+country: Canada
+iata: 
+icao: 
+latitude: 42.3254
+longitude: -83.0092
+elevation: 623
+utc_offset: -5
+_class: A
+timezone: America/Toronto

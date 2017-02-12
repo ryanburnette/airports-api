@@ -1,0 +1,12 @@
+---
+airport_name: Rio Grande
+city: Rio Grande
+country: Argentina
+iata: RGA
+icao: SAWE
+latitude: -53.777667
+longitude: -67.749389
+elevation: 65
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

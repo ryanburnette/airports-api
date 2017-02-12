@@ -1,0 +1,12 @@
+---
+airport_name: Tallahassee Rgnl
+city: Tallahassee
+country: United States
+iata: TLH
+icao: KTLH
+latitude: 30.396528
+longitude: -84.350333
+elevation: 81
+utc_offset: -5
+_class: A
+timezone: America/New_York

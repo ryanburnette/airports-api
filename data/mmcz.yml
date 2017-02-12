@@ -1,0 +1,12 @@
+---
+airport_name: Cozumel Intl
+city: Cozumel
+country: Mexico
+iata: CZM
+icao: MMCZ
+latitude: 20.522403
+longitude: -86.925644
+elevation: 15
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

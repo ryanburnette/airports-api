@@ -1,0 +1,12 @@
+---
+airport_name: Vigo
+city: Vigo
+country: Spain
+iata: VGO
+icao: LEVX
+latitude: 42.2318
+longitude: -8.626775
+elevation: 855
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Kericho
+city: Kericho
+country: Kenya
+iata: KEY
+icao: HKKR
+latitude: -0.385
+longitude: 35.245
+elevation: 6453
+utc_offset: 3
+_class: U
+timezone: Africa/Nairobi

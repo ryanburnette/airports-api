@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Edmonton
+country: Canada
+iata: XZL
+icao: 
+latitude: 53.5789
+longitude: -113.5307
+elevation: 2208
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

@@ -1,0 +1,12 @@
+---
+airport_name: De Peel Air Base
+city: Deurne
+country: Netherlands
+iata: 
+icao: EHDP
+latitude: 51.5173
+longitude: 5.85572
+elevation: 98
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

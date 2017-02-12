@@ -1,0 +1,12 @@
+---
+airport_name: Victoria Inner Harbour Airport
+city: Victoria
+country: Canada
+iata: YWH
+icao: CYWH
+latitude: 48.422778
+longitude: -123.3875
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

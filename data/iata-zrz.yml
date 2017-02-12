@@ -1,0 +1,12 @@
+---
+airport_name: New Carrollton Rail Station
+city: New Carrollton
+country: United States
+iata: ZRZ
+icao: 
+latitude: 38.948
+longitude: -76.8719
+elevation: 39
+utc_offset: -5
+_class: A
+timezone: America/New_York

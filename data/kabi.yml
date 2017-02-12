@@ -1,0 +1,12 @@
+---
+airport_name: Abilene Rgnl
+city: Abilene
+country: United States
+iata: ABI
+icao: KABI
+latitude: 32.411319
+longitude: -99.681897
+elevation: 1791
+utc_offset: -6
+_class: A
+timezone: America/Chicago

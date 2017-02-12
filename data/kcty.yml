@@ -1,0 +1,12 @@
+---
+airport_name: Cross City
+city: Cross City
+country: United States
+iata: CTY
+icao: KCTY
+latitude: 29.6355278
+longitude: -83.10475
+elevation: 42
+utc_offset: -5
+_class: A
+timezone: America/New_York

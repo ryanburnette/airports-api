@@ -1,0 +1,12 @@
+---
+airport_name: Tbilisi
+city: Tbilisi
+country: Georgia
+iata: TBS
+icao: UGTB
+latitude: 41.669167
+longitude: 44.954722
+elevation: 1624
+utc_offset: 4
+_class: N
+timezone: Asia/Tbilisi

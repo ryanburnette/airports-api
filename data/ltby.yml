@@ -1,0 +1,12 @@
+---
+airport_name: Anadolu Airport
+city: Eskissehir
+country: Turkey
+iata: AOE
+icao: LTBY
+latitude: 39.809858
+longitude: 30.519378
+elevation: 2588
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

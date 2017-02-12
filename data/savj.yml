@@ -1,0 +1,12 @@
+---
+airport_name: Ingeniero Jacobacci
+city: Ingeniero Jacobacci
+country: Argentina
+iata: IGB
+icao: SAVJ
+latitude: -41.3
+longitude: -69.5833
+elevation: 2936
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

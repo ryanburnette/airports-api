@@ -1,0 +1,12 @@
+---
+airport_name: Roswell Intl Air Center
+city: Roswell
+country: United States
+iata: ROW
+icao: KROW
+latitude: 33.301556
+longitude: -104.530556
+elevation: 3671
+utc_offset: -7
+_class: A
+timezone: America/Denver

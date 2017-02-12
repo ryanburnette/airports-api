@@ -1,0 +1,12 @@
+---
+airport_name: Lago Argentino Airport
+city: El Calafate
+country: Argentina
+iata: ING
+icao: SAWA
+latitude: -50.3361
+longitude: -72.2486
+elevation: 732
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

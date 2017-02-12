@@ -1,0 +1,12 @@
+---
+airport_name: Sao Carlos TAM
+city: Sao Carlos
+country: Brazil
+iata: QSC
+icao: SDSC
+latitude: -21.875
+longitude: -47.904
+elevation: 2649
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

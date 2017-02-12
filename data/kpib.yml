@@ -1,0 +1,12 @@
+---
+airport_name: Hattiesburg Laurel Regional Airport
+city: Hattiesburg/Laurel
+country: United States
+iata: PIB
+icao: KPIB
+latitude: 31.4671
+longitude: -89.3371
+elevation: 298
+utc_offset: -6
+_class: A
+timezone: America/Chicago

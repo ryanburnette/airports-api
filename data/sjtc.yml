@@ -1,0 +1,12 @@
+---
+airport_name: Bauru-Arealva
+city: Bauru
+country: Brazil
+iata: JTC
+icao: SJTC
+latitude: -22.157778
+longitude: -49.068333
+elevation: 594
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

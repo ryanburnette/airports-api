@@ -1,0 +1,12 @@
+---
+airport_name: Clarksville-Montgomery County Regional Airport
+city: Clarksville
+country: United States
+iata: CKV
+icao: KCKV
+latitude: 36.621944
+longitude: -87.415
+elevation: 550
+utc_offset: -6
+_class: A
+timezone: America/Chicago

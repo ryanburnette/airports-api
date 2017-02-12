@@ -1,0 +1,12 @@
+---
+airport_name: Shreveport Rgnl
+city: Shreveport
+country: United States
+iata: SHV
+icao: KSHV
+latitude: 32.446629
+longitude: -93.8256
+elevation: 258
+utc_offset: -6
+_class: A
+timezone: America/Chicago

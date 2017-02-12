@@ -1,0 +1,12 @@
+---
+airport_name: Camiguin Airport
+city: Camiguin
+country: Philippines
+iata: CGM
+icao: RPMH
+latitude: 9.25352
+longitude: 124.707
+elevation: 53
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

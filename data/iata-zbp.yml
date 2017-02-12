@@ -1,0 +1,12 @@
+---
+airport_name: Penn Station
+city: Baltimore
+country: United States
+iata: ZBP
+icao: 
+latitude: 39.307222
+longitude: -76.615556
+elevation: 66
+utc_offset: -5
+_class: A
+timezone: America/New_York

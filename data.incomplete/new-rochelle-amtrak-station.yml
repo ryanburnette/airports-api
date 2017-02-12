@@ -1,0 +1,12 @@
+---
+airport_name: New Rochelle Amtrak Station
+city: New Rochelle
+country: United States
+iata: 
+icao: 
+latitude: 40.913923
+longitude: -73.782008
+elevation: 66
+utc_offset: -5
+_class: A
+timezone: America/New_York

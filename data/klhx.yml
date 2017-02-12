@@ -1,0 +1,12 @@
+---
+airport_name: La Junta Muni
+city: La Junta
+country: United States
+iata: LHX
+icao: KLHX
+latitude: 38.049719
+longitude: -103.509431
+elevation: 4238
+utc_offset: -7
+_class: A
+timezone: America/Denver

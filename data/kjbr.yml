@@ -1,0 +1,12 @@
+---
+airport_name: Jonesboro Muni
+city: Jonesboro
+country: United States
+iata: JBR
+icao: KJBR
+latitude: 35.831708
+longitude: -90.646417
+elevation: 262
+utc_offset: -6
+_class: A
+timezone: America/Chicago

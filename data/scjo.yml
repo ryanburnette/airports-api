@@ -1,0 +1,12 @@
+---
+airport_name: Canal Bajo Carlos Hott Siebert
+city: Osorno
+country: Chile
+iata: ZOS
+icao: SCJO
+latitude: -40.611208
+longitude: -73.061042
+elevation: 187
+utc_offset: -4
+_class: S
+timezone: America/Santiago

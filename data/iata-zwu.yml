@@ -1,0 +1,12 @@
+---
+airport_name: Washington Union Station
+city: Washington
+country: United States
+iata: ZWU
+icao: 
+latitude: 38.89746
+longitude: -77.00643
+elevation: 76
+utc_offset: -5
+_class: A
+timezone: America/New_York

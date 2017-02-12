@@ -1,0 +1,12 @@
+---
+airport_name: Billings Logan International Airport
+city: Billings
+country: United States
+iata: BIL
+icao: KBIL
+latitude: 45.80921
+longitude: -108.537654
+elevation: 3652
+utc_offset: -7
+_class: A
+timezone: America/Denver

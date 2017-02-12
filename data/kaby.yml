@@ -1,0 +1,12 @@
+---
+airport_name: Southwest Georgia Regional Airport
+city: Albany
+country: United States
+iata: ABY
+icao: KABY
+latitude: 31.5355
+longitude: -84.1945
+elevation: 197
+utc_offset: -5
+_class: A
+timezone: America/New_York

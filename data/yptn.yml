@@ -1,0 +1,12 @@
+---
+airport_name: Tindal Airport
+city: Katherine
+country: Australia
+iata: KTR
+icao: YPTN
+latitude: -14.5211
+longitude: 132.378
+elevation: 443
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

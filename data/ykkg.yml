@@ -1,0 +1,12 @@
+---
+airport_name: Kalkgurung Airport
+city: Kalkgurung
+country: Australia
+iata: KFG
+icao: YKKG
+latitude: -17.4319
+longitude: 130.808
+elevation: 646
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

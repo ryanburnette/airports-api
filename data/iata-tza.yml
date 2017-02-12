@@ -1,0 +1,12 @@
+---
+airport_name: Belize City Municipal Airport
+city: Belize
+country: Belize
+iata: TZA
+icao: 
+latitude: 17.5344
+longitude: -88.298
+elevation: 15
+utc_offset: -6
+_class: N
+timezone: America/Belize

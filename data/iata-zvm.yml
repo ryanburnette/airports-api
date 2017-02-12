@@ -1,0 +1,12 @@
+---
+airport_name: Hannover Messe-Heliport
+city: Hannover
+country: Germany
+iata: ZVM
+icao: 
+latitude: 52.329035
+longitude: 9.822136
+elevation: 152
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

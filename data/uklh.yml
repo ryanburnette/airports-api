@@ -1,0 +1,12 @@
+---
+airport_name: Khmeinitskiy
+city: Khmeinitskiy
+country: Ukraine
+iata: HMJ
+icao: UKLH
+latitude: 49.366
+longitude: 26.933
+elevation: 351
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

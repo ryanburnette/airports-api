@@ -1,0 +1,12 @@
+---
+airport_name: South Pole Station
+city: Stephen's Island
+country: Antarctica
+iata: 
+icao: NZSP
+latitude: -89.999997
+longitude: 0
+elevation: 9300
+utc_offset: 12
+_class: U
+timezone: Antarctica/South_Pole

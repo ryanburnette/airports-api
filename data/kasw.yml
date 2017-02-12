@@ -1,0 +1,12 @@
+---
+airport_name: Warsaw Municipal Airport
+city: Warsaw
+country: United States
+iata: 
+icao: KASW
+latitude: 41.2746944
+longitude: -85.8400556
+elevation: 850
+utc_offset: -5
+_class: A
+timezone: America/New_York

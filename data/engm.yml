@@ -1,0 +1,12 @@
+---
+airport_name: Gardermoen
+city: Oslo
+country: Norway
+iata: OSL
+icao: ENGM
+latitude: 60.193917
+longitude: 11.100361
+elevation: 681
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

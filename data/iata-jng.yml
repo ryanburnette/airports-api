@@ -1,0 +1,12 @@
+---
+airport_name: 'Jining Airport '
+city: Jining
+country: China
+iata: JNG
+icao: 
+latitude: 35.417
+longitude: 116.533
+elevation: 1540
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

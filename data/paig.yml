@@ -1,0 +1,12 @@
+---
+airport_name: Igiugig Airport
+city: Igiugig
+country: United States
+iata: IGG
+icao: PAIG
+latitude: 59.324
+longitude: -155.902
+elevation: 90
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Lost Nation Municipal Airport
+city: Willoughby
+country: United States
+iata: LNN
+icao: KLNN
+latitude: 41.6840278
+longitude: -81.38975
+elevation: 626
+utc_offset: -5
+_class: A
+timezone: America/New_York

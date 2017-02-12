@@ -1,0 +1,12 @@
+---
+airport_name: Adirondack Regional Airport
+city: Saranac Lake
+country: United States
+iata: SLK
+icao: KSLK
+latitude: 44.3853
+longitude: -74.2062
+elevation: 1663
+utc_offset: -5
+_class: A
+timezone: America/New_York

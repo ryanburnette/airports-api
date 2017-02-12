@@ -1,0 +1,12 @@
+---
+airport_name: Schaumburg Regional
+city: Schaumburg
+country: United States
+iata: 06C
+icao: 
+latitude: 41.9893408
+longitude: -88.1012428
+elevation: 801
+utc_offset: -6
+_class: A
+timezone: America/Chicago

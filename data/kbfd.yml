@@ -1,0 +1,12 @@
+---
+airport_name: Bradford Regional Airport
+city: Bradford
+country: United States
+iata: BFD
+icao: KBFD
+latitude: 41.8031
+longitude: -78.6401
+elevation: 2143
+utc_offset: -5
+_class: A
+timezone: America/New_York

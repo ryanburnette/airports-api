@@ -1,0 +1,12 @@
+---
+airport_name: Orchid Beach
+city: Fraser Island
+country: Australia
+iata: OKB
+icao: KOKB
+latitude: -24.95841
+longitude: 153.3145
+elevation: 6
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

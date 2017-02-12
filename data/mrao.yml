@@ -1,0 +1,12 @@
+---
+airport_name: Aerotortuguero Airport
+city: Roxana
+country: Costa Rica
+iata: TTQ
+icao: MRAO
+latitude: 10.569
+longitude: -83.5148
+elevation: 82
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

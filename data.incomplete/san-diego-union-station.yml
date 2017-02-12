@@ -1,0 +1,12 @@
+---
+airport_name: San Diego Union Station
+city: San Diego
+country: United States
+iata: 
+icao: 
+latitude: 32.716944
+longitude: -117.168611
+elevation: 50
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

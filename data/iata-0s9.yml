@@ -1,0 +1,12 @@
+---
+airport_name: Jefferson County Intl
+city: Port Townsend
+country: United States
+iata: 0S9
+icao: 
+latitude: 48.0538086
+longitude: -122.8106436
+elevation: 108
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

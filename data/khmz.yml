@@ -1,0 +1,12 @@
+---
+airport_name: Bedford County
+city: Bedford
+country: United States
+iata: 
+icao: KHMZ
+latitude: 40.086111
+longitude: -78.513333
+elevation: 1162
+utc_offset: -5
+_class: A
+timezone: America/New_York

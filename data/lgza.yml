@@ -1,0 +1,12 @@
+---
+airport_name: Dionysios Solomos
+city: Zakynthos
+country: Greece
+iata: ZTH
+icao: LGZA
+latitude: 37.750853
+longitude: 20.88425
+elevation: 15
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

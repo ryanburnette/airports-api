@@ -1,0 +1,12 @@
+---
+airport_name: Kamenz
+city: Kamenz
+country: Germany
+iata: 
+icao: EDCM
+latitude: 51.29625
+longitude: 14.129
+elevation: 495
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

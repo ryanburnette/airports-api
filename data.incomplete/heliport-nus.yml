@@ -1,0 +1,12 @@
+---
+airport_name: Heliport NUS
+city: Umea
+country: Sweden
+iata: 
+icao: 
+latitude: 63.817
+longitude: 20.2981
+elevation: 100
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

@@ -1,0 +1,12 @@
+---
+airport_name: Agri Airport
+city: Agri
+country: Turkey
+iata: AJI
+icao: LTCO
+latitude: 39.6546
+longitude: 43.0271
+elevation: 5462
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

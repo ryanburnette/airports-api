@@ -1,0 +1,12 @@
+---
+airport_name: Takaka Aerodrome
+city: Takaka
+country: New Zealand
+iata: KTF
+icao: NZTK
+latitude: -40.85
+longitude: 172.8
+elevation: 500
+utc_offset: 12
+_class: U
+timezone: Pacific/Auckland

@@ -1,0 +1,12 @@
+---
+airport_name: Port Macquarie Airport
+city: Port Macquarie
+country: Australia
+iata: PQQ
+icao: YPMQ
+latitude: -31.4358
+longitude: 152.863
+elevation: 12
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

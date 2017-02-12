@@ -1,0 +1,12 @@
+---
+airport_name: Oban Airport
+city: North Connel
+country: United Kingdom
+iata: OBN
+icao: EGEO
+latitude: 56.464
+longitude: -5.4
+elevation: 23
+utc_offset: 0
+_class: E
+timezone: Europe/London

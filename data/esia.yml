@@ -1,0 +1,12 @@
+---
+airport_name: Karlsborg
+city: Karlsborg
+country: Sweden
+iata: 
+icao: ESIA
+latitude: 58.513842
+longitude: 14.507119
+elevation: 308
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

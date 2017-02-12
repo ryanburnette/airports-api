@@ -1,0 +1,12 @@
+---
+airport_name: Stony River 2 Airport
+city: Stony River
+country: United States
+iata: SRV
+icao: 
+latitude: 61.7875
+longitude: -156.591111
+elevation: 230
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

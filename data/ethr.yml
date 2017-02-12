@@ -1,0 +1,12 @@
+---
+airport_name: Roth
+city: Roth
+country: Germany
+iata: 
+icao: ETHR
+latitude: 49.2175
+longitude: 11.100167
+elevation: 1268
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

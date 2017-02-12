@@ -1,0 +1,12 @@
+---
+airport_name: Ekwok Airport
+city: Ekwok
+country: United States
+iata: KEK
+icao: 
+latitude: 59.356944
+longitude: -157.471111
+elevation: 135
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

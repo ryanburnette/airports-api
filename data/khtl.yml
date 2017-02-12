@@ -1,0 +1,12 @@
+---
+airport_name: Roscommon Co
+city: Houghton Lake
+country: United States
+iata: HTL
+icao: KHTL
+latitude: 44.359806
+longitude: -84.671112
+elevation: 1150
+utc_offset: -5
+_class: A
+timezone: America/New_York

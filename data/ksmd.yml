@@ -1,0 +1,12 @@
+---
+airport_name: Smith Fld
+city: Fort Wayne IN
+country: United States
+iata: SMD
+icao: KSMD
+latitude: 41.143353
+longitude: -85.152778
+elevation: 834
+utc_offset: -5
+_class: A
+timezone: America/New_York

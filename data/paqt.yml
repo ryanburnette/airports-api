@@ -1,0 +1,12 @@
+---
+airport_name: Nuiqsut Airport
+city: Nuiqsut
+country: United States
+iata: NUI
+icao: PAQT
+latitude: 70.21
+longitude: -151.005556
+elevation: 38
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

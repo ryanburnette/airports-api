@@ -1,0 +1,12 @@
+---
+airport_name: Halli
+city: Halli
+country: Finland
+iata: KEV
+icao: EFHA
+latitude: 61.85605
+longitude: 24.7866
+elevation: 479
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

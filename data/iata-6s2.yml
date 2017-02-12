@@ -1,0 +1,12 @@
+---
+airport_name: Florence
+city: Florence
+country: United States
+iata: 6S2
+icao: 
+latitude: 43.9828168
+longitude: -124.1113687
+elevation: 51
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

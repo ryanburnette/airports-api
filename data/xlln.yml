@@ -1,0 +1,12 @@
+---
+airport_name: Kasimovo
+city: Saint-Petersburg
+country: Russia
+iata: 
+icao: XLLN
+latitude: 60.200059
+longitude: 30.334926
+elevation: 230
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

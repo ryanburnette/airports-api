@@ -1,0 +1,12 @@
+---
+airport_name: Pullman-Moscow Rgnl
+city: Pullman
+country: United States
+iata: PUW
+icao: KPUW
+latitude: 46.743861
+longitude: -117.109583
+elevation: 2556
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

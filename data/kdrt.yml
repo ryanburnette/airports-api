@@ -1,0 +1,12 @@
+---
+airport_name: Del Rio Intl
+city: Del Rio
+country: United States
+iata: DRT
+icao: KDRT
+latitude: 29.374208
+longitude: -100.927158
+elevation: 1002
+utc_offset: -6
+_class: A
+timezone: America/Chicago

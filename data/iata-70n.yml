@@ -1,0 +1,12 @@
+---
+airport_name: Spring Hill Airport
+city: Sterling
+country: United States
+iata: 70N
+icao: 
+latitude: 41.3473569
+longitude: -75.4158972
+elevation: 1729
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Tri-State Steuben County Airport
+city: Angola
+country: United States
+iata: ANQ
+icao: KANQ
+latitude: 41.6396983
+longitude: -85.0834933
+elevation: 995
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: A Coruna
+city: La Coruna
+country: Spain
+iata: LCG
+icao: LECO
+latitude: 43.302061
+longitude: -8.377256
+elevation: 326
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

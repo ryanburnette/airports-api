@@ -1,0 +1,12 @@
+---
+airport_name: Marco Islands
+city: Marco Island Airport
+country: United States
+iata: MRK
+icao: KMKY
+latitude: 25.9950278
+longitude: -81.6725278
+elevation: 5
+utc_offset: -5
+_class: A
+timezone: America/New_York

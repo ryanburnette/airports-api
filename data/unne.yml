@@ -1,0 +1,12 @@
+---
+airport_name: Yeltsovka
+city: Novosibirsk
+country: Russia
+iata: 
+icao: UNNE
+latitude: 55.077
+longitude: 82.997
+elevation: 617
+utc_offset: 7
+_class: N
+timezone: Asia/Omsk

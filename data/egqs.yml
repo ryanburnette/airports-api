@@ -1,0 +1,12 @@
+---
+airport_name: Lossiemouth
+city: Lossiemouth
+country: United Kingdom
+iata: LMO
+icao: EGQS
+latitude: 57.705214
+longitude: -3.339169
+elevation: 42
+utc_offset: 0
+_class: E
+timezone: Europe/London

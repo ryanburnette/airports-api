@@ -1,0 +1,12 @@
+---
+airport_name: Koszalin - Zegrze Pomorskie Airport
+city: Koszalin
+country: Poland
+iata: OSZ
+icao: EPKO
+latitude: 54.041
+longitude: 16.266
+elevation: 111
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

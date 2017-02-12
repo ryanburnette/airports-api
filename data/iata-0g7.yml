@@ -1,0 +1,12 @@
+---
+airport_name: Finger Lakes Regional Airport
+city: Seneca Falls
+country: United States
+iata: 0G7
+icao: 
+latitude: 42.8835647
+longitude: -76.7812318
+elevation: 492
+utc_offset: -5
+_class: A
+timezone: America/New_York

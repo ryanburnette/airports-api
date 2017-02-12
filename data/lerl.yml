@@ -1,0 +1,12 @@
+---
+airport_name: Ciudad Real Central Airport
+city: Ciudad Real
+country: Spain
+iata: CQM
+icao: LERL
+latitude: 38.856389
+longitude: -3.97
+elevation: 636
+utc_offset: 1
+_class: U
+timezone: Europe/Madrid

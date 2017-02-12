@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Beijing
+country: China
+iata: BJS
+icao: 
+latitude: 39.904167
+longitude: 116.407222
+elevation: 171
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

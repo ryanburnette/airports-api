@@ -1,0 +1,12 @@
+---
+airport_name: Pyhasalmi
+city: Pyhasalmi
+country: Finland
+iata: 
+icao: EFPY
+latitude: 63.731917
+longitude: 25.926306
+elevation: 528
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

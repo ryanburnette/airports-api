@@ -1,0 +1,12 @@
+---
+airport_name: Ponciano Arriaga Intl
+city: San Luis Potosi
+country: Mexico
+iata: SLP
+icao: MMSP
+latitude: 22.254303
+longitude: -100.930806
+elevation: 6035
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

@@ -1,0 +1,12 @@
+---
+airport_name: Hultsfred
+city: Hultsfred
+country: Sweden
+iata: HLF
+icao: ESSF
+latitude: 57.525833
+longitude: 15.823333
+elevation: 366
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

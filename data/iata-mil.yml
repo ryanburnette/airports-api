@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Milan
+country: Italy
+iata: MIL
+icao: 
+latitude: 45.463611
+longitude: 9.188056
+elevation: 402
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

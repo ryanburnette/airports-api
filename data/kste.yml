@@ -1,0 +1,12 @@
+---
+airport_name: Stevens Point Municipal Airport
+city: Stevens Point
+country: United States
+iata: STE
+icao: KSTE
+latitude: 44.5451356
+longitude: -89.5302844
+elevation: 1110
+utc_offset: -6
+_class: A
+timezone: America/Chicago

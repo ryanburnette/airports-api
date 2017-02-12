@@ -1,0 +1,12 @@
+---
+airport_name: 'Windhoek Hosea Kutako International Airport '
+city: Windhoek
+country: Namibia
+iata: WDH
+icao: FYWV
+latitude: -22.486667
+longitude: 17.4625
+elevation: 5640
+utc_offset: 1
+_class: S
+timezone: Africa/Windhoek

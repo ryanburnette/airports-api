@@ -1,0 +1,12 @@
+---
+airport_name: Mark Anton Airport
+city: Dayton
+country: United States
+iata: 2A0
+icao: 
+latitude: 35.48625
+longitude: -84.9310833
+elevation: 718
+utc_offset: -5
+_class: A
+timezone: America/New_York

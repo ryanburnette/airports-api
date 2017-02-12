@@ -1,0 +1,12 @@
+---
+airport_name: Mandinga Airport
+city: Condoto
+country: Colombia
+iata: COG
+icao: SKCD
+latitude: 5.071667
+longitude: -76.676389
+elevation: 10
+utc_offset: -5
+_class: U
+timezone: America/Bogota

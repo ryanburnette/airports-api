@@ -1,0 +1,12 @@
+---
+airport_name: Lompoc Airport
+city: Lompoc
+country: United States
+iata: LPC
+icao: KLPC
+latitude: 34.6656
+longitude: -120.4675
+elevation: 88
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Glasgow
+city: Glasgow
+country: United Kingdom
+iata: GLA
+icao: EGPF
+latitude: 55.871944
+longitude: -4.433056
+elevation: 26
+utc_offset: 0
+_class: E
+timezone: Europe/London

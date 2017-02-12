@@ -1,0 +1,12 @@
+---
+airport_name: Marktoberdorf BF
+city: Marktoberdorf
+country: Germany
+iata: OAL
+icao: MARK
+latitude: 47.78
+longitude: 10.627
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

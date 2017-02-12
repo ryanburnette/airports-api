@@ -1,0 +1,12 @@
+---
+airport_name: Loubomo Airport
+city: Loubomo
+country: Congo (Brazzaville)
+iata: DIS
+icao: FCPL
+latitude: -4.2
+longitude: 12.7
+elevation: 1079
+utc_offset: 1
+_class: N
+timezone: Africa/Brazzaville

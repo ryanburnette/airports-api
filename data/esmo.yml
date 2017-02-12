@@ -1,0 +1,12 @@
+---
+airport_name: Oskarshamn
+city: Oskarshamn
+country: Sweden
+iata: OSK
+icao: ESMO
+latitude: 57.350453
+longitude: 16.497972
+elevation: 96
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

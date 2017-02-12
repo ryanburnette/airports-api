@@ -1,0 +1,12 @@
+---
+airport_name: Negril Aerodrome
+city: Negril
+country: Jamaica
+iata: NEG
+icao: MKNG
+latitude: 18.34
+longitude: -78.335556
+elevation: 9
+utc_offset: -5
+_class: U
+timezone: America/Jamaica

@@ -1,0 +1,12 @@
+---
+airport_name: Khovd Airport
+city: Khovd
+country: Mongolia
+iata: HVD
+icao: ZMKD
+latitude: 47.9541
+longitude: 91.6282
+elevation: 4898
+utc_offset: 7
+_class: U
+timezone: Asia/Hovd

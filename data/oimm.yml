@@ -1,0 +1,12 @@
+---
+airport_name: Mashhad
+city: Mashhad
+country: Iran
+iata: MHD
+icao: OIMM
+latitude: 36.234
+longitude: 59.643
+elevation: 3263
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

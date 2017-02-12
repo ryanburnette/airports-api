@@ -1,0 +1,12 @@
+---
+airport_name: Stuttgart Railway Station
+city: Stuttgart
+country: Germany
+iata: ZWS
+icao: 
+latitude: 48.783611
+longitude: 9.181667
+elevation: 200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

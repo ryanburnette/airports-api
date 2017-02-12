@@ -1,0 +1,12 @@
+---
+airport_name: Worms
+city: Worms
+country: Germany
+iata: 
+icao: EDFV
+latitude: 49.606511
+longitude: 8.3684
+elevation: 295
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

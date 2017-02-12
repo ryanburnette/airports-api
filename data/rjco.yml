@@ -1,0 +1,12 @@
+---
+airport_name: Okadama Airport
+city: Sapporo
+country: Japan
+iata: OKD
+icao: RJCO
+latitude: 43.1161
+longitude: 141.38
+elevation: 25
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

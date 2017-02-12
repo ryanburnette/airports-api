@@ -1,0 +1,12 @@
+---
+airport_name: Boutheon
+city: St-Etienne
+country: France
+iata: EBU
+icao: LFMH
+latitude: 45.540554
+longitude: 4.296389
+elevation: 1325
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Bella Coola Airport
+city: Bella Coola
+country: Canada
+iata: QBC
+icao: CYBD
+latitude: 52.3875
+longitude: -126.596
+elevation: 117
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: Sinop Airport
+city: Sinop
+country: Turkey
+iata: SIC
+icao: LTCM
+latitude: 42.0158
+longitude: 35.0664
+elevation: 20
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

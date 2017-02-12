@@ -1,0 +1,12 @@
+---
+airport_name: Mielec
+city: Mielec
+country: Poland
+iata: 
+icao: EPML
+latitude: 50.322275
+longitude: 21.462131
+elevation: 548
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

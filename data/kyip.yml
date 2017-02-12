@@ -1,0 +1,12 @@
+---
+airport_name: Willow Run
+city: Detroit
+country: United States
+iata: YIP
+icao: KYIP
+latitude: 42.237928
+longitude: -83.530408
+elevation: 716
+utc_offset: -5
+_class: A
+timezone: America/New_York

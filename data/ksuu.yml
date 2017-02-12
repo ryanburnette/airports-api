@@ -1,0 +1,12 @@
+---
+airport_name: Travis Afb
+city: Fairfield
+country: United States
+iata: SUU
+icao: KSUU
+latitude: 38.262692
+longitude: -121.927464
+elevation: 62
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

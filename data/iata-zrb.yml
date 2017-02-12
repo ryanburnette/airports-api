@@ -1,0 +1,12 @@
+---
+airport_name: Frankfurt-Main Hauptbahnhof
+city: Frankfurt
+country: Germany
+iata: ZRB
+icao: 
+latitude: 50.1070257990375
+longitude: 8.66276050515751
+elevation: 372
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

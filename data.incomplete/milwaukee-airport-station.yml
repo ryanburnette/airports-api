@@ -1,0 +1,12 @@
+---
+airport_name: Milwaukee Airport Station
+city: Milwaukee
+country: United States
+iata: 
+icao: 
+latitude: 42.940556
+longitude: -87.924722
+elevation: 730
+utc_offset: -6
+_class: A
+timezone: America/Chicago

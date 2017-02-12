@@ -1,0 +1,12 @@
+---
+airport_name: Etimesgut
+city: Ankara
+country: Turkey
+iata: ANK
+icao: LTAD
+latitude: 39.949831
+longitude: 32.688622
+elevation: 2653
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

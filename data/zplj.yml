@@ -1,0 +1,12 @@
+---
+airport_name: Lijiang Airport
+city: Lijiang
+country: China
+iata: LJG
+icao: ZPLJ
+latitude: 26.883333
+longitude: 100.23333
+elevation: 7923
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

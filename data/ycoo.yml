@@ -1,0 +1,12 @@
+---
+airport_name: Cooinda
+city: Cooinda
+country: Australia
+iata: CDA
+icao: YCOO
+latitude: -12.9033
+longitude: 132.532
+elevation: 43
+utc_offset: 9.5
+_class: U
+timezone: Australia/Darwin

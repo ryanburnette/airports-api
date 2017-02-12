@@ -1,0 +1,12 @@
+---
+airport_name: Sorkjosen Airport
+city: Sorkjosen
+country: Norway
+iata: SOJ
+icao: ENSR
+latitude: 69.7868
+longitude: 20.9594
+elevation: 16
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

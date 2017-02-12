@@ -1,0 +1,12 @@
+---
+airport_name: Williamson-Sodus Airport
+city: Williamson
+country: United States
+iata: SDC
+icao: KSDC
+latitude: 43.2347904
+longitude: -77.119444
+elevation: 424
+utc_offset: -5
+_class: A
+timezone: America/New_York

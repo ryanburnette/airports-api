@@ -1,0 +1,12 @@
+---
+airport_name: Londrina
+city: Londrina
+country: Brazil
+iata: LDB
+icao: SBLO
+latitude: -23.333625
+longitude: -51.130072
+elevation: 1867
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

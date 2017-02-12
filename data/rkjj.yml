@@ -1,0 +1,12 @@
+---
+airport_name: Gwangju
+city: Kwangju
+country: South Korea
+iata: KWJ
+icao: RKJJ
+latitude: 35.126389
+longitude: 126.808889
+elevation: 39
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

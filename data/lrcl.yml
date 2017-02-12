@@ -1,0 +1,12 @@
+---
+airport_name: Cluj Napoca
+city: Cluj-napoca
+country: Romania
+iata: CLJ
+icao: LRCL
+latitude: 46.785167
+longitude: 23.686167
+elevation: 1036
+utc_offset: 2
+_class: E
+timezone: Europe/Bucharest

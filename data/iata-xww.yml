@@ -1,0 +1,12 @@
+---
+airport_name: Westbahnhoff
+city: Vienna
+country: Austria
+iata: XWW
+icao: 
+latitude: 48.196667
+longitude: 16.337778
+elevation: 600
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

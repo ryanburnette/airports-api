@@ -1,0 +1,12 @@
+---
+airport_name: Oconomowoc Airport
+city: Oconomowoc
+country: United States
+iata: 
+icao: 0WI8
+latitude: 43.1388947
+longitude: -88.4723206
+elevation: 885
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Montoir
+city: St.-nazaire
+country: France
+iata: SNR
+icao: LFRZ
+latitude: 47.312189
+longitude: -2.149181
+elevation: 13
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

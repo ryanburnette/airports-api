@@ -1,0 +1,12 @@
+---
+airport_name: Port McNeill Airport
+city: Port McNeill
+country: Canada
+iata: YMP
+icao: 
+latitude: 50.575556
+longitude: -127.028611
+elevation: 225
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

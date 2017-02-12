@@ -1,0 +1,12 @@
+---
+airport_name: Conington
+city: Peterborough
+country: United Kingdom
+iata: 
+icao: EGSF
+latitude: 52.468056
+longitude: -0.251111
+elevation: 26
+utc_offset: 0
+_class: E
+timezone: Europe/London

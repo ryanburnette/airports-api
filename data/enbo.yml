@@ -1,0 +1,12 @@
+---
+airport_name: Bodo
+city: Bodo
+country: Norway
+iata: BOO
+icao: ENBO
+latitude: 67.269167
+longitude: 14.365278
+elevation: 42
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

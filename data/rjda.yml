@@ -1,0 +1,12 @@
+---
+airport_name: Amakusa Airfield
+city: Amakusa
+country: Japan
+iata: AXJ
+icao: RJDA
+latitude: 32.482222
+longitude: 130.158889
+elevation: 340
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

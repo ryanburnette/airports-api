@@ -1,0 +1,12 @@
+---
+airport_name: Beppu Airport
+city: Beppu
+country: Japan
+iata: BPU
+icao: 
+latitude: 33.3
+longitude: 131.5333
+elevation: 197
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

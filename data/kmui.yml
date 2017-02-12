@@ -1,0 +1,12 @@
+---
+airport_name: Muir Aaf
+city: Muir
+country: United States
+iata: MUI
+icao: KMUI
+latitude: 40.434811
+longitude: -76.569411
+elevation: 489
+utc_offset: -5
+_class: A
+timezone: America/New_York

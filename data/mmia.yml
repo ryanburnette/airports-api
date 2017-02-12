@@ -1,0 +1,12 @@
+---
+airport_name: Colima
+city: Colima
+country: Mexico
+iata: CLQ
+icao: MMIA
+latitude: 19.277011
+longitude: -103.577397
+elevation: 2467
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

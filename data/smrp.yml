@@ -1,0 +1,12 @@
+---
+airport_name: Bus
+city: Siem Reap
+country: Cambodia
+iata: 
+icao: SMRP
+latitude: 13.361002
+longitude: 103.859543
+elevation: 0
+utc_offset: 7
+_class: N
+timezone: Asia/Phnom_Penh

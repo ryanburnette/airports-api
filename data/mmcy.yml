@@ -1,0 +1,12 @@
+---
+airport_name: Captain Rogelio Castillo National Airport
+city: Celaya
+country: Mexico
+iata: CYW
+icao: MMCY
+latitude: 20.545994
+longitude: -100.88655
+elevation: 5709
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

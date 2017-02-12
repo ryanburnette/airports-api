@@ -1,0 +1,12 @@
+---
+airport_name: Phillip Island Cruise Port
+city: Phillip Island
+country: Australia
+iata: 
+icao: YPID
+latitude: -38.4468
+longitude: 145.2378
+elevation: 0
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

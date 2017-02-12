@@ -1,0 +1,12 @@
+---
+airport_name: Guanambi Airport
+city: Guanambi
+country: Brazil
+iata: GNM
+icao: SNGI
+latitude: -14.216667
+longitude: -42.783333
+elevation: 500
+utc_offset: -3
+_class: S
+timezone: America/Fortaleza

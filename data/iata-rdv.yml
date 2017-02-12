@@ -1,0 +1,12 @@
+---
+airport_name: Red Devil Airport
+city: Red Devil
+country: United States
+iata: RDV
+icao: 
+latitude: 61.788056
+longitude: -157.350278
+elevation: 174
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

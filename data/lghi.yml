@@ -1,0 +1,12 @@
+---
+airport_name: Chios
+city: Chios
+country: Greece
+iata: JKH
+icao: LGHI
+latitude: 38.343175
+longitude: 26.140572
+elevation: 15
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

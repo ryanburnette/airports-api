@@ -1,0 +1,12 @@
+---
+airport_name: Burgos Airport
+city: Burgos
+country: Spain
+iata: RGS
+icao: LEBG
+latitude: 42.357628
+longitude: -3.620764
+elevation: 2945
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

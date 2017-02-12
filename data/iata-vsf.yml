@@ -1,0 +1,12 @@
+---
+airport_name: Hartness State
+city: Springfield VT
+country: United States
+iata: VSF
+icao: 
+latitude: 43.343333
+longitude: -72.517222
+elevation: 577
+utc_offset: -5
+_class: A
+timezone: America/New_York

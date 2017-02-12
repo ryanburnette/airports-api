@@ -1,0 +1,12 @@
+---
+airport_name: Baraboo Wisconsin Dells Airport
+city: Baraboo
+country: United States
+iata: DLL
+icao: KDLL
+latitude: 43.5217843
+longitude: -89.7709266
+elevation: 979
+utc_offset: -6
+_class: A
+timezone: America/Chicago

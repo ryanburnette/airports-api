@@ -1,0 +1,12 @@
+---
+airport_name: Budel
+city: Weert
+country: Netherlands
+iata: 
+icao: EHBD
+latitude: 51.25528
+longitude: 5.601389
+elevation: 114
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

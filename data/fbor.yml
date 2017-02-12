@@ -1,0 +1,12 @@
+---
+airport_name: Orapa Airport
+city: Orapa
+country: Botswana
+iata: ORP
+icao: FBOR
+latitude: -21.2667
+longitude: 25.3167
+elevation: 3100
+utc_offset: 2
+_class: U
+timezone: Africa/Gaborone

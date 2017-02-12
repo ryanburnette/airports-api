@@ -1,0 +1,12 @@
+---
+airport_name: Ioannina
+city: Ioannina
+country: Greece
+iata: IOA
+icao: LGIO
+latitude: 39.696388
+longitude: 20.8225
+elevation: 1558
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

@@ -1,0 +1,12 @@
+---
+airport_name: Isla Mujeres
+city: Isla Mujeres
+country: Mexico
+iata: ISJ
+icao: MMIM
+latitude: 21.245033
+longitude: -86.739967
+elevation: 7
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

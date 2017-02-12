@@ -1,0 +1,12 @@
+---
+airport_name: Gilbert Airport
+city: Winter Haven
+country: United States
+iata: GIF
+icao: KGIF
+latitude: 28.062778
+longitude: -81.753333
+elevation: 145
+utc_offset: -5
+_class: A
+timezone: America/New_York

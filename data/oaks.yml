@@ -1,0 +1,12 @@
+---
+airport_name: FOB Salerno
+city: Khost
+country: Afghanistan
+iata: KHT
+icao: OAKS
+latitude: 33.3334
+longitude: 69.952
+elevation: 3756
+utc_offset: 4.5
+_class: N
+timezone: Asia/Kabul

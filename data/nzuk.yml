@@ -1,0 +1,12 @@
+---
+airport_name: Pukaki
+city: Pukaki
+country: New Zealand
+iata: 
+icao: NZUK
+latitude: -44.235
+longitude: 170.118333
+elevation: 1575
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

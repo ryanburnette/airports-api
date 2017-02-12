@@ -1,0 +1,12 @@
+---
+airport_name: Arviat
+city: Eskimo Point
+country: Canada
+iata: YEK
+icao: CYEK
+latitude: 61.094166
+longitude: -94.070833
+elevation: 32
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

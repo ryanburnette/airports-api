@@ -1,0 +1,12 @@
+---
+airport_name: Tezpur Airport
+city: Tezpur
+country: India
+iata: TEZ
+icao: VETZ
+latitude: 26.7091
+longitude: 92.7847
+elevation: 240
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

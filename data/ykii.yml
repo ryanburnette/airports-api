@@ -1,0 +1,12 @@
+---
+airport_name: King Island Airport
+city: King Island
+country: Australia
+iata: KNS
+icao: YKII
+latitude: -39.8775
+longitude: 143.878
+elevation: 132
+utc_offset: 10
+_class: O
+timezone: Australia/Melbourne

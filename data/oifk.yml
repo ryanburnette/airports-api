@@ -1,0 +1,12 @@
+---
+airport_name: Kashan
+city: Kashan
+country: Iran
+iata: 
+icao: OIFK
+latitude: 33.895333
+longitude: 51.577044
+elevation: 3465
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

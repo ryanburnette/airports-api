@@ -1,0 +1,12 @@
+---
+airport_name: Port Lions Airport
+city: Port Lions
+country: United States
+iata: ORI
+icao: 
+latitude: 57.885278
+longitude: -152.846111
+elevation: 52
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

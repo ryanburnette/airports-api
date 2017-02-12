@@ -1,0 +1,12 @@
+---
+airport_name: General Mariano Matamoros
+city: Cuernavaca
+country: Mexico
+iata: CVJ
+icao: MMCB
+latitude: 18.834764
+longitude: -99.2613
+elevation: 4277
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

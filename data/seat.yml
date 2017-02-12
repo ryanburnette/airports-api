@@ -1,0 +1,12 @@
+---
+airport_name: King St Station
+city: Seattle
+country: United States
+iata: 
+icao: SEAT
+latitude: 47.5985
+longitude: -122.3299
+elevation: 7
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

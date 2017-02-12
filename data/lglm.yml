@@ -1,0 +1,12 @@
+---
+airport_name: Limnos
+city: Limnos
+country: Greece
+iata: LXS
+icao: LGLM
+latitude: 39.917072
+longitude: 25.236308
+elevation: 14
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

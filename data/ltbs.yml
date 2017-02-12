@@ -1,0 +1,12 @@
+---
+airport_name: Dalaman
+city: Dalaman
+country: Turkey
+iata: DLM
+icao: LTBS
+latitude: 36.713056
+longitude: 28.7925
+elevation: 20
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

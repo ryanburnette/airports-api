@@ -1,0 +1,12 @@
+---
+airport_name: Morgantown Airport
+city: Morgantown
+country: United States
+iata: O03
+icao: 
+latitude: 40.1570414
+longitude: -75.8704892
+elevation: 600
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: La Chorrera Airport
+city: La Chorrera
+country: Colombia
+iata: LCR
+icao: 
+latitude: -0.733333
+longitude: -73.016667
+elevation: 10
+utc_offset: -5
+_class: U
+timezone: America/Bogota

@@ -1,0 +1,12 @@
+---
+airport_name: Mahshahr
+city: Bandar Mahshahr
+country: Iran
+iata: MRX
+icao: OIAM
+latitude: 30.556192
+longitude: 49.151879
+elevation: 8
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

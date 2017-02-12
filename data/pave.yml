@@ -1,0 +1,12 @@
+---
+airport_name: Venetie Airport
+city: Venetie
+country: United States
+iata: VEE
+icao: PAVE
+latitude: 67.008611
+longitude: -146.366389
+elevation: 574
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

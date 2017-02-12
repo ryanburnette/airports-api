@@ -1,0 +1,12 @@
+---
+airport_name: Kalskag Airport
+city: Kalskag
+country: United States
+iata: KLG
+icao: PALG
+latitude: 61.5363
+longitude: -160.341
+elevation: 55
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

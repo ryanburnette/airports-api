@@ -1,0 +1,12 @@
+---
+airport_name: Concordia Airport
+city: Concordia
+country: Brazil
+iata: CCI
+icao: SSCK
+latitude: -27.180556
+longitude: -52.052778
+elevation: 2461
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

@@ -1,0 +1,12 @@
+---
+airport_name: Eskisehir
+city: Eskisehir
+country: Turkey
+iata: ESK
+icao: LTBI
+latitude: 39.784138
+longitude: 30.582111
+elevation: 2581
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

@@ -1,0 +1,12 @@
+---
+airport_name: Comodoro Pierrestegui
+city: Concordia
+country: Argentina
+iata: COC
+icao: SAAC
+latitude: -31.296944
+longitude: -57.996631
+elevation: 112
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

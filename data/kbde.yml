@@ -1,0 +1,12 @@
+---
+airport_name: Baudette Intl
+city: Baudette
+country: United States
+iata: BDE
+icao: KBDE
+latitude: 48.728444
+longitude: -94.612222
+elevation: 1086
+utc_offset: -6
+_class: A
+timezone: America/Chicago

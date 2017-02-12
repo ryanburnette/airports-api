@@ -1,0 +1,12 @@
+---
+airport_name: Hayward Executive Airport
+city: Hayward
+country: United States
+iata: HWD
+icao: KHWD
+latitude: 37.65888888888889
+longitude: -122.12166666666666
+elevation: 52
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

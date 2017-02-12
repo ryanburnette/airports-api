@@ -1,0 +1,12 @@
+---
+airport_name: Darwin Intl
+city: Darwin
+country: Australia
+iata: DRW
+icao: YPDN
+latitude: -12.4083333
+longitude: 130.87266
+elevation: 103
+utc_offset: 9.5
+_class: N
+timezone: Australia/Darwin

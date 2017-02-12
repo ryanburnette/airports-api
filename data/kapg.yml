@@ -1,0 +1,12 @@
+---
+airport_name: Phillips Aaf
+city: Aberdeen
+country: United States
+iata: APG
+icao: KAPG
+latitude: 39.466219
+longitude: -76.168808
+elevation: 57
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Ruzyne
+city: Prague
+country: Czech Republic
+iata: PRG
+icao: LKPR
+latitude: 50.100833
+longitude: 14.26
+elevation: 1247
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

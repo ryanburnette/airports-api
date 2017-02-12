@@ -1,0 +1,12 @@
+---
+airport_name: Vaskovo
+city: Arkhangelsk
+country: Russia
+iata: 
+icao: ULAH
+latitude: 64.441667
+longitude: 40.421667
+elevation: 8
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

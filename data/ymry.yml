@@ -1,0 +1,12 @@
+---
+airport_name: Moruya Airport
+city: Moruya
+country: Australia
+iata: MYA
+icao: YMRY
+latitude: -35.8978
+longitude: 150.144
+elevation: 14
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

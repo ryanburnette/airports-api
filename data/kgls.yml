@@ -1,0 +1,12 @@
+---
+airport_name: Scholes Intl At Galveston
+city: Galveston
+country: United States
+iata: GLS
+icao: KGLS
+latitude: 29.265322
+longitude: -94.860406
+elevation: 6
+utc_offset: -6
+_class: A
+timezone: America/Chicago

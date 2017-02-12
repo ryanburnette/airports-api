@@ -1,0 +1,12 @@
+---
+airport_name: Newton City-County Airport
+city: Newton
+country: United States
+iata: EWK
+icao: KEWK
+latitude: 38.0570785
+longitude: -97.2752278
+elevation: 1533
+utc_offset: -6
+_class: A
+timezone: America/Chicago

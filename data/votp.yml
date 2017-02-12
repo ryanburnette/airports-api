@@ -1,0 +1,12 @@
+---
+airport_name: Tirupati
+city: Tirupeti
+country: India
+iata: TIR
+icao: VOTP
+latitude: 13.632492
+longitude: 79.543256
+elevation: 350
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

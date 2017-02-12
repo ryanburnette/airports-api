@@ -1,0 +1,12 @@
+---
+airport_name: Beaufort
+city: Beaufort
+country: United States
+iata: BFT
+icao: KNBC
+latitude: 32.477411
+longitude: -80.723161
+elevation: 37
+utc_offset: -5
+_class: A
+timezone: America/New_York

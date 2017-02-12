@@ -1,0 +1,12 @@
+---
+airport_name: Borkum
+city: Borkum
+country: Germany
+iata: BMK
+icao: EDWR
+latitude: 53.5955
+longitude: 6.709167
+elevation: 3
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

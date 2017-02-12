@@ -1,0 +1,12 @@
+---
+airport_name: Terre Haute Intl Hulman Fld
+city: Terre Haute
+country: United States
+iata: HUF
+icao: KHUF
+latitude: 39.451464
+longitude: -87.307561
+elevation: 589
+utc_offset: -5
+_class: A
+timezone: America/New_York

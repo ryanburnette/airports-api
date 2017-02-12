@@ -1,0 +1,12 @@
+---
+airport_name: Mcmurdo Station
+city: Weydon
+country: Antarctica
+iata: 
+icao: NZWD
+latitude: -77.867358
+longitude: 167.056572
+elevation: 68
+utc_offset: 12
+_class: N
+timezone: Antarctica/South_Pole

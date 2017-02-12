@@ -1,0 +1,12 @@
+---
+airport_name: Mbs Intl
+city: Saginaw
+country: United States
+iata: MBS
+icao: KMBS
+latitude: 43.532913
+longitude: -84.079647
+elevation: 668
+utc_offset: -5
+_class: A
+timezone: America/New_York

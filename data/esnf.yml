@@ -1,0 +1,12 @@
+---
+airport_name: Farila Air Base
+city: Farila
+country: Sweden
+iata: 
+icao: ESNF
+latitude: 62.03
+longitude: 15.752
+elevation: 660
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

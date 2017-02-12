@@ -1,0 +1,12 @@
+---
+airport_name: Oxnard - Ventura County
+city: Oxnard
+country: United States
+iata: OXR
+icao: KOXR
+latitude: 34.200833
+longitude: -119.207222
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

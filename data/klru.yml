@@ -1,0 +1,12 @@
+---
+airport_name: Las Cruces Intl
+city: Las Cruces
+country: United States
+iata: LRU
+icao: KLRU
+latitude: 32.289417
+longitude: -106.921972
+elevation: 4456
+utc_offset: -7
+_class: A
+timezone: America/Denver

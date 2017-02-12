@@ -1,0 +1,12 @@
+---
+airport_name: Montauban
+city: Montauban
+country: France
+iata: 
+icao: LFDB
+latitude: 44.025694
+longitude: 1.378042
+elevation: 351
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

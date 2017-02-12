@@ -1,0 +1,12 @@
+---
+airport_name: Perth Scone Airport
+city: Perth
+country: United Kingdom
+iata: PSL
+icao: EGPT
+latitude: 56.439722
+longitude: -3.371389
+elevation: 392
+utc_offset: 0
+_class: E
+timezone: Europe/London

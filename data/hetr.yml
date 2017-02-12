@@ -1,0 +1,12 @@
+---
+airport_name: El Tor
+city: El-tor
+country: Egypt
+iata: ELT
+icao: HETR
+latitude: 28.209028
+longitude: 33.645517
+elevation: 115
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

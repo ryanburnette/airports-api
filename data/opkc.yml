@@ -1,0 +1,12 @@
+---
+airport_name: Jinnah Intl
+city: Karachi
+country: Pakistan
+iata: KHI
+icao: OPKC
+latitude: 24.906547
+longitude: 67.160797
+elevation: 100
+utc_offset: 5
+_class: N
+timezone: Asia/Karachi

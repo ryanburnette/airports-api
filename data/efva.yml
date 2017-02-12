@@ -1,0 +1,12 @@
+---
+airport_name: Vaasa
+city: Vaasa
+country: Finland
+iata: VAA
+icao: EFVA
+latitude: 63.05065
+longitude: 21.762175
+elevation: 19
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

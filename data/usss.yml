@@ -1,0 +1,12 @@
+---
+airport_name: Koltsovo
+city: Yekaterinburg
+country: Russia
+iata: SVX
+icao: USSS
+latitude: 56.743108
+longitude: 60.802728
+elevation: 764
+utc_offset: 6
+_class: N
+timezone: Asia/Yekaterinburg

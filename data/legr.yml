@@ -1,0 +1,12 @@
+---
+airport_name: Granada
+city: Granada
+country: Spain
+iata: GRX
+icao: LEGR
+latitude: 37.188731
+longitude: -3.777356
+elevation: 1860
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Bethel
+city: Bethel
+country: United States
+iata: BET
+icao: PABE
+latitude: 60.779778
+longitude: -161.838
+elevation: 121
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

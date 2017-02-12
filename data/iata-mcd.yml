@@ -1,0 +1,12 @@
+---
+airport_name: Mackinac Island Airport
+city: Mackinac Island
+country: United States
+iata: MCD
+icao: 
+latitude: 45.8649344
+longitude: -84.637344
+elevation: 740
+utc_offset: -5
+_class: U
+timezone: America/New_York

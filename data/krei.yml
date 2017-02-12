@@ -1,0 +1,12 @@
+---
+airport_name: Redlands Municipal Airport
+city: Redlands
+country: United States
+iata: REI
+icao: KREI
+latitude: 34.08525
+longitude: -117.146388
+elevation: 1574
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

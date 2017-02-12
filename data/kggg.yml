@@ -1,0 +1,12 @@
+---
+airport_name: East Texas Rgnl
+city: Longview
+country: United States
+iata: GGG
+icao: KGGG
+latitude: 32.384014
+longitude: -94.711486
+elevation: 365
+utc_offset: -6
+_class: A
+timezone: America/Chicago

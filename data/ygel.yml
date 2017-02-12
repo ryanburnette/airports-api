@@ -1,0 +1,12 @@
+---
+airport_name: Geraldton Airport
+city: Geraldton
+country: Australia
+iata: GET
+icao: YGEL
+latitude: -28.7961
+longitude: 114.707
+elevation: 121
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

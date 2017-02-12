@@ -1,0 +1,12 @@
+---
+airport_name: Sao Jose Do Rio Preto
+city: Sao Jose Do Rio Preto
+country: Brazil
+iata: SJP
+icao: SBSR
+latitude: -20.816567
+longitude: -49.406511
+elevation: 1784
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

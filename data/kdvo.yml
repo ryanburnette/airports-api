@@ -1,0 +1,12 @@
+---
+airport_name: Gnoss Field Airport
+city: Novato
+country: United States
+iata: 
+icao: KDVO
+latitude: 38.1436111
+longitude: -122.5561
+elevation: 2
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

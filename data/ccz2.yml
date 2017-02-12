@@ -1,0 +1,12 @@
+---
+airport_name: Rigolet Airport
+city: Rigolet
+country: Canada
+iata: YRG
+icao: CCZ2
+latitude: 54.1797
+longitude: -58.4575
+elevation: 180
+utc_offset: -4
+_class: A
+timezone: America/Halifax

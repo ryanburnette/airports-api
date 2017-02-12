@@ -1,0 +1,12 @@
+---
+airport_name: Hachijojima
+city: Hachijojima
+country: Japan
+iata: HAC
+icao: RJTH
+latitude: 33.115
+longitude: 139.785833
+elevation: 303
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

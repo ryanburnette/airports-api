@@ -1,0 +1,12 @@
+---
+airport_name: Sazena
+city: Sazena
+country: Czech Republic
+iata: LKS
+icao: LKSZ
+latitude: 50.1929
+longitude: 14.1532
+elevation: 233
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

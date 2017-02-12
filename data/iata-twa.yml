@@ -1,0 +1,12 @@
+---
+airport_name: Twin Hills Airport
+city: Twin Hills
+country: United States
+iata: TWA
+icao: 
+latitude: 59.074444
+longitude: -160.275
+elevation: 82
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Hof Plauen
+city: Hof
+country: Germany
+iata: HOQ
+icao: EDQM
+latitude: 50.288836
+longitude: 11.854919
+elevation: 1960
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

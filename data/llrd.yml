@@ -1,0 +1,12 @@
+---
+airport_name: Ramat David
+city: Ramat David
+country: Israel
+iata: 
+icao: LLRD
+latitude: 32.665142
+longitude: 35.179458
+elevation: 185
+utc_offset: 2
+_class: U
+timezone: Asia/Jerusalem

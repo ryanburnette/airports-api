@@ -1,0 +1,12 @@
+---
+airport_name: Elefsis
+city: Elefsis
+country: Greece
+iata: 
+icao: LGEL
+latitude: 38.063831
+longitude: 23.556011
+elevation: 143
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

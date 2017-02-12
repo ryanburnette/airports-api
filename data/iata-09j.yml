@@ -1,0 +1,12 @@
+---
+airport_name: Jekyll Island Airport
+city: Jekyll Island
+country: United States
+iata: 09J
+icao: 
+latitude: 31.0744722
+longitude: -81.4277778
+elevation: 11
+utc_offset: -5
+_class: A
+timezone: America/New_York

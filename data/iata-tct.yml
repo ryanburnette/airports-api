@@ -1,0 +1,12 @@
+---
+airport_name: Takotna Airport
+city: Takotna
+country: United States
+iata: TCT
+icao: 
+latitude: 62.971944
+longitude: -156.082778
+elevation: 825
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

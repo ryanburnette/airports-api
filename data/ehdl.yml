@@ -1,0 +1,12 @@
+---
+airport_name: Deelen
+city: Deelen
+country: Netherlands
+iata: 
+icao: EHDL
+latitude: 52.060556
+longitude: 5.873056
+elevation: 158
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

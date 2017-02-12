@@ -1,0 +1,12 @@
+---
+airport_name: Basel SBB
+city: Basel
+country: Switzerland
+iata: 
+icao: 
+latitude: 47.547531
+longitude: 7.58977
+elevation: 800
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

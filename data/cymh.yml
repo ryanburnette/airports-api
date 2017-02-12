@@ -1,0 +1,12 @@
+---
+airport_name: Mary's Harbour Airport
+city: Mary's Harbour
+country: Canada
+iata: YMH
+icao: CYMH
+latitude: 52.3028
+longitude: -55.8472
+elevation: 38
+utc_offset: -3.5
+_class: A
+timezone: America/St_Johns

@@ -1,0 +1,12 @@
+---
+airport_name: Gillespie
+city: El Cajon
+country: United States
+iata: SEE
+icao: KSEE
+latitude: 32.8262222
+longitude: -116.9724444
+elevation: 388
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

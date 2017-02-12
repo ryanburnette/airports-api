@@ -1,0 +1,12 @@
+---
+airport_name: Celle-Arloh Airport
+city: Celle
+country: Germany
+iata: 
+icao: EDVC
+latitude: 52.6872
+longitude: 10.1114
+elevation: 207
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Bertrix
+city: Bertrix
+country: Belgium
+iata: 
+icao: EBBX
+latitude: 49.891667
+longitude: 5.223889
+elevation: 1514
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

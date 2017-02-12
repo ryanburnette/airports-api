@@ -1,0 +1,12 @@
+---
+airport_name: Mnichovo Hradiste
+city: Mnichovo Hradiste
+country: Czech Republic
+iata: 
+icao: LKMH
+latitude: 50.540211
+longitude: 15.006592
+elevation: 800
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

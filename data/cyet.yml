@@ -1,0 +1,12 @@
+---
+airport_name: Edson
+city: Edson
+country: Canada
+iata: YET
+icao: CYET
+latitude: 53.578888
+longitude: -116.465
+elevation: 3041
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

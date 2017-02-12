@@ -1,0 +1,12 @@
+---
+airport_name: Lawton-Fort Sill Regional Airport
+city: Lawton
+country: United States
+iata: LAW
+icao: KLAW
+latitude: 34.5677144
+longitude: -98.4166367
+elevation: 1110
+utc_offset: -6
+_class: A
+timezone: America/Chicago

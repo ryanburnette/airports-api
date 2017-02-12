@@ -1,0 +1,12 @@
+---
+airport_name: Uetliberg
+city: Zuerich
+country: Switzerland
+iata: 
+icao: 
+latitude: 47.36029
+longitude: 8.47805
+elevation: 1800
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

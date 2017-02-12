@@ -1,0 +1,12 @@
+---
+airport_name: Flabob Airport
+city: Riverside
+country: United States
+iata: RIR
+icao: KRIR
+latitude: 33.988778
+longitude: -117.409971
+elevation: 764
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

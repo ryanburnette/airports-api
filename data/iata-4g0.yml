@@ -1,0 +1,12 @@
+---
+airport_name: Pittsburgh-Monroeville Airport
+city: Monroeville
+country: United States
+iata: 4G0
+icao: 
+latitude: 40.4526389
+longitude: -79.7749167
+elevation: 1187
+utc_offset: -5
+_class: A
+timezone: America/New_York

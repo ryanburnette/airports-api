@@ -1,0 +1,12 @@
+---
+airport_name: Ali Al Salem Air Base
+city: Kuwait
+country: Kuwait
+iata: 
+icao: OKAS
+latitude: 29.346742
+longitude: 47.520753
+elevation: 472
+utc_offset: 3
+_class: A
+timezone: Asia/Kuwait

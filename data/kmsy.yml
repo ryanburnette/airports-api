@@ -1,0 +1,12 @@
+---
+airport_name: Louis Armstrong New Orleans Intl
+city: New Orleans
+country: United States
+iata: MSY
+icao: KMSY
+latitude: 29.993389
+longitude: -90.258028
+elevation: 4
+utc_offset: -6
+_class: A
+timezone: America/Chicago

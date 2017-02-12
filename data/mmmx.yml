@@ -1,0 +1,12 @@
+---
+airport_name: Licenciado Benito Juarez Intl
+city: Mexico City
+country: Mexico
+iata: MEX
+icao: MMMX
+latitude: 19.436303
+longitude: -99.072097
+elevation: 7316
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

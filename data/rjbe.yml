@@ -1,0 +1,12 @@
+---
+airport_name: Kobe
+city: Kobe
+country: Japan
+iata: UKB
+icao: RJBE
+latitude: 34.632778
+longitude: 135.223889
+elevation: 22
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

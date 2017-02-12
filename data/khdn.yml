@@ -1,0 +1,12 @@
+---
+airport_name: Yampa Valley
+city: Hayden
+country: United States
+iata: HDN
+icao: KHDN
+latitude: 40.481181
+longitude: -107.21766
+elevation: 6602
+utc_offset: -7
+_class: A
+timezone: America/Denver

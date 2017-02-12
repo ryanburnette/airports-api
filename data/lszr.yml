@@ -1,0 +1,12 @@
+---
+airport_name: St Gallen Altenrhein
+city: Altenrhein
+country: Switzerland
+iata: ACH
+icao: LSZR
+latitude: 47.485033
+longitude: 9.560775
+elevation: 1306
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

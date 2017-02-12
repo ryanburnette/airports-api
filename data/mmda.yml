@@ -1,0 +1,12 @@
+---
+airport_name: Ciudad Constitución Airport
+city: Ciudad Constitución
+country: Mexico
+iata: CUA
+icao: MMDA
+latitude: 25.0538
+longitude: -111.615
+elevation: 213
+utc_offset: -7
+_class: S
+timezone: America/Mazatlan

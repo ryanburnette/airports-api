@@ -1,0 +1,12 @@
+---
+airport_name: Angers-Loire Airport
+city: Angers/Marcé
+country: France
+iata: ANE
+icao: LFJR
+latitude: 47.5603
+longitude: -0.312222
+elevation: 194
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

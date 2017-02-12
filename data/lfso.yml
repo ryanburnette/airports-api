@@ -1,0 +1,12 @@
+---
+airport_name: Ochey
+city: Nancy
+country: France
+iata: 
+icao: LFSO
+latitude: 48.583056
+longitude: 5.955
+elevation: 1106
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Schleswig
+city: Schleswig
+country: Germany
+iata: 
+icao: ETNS
+latitude: 54.459333
+longitude: 9.516333
+elevation: 70
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

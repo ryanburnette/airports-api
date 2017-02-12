@@ -1,0 +1,12 @@
+---
+airport_name: Concord Rgnl
+city: Concord
+country: United States
+iata: 
+icao: KJQF
+latitude: 35.387775
+longitude: -80.709136
+elevation: 705
+utc_offset: -5
+_class: A
+timezone: America/New_York

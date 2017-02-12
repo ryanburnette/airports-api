@@ -1,0 +1,12 @@
+---
+airport_name: Rochambeau
+city: Cayenne
+country: French Guiana
+iata: CAY
+icao: SOCA
+latitude: 4.819808
+longitude: -52.360447
+elevation: 26
+utc_offset: -3
+_class: U
+timezone: America/Cayenne

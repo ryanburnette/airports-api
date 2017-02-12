@@ -1,0 +1,12 @@
+---
+airport_name: Inisheer
+city: Inisheer
+country: Ireland
+iata: INQ
+icao: EIIR
+latitude: 53.0647
+longitude: -9.5109
+elevation: 40
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

@@ -1,0 +1,12 @@
+---
+airport_name: El Paso Intl
+city: El Paso
+country: United States
+iata: ELP
+icao: KELP
+latitude: 31.80725
+longitude: -106.377583
+elevation: 3958
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Levelock Airport
+city: Levelock
+country: United States
+iata: KLL
+icao: 
+latitude: 59.128056
+longitude: -156.858611
+elevation: 39
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Grove City Airport
+city: Grove City
+country: United States
+iata: 29D
+icao: 
+latitude: 41.1460278
+longitude: -80.16775
+elevation: 1371
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Torreon Intl
+city: Torreon
+country: Mexico
+iata: TRC
+icao: MMTC
+latitude: 25.568278
+longitude: -103.410583
+elevation: 3688
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

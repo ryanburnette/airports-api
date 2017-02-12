@@ -1,0 +1,12 @@
+---
+airport_name: Stockholm Cruise Port
+city: Stockholm
+country: Sweden
+iata: STO
+icao: 
+latitude: 59.3233
+longitude: 18.081
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

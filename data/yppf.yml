@@ -1,0 +1,12 @@
+---
+airport_name: Adelaide Parafield
+city: Adelaide
+country: Australia
+iata: 
+icao: YPPF
+latitude: -34.793333
+longitude: 138.633056
+elevation: 57
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

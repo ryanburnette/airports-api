@@ -1,0 +1,12 @@
+---
+airport_name: Hodenhagen Airport
+city: Hodenhagen
+country: Germany
+iata: 
+icao: EDVH
+latitude: 52.7611
+longitude: 9.60556
+elevation: 79
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

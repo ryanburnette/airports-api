@@ -1,0 +1,12 @@
+---
+airport_name: Haines Airport
+city: Haines
+country: United States
+iata: HNS
+icao: PAHN
+latitude: 59.2438
+longitude: -135.524
+elevation: 15
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

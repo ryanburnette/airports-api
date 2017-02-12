@@ -1,0 +1,12 @@
+---
+airport_name: Brownsville South Padre Island Intl
+city: Brownsville
+country: United States
+iata: BRO
+icao: KBRO
+latitude: 25.906833
+longitude: -97.425861
+elevation: 22
+utc_offset: -6
+_class: A
+timezone: America/Chicago

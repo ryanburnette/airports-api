@@ -1,0 +1,12 @@
+---
+airport_name: Falls Intl
+city: International Falls
+country: United States
+iata: INL
+icao: KINL
+latitude: 48.566186
+longitude: -93.403067
+elevation: 1185
+utc_offset: -6
+_class: A
+timezone: America/Chicago

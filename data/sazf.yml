@@ -1,0 +1,12 @@
+---
+airport_name: Olavarria
+city: Olavarria
+country: Argentina
+iata: 
+icao: SAZF
+latitude: -36.890039
+longitude: -60.216619
+elevation: 551
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

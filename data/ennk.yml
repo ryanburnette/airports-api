@@ -1,0 +1,12 @@
+---
+airport_name: Framnes
+city: Narvik
+country: Norway
+iata: NVK
+icao: ENNK
+latitude: 68.435833
+longitude: 17.388056
+elevation: 97
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

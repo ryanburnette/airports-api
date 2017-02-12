@@ -1,0 +1,12 @@
+---
+airport_name: Alakanuk Airport
+city: Alakanuk
+country: United States
+iata: AUK
+icao: PAUK
+latitude: 62.68
+longitude: -164.66
+elevation: 10
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

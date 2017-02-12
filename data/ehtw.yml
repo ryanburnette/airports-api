@@ -1,0 +1,12 @@
+---
+airport_name: Twenthe
+city: Enschede
+country: Netherlands
+iata: ENS
+icao: EHTW
+latitude: 52.27
+longitude: 6.874167
+elevation: 114
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

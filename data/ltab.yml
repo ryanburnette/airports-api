@@ -1,0 +1,12 @@
+---
+airport_name: Guvercinlik
+city: Ankara
+country: Turkey
+iata: 
+icao: LTAB
+latitude: 39.93495
+longitude: 32.740775
+elevation: 2694
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

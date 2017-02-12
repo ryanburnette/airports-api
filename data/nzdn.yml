@@ -1,0 +1,12 @@
+---
+airport_name: Dunedin
+city: Dunedin
+country: New Zealand
+iata: DUD
+icao: NZDN
+latitude: -45.928055
+longitude: 170.198333
+elevation: 4
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

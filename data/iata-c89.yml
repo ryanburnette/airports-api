@@ -1,0 +1,12 @@
+---
+airport_name: Sylvania Airport
+city: Sturtevant
+country: United States
+iata: C89
+icao: 
+latitude: 42.70325
+longitude: -87.9589722
+elevation: 785
+utc_offset: -6
+_class: A
+timezone: America/Chicago

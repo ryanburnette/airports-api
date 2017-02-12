@@ -1,0 +1,12 @@
+---
+airport_name: Guam Intl
+city: Agana
+country: Guam
+iata: GUM
+icao: PGUM
+latitude: 13.48345
+longitude: 144.795983
+elevation: 298
+utc_offset: 10
+_class: U
+timezone: Pacific/Guam

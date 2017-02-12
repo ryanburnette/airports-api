@@ -1,0 +1,12 @@
+---
+airport_name: Seal Cove Seaplane Base
+city: Prince Rupert
+country: Canada
+iata: ZSW
+icao: CZSW
+latitude: 54.3333
+longitude: -130.283
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

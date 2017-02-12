@@ -1,0 +1,12 @@
+---
+airport_name: McKinnon Airport
+city: Brunswick
+country: United States
+iata: SSI
+icao: KSSI
+latitude: 31.1519722
+longitude: -81.3910556
+elevation: 19
+utc_offset: -5
+_class: A
+timezone: America/New_York

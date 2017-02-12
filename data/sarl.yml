@@ -1,0 +1,12 @@
+---
+airport_name: Paso De Los Libres
+city: Paso De Los Libres
+country: Argentina
+iata: AOL
+icao: SARL
+latitude: -29.689425
+longitude: -57.152078
+elevation: 230
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

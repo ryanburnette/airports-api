@@ -1,0 +1,12 @@
+---
+airport_name: Campo Grande
+city: Campo Grande
+country: Brazil
+iata: CGR
+icao: SBCG
+latitude: -20.468667
+longitude: -54.6725
+elevation: 1833
+utc_offset: -4
+_class: S
+timezone: America/Campo_Grande

@@ -1,0 +1,12 @@
+---
+airport_name: Franklin
+city: Franklin
+country: United States
+iata: FKL
+icao: KFKL
+latitude: 41.377874
+longitude: -79.860362
+elevation: 1540
+utc_offset: -5
+_class: A
+timezone: America/New_York

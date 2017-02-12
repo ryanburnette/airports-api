@@ -1,0 +1,12 @@
+---
+airport_name: Karlstad Airport
+city: Karlstad
+country: Sweden
+iata: KSD
+icao: ESOK
+latitude: 59.4447
+longitude: 13.3374
+elevation: 352
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

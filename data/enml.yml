@@ -1,0 +1,12 @@
+---
+airport_name: Aro
+city: Molde
+country: Norway
+iata: MOL
+icao: ENML
+latitude: 62.744722
+longitude: 7.2625
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

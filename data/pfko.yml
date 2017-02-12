@@ -1,0 +1,12 @@
+---
+airport_name: Kotlik Airport
+city: Kotlik
+country: United States
+iata: KOT
+icao: PFKO
+latitude: 63.030556
+longitude: -163.532778
+elevation: 15
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

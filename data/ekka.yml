@@ -1,0 +1,12 @@
+---
+airport_name: Karup
+city: Karup
+country: Denmark
+iata: KRP
+icao: EKKA
+latitude: 56.297458
+longitude: 9.124628
+elevation: 170
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

@@ -1,0 +1,12 @@
+---
+airport_name: Philadelphia Intl
+city: Philadelphia
+country: United States
+iata: PHL
+icao: KPHL
+latitude: 39.871944
+longitude: -75.241139
+elevation: 36
+utc_offset: -5
+_class: A
+timezone: America/New_York

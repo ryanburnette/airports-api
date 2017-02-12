@@ -1,0 +1,12 @@
+---
+airport_name: Boccadifalco
+city: Palermo
+country: Italy
+iata: 
+icao: LICP
+latitude: 38.110833
+longitude: 13.313333
+elevation: 345
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

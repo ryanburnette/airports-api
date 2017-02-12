@@ -1,0 +1,12 @@
+---
+airport_name: Boire Field Airport
+city: Nashua
+country: United States
+iata: ASH
+icao: KASH
+latitude: 42.78175
+longitude: -71.5147778
+elevation: 199
+utc_offset: -5
+_class: A
+timezone: America/New_York

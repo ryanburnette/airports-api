@@ -1,0 +1,12 @@
+---
+airport_name: Goleniow
+city: Szczecin
+country: Poland
+iata: SZZ
+icao: EPSC
+latitude: 53.584731
+longitude: 14.902206
+elevation: 154
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

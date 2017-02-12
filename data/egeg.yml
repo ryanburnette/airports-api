@@ -1,0 +1,12 @@
+---
+airport_name: Glasgow City Heliport
+city: Glasgow
+country: United Kingdom
+iata: 
+icao: EGEG
+latitude: 55.5141
+longitude: -4.1749
+elevation: 10
+utc_offset: 0
+_class: E
+timezone: Europe/London

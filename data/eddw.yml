@@ -1,0 +1,12 @@
+---
+airport_name: Neuenland
+city: Bremen
+country: Germany
+iata: BRE
+icao: EDDW
+latitude: 53.0475
+longitude: 8.786667
+elevation: 14
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

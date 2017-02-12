@@ -1,0 +1,12 @@
+---
+airport_name: Windsor
+city: Windsor
+country: Canada
+iata: YQG
+icao: CYQG
+latitude: 42.275556
+longitude: -82.955556
+elevation: 622
+utc_offset: -5
+_class: A
+timezone: America/Toronto

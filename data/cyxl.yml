@@ -1,0 +1,12 @@
+---
+airport_name: Sioux Lookout
+city: Sioux Lookout
+country: Canada
+iata: YXL
+icao: CYXL
+latitude: 50.113889
+longitude: -91.905278
+elevation: 1258
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

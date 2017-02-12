@@ -1,0 +1,12 @@
+---
+airport_name: New Castle
+city: Wilmington
+country: United States
+iata: ILG
+icao: KILG
+latitude: 39.678722
+longitude: -75.606528
+elevation: 79
+utc_offset: -5
+_class: A
+timezone: America/New_York

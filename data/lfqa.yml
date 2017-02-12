@@ -1,0 +1,12 @@
+---
+airport_name: Prunay
+city: Reims
+country: France
+iata: 
+icao: LFQA
+latitude: 49.208689
+longitude: 4.156581
+elevation: 313
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

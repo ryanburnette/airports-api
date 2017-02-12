@@ -1,0 +1,12 @@
+---
+airport_name: Seaplane Base
+city: Winterhaven
+country: United States
+iata: F57
+icao: 
+latitude: 28.0575
+longitude: -81.7628056
+elevation: 140
+utc_offset: -5
+_class: A
+timezone: America/New_York

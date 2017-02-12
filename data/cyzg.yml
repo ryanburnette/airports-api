@@ -1,0 +1,12 @@
+---
+airport_name: Salluit Airport
+city: Salluit
+country: Canada
+iata: YZG
+icao: CYZG
+latitude: 62.1794
+longitude: -75.6672
+elevation: 743
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Masterton
+city: Masterton
+country: New Zealand
+iata: MRO
+icao: NZMS
+latitude: -40.973333
+longitude: 175.633611
+elevation: 364
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

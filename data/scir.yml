@@ -1,0 +1,12 @@
+---
+airport_name: Robinson Crusoe Airport
+city: San Juan Bautista
+country: Chile
+iata: 
+icao: SCIR
+latitude: -33.665001
+longitude: -78.929703
+elevation: 433
+utc_offset: -4
+_class: S
+timezone: America/Santiago

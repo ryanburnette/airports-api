@@ -1,0 +1,12 @@
+---
+airport_name: Oradea
+city: Oradea
+country: Romania
+iata: OMR
+icao: LROD
+latitude: 47.025278
+longitude: 21.9025
+elevation: 465
+utc_offset: 2
+_class: E
+timezone: Europe/Bucharest

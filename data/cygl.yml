@@ -1,0 +1,12 @@
+---
+airport_name: La Grande Riviere
+city: La Grande Riviere
+country: Canada
+iata: YGL
+icao: CYGL
+latitude: 53.625278
+longitude: -77.704167
+elevation: 639
+utc_offset: -5
+_class: A
+timezone: America/Toronto

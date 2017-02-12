@@ -1,0 +1,12 @@
+---
+airport_name: Heide-Büsum Airport
+city: Büsum
+country: Germany
+iata: HEI
+icao: EDXB
+latitude: 54.1533
+longitude: 8.90167
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

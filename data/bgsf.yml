@@ -1,0 +1,12 @@
+---
+airport_name: Sondre Stromfjord
+city: Sondrestrom
+country: Greenland
+iata: SFJ
+icao: BGSF
+latitude: 67.016969
+longitude: -50.689325
+elevation: 165
+utc_offset: -3
+_class: E
+timezone: America/Godthab

@@ -1,0 +1,12 @@
+---
+airport_name: Dothan Rgnl
+city: Dothan
+country: United States
+iata: DHN
+icao: KDHN
+latitude: 31.321339
+longitude: -85.449628
+elevation: 401
+utc_offset: -6
+_class: A
+timezone: America/Chicago

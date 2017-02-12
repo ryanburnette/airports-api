@@ -1,0 +1,12 @@
+---
+airport_name: Woensdrecht
+city: Woensdrecht
+country: Netherlands
+iata: WOE
+icao: EHWO
+latitude: 51.449092
+longitude: 4.342031
+elevation: 63
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

@@ -1,0 +1,12 @@
+---
+airport_name: Beslan Airport
+city: Beslan
+country: Russia
+iata: OGZ
+icao: URMO
+latitude: 43.2051
+longitude: 44.6066
+elevation: 1673
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

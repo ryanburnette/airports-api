@@ -1,0 +1,12 @@
+---
+airport_name: Pacific Station
+city: Vancouver
+country: Canada
+iata: 
+icao: 
+latitude: 49.2739
+longitude: -123.0986
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

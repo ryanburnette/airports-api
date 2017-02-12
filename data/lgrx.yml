@@ -1,0 +1,12 @@
+---
+airport_name: Araxos
+city: Patras
+country: Greece
+iata: GPA
+icao: LGRX
+latitude: 38.151111
+longitude: 21.425556
+elevation: 46
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

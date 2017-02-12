@@ -1,0 +1,12 @@
+---
+airport_name: Assis
+city: Assis
+country: Brazil
+iata: 
+icao: SBAS
+latitude: -22.638564
+longitude: -50.455914
+elevation: 1850
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

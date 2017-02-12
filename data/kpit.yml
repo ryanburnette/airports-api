@@ -1,0 +1,12 @@
+---
+airport_name: Pittsburgh Intl
+city: Pittsburgh
+country: United States
+iata: PIT
+icao: KPIT
+latitude: 40.491467
+longitude: -80.232872
+elevation: 1204
+utc_offset: -5
+_class: A
+timezone: America/New_York

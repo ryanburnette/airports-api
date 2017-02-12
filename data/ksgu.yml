@@ -1,0 +1,12 @@
+---
+airport_name: St George Muni
+city: Saint George
+country: United States
+iata: SGU
+icao: KSGU
+latitude: 37.090583
+longitude: -113.593056
+elevation: 2941
+utc_offset: -7
+_class: A
+timezone: America/Denver

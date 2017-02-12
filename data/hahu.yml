@@ -1,0 +1,12 @@
+---
+airport_name: Humera Airport
+city: Humera
+country: Ethiopia
+iata: HUE
+icao: HAHU
+latitude: 14.3
+longitude: 36.616667
+elevation: 1500
+utc_offset: 3
+_class: U
+timezone: Africa/Asmera

@@ -1,0 +1,12 @@
+---
+airport_name: Peoria Regional
+city: Peoria
+country: United States
+iata: PIA
+icao: KPIA
+latitude: 40.664203
+longitude: -89.693258
+elevation: 660
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Hopedale Airport
+city: Hopedale
+country: Canada
+iata: YHO
+icao: CYHO
+latitude: 55.4483
+longitude: -60.2286
+elevation: 39
+utc_offset: -4
+_class: A
+timezone: America/Halifax

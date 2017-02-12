@@ -1,0 +1,12 @@
+---
+airport_name: Purude University Airport
+city: Lafayette
+country: United States
+iata: LAF
+icao: 
+latitude: 40.4123056
+longitude: -86.9368889
+elevation: 606
+utc_offset: -5
+_class: A
+timezone: America/New_York

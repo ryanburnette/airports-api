@@ -1,0 +1,12 @@
+---
+airport_name: Pueblo Memorial
+city: Pueblo
+country: United States
+iata: PUB
+icao: KPUB
+latitude: 38.289085
+longitude: -104.496572
+elevation: 4726
+utc_offset: -7
+_class: A
+timezone: America/Denver

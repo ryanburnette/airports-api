@@ -1,0 +1,12 @@
+---
+airport_name: Ankeny Regl Airport
+city: Ankeny
+country: United States
+iata: IKV
+icao: KIKV
+latitude: 41.691389
+longitude: -93.566389
+elevation: 910
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Merrill Fld
+city: Anchorage
+country: United States
+iata: MRI
+icao: PAMR
+latitude: 61.213544
+longitude: -149.844447
+elevation: 137
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

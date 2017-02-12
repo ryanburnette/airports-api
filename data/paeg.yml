@@ -1,0 +1,12 @@
+---
+airport_name: Eagle Airport
+city: Eagle
+country: United States
+iata: EAA
+icao: PAEG
+latitude: 64.778056
+longitude: -141.149722
+elevation: 908
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

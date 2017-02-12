@@ -1,0 +1,12 @@
+---
+airport_name: Lista
+city: Farsund
+country: Norway
+iata: FAN
+icao: ENLI
+latitude: 58.099486
+longitude: 6.62605
+elevation: 29
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

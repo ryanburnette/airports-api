@@ -1,0 +1,12 @@
+---
+airport_name: Union Station
+city: Utica
+country: United States
+iata: UCA
+icao: 
+latitude: 43.104167
+longitude: -75.223333
+elevation: 456
+utc_offset: -5
+_class: A
+timezone: America/New_York

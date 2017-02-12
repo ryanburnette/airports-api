@@ -1,0 +1,12 @@
+---
+airport_name: Roudnice Airport
+city: Roudnice nad Lebem
+country: Czech Republic
+iata: 
+icao: LKRO
+latitude: 50.407222
+longitude: 14.232778
+elevation: 719
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

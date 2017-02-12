@@ -1,0 +1,12 @@
+---
+airport_name: Akiak Airport
+city: Akiak
+country: United States
+iata: AKI
+icao: PFAK
+latitude: 60.902778
+longitude: -161.230556
+elevation: 30
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

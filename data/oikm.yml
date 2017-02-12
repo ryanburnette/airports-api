@@ -1,0 +1,12 @@
+---
+airport_name: Bam Airport
+city: Bam
+country: Iran
+iata: BXR
+icao: OIKM
+latitude: 29.084169
+longitude: 58.450042
+elevation: 3231
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

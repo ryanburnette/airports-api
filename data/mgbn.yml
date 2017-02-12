@@ -1,0 +1,12 @@
+---
+airport_name: Bananera
+city: Bananera
+country: Guatemala
+iata: 
+icao: MGBN
+latitude: 15.473528
+longitude: -88.837222
+elevation: 130
+utc_offset: -6
+_class: U
+timezone: America/Guatemala

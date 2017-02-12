@@ -1,0 +1,12 @@
+---
+airport_name: Guemar Airport
+city: Guemar
+country: Algeria
+iata: ELU
+icao: DAUO
+latitude: 33.5114
+longitude: 6.77679
+elevation: 203
+utc_offset: 1
+_class: N
+timezone: Africa/Algiers

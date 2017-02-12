@@ -1,0 +1,12 @@
+---
+airport_name: Munich Railway
+city: Munich
+country: Germany
+iata: ZMU
+icao: 
+latitude: 48.1408
+longitude: 11.555
+elevation: 500
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

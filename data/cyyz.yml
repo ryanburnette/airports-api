@@ -1,0 +1,12 @@
+---
+airport_name: Lester B Pearson Intl
+city: Toronto
+country: Canada
+iata: YYZ
+icao: CYYZ
+latitude: 43.677223
+longitude: -79.630556
+elevation: 569
+utc_offset: -5
+_class: A
+timezone: America/Toronto

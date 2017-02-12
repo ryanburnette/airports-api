@@ -1,0 +1,12 @@
+---
+airport_name: Norman Manley Intl
+city: Kingston
+country: Jamaica
+iata: KIN
+icao: MKJP
+latitude: 17.935667
+longitude: -76.7875
+elevation: 10
+utc_offset: -5
+_class: U
+timezone: America/Jamaica

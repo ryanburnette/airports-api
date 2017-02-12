@@ -1,0 +1,12 @@
+---
+airport_name: Athens Ben Epps Airport
+city: Athens
+country: United States
+iata: AHN
+icao: KAHN
+latitude: 33.9486
+longitude: -83.3263
+elevation: 808
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Vinnitsa
+city: Vinnitsa
+country: Ukraine
+iata: VIN
+icao: UKWW
+latitude: 49.2433
+longitude: 28.6063
+elevation: 900
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

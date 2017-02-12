@@ -1,0 +1,12 @@
+---
+airport_name: Domerat
+city: Montlucon
+country: France
+iata: MCU
+icao: LFLT
+latitude: 46.352525
+longitude: 2.570486
+elevation: 771
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

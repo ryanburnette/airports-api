@@ -1,0 +1,12 @@
+---
+airport_name: Friday Harbor Seaplane Base
+city: Friday Harbor
+country: United States
+iata: FBS
+icao: 
+latitude: 48.537222
+longitude: -123.009722
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

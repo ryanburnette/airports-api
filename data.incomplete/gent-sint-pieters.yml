@@ -1,0 +1,12 @@
+---
+airport_name: Gent Sint-Pieters
+city: Gent
+country: Belgium
+iata: 
+icao: 
+latitude: 51.0352
+longitude: 3.7097
+elevation: 130
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

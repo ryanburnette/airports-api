@@ -1,0 +1,12 @@
+---
+airport_name: Lancaster Amtrak Station
+city: Lancaster
+country: United States
+iata: 
+icao: 
+latitude: 40.05
+longitude: -76.31
+elevation: 345
+utc_offset: -5
+_class: A
+timezone: America/New_York

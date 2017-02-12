@@ -1,0 +1,12 @@
+---
+airport_name: Kissimmee Gateway Airport
+city: Kissimmee
+country: United States
+iata: ISM
+icao: KISM
+latitude: 28.289806
+longitude: -81.437083
+elevation: 82
+utc_offset: -5
+_class: A
+timezone: America/New_York

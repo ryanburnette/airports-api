@@ -1,0 +1,12 @@
+---
+airport_name: Deer Valley Municipal Airport
+city: 'Phoenix '
+country: United States
+iata: DVT
+icao: KDVT
+latitude: 33.4117
+longitude: 112.457
+elevation: 1478
+utc_offset: 8
+_class: A
+timezone: Asia/Chongqing

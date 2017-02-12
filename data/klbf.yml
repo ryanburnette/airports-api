@@ -1,0 +1,12 @@
+---
+airport_name: North Platte Regional Airport Lee Bird Field
+city: North Platte
+country: United States
+iata: LBF
+icao: KLBF
+latitude: 41.1262
+longitude: -100.684
+elevation: 2776
+utc_offset: -6
+_class: A
+timezone: America/Chicago

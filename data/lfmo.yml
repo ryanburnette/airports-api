@@ -1,0 +1,12 @@
+---
+airport_name: Caritat
+city: Orange
+country: France
+iata: 
+icao: LFMO
+latitude: 44.140481
+longitude: 4.866717
+elevation: 197
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

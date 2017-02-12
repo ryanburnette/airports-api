@@ -1,0 +1,12 @@
+---
+airport_name: Aguas Claras
+city: Ocana
+country: Colombia
+iata: OCV
+icao: SKOC
+latitude: 8.315061
+longitude: -73.358331
+elevation: 3850
+utc_offset: -5
+_class: U
+timezone: America/Bogota

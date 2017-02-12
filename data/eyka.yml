@@ -1,0 +1,12 @@
+---
+airport_name: Kaunas Intl
+city: Kaunas
+country: Lithuania
+iata: KUN
+icao: EYKA
+latitude: 54.963919
+longitude: 24.084778
+elevation: 256
+utc_offset: 2
+_class: E
+timezone: Europe/Vilnius

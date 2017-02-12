@@ -1,0 +1,12 @@
+---
+airport_name: Al Najaf International Airport
+city: Najaf
+country: Iraq
+iata: NJF
+icao: ORNI
+latitude: 31.991667
+longitude: 44.404167
+elevation: 500
+utc_offset: 3
+_class: U
+timezone: Asia/Baghdad

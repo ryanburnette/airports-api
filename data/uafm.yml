@@ -1,0 +1,12 @@
+---
+airport_name: Manas
+city: Bishkek
+country: Kyrgyzstan
+iata: FRU
+icao: UAFM
+latitude: 43.061306
+longitude: 74.477556
+elevation: 2058
+utc_offset: 6
+_class: U
+timezone: Asia/Bishkek

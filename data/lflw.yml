@@ -1,0 +1,12 @@
+---
+airport_name: Aurillac
+city: Aurillac
+country: France
+iata: AUR
+icao: LFLW
+latitude: 44.891388
+longitude: 2.421944
+elevation: 2096
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

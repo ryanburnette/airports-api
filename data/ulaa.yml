@@ -1,0 +1,12 @@
+---
+airport_name: Talagi
+city: Arkhangelsk
+country: Russia
+iata: ARH
+icao: ULAA
+latitude: 64.360281
+longitude: 40.430167
+elevation: 19
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

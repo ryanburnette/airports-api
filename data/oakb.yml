@@ -1,0 +1,12 @@
+---
+airport_name: Kabul Intl
+city: Kabul
+country: Afghanistan
+iata: KBL
+icao: OAKB
+latitude: 34.565853
+longitude: 69.212328
+elevation: 5877
+utc_offset: 4.5
+_class: U
+timezone: Asia/Kabul

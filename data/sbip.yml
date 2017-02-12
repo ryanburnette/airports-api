@@ -1,0 +1,12 @@
+---
+airport_name: Usiminas
+city: Ipatinga
+country: Brazil
+iata: IPN
+icao: SBIP
+latitude: -19.470722
+longitude: -42.487583
+elevation: 784
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

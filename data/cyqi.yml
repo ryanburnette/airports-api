@@ -1,0 +1,12 @@
+---
+airport_name: Yarmouth Airport
+city: Yarmouth
+country: Canada
+iata: YQI
+icao: CYQI
+latitude: 43.8269
+longitude: -66.0881
+elevation: 141
+utc_offset: -4
+_class: A
+timezone: America/Halifax

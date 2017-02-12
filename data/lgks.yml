@@ -1,0 +1,12 @@
+---
+airport_name: Kasos
+city: Kasos
+country: Greece
+iata: KSJ
+icao: LGKS
+latitude: 35.421358
+longitude: 26.910047
+elevation: 35
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

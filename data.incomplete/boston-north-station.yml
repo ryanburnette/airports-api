@@ -1,0 +1,12 @@
+---
+airport_name: Boston North Station
+city: Boston
+country: United States
+iata: 
+icao: 
+latitude: 42.366235
+longitude: -71.061122
+elevation: 141
+utc_offset: -5
+_class: A
+timezone: America/New_York

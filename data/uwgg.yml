@@ -1,0 +1,12 @@
+---
+airport_name: Nizhny Novgorod
+city: Nizhniy Novgorod
+country: Russia
+iata: GOJ
+icao: UWGG
+latitude: 56.230119
+longitude: 43.784042
+elevation: 256
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

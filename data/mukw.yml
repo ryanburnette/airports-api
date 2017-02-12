@@ -1,0 +1,12 @@
+---
+airport_name: Kawama Airport
+city: Kawama
+country: Cuba
+iata: 
+icao: MUKW
+latitude: 23.123642
+longitude: -81.301805
+elevation: 16
+utc_offset: -5
+_class: U
+timezone: America/Havana

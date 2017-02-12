@@ -1,0 +1,12 @@
+---
+airport_name: Redzikowo
+city: Slupsk
+country: Poland
+iata: OSP
+icao: EPSK
+latitude: 54.478889
+longitude: 17.1075
+elevation: 217
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

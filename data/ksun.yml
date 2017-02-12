@@ -1,0 +1,12 @@
+---
+airport_name: Friedman Mem
+city: Hailey
+country: United States
+iata: SUN
+icao: KSUN
+latitude: 43.504444
+longitude: -114.296194
+elevation: 5320
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Perryville Airport
+city: Perryville
+country: United States
+iata: KPV
+icao: PAPE
+latitude: 55.906667
+longitude: -159.160833
+elevation: 29
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

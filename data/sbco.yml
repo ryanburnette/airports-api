@@ -1,0 +1,12 @@
+---
+airport_name: Canoas
+city: Porto Alegre
+country: Brazil
+iata: 
+icao: SBCO
+latitude: -29.945944
+longitude: -51.144367
+elevation: 26
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

@@ -1,0 +1,12 @@
+---
+airport_name: Tri-Cities Regional Airport
+city: BRISTOL
+country: United States
+iata: TRI
+icao: KTRI
+latitude: 36.4752222
+longitude: -82.4074167
+elevation: 1519
+utc_offset: -5
+_class: A
+timezone: America/New_York

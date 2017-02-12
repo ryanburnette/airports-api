@@ -1,0 +1,12 @@
+---
+airport_name: Matsushima
+city: Matsushima
+country: Japan
+iata: 
+icao: RJST
+latitude: 38.404919
+longitude: 141.219572
+elevation: 7
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

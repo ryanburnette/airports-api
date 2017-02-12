@@ -1,0 +1,12 @@
+---
+airport_name: St Marys Airport
+city: St Mary's
+country: United States
+iata: KSM
+icao: PASM
+latitude: 62.0605
+longitude: -163.302
+elevation: 311
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Lozuvatka International Airport
+city: Krivoy Rog
+country: Ukraine
+iata: KWG
+icao: UKDR
+latitude: 48.0433
+longitude: 33.21
+elevation: 408
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

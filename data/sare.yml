@@ -1,0 +1,12 @@
+---
+airport_name: Resistencia
+city: Resistencia
+country: Argentina
+iata: RES
+icao: SARE
+latitude: -27.449986
+longitude: -59.056125
+elevation: 173
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

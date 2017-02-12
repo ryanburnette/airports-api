@@ -1,0 +1,12 @@
+---
+airport_name: Lowell City Airport
+city: Lowell
+country: United States
+iata: 24C
+icao: 
+latitude: 42.95392
+longitude: -85.3439058
+elevation: 681
+utc_offset: -5
+_class: A
+timezone: America/New_York

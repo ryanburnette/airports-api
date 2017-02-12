@@ -1,0 +1,12 @@
+---
+airport_name: Cologne Railway
+city: Cologne
+country: Germany
+iata: QKL
+icao: 
+latitude: 50.9425
+longitude: 6.958056
+elevation: 100
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

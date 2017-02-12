@@ -1,0 +1,12 @@
+---
+airport_name: Berlevag
+city: Berlevag
+country: Norway
+iata: BVG
+icao: ENBV
+latitude: 70.866667
+longitude: 29
+elevation: 43
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

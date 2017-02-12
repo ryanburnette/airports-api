@@ -1,0 +1,12 @@
+---
+airport_name: Aupaluk Airport
+city: Aupaluk
+country: Canada
+iata: YPJ
+icao: CYLA
+latitude: 59.2967
+longitude: -69.5997
+elevation: 119
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Mediterranee
+city: Montpellier
+country: France
+iata: MPL
+icao: LFMT
+latitude: 43.576194
+longitude: 3.963014
+elevation: 17
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

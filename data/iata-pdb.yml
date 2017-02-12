@@ -1,0 +1,12 @@
+---
+airport_name: Pedro Bay Airport
+city: Pedro Bay
+country: United States
+iata: PDB
+icao: 
+latitude: 59.782222
+longitude: -154.1325
+elevation: 45
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

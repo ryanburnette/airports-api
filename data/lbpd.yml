@@ -1,0 +1,12 @@
+---
+airport_name: Plovdiv
+city: Plovdiv
+country: Bulgaria
+iata: PDV
+icao: LBPD
+latitude: 42.067806
+longitude: 24.850833
+elevation: 597
+utc_offset: 2
+_class: E
+timezone: Europe/Sofia

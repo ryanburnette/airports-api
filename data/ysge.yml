@@ -1,0 +1,12 @@
+---
+airport_name: St George Airport
+city: St George
+country: Australia
+iata: SGO
+icao: YSGE
+latitude: -28.0497
+longitude: 148.595
+elevation: 656
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane
