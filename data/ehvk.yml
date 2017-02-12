@@ -1,0 +1,12 @@
+---
+airport_name: Volkel
+city: Volkel
+country: Netherlands
+iata: 
+icao: EHVK
+latitude: 51.656389
+longitude: 5.708611
+elevation: 72
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

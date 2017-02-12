@@ -1,0 +1,12 @@
+---
+airport_name: Santos Dumont
+city: Rio De Janeiro
+country: Brazil
+iata: SDU
+icao: SBRJ
+latitude: -22.910461
+longitude: -43.163133
+elevation: 11
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

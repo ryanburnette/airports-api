@@ -1,0 +1,12 @@
+---
+airport_name: 'Fliegerhost '
+city: Kaufbeuren
+country: Germany
+iata: KFB
+icao: 
+latitude: 47.874
+longitude: 10.6294
+elevation: 680
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

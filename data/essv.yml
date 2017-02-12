@@ -1,0 +1,12 @@
+---
+airport_name: Visby
+city: Visby
+country: Sweden
+iata: VBY
+icao: ESSV
+latitude: 57.662797
+longitude: 18.346211
+elevation: 164
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

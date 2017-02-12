@@ -1,0 +1,12 @@
+---
+airport_name: Straubing
+city: Straubing
+country: Germany
+iata: 
+icao: EDMS
+latitude: 48.90095
+longitude: 12.518186
+elevation: 1054
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Pietermaritzburg
+city: Pietermaritzburg
+country: South Africa
+iata: PZB
+icao: FAPM
+latitude: -29.648975
+longitude: 30.398667
+elevation: 2423
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

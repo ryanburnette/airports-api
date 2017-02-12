@@ -1,0 +1,12 @@
+---
+airport_name: Atalaya
+city: Atalaya
+country: Peru
+iata: 
+icao: SPAY
+latitude: -10.729117
+longitude: -73.766503
+elevation: 751
+utc_offset: -5
+_class: U
+timezone: America/Lima

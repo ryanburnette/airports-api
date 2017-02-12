@@ -1,0 +1,12 @@
+---
+airport_name: Marília Airport
+city: Marília
+country: Brazil
+iata: MII
+icao: SBML
+latitude: -22.196892
+longitude: -49.9264
+elevation: 2122
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

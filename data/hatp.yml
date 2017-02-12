@@ -1,0 +1,12 @@
+---
+airport_name: Tippi Airport
+city: Tippi
+country: Ethiopia
+iata: TIE
+icao: HATP
+latitude: 7.117
+longitude: 35.383
+elevation: 1100
+utc_offset: 3
+_class: U
+timezone: Africa/Addis_Ababa

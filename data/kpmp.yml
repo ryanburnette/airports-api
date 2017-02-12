@@ -1,0 +1,12 @@
+---
+airport_name: Pompano Beach Airpark
+city: Pompano Beach
+country: United States
+iata: PMP
+icao: KPMP
+latitude: 26.2471389
+longitude: -80.1110556
+elevation: 19
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Hasvik
+city: Hasvik
+country: Norway
+iata: HAA
+icao: ENHK
+latitude: 70.486675
+longitude: 22.139744
+elevation: 21
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

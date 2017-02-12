@@ -1,0 +1,12 @@
+---
+airport_name: Shelby County Airport
+city: Alabaster
+country: United States
+iata: EET
+icao: KEET
+latitude: 33.1777778
+longitude: -86.7832222
+elevation: 586
+utc_offset: -6
+_class: A
+timezone: America/Chicago

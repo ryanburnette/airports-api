@@ -1,0 +1,12 @@
+---
+airport_name: Columbia County
+city: Hudson NY
+country: United States
+iata: HCC
+icao: 
+latitude: 42.2913
+longitude: -73.7103
+elevation: 198
+utc_offset: -5
+_class: A
+timezone: America/New_York

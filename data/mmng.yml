@@ -1,0 +1,12 @@
+---
+airport_name: Nogales Intl
+city: Nogales
+country: Mexico
+iata: NOG
+icao: MMNG
+latitude: 31.226083
+longitude: -110.975831
+elevation: 3990
+utc_offset: -7
+_class: S
+timezone: America/Hermosillo

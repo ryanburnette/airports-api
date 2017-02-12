@@ -1,0 +1,12 @@
+---
+airport_name: Kirkland Lake
+city: Kirkland Lake
+country: Canada
+iata: YKX
+icao: CYKX
+latitude: 48.210278
+longitude: -79.981389
+elevation: 1157
+utc_offset: -5
+_class: A
+timezone: America/Toronto

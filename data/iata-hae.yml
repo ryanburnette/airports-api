@@ -1,0 +1,12 @@
+---
+airport_name: Haeju Airport
+city: Haeju
+country: North Korea
+iata: HAE
+icao: 
+latitude: 38.00543
+longitude: 125.77863
+elevation: 131
+utc_offset: 9
+_class: U
+timezone: Asia/Pyongyang

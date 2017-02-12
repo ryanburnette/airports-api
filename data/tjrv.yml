@@ -1,0 +1,12 @@
+---
+airport_name: Jose Aponte de la Torre Airport
+city: Ceiba
+country: Puerto Rico
+iata: RVR
+icao: TJRV
+latitude: 18.245278
+longitude: -65.643333
+elevation: 38
+utc_offset: -4
+_class: A
+timezone: America/Puerto_Rico

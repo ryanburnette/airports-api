@@ -1,0 +1,12 @@
+---
+airport_name: Houlton Intl
+city: Houlton
+country: United States
+iata: HUL
+icao: KHUL
+latitude: 46.123083
+longitude: -67.792056
+elevation: 489
+utc_offset: -5
+_class: A
+timezone: America/New_York

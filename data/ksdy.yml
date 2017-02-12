@@ -1,0 +1,12 @@
+---
+airport_name: Sidney-Richland Municipal Airport
+city: Sidney
+country: United States
+iata: SDY
+icao: KSDY
+latitude: 47.706944
+longitude: -104.1925
+elevation: 1984
+utc_offset: -7
+_class: A
+timezone: America/Denver

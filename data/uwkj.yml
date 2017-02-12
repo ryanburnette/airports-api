@@ -1,0 +1,12 @@
+---
+airport_name: Yoshkar-Ola Airport
+city: Yoshkar-Ola
+country: Russia
+iata: JOK
+icao: UWKJ
+latitude: 56.7006
+longitude: 47.9047
+elevation: 348
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

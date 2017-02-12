@@ -1,0 +1,12 @@
+---
+airport_name: Ellinikon International Airport
+city: Athens
+country: Greece
+iata: 
+icao: LGAT
+latitude: 37.5354
+longitude: 23.4346
+elevation: 68
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

@@ -1,0 +1,12 @@
+---
+airport_name: Landshut Ellermuehle
+city: Landshut
+country: Germany
+iata: 
+icao: EDML
+latitude: 48.5133333333333
+longitude: 12.035
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

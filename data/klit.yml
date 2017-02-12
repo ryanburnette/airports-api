@@ -1,0 +1,12 @@
+---
+airport_name: Adams Fld
+city: Little Rock
+country: United States
+iata: LIT
+icao: KLIT
+latitude: 34.729444
+longitude: -92.224306
+elevation: 262
+utc_offset: -6
+_class: A
+timezone: America/Chicago

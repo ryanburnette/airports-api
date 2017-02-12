@@ -1,0 +1,12 @@
+---
+airport_name: Fond Du Lac County Airport
+city: Fond du Lac
+country: United States
+iata: FLD
+icao: KFLD
+latitude: 43.7711667
+longitude: -88.4884167
+elevation: 808
+utc_offset: -6
+_class: A
+timezone: America/Chicago

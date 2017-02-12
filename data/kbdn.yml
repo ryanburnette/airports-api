@@ -1,0 +1,12 @@
+---
+airport_name: Bend Municipal Airport
+city: Bend
+country: United States
+iata: 
+icao: KBDN
+latitude: 44.0945556
+longitude: -121.2002222
+elevation: 3460
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Great Bend Municipal
+city: Great Bend
+country: United States
+iata: GBN
+icao: KGBD
+latitude: 38.344167
+longitude: -98.859167
+elevation: 1887
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Westchester Co
+city: White Plains
+country: United States
+iata: HPN
+icao: KHPN
+latitude: 41.066959
+longitude: -73.707575
+elevation: 439
+utc_offset: -5
+_class: A
+timezone: America/New_York

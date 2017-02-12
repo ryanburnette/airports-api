@@ -1,0 +1,12 @@
+---
+airport_name: Eek Airport
+city: Eek
+country: United States
+iata: EEK
+icao: PAEE
+latitude: 60.213611
+longitude: -162.043889
+elevation: 15
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

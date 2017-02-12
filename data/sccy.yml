@@ -1,0 +1,12 @@
+---
+airport_name: Teniente Vidal
+city: Coyhaique
+country: Chile
+iata: GXQ
+icao: SCCY
+latitude: -45.594211
+longitude: -72.106133
+elevation: 1020
+utc_offset: -4
+_class: S
+timezone: America/Santiago

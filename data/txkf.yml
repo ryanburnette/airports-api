@@ -1,0 +1,12 @@
+---
+airport_name: Bermuda Intl
+city: Bermuda
+country: Bermuda
+iata: BDA
+icao: TXKF
+latitude: 32.364042
+longitude: -64.678703
+elevation: 12
+utc_offset: -4
+_class: A
+timezone: Atlantic/Bermuda

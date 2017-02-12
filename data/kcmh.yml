@@ -1,0 +1,12 @@
+---
+airport_name: Port Columbus Intl
+city: Columbus
+country: United States
+iata: CMH
+icao: KCMH
+latitude: 39.997972
+longitude: -82.891889
+elevation: 815
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Verkehrslandeplatz Juist
+city: Juist
+country: Germany
+iata: JUI
+icao: EDWJ
+latitude: 53.681572
+longitude: 7.055731
+elevation: 6
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

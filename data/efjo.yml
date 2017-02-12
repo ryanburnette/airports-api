@@ -1,0 +1,12 @@
+---
+airport_name: Joensuu
+city: Joensuu
+country: Finland
+iata: JOE
+icao: EFJO
+latitude: 62.662906
+longitude: 29.60755
+elevation: 398
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

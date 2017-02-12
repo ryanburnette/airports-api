@@ -1,0 +1,12 @@
+---
+airport_name: Deaux
+city: Ales
+country: France
+iata: 
+icao: LFMS
+latitude: 44.069656
+longitude: 4.142122
+elevation: 668
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

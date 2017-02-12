@@ -1,0 +1,12 @@
+---
+airport_name: Eastmain River Airport
+city: Eastmain River
+country: Canada
+iata: ZEM
+icao: CZEM
+latitude: 52.2264
+longitude: -78.5225
+elevation: 24
+utc_offset: -5
+_class: A
+timezone: America/Toronto

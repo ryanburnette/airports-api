@@ -1,0 +1,12 @@
+---
+airport_name: Fort Worth NAS
+city: Dallas
+country: United States
+iata: 
+icao: KNFW
+latitude: 32.769167
+longitude: -97.441528
+elevation: 650
+utc_offset: -6
+_class: A
+timezone: America/Chicago

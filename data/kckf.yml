@@ -1,0 +1,12 @@
+---
+airport_name: Crisp County Cordele Airport
+city: Cordele
+country: United States
+iata: CKF
+icao: KCKF
+latitude: 31.9888333
+longitude: -83.7739167
+elevation: 310
+utc_offset: -5
+_class: A
+timezone: America/New_York

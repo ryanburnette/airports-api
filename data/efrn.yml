@@ -1,0 +1,12 @@
+---
+airport_name: Rantasalmi
+city: Rantasalmi
+country: Finland
+iata: 
+icao: EFRN
+latitude: 62.065481
+longitude: 28.356494
+elevation: 292
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

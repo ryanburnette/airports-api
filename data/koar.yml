@@ -1,0 +1,12 @@
+---
+airport_name: Marina Muni
+city: Fort Ord
+country: United States
+iata: OAR
+icao: KOAR
+latitude: 36.681878
+longitude: -121.762347
+elevation: 134
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

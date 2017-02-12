@@ -1,0 +1,12 @@
+---
+airport_name: Pucón Airport
+city: Pucon
+country: Chile
+iata: ZPC
+icao: SCPC
+latitude: -39.2928
+longitude: -71.9159
+elevation: 853
+utc_offset: -4
+_class: S
+timezone: America/Santiago

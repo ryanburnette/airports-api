@@ -1,0 +1,12 @@
+---
+airport_name: Burns Municipal Airport
+city: Burns
+country: United States
+iata: 
+icao: KBNO
+latitude: 43.5919167
+longitude: -118.95554444
+elevation: 4159
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

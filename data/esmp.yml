@@ -1,0 +1,12 @@
+---
+airport_name: Anderstorp
+city: Anderstorp
+country: Sweden
+iata: 
+icao: ESMP
+latitude: 57.264167
+longitude: 13.599439
+elevation: 507
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

@@ -1,0 +1,12 @@
+---
+airport_name: Rafic Hariri Intl
+city: Beirut
+country: Lebanon
+iata: BEY
+icao: OLBA
+latitude: 33.820931
+longitude: 35.488389
+elevation: 87
+utc_offset: 2
+_class: E
+timezone: Asia/Beirut

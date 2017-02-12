@@ -1,0 +1,12 @@
+---
+airport_name: Venezia Tessera
+city: Venice
+country: Italy
+iata: VCE
+icao: LIPZ
+latitude: 45.505278
+longitude: 12.351944
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

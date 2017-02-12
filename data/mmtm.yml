@@ -1,0 +1,12 @@
+---
+airport_name: General Francisco Javier Mina Intl
+city: Tampico
+country: Mexico
+iata: TAM
+icao: MMTM
+latitude: 22.29645
+longitude: -97.865931
+elevation: 80
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

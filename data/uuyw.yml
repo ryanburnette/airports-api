@@ -1,0 +1,12 @@
+---
+airport_name: Vorkuta Airport
+city: Vorkuta
+country: Russia
+iata: VKT
+icao: UUYW
+latitude: 67.4886
+longitude: 63.9931
+elevation: 604
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

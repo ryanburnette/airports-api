@@ -1,0 +1,12 @@
+---
+airport_name: South Bend Station
+city: South Bend
+country: United States
+iata: 
+icao: 
+latitude: 41.678
+longitude: -86.2876
+elevation: 722
+utc_offset: -5
+_class: A
+timezone: America/New_York

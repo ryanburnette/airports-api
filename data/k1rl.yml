@@ -1,0 +1,12 @@
+---
+airport_name: Point Roberts Airpark
+city: Point Roberts
+country: United States
+iata: 1RL
+icao: K1RL
+latitude: 48.9797222
+longitude: -123.0788889
+elevation: 10
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

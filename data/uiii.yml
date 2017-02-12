@@ -1,0 +1,12 @@
+---
+airport_name: Irkutsk
+city: Irkutsk
+country: Russia
+iata: IKT
+icao: UIII
+latitude: 52.268028
+longitude: 104.388975
+elevation: 1675
+utc_offset: 9
+_class: N
+timezone: Asia/Irkutsk

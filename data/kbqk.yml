@@ -1,0 +1,12 @@
+---
+airport_name: Brunswick Golden Isles Airport
+city: Brunswick
+country: United States
+iata: BQK
+icao: KBQK
+latitude: 31.2588
+longitude: -81.4665
+elevation: 26
+utc_offset: -5
+_class: A
+timezone: America/New_York

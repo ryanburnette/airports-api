@@ -1,0 +1,12 @@
+---
+airport_name: Gillette-Campbell County Airport
+city: Gillette
+country: United States
+iata: GCC
+icao: KGCC
+latitude: 44.3489167
+longitude: -105.5393611
+elevation: 4365
+utc_offset: -7
+_class: A
+timezone: America/Denver

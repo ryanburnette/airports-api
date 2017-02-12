@@ -1,0 +1,12 @@
+---
+airport_name: 'RUDNIKI '
+city: RUDNIKI
+country: Poland
+iata: CZW
+icao: EPRU
+latitude: 50.884722
+longitude: 19.202222
+elevation: 262
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

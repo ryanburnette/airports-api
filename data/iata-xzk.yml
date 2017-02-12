@@ -1,0 +1,12 @@
+---
+airport_name: Amherst Amtrak Station AMM
+city: Amherst MA
+country: United States
+iata: XZK
+icao: 
+latitude: 42.375
+longitude: -72.511389
+elevation: 258
+utc_offset: -5
+_class: A
+timezone: America/New_York

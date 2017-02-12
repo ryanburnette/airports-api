@@ -1,0 +1,12 @@
+---
+airport_name: Perth Intl
+city: Perth
+country: Australia
+iata: PER
+icao: YPPH
+latitude: -31.940278
+longitude: 115.966944
+elevation: 67
+utc_offset: 8
+_class: N
+timezone: Australia/Perth

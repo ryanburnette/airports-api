@@ -1,0 +1,12 @@
+---
+airport_name: Niagara Falls Station
+city: Niagara Falls
+country: Canada
+iata: 
+icao: NIAG
+latitude: 43.108802
+longitude: -79.06361
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

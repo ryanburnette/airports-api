@@ -1,0 +1,12 @@
+---
+airport_name: Union Island International Airport
+city: Union Island
+country: Saint Vincent and the Grenadines
+iata: UNI
+icao: TVSU
+latitude: 12.583
+longitude: -61.417
+elevation: 16
+utc_offset: -4
+_class: U
+timezone: America/St_Vincent

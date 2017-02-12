@@ -1,0 +1,12 @@
+---
+airport_name: Richard B Russell Airport
+city: Rome
+country: United States
+iata: RMG
+icao: KRMG
+latitude: 34.3507778
+longitude: -85.1586667
+elevation: 664
+utc_offset: -5
+_class: A
+timezone: America/New_York

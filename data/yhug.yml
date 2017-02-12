@@ -1,0 +1,12 @@
+---
+airport_name: Hughenden Airport
+city: Hughenden
+country: Australia
+iata: HGD
+icao: YHUG
+latitude: -20.815
+longitude: 144.225
+elevation: 1043
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

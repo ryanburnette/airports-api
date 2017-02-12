@@ -1,0 +1,12 @@
+---
+airport_name: Kapuskasing
+city: Kapuskasing
+country: Canada
+iata: YYU
+icao: CYYU
+latitude: 49.413889
+longitude: -82.4675
+elevation: 743
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Babimost
+city: Zielona Gora
+country: Poland
+iata: IEG
+icao: EPZG
+latitude: 52.138517
+longitude: 15.798556
+elevation: 194
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

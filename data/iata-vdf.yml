@@ -1,0 +1,12 @@
+---
+airport_name: Tampa Executive Airport
+city: Tampa
+country: United States
+iata: VDF
+icao: 
+latitude: 28.0139772
+longitude: -82.3452778
+elevation: 22
+utc_offset: -5
+_class: A
+timezone: America/New_York

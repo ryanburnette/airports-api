@@ -1,0 +1,12 @@
+---
+airport_name: Golden Triangle Regional Airport
+city: Columbus Mississippi
+country: United States
+iata: GTR
+icao: KGTR
+latitude: 33.450333
+longitude: -88.591361
+elevation: 264
+utc_offset: -6
+_class: A
+timezone: America/Chicago

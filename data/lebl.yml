@@ -1,0 +1,12 @@
+---
+airport_name: Barcelona
+city: Barcelona
+country: Spain
+iata: BCN
+icao: LEBL
+latitude: 41.297078
+longitude: 2.078464
+elevation: 12
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Gimpo International Airpot
+city: Seoul
+country: South Korea
+iata: SEL
+icao: 
+latitude: 37.558311
+longitude: 126.790586
+elevation: 58
+utc_offset: 9
+_class: N
+timezone: Asia/Seoul

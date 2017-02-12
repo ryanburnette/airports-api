@@ -1,0 +1,12 @@
+---
+airport_name: Anvik Airport
+city: Anvik
+country: United States
+iata: ANV
+icao: PANV
+latitude: 62.6467
+longitude: -160.191
+elevation: 309
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Arlanda
+city: Stockholm
+country: Sweden
+iata: ARN
+icao: ESSA
+latitude: 59.651944
+longitude: 17.918611
+elevation: 137
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

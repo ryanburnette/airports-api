@@ -1,0 +1,12 @@
+---
+airport_name: Grefrath-Niershorst Airport
+city: Grefrath
+country: Germany
+iata: 
+icao: EDLF
+latitude: 51.333889
+longitude: 6.359444
+elevation: 105
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

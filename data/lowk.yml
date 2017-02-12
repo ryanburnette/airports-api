@@ -1,0 +1,12 @@
+---
+airport_name: Woerthersee International Airport
+city: Klagenfurt
+country: Austria
+iata: KLU
+icao: LOWK
+latitude: 46.642514
+longitude: 14.337739
+elevation: 452
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

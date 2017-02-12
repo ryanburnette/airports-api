@@ -1,0 +1,12 @@
+---
+airport_name: Kamloops
+city: Kamloops
+country: Canada
+iata: YKA
+icao: CYKA
+latitude: 50.702222
+longitude: -120.444444
+elevation: 1133
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

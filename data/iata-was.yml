@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: Washington
+country: United States
+iata: WAS
+icao: 
+latitude: 38.889444
+longitude: -77.035278
+elevation: 25
+utc_offset: -5
+_class: A
+timezone: America/New_York

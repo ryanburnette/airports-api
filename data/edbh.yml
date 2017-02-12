@@ -1,0 +1,12 @@
+---
+airport_name: Barth
+city: Barth
+country: Germany
+iata: BBH
+icao: EDBH
+latitude: 54.33754
+longitude: 12.699705
+elevation: 23
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

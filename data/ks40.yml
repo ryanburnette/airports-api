@@ -1,0 +1,12 @@
+---
+airport_name: Prosser
+city: Prosser
+country: United States
+iata: S40
+icao: KS40
+latitude: 46.128
+longitude: -119.4773
+elevation: 705
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

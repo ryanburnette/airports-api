@@ -1,0 +1,12 @@
+---
+airport_name: Isla de Cedros Airport
+city: Cedros
+country: Mexico
+iata: 
+icao: MMCD
+latitude: 28.0375
+longitude: -115.189444
+elevation: 98
+utc_offset: -6
+_class: A
+timezone: America/Mexico_City

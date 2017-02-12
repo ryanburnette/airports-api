@@ -1,0 +1,12 @@
+---
+airport_name: Buffalo Niagara Intl
+city: Buffalo
+country: United States
+iata: BUF
+icao: KBUF
+latitude: 42.940525
+longitude: -78.732167
+elevation: 724
+utc_offset: -5
+_class: A
+timezone: America/New_York

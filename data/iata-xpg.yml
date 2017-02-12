@@ -1,0 +1,12 @@
+---
+airport_name: Gare du Nord
+city: Paris
+country: France
+iata: XPG
+icao: 
+latitude: 48.880931
+longitude: 2.355323
+elevation: 423
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

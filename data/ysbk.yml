@@ -1,0 +1,12 @@
+---
+airport_name: Sydney Bankstown
+city: Sydney
+country: Australia
+iata: BWU
+icao: YSBK
+latitude: -33.924444
+longitude: 150.988333
+elevation: 29
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

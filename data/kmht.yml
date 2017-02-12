@@ -1,0 +1,12 @@
+---
+airport_name: Manchester Regional Airport
+city: Manchester NH
+country: United States
+iata: MHT
+icao: KMHT
+latitude: 42.932556
+longitude: -71.435667
+elevation: 266
+utc_offset: -5
+_class: A
+timezone: America/New_York

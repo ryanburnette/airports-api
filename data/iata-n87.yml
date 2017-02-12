@@ -1,0 +1,12 @@
+---
+airport_name: Trenton-Robbinsville Airport
+city: Trenton
+country: United States
+iata: N87
+icao: 
+latitude: 40.2139444
+longitude: -74.6017778
+elevation: 118
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: 'Chicago Rockford International Airport '
+city: Rockford
+country: United States
+iata: RFD
+icao: KRFD
+latitude: 42.1953611
+longitude: -89.0972222
+elevation: 742
+utc_offset: -6
+_class: A
+timezone: America/Chicago

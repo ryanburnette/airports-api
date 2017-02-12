@@ -1,0 +1,12 @@
+---
+airport_name: Benina
+city: Benghazi
+country: Libya
+iata: BEN
+icao: HLLB
+latitude: 32.096786
+longitude: 20.269472
+elevation: 433
+utc_offset: 2
+_class: N
+timezone: Africa/Tripoli

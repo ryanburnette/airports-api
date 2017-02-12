@@ -1,0 +1,12 @@
+---
+airport_name: Lausanne-la Blecherette Airport
+city: Lausanne
+country: Switzerland
+iata: 
+icao: LSGL
+latitude: 46.5453
+longitude: 6.61667
+elevation: 2041
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

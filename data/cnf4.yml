@@ -1,0 +1,12 @@
+---
+airport_name: Lindsay
+city: Lindsay
+country: Canada
+iata: NF4
+icao: CNF4
+latitude: 44.364722
+longitude: -78.783889
+elevation: 895
+utc_offset: -5
+_class: A
+timezone: America/Toronto

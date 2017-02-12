@@ -1,0 +1,12 @@
+---
+airport_name: Hartenholm Airport
+city: Hasenmoor
+country: Germany
+iata: 
+icao: EDHM
+latitude: 53.915
+longitude: 10.0356
+elevation: 108
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

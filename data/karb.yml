@@ -1,0 +1,12 @@
+---
+airport_name: Ann Arbor Municipal Airport
+city: Ann Arbor
+country: United States
+iata: ARB
+icao: KARB
+latitude: 42.132274
+longitude: -83.444418
+elevation: 839
+utc_offset: -5
+_class: A
+timezone: America/New_York

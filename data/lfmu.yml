@@ -1,0 +1,12 @@
+---
+airport_name: Vias
+city: Beziers
+country: France
+iata: BZR
+icao: LFMU
+latitude: 43.323522
+longitude: 3.353903
+elevation: 56
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

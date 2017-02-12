@@ -1,0 +1,12 @@
+---
+airport_name: Lanzhou Airport
+city: Lanzhou
+country: China
+iata: LHW
+icao: ZLAN
+latitude: 36.117
+longitude: 103.617
+elevation: 0
+utc_offset: 8
+_class: N
+timezone: Asia/Chongqing

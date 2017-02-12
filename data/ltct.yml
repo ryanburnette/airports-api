@@ -1,0 +1,12 @@
+---
+airport_name: Igdir
+city: Igdir
+country: Turkey
+iata: IGD
+icao: LTCT
+latitude: 39.983056
+longitude: 43.866389
+elevation: 3100
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

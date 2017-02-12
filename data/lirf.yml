@@ -1,0 +1,12 @@
+---
+airport_name: Fiumicino
+city: Rome
+country: Italy
+iata: FCO
+icao: LIRF
+latitude: 41.804475
+longitude: 12.250797
+elevation: 15
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

@@ -1,0 +1,12 @@
+---
+airport_name: Bravalla
+city: Norrkoeping
+country: Sweden
+iata: 
+icao: ESCK
+latitude: 58.610867
+longitude: 16.103592
+elevation: 90
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

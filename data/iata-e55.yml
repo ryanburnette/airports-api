@@ -1,0 +1,12 @@
+---
+airport_name: Ocean Ridge Airport
+city: Gualala
+country: United States
+iata: E55
+icao: 
+latitude: 38.8016111
+longitude: -123.5306389
+elevation: 940
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

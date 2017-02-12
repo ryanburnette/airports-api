@@ -1,0 +1,12 @@
+---
+airport_name: Las Heras Airport
+city: Las Heras
+country: Argentina
+iata: LHS
+icao: SAVH
+latitude: -46.533056
+longitude: -68.951111
+elevation: 1082
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

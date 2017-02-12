@@ -1,0 +1,12 @@
+---
+airport_name: MOW
+city: Moscow
+country: Russia
+iata: MOW
+icao: 
+latitude: 55.7557
+longitude: 37.6176
+elevation: 0
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

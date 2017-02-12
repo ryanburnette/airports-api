@@ -1,0 +1,12 @@
+---
+airport_name: Hoybuktmoen
+city: Kirkenes
+country: Norway
+iata: KKN
+icao: ENKR
+latitude: 69.725781
+longitude: 29.891295
+elevation: 283
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

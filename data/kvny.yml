@@ -1,0 +1,12 @@
+---
+airport_name: Van Nuys
+city: Van Nuys
+country: United States
+iata: VNY
+icao: KVNY
+latitude: 34.209811
+longitude: -118.489972
+elevation: 802
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

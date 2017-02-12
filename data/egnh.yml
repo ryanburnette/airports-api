@@ -1,0 +1,12 @@
+---
+airport_name: Blackpool
+city: Blackpool
+country: United Kingdom
+iata: BLK
+icao: EGNH
+latitude: 53.771667
+longitude: -3.028611
+elevation: 34
+utc_offset: 0
+_class: E
+timezone: Europe/London

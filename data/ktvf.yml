@@ -1,0 +1,12 @@
+---
+airport_name: Thief River Falls
+city: Thief River Falls
+country: United States
+iata: TVF
+icao: KTVF
+latitude: 48.065556
+longitude: -96.185
+elevation: 1116
+utc_offset: -6
+_class: A
+timezone: America/Chicago

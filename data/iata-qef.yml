@@ -1,0 +1,12 @@
+---
+airport_name: Egelsbach
+city: Egelsbach
+country: Germany
+iata: QEF
+icao: 
+latitude: 49.9608
+longitude: 8.64361
+elevation: 384
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

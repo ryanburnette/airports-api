@@ -1,0 +1,12 @@
+---
+airport_name: Les Ajoncs
+city: La Roche-sur-yon
+country: France
+iata: EDM
+icao: LFRI
+latitude: 46.701944
+longitude: -1.378625
+elevation: 299
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Gare de LEst
+city: Paris
+country: France
+iata: XHP
+icao: 
+latitude: 48.876944
+longitude: 2.359167
+elevation: 149
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

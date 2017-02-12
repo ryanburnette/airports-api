@@ -1,0 +1,12 @@
+---
+airport_name: Uppsala
+city: Uppsala
+country: Sweden
+iata: 
+icao: ESCM
+latitude: 59.897328
+longitude: 17.588581
+elevation: 68
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

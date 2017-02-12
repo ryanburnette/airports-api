@@ -1,0 +1,12 @@
+---
+airport_name: London Heliport
+city: London
+country: United Kingdom
+iata: 
+icao: EGLW
+latitude: 51.47
+longitude: -0.177833
+elevation: 18
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Bykovo
+city: Moscow
+country: Russia
+iata: BKA
+icao: UUBB
+latitude: 55.617222
+longitude: 38.059999
+elevation: 427
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

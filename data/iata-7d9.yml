@@ -1,0 +1,12 @@
+---
+airport_name: Germack Airport
+city: Geneva
+country: United States
+iata: 7D9
+icao: 
+latitude: 41.7778322
+longitude: -80.9039797
+elevation: 820
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Vnukovo
+city: Moscow
+country: Russia
+iata: VKO
+icao: UUWW
+latitude: 55.591531
+longitude: 37.261486
+elevation: 685
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

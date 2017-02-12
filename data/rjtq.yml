@@ -1,0 +1,12 @@
+---
+airport_name: Miyakejima Airport
+city: Miyakejima
+country: Japan
+iata: MYE
+icao: RJTQ
+latitude: 34.0736
+longitude: 139.56
+elevation: 67
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

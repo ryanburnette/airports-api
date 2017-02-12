@@ -1,0 +1,12 @@
+---
+airport_name: Fortman Airport
+city: St. Marys
+country: United States
+iata: 1OH
+icao: 
+latitude: 40.5553253
+longitude: -84.3866186
+elevation: 885
+utc_offset: -5
+_class: U
+timezone: America/New_York

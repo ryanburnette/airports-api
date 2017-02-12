@@ -1,0 +1,12 @@
+---
+airport_name: Yuzhny
+city: Ivanovo
+country: Russia
+iata: IWA
+icao: UUBI
+latitude: 56.939444
+longitude: 40.940833
+elevation: 410
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

@@ -1,0 +1,12 @@
+---
+airport_name: Klagenfurt
+city: Klagenfurt
+country: Austria
+iata: 
+icao: LOXK
+latitude: 46.642514
+longitude: 14.337739
+elevation: 1470
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

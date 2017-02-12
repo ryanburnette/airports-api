@@ -1,0 +1,12 @@
+---
+airport_name: Zutendaal
+city: Zutendaal
+country: Belgium
+iata: 
+icao: EBSL
+latitude: 50.9475
+longitude: 5.590556
+elevation: 312
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

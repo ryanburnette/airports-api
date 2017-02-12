@@ -1,0 +1,12 @@
+---
+airport_name: Yolo County Airport
+city: Davis-Woodland-Winters
+country: United States
+iata: DWA
+icao: KDWA
+latitude: 38.5793889
+longitude: -121.8569444
+elevation: 100
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Tavaux
+city: Dole
+country: France
+iata: DLE
+icao: LFGJ
+latitude: 47.039014
+longitude: 5.42725
+elevation: 645
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

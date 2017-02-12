@@ -1,0 +1,12 @@
+---
+airport_name: Le Havre
+city: Le Havre
+country: France
+iata: 
+icao: 
+latitude: 49.4901
+longitude: 0.1001
+elevation: 13
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Wyndham
+city: Wyndham
+country: Australia
+iata: 
+icao: YWYM
+latitude: -15.2857
+longitude: 128.0722
+elevation: 100
+utc_offset: 8
+_class: U
+timezone: Australia/Perth

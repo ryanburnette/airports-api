@@ -1,0 +1,12 @@
+---
+airport_name: Porto Santo
+city: Porto Santo
+country: Portugal
+iata: PXO
+icao: LPPS
+latitude: 33.073386
+longitude: -16.349975
+elevation: 341
+utc_offset: 0
+_class: E
+timezone: Europe/Lisbon

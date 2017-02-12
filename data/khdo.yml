@@ -1,0 +1,12 @@
+---
+airport_name: Hondo Municipal Airport
+city: Hondo
+country: United States
+iata: HDO
+icao: KHDO
+latitude: 29.3591
+longitude: -99.1775
+elevation: 930
+utc_offset: -6
+_class: A
+timezone: America/Chicago

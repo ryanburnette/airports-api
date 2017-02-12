@@ -1,0 +1,12 @@
+---
+airport_name: Chilliwack
+city: Chilliwack
+country: Canada
+iata: YCW
+icao: CYCW
+latitude: 49.152779
+longitude: -121.93889
+elevation: 32
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

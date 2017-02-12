@@ -1,0 +1,12 @@
+---
+airport_name: Tofino
+city: Tofino
+country: Canada
+iata: YAZ
+icao: CYAZ
+latitude: 49.082222
+longitude: -125.7725
+elevation: 80
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

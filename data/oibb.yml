@@ -1,0 +1,12 @@
+---
+airport_name: Bushehr
+city: Bushehr
+country: Iran
+iata: BUZ
+icao: OIBB
+latitude: 28.944811
+longitude: 50.834637
+elevation: 68
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

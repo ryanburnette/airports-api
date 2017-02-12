@@ -1,0 +1,12 @@
+---
+airport_name: Bad Neuenahr-Ahrweiler Airport
+city: Bad Neuenahr
+country: Germany
+iata: 
+icao: EDRA
+latitude: 50.5578
+longitude: 7.13639
+elevation: 673
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Waterford
+city: Waterford
+country: Ireland
+iata: WAT
+icao: EIWF
+latitude: 52.1872
+longitude: -7.086964
+elevation: 119
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

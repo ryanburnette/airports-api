@@ -1,0 +1,12 @@
+---
+airport_name: Jingdezhen Airport
+city: Jingdezhen
+country: China
+iata: JDZ
+icao: ZSJD
+latitude: 29.3386
+longitude: 117.176
+elevation: 112
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

@@ -1,0 +1,12 @@
+---
+airport_name: Eelde
+city: Groningen
+country: Netherlands
+iata: GRQ
+icao: EHGG
+latitude: 53.11972
+longitude: 6.579444
+elevation: 17
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

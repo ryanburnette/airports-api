@@ -1,0 +1,12 @@
+---
+airport_name: Wemindji Airport
+city: Wemindji
+country: Canada
+iata: YNC
+icao: CYNC
+latitude: 53.0106
+longitude: -78.8311
+elevation: 66
+utc_offset: -5
+_class: A
+timezone: America/Toronto

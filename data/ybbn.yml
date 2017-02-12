@@ -1,0 +1,12 @@
+---
+airport_name: Brisbane Intl
+city: Brisbane
+country: Australia
+iata: BNE
+icao: YBBN
+latitude: -27.384167
+longitude: 153.1175
+elevation: 13
+utc_offset: 10
+_class: N
+timezone: Australia/Brisbane

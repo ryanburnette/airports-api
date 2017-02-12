@@ -1,0 +1,12 @@
+---
+airport_name: Rocky Mount Wilson Regional Airport
+city: Rocky Mount
+country: United States
+iata: RWI
+icao: KRWI
+latitude: 35.8563
+longitude: -77.8919
+elevation: 159
+utc_offset: -5
+_class: A
+timezone: America/New_York

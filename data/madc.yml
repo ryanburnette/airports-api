@@ -1,0 +1,12 @@
+---
+airport_name: Chamartin Station
+city: Madrid
+country: Spain
+iata: 
+icao: MADC
+latitude: 40.472272
+longitude: -3.68215
+elevation: 2188
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Wrigleyville
+city: Chicago
+country: United States
+iata: 
+icao: 
+latitude: 41.948958067066
+longitude: -87.6587533950806
+elevation: 500
+utc_offset: -6
+_class: U
+timezone: America/Chicago

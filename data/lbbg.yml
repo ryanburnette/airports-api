@@ -1,0 +1,12 @@
+---
+airport_name: Burgas
+city: Bourgas
+country: Bulgaria
+iata: BOJ
+icao: LBBG
+latitude: 42.569583
+longitude: 27.515236
+elevation: 135
+utc_offset: 2
+_class: E
+timezone: Europe/Sofia

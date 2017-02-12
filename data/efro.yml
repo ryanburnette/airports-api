@@ -1,0 +1,12 @@
+---
+airport_name: Rovaniemi
+city: Rovaniemi
+country: Finland
+iata: RVN
+icao: EFRO
+latitude: 66.564822
+longitude: 25.830411
+elevation: 642
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

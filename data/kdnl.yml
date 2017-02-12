@@ -1,0 +1,12 @@
+---
+airport_name: Daniel Field Airport
+city: Augusta
+country: United States
+iata: DNL
+icao: KDNL
+latitude: 33.4665028
+longitude: -82.0393808
+elevation: 423
+utc_offset: -5
+_class: A
+timezone: America/New_York

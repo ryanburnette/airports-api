@@ -1,0 +1,12 @@
+---
+airport_name: Rio Gallegos
+city: Rio Gallegos
+country: Argentina
+iata: RGL
+icao: SAWG
+latitude: -51.608875
+longitude: -69.312636
+elevation: 61
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

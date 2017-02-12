@@ -1,0 +1,12 @@
+---
+airport_name: Novy
+city: Khabarovsk
+country: Russia
+iata: KHV
+icao: UHHH
+latitude: 48.528044
+longitude: 135.188361
+elevation: 244
+utc_offset: 11
+_class: N
+timezone: Asia/Vladivostok

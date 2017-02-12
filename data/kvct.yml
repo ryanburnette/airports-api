@@ -1,0 +1,12 @@
+---
+airport_name: Victoria Regional Airport
+city: Victoria
+country: United States
+iata: VCT
+icao: KVCT
+latitude: 28.8526
+longitude: -96.9185
+elevation: 115
+utc_offset: -6
+_class: A
+timezone: America/Chicago

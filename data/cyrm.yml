@@ -1,0 +1,12 @@
+---
+airport_name: Rocky Mountain House
+city: Rocky Mountain House
+country: Canada
+iata: YRM
+icao: CYRM
+latitude: 52.429722
+longitude: -114.904167
+elevation: 3244
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

@@ -1,0 +1,12 @@
+---
+airport_name: Aswan Intl
+city: Aswan
+country: Egypt
+iata: ASW
+icao: HESN
+latitude: 23.964356
+longitude: 32.819975
+elevation: 662
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

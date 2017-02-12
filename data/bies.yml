@@ -1,0 +1,12 @@
+---
+airport_name: Biessenhofen BF
+city: Biessenhofen
+country: Germany
+iata: BIE
+icao: BIES
+latitude: 47.851
+longitude: 10.634
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

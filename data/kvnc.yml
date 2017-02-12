@@ -1,0 +1,12 @@
+---
+airport_name: Venice Municipal
+city: Venice
+country: United States
+iata: 
+icao: KVNC
+latitude: 27.42439
+longitude: -82.262364
+elevation: 18
+utc_offset: -5
+_class: A
+timezone: America/New_York

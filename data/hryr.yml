@@ -1,0 +1,12 @@
+---
+airport_name: Kigali Intl
+city: Kigali
+country: Rwanda
+iata: KGL
+icao: HRYR
+latitude: -1.968628
+longitude: 30.13945
+elevation: 4859
+utc_offset: 2
+_class: U
+timezone: Africa/Kigali

@@ -1,0 +1,12 @@
+---
+airport_name: Easton-Newnam Field Airport
+city: Easton
+country: United States
+iata: ESN
+icao: KESN
+latitude: 38.8041667
+longitude: -76.069
+elevation: 72
+utc_offset: -5
+_class: A
+timezone: America/New_York

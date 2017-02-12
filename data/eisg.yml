@@ -1,0 +1,12 @@
+---
+airport_name: Sligo
+city: Sligo
+country: Ireland
+iata: SXL
+icao: EISG
+latitude: 54.280214
+longitude: -8.599206
+elevation: 11
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

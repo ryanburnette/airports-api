@@ -1,0 +1,12 @@
+---
+airport_name: Kingman Airport
+city: Kingman
+country: United States
+iata: IGM
+icao: IGM
+latitude: 35.2595
+longitude: -113.938
+elevation: 3449
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

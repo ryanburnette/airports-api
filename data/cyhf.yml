@@ -1,0 +1,12 @@
+---
+airport_name: Rene Fontaine
+city: Hearst
+country: Canada
+iata: YHF
+icao: CYHF
+latitude: 49.713889
+longitude: -83.686944
+elevation: 826
+utc_offset: -5
+_class: A
+timezone: America/Toronto

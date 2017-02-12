@@ -1,0 +1,12 @@
+---
+airport_name: Fallon Nas
+city: Fallon
+country: United States
+iata: NFL
+icao: KNFL
+latitude: 39.416584
+longitude: -118.70098
+elevation: 3934
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

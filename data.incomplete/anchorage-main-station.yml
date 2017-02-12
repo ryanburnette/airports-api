@@ -1,0 +1,12 @@
+---
+airport_name: Anchorage Main Station
+city: Anchorage Alaska
+country: United States
+iata: 
+icao: 
+latitude: 61.221749
+longitude: -149.890852
+elevation: 102
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

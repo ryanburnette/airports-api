@@ -1,0 +1,12 @@
+---
+airport_name: Wien Westbahnhof
+city: Vienna
+country: Austria
+iata: 
+icao: 
+latitude: 48.1965754250116
+longitude: 16.3374911611023
+elevation: 675
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

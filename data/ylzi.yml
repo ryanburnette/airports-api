@@ -1,0 +1,12 @@
+---
+airport_name: Lizard Island Airport
+city: Lizard Island
+country: Australia
+iata: LZR
+icao: YLZI
+latitude: -14.673056
+longitude: 145.454444
+elevation: 40
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

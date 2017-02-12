@@ -1,0 +1,12 @@
+---
+airport_name: Waddington
+city: Waddington
+country: United Kingdom
+iata: WTN
+icao: EGXW
+latitude: 53.166167
+longitude: -0.523811
+elevation: 231
+utc_offset: 0
+_class: E
+timezone: Europe/London

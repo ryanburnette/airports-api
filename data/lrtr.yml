@@ -1,0 +1,12 @@
+---
+airport_name: Traian Vuia
+city: Timisoara
+country: Romania
+iata: TSR
+icao: LRTR
+latitude: 45.809861
+longitude: 21.337861
+elevation: 348
+utc_offset: 2
+_class: E
+timezone: Europe/Bucharest

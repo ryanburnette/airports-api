@@ -1,0 +1,12 @@
+---
+airport_name: Lebanon Municipal Airport
+city: Lebanon
+country: United States
+iata: LEB
+icao: KLEB
+latitude: 43.6261
+longitude: -72.3042
+elevation: 603
+utc_offset: -5
+_class: A
+timezone: America/New_York

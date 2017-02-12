@@ -1,0 +1,12 @@
+---
+airport_name: Piedras Negras Intl
+city: Piedras Negras
+country: Mexico
+iata: PDS
+icao: MMPG
+latitude: 28.627394
+longitude: -100.535211
+elevation: 901
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

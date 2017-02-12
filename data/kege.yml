@@ -1,0 +1,12 @@
+---
+airport_name: Eagle Co Rgnl
+city: Vail
+country: United States
+iata: EGE
+icao: KEGE
+latitude: 39.642556
+longitude: -106.917694
+elevation: 6540
+utc_offset: -7
+_class: A
+timezone: America/Denver

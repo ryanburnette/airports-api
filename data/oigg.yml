@@ -1,0 +1,12 @@
+---
+airport_name: Rasht
+city: Rasht
+country: Iran
+iata: RAS
+icao: OIGG
+latitude: 37.325314
+longitude: 49.605817
+elevation: -40
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

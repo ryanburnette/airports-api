@@ -1,0 +1,12 @@
+---
+airport_name: Tempelhof
+city: Berlin
+country: Germany
+iata: THF
+icao: EDDI
+latitude: 52.473025
+longitude: 13.403944
+elevation: 167
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Son Sant Joan
+city: Palma de Mallorca
+country: Spain
+iata: PMI
+icao: LEPA
+latitude: 39.55361
+longitude: 2.727778
+elevation: 24
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Palo Verde Airport
+city: San Bruno
+country: Mexico
+iata: PVP
+icao: 
+latitude: 27.093056
+longitude: -112.098889
+elevation: 55
+utc_offset: -7
+_class: A
+timezone: America/Mazatlan

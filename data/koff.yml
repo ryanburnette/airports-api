@@ -1,0 +1,12 @@
+---
+airport_name: Offutt Afb
+city: Omaha
+country: United States
+iata: 'OFF'
+icao: KOFF
+latitude: 41.118332
+longitude: -95.912511
+elevation: 1052
+utc_offset: -6
+_class: A
+timezone: America/Chicago

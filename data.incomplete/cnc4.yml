@@ -1,0 +1,12 @@
+---
+airport_name: CNC4
+city: Geulph
+country: Canada
+iata: 
+icao: 
+latitude: 43.563889
+longitude: -80.196111
+elevation: 1100
+utc_offset: -5
+_class: A
+timezone: America/Toronto

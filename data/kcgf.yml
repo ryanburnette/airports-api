@@ -1,0 +1,12 @@
+---
+airport_name: Cuyahoga County
+city: Richmond Heights
+country: United States
+iata: CGF
+icao: KCGF
+latitude: 41.565124
+longitude: -81.4863555
+elevation: 879
+utc_offset: -5
+_class: A
+timezone: America/New_York

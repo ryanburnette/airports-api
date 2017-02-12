@@ -1,0 +1,12 @@
+---
+airport_name: Ambri Airport
+city: Quinto
+country: Switzerland
+iata: 
+icao: LSPM
+latitude: 46.513056
+longitude: 8.689444
+elevation: 3214
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

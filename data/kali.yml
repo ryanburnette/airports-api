@@ -1,0 +1,12 @@
+---
+airport_name: Alice Intl
+city: Alice
+country: United States
+iata: ALI
+icao: KALI
+latitude: 27.740889
+longitude: -98.026944
+elevation: 178
+utc_offset: -6
+_class: A
+timezone: America/Chicago

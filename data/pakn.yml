@@ -1,0 +1,12 @@
+---
+airport_name: King Salmon
+city: King Salmon
+country: United States
+iata: AKN
+icao: PAKN
+latitude: 58.676778
+longitude: -156.649278
+elevation: 68
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

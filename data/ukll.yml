@@ -1,0 +1,12 @@
+---
+airport_name: Lviv Intl
+city: Lvov
+country: Ukraine
+iata: LWO
+icao: UKLL
+latitude: 49.8125
+longitude: 23.956111
+elevation: 1071
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

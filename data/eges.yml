@@ -1,0 +1,12 @@
+---
+airport_name: Sanday Airport
+city: Sanday
+country: United Kingdom
+iata: NDY
+icao: EGES
+latitude: 59.2503
+longitude: -2.57667
+elevation: 68
+utc_offset: 0
+_class: E
+timezone: Europe/London

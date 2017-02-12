@@ -1,0 +1,12 @@
+---
+airport_name: Cazaux
+city: Cazaux
+country: France
+iata: 
+icao: LFBC
+latitude: 44.533333
+longitude: -1.125
+elevation: 84
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

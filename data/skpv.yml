@@ -1,0 +1,12 @@
+---
+airport_name: El Embrujo
+city: Providencia
+country: Colombia
+iata: PVA
+icao: SKPV
+latitude: 13.356944
+longitude: -81.35833
+elevation: 10
+utc_offset: -5
+_class: U
+timezone: America/Bogota

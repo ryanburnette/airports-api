@@ -1,0 +1,12 @@
+---
+airport_name: J F Mitchell Airport
+city: Bequia
+country: Saint Vincent and the Grenadines
+iata: BQU
+icao: TVSB
+latitude: 12.988444
+longitude: -61.262033
+elevation: 15
+utc_offset: -4
+_class: U
+timezone: America/St_Vincent

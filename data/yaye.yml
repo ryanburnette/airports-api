@@ -1,0 +1,12 @@
+---
+airport_name: Ayers Rock
+city: Uluru
+country: Australia
+iata: AYQ
+icao: YAYE
+latitude: -25.186111
+longitude: 130.975556
+elevation: 1626
+utc_offset: 9.5
+_class: N
+timezone: Australia/Darwin

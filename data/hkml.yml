@@ -1,0 +1,12 @@
+---
+airport_name: Malindi Airport
+city: Malindi
+country: Kenya
+iata: MYD
+icao: HKML
+latitude: -3.22931
+longitude: 40.1017
+elevation: 80
+utc_offset: 3
+_class: U
+timezone: Africa/Nairobi

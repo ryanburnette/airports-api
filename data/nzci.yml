@@ -1,0 +1,12 @@
+---
+airport_name: Chatham Islands
+city: Chatham Island
+country: New Zealand
+iata: CHT
+icao: NZCI
+latitude: -43.81
+longitude: -176.457222
+elevation: 43
+utc_offset: 12.75
+_class: Z
+timezone: Pacific/Chatham

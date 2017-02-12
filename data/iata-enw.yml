@@ -1,0 +1,12 @@
+---
+airport_name: Kenosha Regional Airport
+city: Kenosha
+country: United States
+iata: ENW
+icao: 
+latitude: 42.5956944
+longitude: -87.9278056
+elevation: 742
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Cheongju International Airport
+city: Chongju
+country: South Korea
+iata: CJJ
+icao: RKTU
+latitude: 36.7166
+longitude: 127.499119
+elevation: 191
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

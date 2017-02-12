@@ -1,0 +1,12 @@
+---
+airport_name: Karlovy Vary
+city: Karlovy Vary
+country: Czech Republic
+iata: KLV
+icao: LKKV
+latitude: 50.202978
+longitude: 12.914983
+elevation: 1989
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

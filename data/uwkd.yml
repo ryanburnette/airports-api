@@ -1,0 +1,12 @@
+---
+airport_name: Kazan
+city: Kazan
+country: Russia
+iata: KZN
+icao: UWKD
+latitude: 55.606186
+longitude: 49.278728
+elevation: 411
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

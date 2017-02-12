@@ -1,0 +1,12 @@
+---
+airport_name: Simon Bolivar Intl
+city: Caracas
+country: Venezuela
+iata: CCS
+icao: SVMI
+latitude: 10.603117
+longitude: -66.990583
+elevation: 235
+utc_offset: -4.5
+_class: U
+timezone: America/Caracas

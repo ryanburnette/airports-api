@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Belleville
+country: Canada
+iata: XVV
+icao: 
+latitude: 44.1793
+longitude: -77.3747
+elevation: 315
+utc_offset: -5
+_class: A
+timezone: America/Toronto

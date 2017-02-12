@@ -1,0 +1,12 @@
+---
+airport_name: Ciudad Acuna Intl New
+city: Ciudad Acuna
+country: Mexico
+iata: 
+icao: MMCC
+latitude: 29.333917
+longitude: -101.100892
+elevation: 1410
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

@@ -1,0 +1,12 @@
+---
+airport_name: Zahedan Intl
+city: Zahedan
+country: Iran
+iata: ZAH
+icao: OIZH
+latitude: 29.475686
+longitude: 60.906189
+elevation: 4564
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

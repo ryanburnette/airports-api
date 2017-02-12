@@ -1,0 +1,12 @@
+---
+airport_name: Toledo
+city: Toledo
+country: United States
+iata: TOL
+icao: KTOL
+latitude: 41.586806
+longitude: -83.807833
+elevation: 684
+utc_offset: -5
+_class: A
+timezone: America/New_York

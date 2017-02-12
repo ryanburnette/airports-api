@@ -1,0 +1,12 @@
+---
+airport_name: Bemidji Regional Airport
+city: Bemidji
+country: United States
+iata: BJI
+icao: KBJI
+latitude: 47.510722
+longitude: -94.934722
+elevation: 1391
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Luxor Intl
+city: Luxor
+country: Egypt
+iata: LXR
+icao: HELX
+latitude: 25.671028
+longitude: 32.706583
+elevation: 294
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

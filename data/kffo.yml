@@ -1,0 +1,12 @@
+---
+airport_name: Wright Patterson Afb
+city: Dayton
+country: United States
+iata: FFO
+icao: KFFO
+latitude: 39.826111
+longitude: -84.048332
+elevation: 823
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Bruxelles-Central
+city: Brussels
+country: Belgium
+iata: 
+icao: FBCL
+latitude: 50.8411
+longitude: 4.3564
+elevation: 43
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

@@ -1,0 +1,12 @@
+---
+airport_name: Liepaja Intl
+city: Liepaja
+country: Latvia
+iata: LPX
+icao: EVLA
+latitude: 56.5175
+longitude: 21.096944
+elevation: 16
+utc_offset: 2
+_class: E
+timezone: Europe/Riga

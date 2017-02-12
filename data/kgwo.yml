@@ -1,0 +1,12 @@
+---
+airport_name: Greenwood Leflore
+city: Greenwood
+country: United States
+iata: GWO
+icao: KGWO
+latitude: 33.494328
+longitude: -90.084706
+elevation: 162
+utc_offset: -6
+_class: A
+timezone: America/Chicago

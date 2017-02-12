@@ -1,0 +1,12 @@
+---
+airport_name: Severny
+city: Novosibirsk
+country: Russia
+iata: 
+icao: UNCC
+latitude: 55.1
+longitude: 82.9
+elevation: 560
+utc_offset: 7
+_class: N
+timezone: Asia/Omsk

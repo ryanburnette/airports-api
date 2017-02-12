@@ -1,0 +1,12 @@
+---
+airport_name: Port Menier
+city: Port Menier
+country: Canada
+iata: YPN
+icao: CYPN
+latitude: 49.836389
+longitude: -64.288611
+elevation: 167
+utc_offset: -5
+_class: A
+timezone: America/Toronto

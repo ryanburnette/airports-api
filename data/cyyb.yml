@@ -1,0 +1,12 @@
+---
+airport_name: North Bay
+city: North Bay
+country: Canada
+iata: YYB
+icao: CYYB
+latitude: 46.363611
+longitude: -79.422778
+elevation: 1215
+utc_offset: -5
+_class: A
+timezone: America/Toronto

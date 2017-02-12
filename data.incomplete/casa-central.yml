@@ -1,0 +1,12 @@
+---
+airport_name: Casa Central
+city: Montevideo
+country: Uruguay
+iata: 
+icao: 
+latitude: -34.90278
+longitude: -56.213781
+elevation: 105
+utc_offset: -3
+_class: S
+timezone: America/Montevideo

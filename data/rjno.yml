@@ -1,0 +1,12 @@
+---
+airport_name: Oki
+city: Oki Island
+country: Japan
+iata: OKI
+icao: RJNO
+latitude: 36.181125
+longitude: 133.324844
+elevation: 311
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

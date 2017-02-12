@@ -1,0 +1,12 @@
+---
+airport_name: Cambridge Bay
+city: Cambridge Bay
+country: Canada
+iata: YCB
+icao: CYCB
+latitude: 69.108055
+longitude: -105.138333
+elevation: 90
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

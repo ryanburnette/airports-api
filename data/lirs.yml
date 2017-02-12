@@ -1,0 +1,12 @@
+---
+airport_name: Grosseto
+city: Grosseto
+country: Italy
+iata: GRS
+icao: LIRS
+latitude: 42.759747
+longitude: 11.071897
+elevation: 15
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

@@ -1,0 +1,12 @@
+---
+airport_name: Pechora
+city: Pechora
+country: Russia
+iata: PEX
+icao: 
+latitude: 65.070387
+longitude: 57.082045
+elevation: 20
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

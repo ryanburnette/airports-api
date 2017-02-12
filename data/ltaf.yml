@@ -1,0 +1,12 @@
+---
+airport_name: Adana
+city: Adana
+country: Turkey
+iata: ADA
+icao: LTAF
+latitude: 36.982166
+longitude: 35.280388
+elevation: 65
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

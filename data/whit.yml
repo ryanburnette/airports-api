@@ -1,0 +1,12 @@
+---
+airport_name: Ferry Terminal
+city: Whittier
+country: United States
+iata: 
+icao: WHIT
+latitude: 60.776566
+longitude: -148.683367
+elevation: 0
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

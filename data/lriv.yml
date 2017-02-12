@@ -1,0 +1,12 @@
+---
+airport_name: Bus Stop
+city: La Riviere
+country: Reunion
+iata: 
+icao: LRIV
+latitude: -21.272574
+longitude: 55.437706
+elevation: 190
+utc_offset: 4
+_class: E
+timezone: Indian/Reunion

@@ -1,0 +1,12 @@
+---
+airport_name: Los Cabos Intl
+city: San Jose Del Cabo
+country: Mexico
+iata: SJD
+icao: MMSD
+latitude: 23.15185
+longitude: -109.721044
+elevation: 374
+utc_offset: -7
+_class: S
+timezone: America/Mazatlan

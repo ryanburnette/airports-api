@@ -1,0 +1,12 @@
+---
+airport_name: Weedon Field
+city: Eufala
+country: United States
+iata: EUF
+icao: KEUF
+latitude: 31.5708
+longitude: -85.0774
+elevation: 285
+utc_offset: -6
+_class: A
+timezone: America/Chicago

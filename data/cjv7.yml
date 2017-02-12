@@ -1,0 +1,12 @@
+---
+airport_name: Summer Beaver Airport
+city: Summer Beaver
+country: Canada
+iata: SUR
+icao: CJV7
+latitude: 52.7086
+longitude: -88.5419
+elevation: 832
+utc_offset: -5
+_class: A
+timezone: America/Toronto

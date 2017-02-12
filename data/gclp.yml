@@ -1,0 +1,12 @@
+---
+airport_name: Gran Canaria
+city: Gran Canaria
+country: Spain
+iata: LPA
+icao: GCLP
+latitude: 27.931886
+longitude: -15.386586
+elevation: 78
+utc_offset: 0
+_class: E
+timezone: Atlantic/Canary

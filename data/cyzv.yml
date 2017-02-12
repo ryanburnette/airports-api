@@ -1,0 +1,12 @@
+---
+airport_name: Sept Iles
+city: Sept-iles
+country: Canada
+iata: YZV
+icao: CYZV
+latitude: 50.223333
+longitude: -66.265556
+elevation: 180
+utc_offset: -5
+_class: A
+timezone: America/Toronto

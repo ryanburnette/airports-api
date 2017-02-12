@@ -1,0 +1,12 @@
+---
+airport_name: Leonora Airport
+city: Leonora
+country: Australia
+iata: LNO
+icao: YLEO
+latitude: -28.8781
+longitude: 121.315
+elevation: 1217
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

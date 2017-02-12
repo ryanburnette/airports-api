@@ -1,0 +1,12 @@
+---
+airport_name: Kemijarvi
+city: Kemijarvi
+country: Finland
+iata: 
+icao: EFKM
+latitude: 66.712883
+longitude: 27.156786
+elevation: 692
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

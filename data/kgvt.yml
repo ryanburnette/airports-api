@@ -1,0 +1,12 @@
+---
+airport_name: Majors
+city: Greenvile
+country: United States
+iata: GVT
+icao: KGVT
+latitude: 33.067839
+longitude: -96.065333
+elevation: 535
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Bowman Fld
+city: Louisville
+country: United States
+iata: LOU
+icao: KLOU
+latitude: 38.228
+longitude: -85.663722
+elevation: 546
+utc_offset: -5
+_class: A
+timezone: America/New_York

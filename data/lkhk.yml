@@ -1,0 +1,12 @@
+---
+airport_name: Hradec Kralove
+city: Hradec Kralove
+country: Czech Republic
+iata: 
+icao: LKHK
+latitude: 50.2532
+longitude: 15.845228
+elevation: 791
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

@@ -1,0 +1,12 @@
+---
+airport_name: Catania Fontanarossa
+city: Catania
+country: Italy
+iata: CTA
+icao: LICC
+latitude: 37.466781
+longitude: 15.0664
+elevation: 39
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

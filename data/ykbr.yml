@@ -1,0 +1,12 @@
+---
+airport_name: Kalbarri Airport
+city: Kalbarri
+country: Australia
+iata: KAX
+icao: YKBR
+latitude: -27.69
+longitude: 114.262
+elevation: 157
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

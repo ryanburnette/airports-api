@@ -1,0 +1,12 @@
+---
+airport_name: Sheppard Afb Wichita Falls Muni
+city: Wichita Falls
+country: United States
+iata: SPS
+icao: KSPS
+latitude: 33.988797
+longitude: -98.491894
+elevation: 1019
+utc_offset: -6
+_class: A
+timezone: America/Chicago

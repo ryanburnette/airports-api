@@ -1,0 +1,12 @@
+---
+airport_name: Kingsville Nas
+city: Kingsville
+country: United States
+iata: NQI
+icao: KNQI
+latitude: 27.507223
+longitude: -97.809723
+elevation: 50
+utc_offset: -6
+_class: A
+timezone: America/Chicago

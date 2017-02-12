@@ -1,0 +1,12 @@
+---
+airport_name: Long Wharf
+city: Boston
+country: United States
+iata: 
+icao: 
+latitude: 42.36024
+longitude: -71.048105
+elevation: 16
+utc_offset: -5
+_class: A
+timezone: America/New_York

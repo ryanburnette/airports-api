@@ -1,0 +1,12 @@
+---
+airport_name: Regina Intl
+city: Regina
+country: Canada
+iata: YQR
+icao: CYQR
+latitude: 50.431944
+longitude: -104.665833
+elevation: 1894
+utc_offset: -6
+_class: N
+timezone: America/Regina

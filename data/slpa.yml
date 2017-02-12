@@ -1,0 +1,12 @@
+---
+airport_name: Santa Lucia PNP Airstrip
+city: Santa Lucia
+country: Peru
+iata: 
+icao: SLPA
+latitude: -8.337041
+longitude: -76.385733
+elevation: 50
+utc_offset: -5
+_class: U
+timezone: America/Lima

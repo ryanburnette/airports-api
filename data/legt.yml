@@ -1,0 +1,12 @@
+---
+airport_name: Getafe
+city: Madrid
+country: Spain
+iata: 
+icao: LEGT
+latitude: 40.294139
+longitude: -3.723833
+elevation: 2029
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

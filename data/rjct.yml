@@ -1,0 +1,12 @@
+---
+airport_name: Tokachi
+city: Tokachi
+country: Japan
+iata: 
+icao: RJCT
+latitude: 42.890544
+longitude: 143.158475
+elevation: 281
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

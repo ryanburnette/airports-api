@@ -1,0 +1,12 @@
+---
+airport_name: Kjeller
+city: Kjeller
+country: Norway
+iata: 
+icao: ENKJ
+latitude: 59.969336
+longitude: 11.036089
+elevation: 354
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

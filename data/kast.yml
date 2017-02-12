@@ -1,0 +1,12 @@
+---
+airport_name: Astoria Regional Airport
+city: Astoria
+country: United States
+iata: AST
+icao: KAST
+latitude: 46.157972
+longitude: -123.878694
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

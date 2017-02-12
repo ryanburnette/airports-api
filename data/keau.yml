@@ -1,0 +1,12 @@
+---
+airport_name: Chippewa Valley Regional Airport
+city: Eau Claire
+country: United States
+iata: EAU
+icao: KEAU
+latitude: 44.8658
+longitude: -91.4843
+elevation: 913
+utc_offset: -6
+_class: A
+timezone: America/Chicago

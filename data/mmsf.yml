@@ -1,0 +1,12 @@
+---
+airport_name: San Felipe Intl
+city: San Filipe
+country: Mexico
+iata: 
+icao: MMSF
+latitude: 30.930222
+longitude: -114.808639
+elevation: 148
+utc_offset: -8
+_class: S
+timezone: America/Tijuana

@@ -1,0 +1,12 @@
+---
+airport_name: Phoenix Regional Airport
+city: Phoenix
+country: United States
+iata: A39
+icao: KA39
+latitude: 32.99169921875
+longitude: -111.920997619629
+elevation: 1300
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

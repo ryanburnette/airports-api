@@ -1,0 +1,12 @@
+---
+airport_name: Exmouth Airport
+city: Exmouth
+country: Australia
+iata: EXM
+icao: 
+latitude: -21.933
+longitude: 114.128
+elevation: 50
+utc_offset: 8
+_class: U
+timezone: Australia/Perth

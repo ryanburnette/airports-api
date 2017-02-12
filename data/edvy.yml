@@ -1,0 +1,12 @@
+---
+airport_name: Porta Westfalica Airport
+city: Bad Oeynhausen
+country: Germany
+iata: 
+icao: EDVY
+latitude: 52.2208
+longitude: 8.85917
+elevation: 148
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

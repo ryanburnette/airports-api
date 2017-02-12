@@ -1,0 +1,12 @@
+---
+airport_name: Marshall Islands Intl
+city: Majuro
+country: Marshall Islands
+iata: MAJ
+icao: PKMJ
+latitude: 7.064758
+longitude: 171.272022
+elevation: 6
+utc_offset: 12
+_class: U
+timezone: Pacific/Majuro

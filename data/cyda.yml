@@ -1,0 +1,12 @@
+---
+airport_name: Dawson City
+city: Dawson
+country: Canada
+iata: YDA
+icao: CYDA
+latitude: 64.043056
+longitude: -139.127778
+elevation: 1215
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

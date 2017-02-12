@@ -1,0 +1,12 @@
+---
+airport_name: Southeast Iowa Regional Airport
+city: Burlington
+country: United States
+iata: BRL
+icao: KBRL
+latitude: 40.7832
+longitude: -91.1255
+elevation: 698
+utc_offset: -6
+_class: A
+timezone: America/Chicago

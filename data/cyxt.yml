@@ -1,0 +1,12 @@
+---
+airport_name: Terrace
+city: Terrace
+country: Canada
+iata: YXT
+icao: CYXT
+latitude: 54.468508
+longitude: -128.576219
+elevation: 713
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

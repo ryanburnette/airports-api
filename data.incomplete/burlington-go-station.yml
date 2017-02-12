@@ -1,0 +1,12 @@
+---
+airport_name: Burlington GO Station
+city: Burlington
+country: Canada
+iata: 
+icao: 
+latitude: 43.3408282
+longitude: -79.8093881
+elevation: 243
+utc_offset: -5
+_class: A
+timezone: America/Toronto

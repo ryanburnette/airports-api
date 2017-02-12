@@ -1,0 +1,12 @@
+---
+airport_name: Motueka
+city: Motueka
+country: New Zealand
+iata: MZP
+icao: NZMK
+latitude: -41.123299
+longitude: 172.988998
+elevation: 39
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

@@ -1,0 +1,12 @@
+---
+airport_name: Taipei Station
+city: Taipei
+country: Taiwan
+iata: 
+icao: 
+latitude: 25.047778
+longitude: 121.517222
+elevation: 30
+utc_offset: 8
+_class: N
+timezone: Asia/Taipei

@@ -1,0 +1,12 @@
+---
+airport_name: Port Authority
+city: New York
+country: United States
+iata: 
+icao: 
+latitude: 40.756667
+longitude: -73.991111
+elevation: 33
+utc_offset: -5
+_class: A
+timezone: America/New_York

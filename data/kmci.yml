@@ -1,0 +1,12 @@
+---
+airport_name: Kansas City Intl
+city: Kansas City
+country: United States
+iata: MCI
+icao: KMCI
+latitude: 39.297606
+longitude: -94.713905
+elevation: 1026
+utc_offset: -6
+_class: A
+timezone: America/Chicago

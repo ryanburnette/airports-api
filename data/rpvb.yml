@@ -1,0 +1,12 @@
+---
+airport_name: Bacolod
+city: Bacolod
+country: Philippines
+iata: BCD
+icao: RPVB
+latitude: 10.642511
+longitude: 122.929617
+elevation: 25
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

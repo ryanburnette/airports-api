@@ -1,0 +1,12 @@
+---
+airport_name: Susquehanna Trailways Terminal
+city: Williamsport
+country: United States
+iata: 
+icao: WSPT
+latitude: 41.239395
+longitude: -77.000245
+elevation: 518
+utc_offset: -5
+_class: A
+timezone: America/New_York

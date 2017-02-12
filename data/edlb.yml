@@ -1,0 +1,12 @@
+---
+airport_name: Borkenberge Airport
+city: Duelmen
+country: Germany
+iata: 
+icao: EDLB
+latitude: 51.78
+longitude: 7.288
+elevation: 157
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

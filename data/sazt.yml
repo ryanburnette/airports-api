@@ -1,0 +1,12 @@
+---
+airport_name: Tandil
+city: Tandil
+country: Argentina
+iata: TDL
+icao: SAZT
+latitude: -37.237392
+longitude: -59.227922
+elevation: 574
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

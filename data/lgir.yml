@@ -1,0 +1,12 @@
+---
+airport_name: Nikos Kazantzakis
+city: Heraklion
+country: Greece
+iata: HER
+icao: LGIR
+latitude: 35.339719
+longitude: 25.180297
+elevation: 115
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

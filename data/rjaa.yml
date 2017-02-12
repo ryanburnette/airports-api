@@ -1,0 +1,12 @@
+---
+airport_name: Narita Intl
+city: Tokyo
+country: Japan
+iata: NRT
+icao: RJAA
+latitude: 35.764722
+longitude: 140.386389
+elevation: 141
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

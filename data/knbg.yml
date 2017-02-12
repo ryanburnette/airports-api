@@ -1,0 +1,12 @@
+---
+airport_name: New Orleans Nas Jrb
+city: New Orleans
+country: United States
+iata: NBG
+icao: KNBG
+latitude: 29.825333
+longitude: -90.035
+elevation: 3
+utc_offset: -6
+_class: A
+timezone: America/Chicago

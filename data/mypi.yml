@@ -1,0 +1,12 @@
+---
+airport_name: Nassau Paradise Island Airport
+city: Nassau
+country: Bahamas
+iata: PID
+icao: MYPI
+latitude: 25.083
+longitude: -77.3
+elevation: 0
+utc_offset: -5
+_class: U
+timezone: America/Nassau

@@ -1,0 +1,12 @@
+---
+airport_name: Bus Stop
+city: Hell-Bourg
+country: Reunion
+iata: 
+icao: HLBG
+latitude: -21.06402
+longitude: 55.518453
+elevation: 3000
+utc_offset: 4
+_class: E
+timezone: Indian/Reunion

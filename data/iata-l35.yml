@@ -1,0 +1,12 @@
+---
+airport_name: Big Bear City
+city: Big Bear
+country: United States
+iata: L35
+icao: 
+latitude: 34.2637778
+longitude: -116.8560278
+elevation: 6725
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

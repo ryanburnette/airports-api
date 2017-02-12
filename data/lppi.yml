@@ -1,0 +1,12 @@
+---
+airport_name: Pico
+city: Pico
+country: Portugal
+iata: PIX
+icao: LPPI
+latitude: 38.554333
+longitude: -28.441333
+elevation: 109
+utc_offset: -1
+_class: E
+timezone: Atlantic/Azores

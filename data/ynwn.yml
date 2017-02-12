@@ -1,0 +1,12 @@
+---
+airport_name: Newman Airport
+city: Newman
+country: Australia
+iata: ZNE
+icao: YNWN
+latitude: -23.4178
+longitude: 119.803
+elevation: 1724
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

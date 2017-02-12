@@ -1,0 +1,12 @@
+---
+airport_name: Oshawa Airport
+city: Oshawa
+country: Canada
+iata: YOO
+icao: CYOO
+latitude: 43.9228
+longitude: -78.895
+elevation: 459
+utc_offset: -5
+_class: A
+timezone: America/Toronto

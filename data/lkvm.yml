@@ -1,0 +1,12 @@
+---
+airport_name: Vostice
+city: Vysoke Myto
+country: Czech Republic
+iata: 
+icao: LKVM
+latitude: 49.5537
+longitude: 16.1109
+elevation: 988
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

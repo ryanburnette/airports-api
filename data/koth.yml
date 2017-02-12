@@ -1,0 +1,12 @@
+---
+airport_name: Southwest Oregon Regional Airport
+city: North Bend
+country: United States
+iata: OTH
+icao: KOTH
+latitude: 43.4171
+longitude: -124.246
+elevation: 17
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

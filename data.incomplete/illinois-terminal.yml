@@ -1,0 +1,12 @@
+---
+airport_name: Illinois Terminal
+city: Champaign
+country: United States
+iata: 
+icao: 
+latitude: 40.1155
+longitude: -88.2411
+elevation: 732
+utc_offset: -6
+_class: A
+timezone: America/Chicago

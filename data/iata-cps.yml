@@ -1,0 +1,12 @@
+---
+airport_name: St. Louis Downtown Airport
+city: East St. Louis
+country: United States
+iata: CPS
+icao: 
+latitude: 38.5707244
+longitude: -90.1562211
+elevation: 413
+utc_offset: -6
+_class: U
+timezone: America/Chicago

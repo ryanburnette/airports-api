@@ -1,0 +1,12 @@
+---
+airport_name: Halliburton Field Airport
+city: Duncan
+country: United States
+iata: DUC
+icao: KDUC
+latitude: 34.4713056
+longitude: -97.9598611
+elevation: 1114
+utc_offset: -6
+_class: A
+timezone: America/Chicago

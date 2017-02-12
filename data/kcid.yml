@@ -1,0 +1,12 @@
+---
+airport_name: Cedar Rapids
+city: Cedar Rapids
+country: United States
+iata: CID
+icao: KCID
+latitude: 41.884694
+longitude: -91.710806
+elevation: 869
+utc_offset: -6
+_class: A
+timezone: America/Chicago

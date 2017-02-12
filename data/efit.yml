@@ -1,0 +1,12 @@
+---
+airport_name: Kitee
+city: Kitee
+country: Finland
+iata: 
+icao: EFIT
+latitude: 62.166111
+longitude: 30.073611
+elevation: 364
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

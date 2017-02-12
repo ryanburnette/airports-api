@@ -1,0 +1,12 @@
+---
+airport_name: Grayling Airport
+city: Grayling
+country: United States
+iata: KGX
+icao: 
+latitude: 62.894444
+longitude: -160.065
+elevation: 99
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

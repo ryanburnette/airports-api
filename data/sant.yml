@@ -1,0 +1,12 @@
+---
+airport_name: Teniente Benjamin Matienzo
+city: Tucuman
+country: Argentina
+iata: TUC
+icao: SANT
+latitude: -26.840861
+longitude: -65.104944
+elevation: 1495
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

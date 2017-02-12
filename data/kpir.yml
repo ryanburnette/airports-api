@@ -1,0 +1,12 @@
+---
+airport_name: Pierre Regional Airport
+city: Pierre
+country: United States
+iata: PIR
+icao: KPIR
+latitude: 44.3827
+longitude: -100.286
+elevation: 1742
+utc_offset: -6
+_class: A
+timezone: America/Chicago

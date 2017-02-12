@@ -1,0 +1,12 @@
+---
+airport_name: Niagara Falls Intl
+city: Niagara Falls
+country: United States
+iata: IAG
+icao: KIAG
+latitude: 43.107333
+longitude: -78.946194
+elevation: 589
+utc_offset: -5
+_class: A
+timezone: America/New_York

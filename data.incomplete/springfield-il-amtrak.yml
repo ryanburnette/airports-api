@@ -1,0 +1,12 @@
+---
+airport_name: Springfield IL Amtrak
+city: Springfield
+country: United States
+iata: 
+icao: 
+latitude: 39.8023
+longitude: -89.6515
+elevation: 593
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Myrtle Beach Intl
+city: Myrtle Beach
+country: United States
+iata: MYR
+icao: KMYR
+latitude: 33.67975
+longitude: -78.928333
+elevation: 25
+utc_offset: -5
+_class: A
+timezone: America/New_York

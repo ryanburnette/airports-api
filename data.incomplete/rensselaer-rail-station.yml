@@ -1,0 +1,12 @@
+---
+airport_name: Rensselaer Rail Station
+city: Albany
+country: United States
+iata: 
+icao: 
+latitude: 42.641389
+longitude: -73.741111
+elevation: 324
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Saint Catherine
+city: Calvi
+country: France
+iata: CLY
+icao: LFKC
+latitude: 42.530753
+longitude: 8.793189
+elevation: 209
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

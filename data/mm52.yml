@@ -1,0 +1,12 @@
+---
+airport_name: Campo Cuatro Milpas Airport
+city: Guasave
+country: Mexico
+iata: 
+icao: MM52
+latitude: 25.651944
+longitude: -108.538056
+elevation: 72
+utc_offset: -7
+_class: A
+timezone: America/Mazatlan

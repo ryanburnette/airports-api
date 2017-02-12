@@ -1,0 +1,12 @@
+---
+airport_name: Goraszka
+city: Goraszka
+country: Poland
+iata: 
+icao: EPGO
+latitude: 52.1104
+longitude: 21.1652
+elevation: 110
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

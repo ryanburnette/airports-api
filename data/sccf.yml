@@ -1,0 +1,12 @@
+---
+airport_name: El Loa
+city: Calama
+country: Chile
+iata: CJC
+icao: SCCF
+latitude: -22.498175
+longitude: -68.903575
+elevation: 7543
+utc_offset: -4
+_class: S
+timezone: America/Santiago

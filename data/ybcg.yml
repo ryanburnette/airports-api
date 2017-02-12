@@ -1,0 +1,12 @@
+---
+airport_name: Gold Coast
+city: Coolangatta
+country: Australia
+iata: OOL
+icao: YBCG
+latitude: -28.164444
+longitude: 153.504722
+elevation: 21
+utc_offset: 10
+_class: N
+timezone: Australia/Brisbane

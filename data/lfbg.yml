@@ -1,0 +1,12 @@
+---
+airport_name: Chateaubernard
+city: Cognac
+country: France
+iata: CNG
+icao: LFBG
+latitude: 45.658333
+longitude: -0.3175
+elevation: 102
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

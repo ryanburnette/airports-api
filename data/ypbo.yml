@@ -1,0 +1,12 @@
+---
+airport_name: Paraburdoo Airport
+city: Paraburdoo
+country: Australia
+iata: PBO
+icao: YPBO
+latitude: -23.1711
+longitude: 117.745
+elevation: 1406
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

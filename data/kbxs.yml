@@ -1,0 +1,12 @@
+---
+airport_name: Borrego Valley Airport
+city: Borrego Springs
+country: United States
+iata: BXS
+icao: KBXS
+latitude: 33.2590278
+longitude: -116.3209722
+elevation: 520
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

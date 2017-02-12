@@ -1,0 +1,12 @@
+---
+airport_name: Inukjuak Airport
+city: Inukjuak
+country: Canada
+iata: YPH
+icao: CYPH
+latitude: 58.4719
+longitude: -78.0769
+elevation: 83
+utc_offset: -5
+_class: A
+timezone: America/Toronto

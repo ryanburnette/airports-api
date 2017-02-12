@@ -1,0 +1,12 @@
+---
+airport_name: Cancun Intl
+city: Cancun
+country: Mexico
+iata: CUN
+icao: MMUN
+latitude: 21.036528
+longitude: -86.877083
+elevation: 20
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

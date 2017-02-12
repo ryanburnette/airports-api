@@ -1,0 +1,12 @@
+---
+airport_name: Tuluksak Airport
+city: Tuluksak
+country: United States
+iata: TLT
+icao: 
+latitude: 61.096944
+longitude: -160.969444
+elevation: 30
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

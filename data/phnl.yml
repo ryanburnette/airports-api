@@ -1,0 +1,12 @@
+---
+airport_name: Honolulu Intl
+city: Honolulu
+country: United States
+iata: HNL
+icao: PHNL
+latitude: 21.318681
+longitude: -157.922428
+elevation: 13
+utc_offset: -10
+_class: N
+timezone: Pacific/Honolulu

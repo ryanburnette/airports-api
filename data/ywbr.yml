@@ -1,0 +1,12 @@
+---
+airport_name: Warburton
+city: Warburton Community
+country: Australia
+iata: 
+icao: YWBR
+latitude: -26.128333
+longitude: 126.583333
+elevation: 1500
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

@@ -1,0 +1,12 @@
+---
+airport_name: Piacenza
+city: Piacenza
+country: Italy
+iata: QPZ
+icao: LIMS
+latitude: 44.913055
+longitude: 9.723333
+elevation: 456
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

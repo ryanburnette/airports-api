@@ -1,0 +1,12 @@
+---
+airport_name: Horn Island Airport
+city: Horn Island
+country: Australia
+iata: HID
+icao: YHID
+latitude: -10.5864
+longitude: 142.29
+elevation: 43
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

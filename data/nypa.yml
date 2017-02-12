@@ -1,0 +1,12 @@
+---
+airport_name: Port Authority Bus Terminal
+city: New York
+country: United States
+iata: 
+icao: NYPA
+latitude: 40.75616
+longitude: -73.9906
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

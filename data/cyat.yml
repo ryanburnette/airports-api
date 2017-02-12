@@ -1,0 +1,12 @@
+---
+airport_name: Attawapiskat Airport
+city: Attawapiskat
+country: Canada
+iata: YAT
+icao: CYAT
+latitude: 52.9275
+longitude: -82.4319
+elevation: 31
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Scappoose Industrial Airpark
+city: San Luis
+country: United States
+iata: SPB
+icao: KSPB
+latitude: 45.771028
+longitude: -122.861833
+elevation: 58
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

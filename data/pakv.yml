@@ -1,0 +1,12 @@
+---
+airport_name: Kaltag Airport
+city: Kaltag
+country: United States
+iata: KAL
+icao: PAKV
+latitude: 64.3191
+longitude: -158.741
+elevation: 187
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

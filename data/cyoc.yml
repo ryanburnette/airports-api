@@ -1,0 +1,12 @@
+---
+airport_name: Old Crow
+city: Old Crow
+country: Canada
+iata: YOC
+icao: CYOC
+latitude: 67.570556
+longitude: -139.839167
+elevation: 824
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

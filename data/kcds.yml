@@ -1,0 +1,12 @@
+---
+airport_name: Childress Muni
+city: Childress
+country: United States
+iata: CDS
+icao: KCDS
+latitude: 34.433781
+longitude: -100.287992
+elevation: 1954
+utc_offset: -6
+_class: A
+timezone: America/Chicago

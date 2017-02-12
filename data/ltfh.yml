@@ -1,0 +1,12 @@
+---
+airport_name: Samsun-Çarşamba Airport
+city: Samsun
+country: Turkey
+iata: SZF
+icao: LTFH
+latitude: 41.2545
+longitude: 36.5671
+elevation: 18
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

@@ -1,0 +1,12 @@
+---
+airport_name: NYERI
+city: NYERI
+country: Kenya
+iata: NYE
+icao: HKNI
+latitude: -0.34
+longitude: 36.91
+elevation: 5830
+utc_offset: 3
+_class: U
+timezone: Africa/Nairobi

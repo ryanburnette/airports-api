@@ -1,0 +1,12 @@
+---
+airport_name: Kingston
+city: Kingston
+country: Canada
+iata: YGK
+icao: CYGK
+latitude: 44.225277
+longitude: -76.596944
+elevation: 305
+utc_offset: -5
+_class: A
+timezone: America/Toronto

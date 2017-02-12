@@ -1,0 +1,12 @@
+---
+airport_name: Athen Helenikon Airport
+city: Athens
+country: Greece
+iata: HEW
+icao: 
+latitude: 37.8933
+longitude: 23.7261
+elevation: 69
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

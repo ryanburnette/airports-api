@@ -1,0 +1,12 @@
+---
+airport_name: Tripoli Intl
+city: Tripoli
+country: Libya
+iata: TIP
+icao: HLLT
+latitude: 32.663544
+longitude: 13.159011
+elevation: 263
+utc_offset: 2
+_class: N
+timezone: Africa/Tripoli

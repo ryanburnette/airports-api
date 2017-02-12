@@ -1,0 +1,12 @@
+---
+airport_name: La Florida
+city: La Serena
+country: Chile
+iata: LSC
+icao: SCSE
+latitude: -29.916233
+longitude: -71.199522
+elevation: 481
+utc_offset: -4
+_class: S
+timezone: America/Santiago

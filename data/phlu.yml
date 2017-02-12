@@ -1,0 +1,12 @@
+---
+airport_name: Kalaupapa Airport
+city: Molokai
+country: United States
+iata: LUP
+icao: PHLU
+latitude: 21.211
+longitude: -156.974
+elevation: 24
+utc_offset: -10
+_class: A
+timezone: Pacific/Honolulu

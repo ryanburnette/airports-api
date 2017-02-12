@@ -1,0 +1,12 @@
+---
+airport_name: Olympia Regional Airpor
+city: Olympia
+country: United States
+iata: OLM
+icao: KOLM
+latitude: 46.9694044
+longitude: -122.9025447
+elevation: 209
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

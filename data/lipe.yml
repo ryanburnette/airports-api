@@ -1,0 +1,12 @@
+---
+airport_name: Bologna
+city: Bologna
+country: Italy
+iata: BLQ
+icao: LIPE
+latitude: 44.535444
+longitude: 11.288667
+elevation: 123
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

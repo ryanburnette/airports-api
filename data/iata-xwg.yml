@@ -1,0 +1,12 @@
+---
+airport_name: Gare de Strasbourg
+city: Strasbourg
+country: France
+iata: XWG
+icao: 
+latitude: 48.585068
+longitude: 7.734547
+elevation: 475
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

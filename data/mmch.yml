@@ -1,0 +1,12 @@
+---
+airport_name: Chilpancingo
+city: Chilpancingo
+country: Mexico
+iata: 
+icao: MMCH
+latitude: 17.573767
+longitude: -99.514339
+elevation: 4199
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

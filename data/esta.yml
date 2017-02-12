@@ -1,0 +1,12 @@
+---
+airport_name: Ängelholm-Helsingborg Airport
+city: Ängelholm
+country: Sweden
+iata: AGH
+icao: ESTA
+latitude: 56.2961
+longitude: 12.8471
+elevation: 68
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

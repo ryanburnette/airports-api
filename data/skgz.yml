@@ -1,0 +1,12 @@
+---
+airport_name: La Jagua Airport
+city: Garzón
+country: Colombia
+iata: GLJ
+icao: SKGZ
+latitude: 2.17
+longitude: -75.67
+elevation: 2620
+utc_offset: -5
+_class: U
+timezone: America/Bogota

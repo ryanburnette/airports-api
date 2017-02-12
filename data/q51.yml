@@ -1,0 +1,12 @@
+---
+airport_name: Kili Airport
+city: Kili Island
+country: Marshall Islands
+iata: KIO
+icao: Q51
+latitude: 5.64452
+longitude: 169.12
+elevation: 5
+utc_offset: 12
+_class: U
+timezone: Pacific/Majuro

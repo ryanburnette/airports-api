@@ -1,0 +1,12 @@
+---
+airport_name: Burwash
+city: Burwash
+country: Canada
+iata: YDB
+icao: CYDB
+latitude: 61.371111
+longitude: -139.040556
+elevation: 2647
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

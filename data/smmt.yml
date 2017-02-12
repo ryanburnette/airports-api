@@ -1,0 +1,12 @@
+---
+airport_name: Summit NJT Station
+city: Summit
+country: United States
+iata: 
+icao: SMMT
+latitude: 40.716556
+longitude: -74.35775
+elevation: 374
+utc_offset: -5
+_class: A
+timezone: America/New_York

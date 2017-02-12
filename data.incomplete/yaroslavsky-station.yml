@@ -1,0 +1,12 @@
+---
+airport_name: Yaroslavsky Station
+city: Moscow
+country: Russia
+iata: 
+icao: 
+latitude: 55.776
+longitude: 37.658
+elevation: 400
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

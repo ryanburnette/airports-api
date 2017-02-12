@@ -1,0 +1,12 @@
+---
+airport_name: Ocean Shores Municipal
+city: Ocean Shores
+country: United States
+iata: W04
+icao: KW04
+latitude: 46.5995
+longitude: -124.0854
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Brockville VIA Station
+city: Brockville
+country: Canada
+iata: 
+icao: BRKV
+latitude: 44.5919
+longitude: -75.693343
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/Toronto

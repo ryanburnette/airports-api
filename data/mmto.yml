@@ -1,0 +1,12 @@
+---
+airport_name: Licenciado Adolfo Lopez Mateos Intl
+city: Toluca
+country: Mexico
+iata: TLC
+icao: MMTO
+latitude: 19.337072
+longitude: -99.566008
+elevation: 8466
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

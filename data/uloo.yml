@@ -1,0 +1,12 @@
+---
+airport_name: Kresty
+city: Pskov
+country: Russia
+iata: PKV
+icao: ULOO
+latitude: 57.783917
+longitude: 28.395614
+elevation: 154
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

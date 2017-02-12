@@ -1,0 +1,12 @@
+---
+airport_name: Roanoke Regional
+city: Roanoke VA
+country: United States
+iata: ROA
+icao: KROA
+latitude: 37.325472
+longitude: -79.975417
+elevation: 1175
+utc_offset: -5
+_class: A
+timezone: America/New_York

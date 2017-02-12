@@ -1,0 +1,12 @@
+---
+airport_name: Bendigo Airport
+city: Bendigo
+country: Australia
+iata: 
+icao: YBDG
+latitude: -36.7394
+longitude: 144.33
+elevation: 705
+utc_offset: 10
+_class: U
+timezone: Australia/Hobart

@@ -1,0 +1,12 @@
+---
+airport_name: Eldorado Intl
+city: Bogota
+country: Colombia
+iata: BOG
+icao: SKBO
+latitude: 4.701594
+longitude: -74.146947
+elevation: 8361
+utc_offset: -5
+_class: U
+timezone: America/Bogota

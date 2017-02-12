@@ -1,0 +1,12 @@
+---
+airport_name: Larsen Bay Airport
+city: Larsen Bay
+country: United States
+iata: KLN
+icao: PALB
+latitude: 57.535
+longitude: -153.976667
+elevation: 87
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

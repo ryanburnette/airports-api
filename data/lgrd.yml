@@ -1,0 +1,12 @@
+---
+airport_name: Maritsa
+city: Rhodos
+country: Greece
+iata: 
+icao: LGRD
+latitude: 36.383056
+longitude: 28.108889
+elevation: 204
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

@@ -1,0 +1,12 @@
+---
+airport_name: Bienenfarm Airport
+city: Nauen
+country: Germany
+iata: 
+icao: EDOI
+latitude: 52.6617
+longitude: 12.7458
+elevation: 131
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

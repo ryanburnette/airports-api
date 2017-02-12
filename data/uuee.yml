@@ -1,0 +1,12 @@
+---
+airport_name: Sheremetyevo
+city: Moscow
+country: Russia
+iata: SVO
+icao: UUEE
+latitude: 55.972642
+longitude: 37.414589
+elevation: 622
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

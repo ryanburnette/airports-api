@@ -1,0 +1,12 @@
+---
+airport_name: Niagara District
+city: Saint Catherines
+country: Canada
+iata: YCM
+icao: CYSN
+latitude: 43.191667
+longitude: -79.171111
+elevation: 321
+utc_offset: -5
+_class: A
+timezone: America/Toronto

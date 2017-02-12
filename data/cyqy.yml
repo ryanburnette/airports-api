@@ -1,0 +1,12 @@
+---
+airport_name: Sydney
+city: Sydney
+country: Canada
+iata: YQY
+icao: CYQY
+latitude: 46.161388
+longitude: -60.047779
+elevation: 203
+utc_offset: -4
+_class: A
+timezone: America/Halifax

@@ -1,0 +1,12 @@
+---
+airport_name: Ocana
+city: Ocana
+country: Spain
+iata: 
+icao: LEOC
+latitude: 39.9375
+longitude: -3.503333
+elevation: 2405
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

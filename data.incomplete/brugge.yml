@@ -1,0 +1,12 @@
+---
+airport_name: Brugge
+city: Bruges
+country: Belgium
+iata: 
+icao: 
+latitude: 51.1972
+longitude: 3.2172
+elevation: 130
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

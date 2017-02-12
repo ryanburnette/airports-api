@@ -1,0 +1,12 @@
+---
+airport_name: Ndolo
+city: Kinshasa
+country: Congo (Kinshasa)
+iata: NLO
+icao: FZAB
+latitude: -4.326689
+longitude: 15.327342
+elevation: 915
+utc_offset: 1
+_class: N
+timezone: Africa/Kinshasa

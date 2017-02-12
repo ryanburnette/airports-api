@@ -1,0 +1,12 @@
+---
+airport_name: ZAPALA
+city: ZAPALA
+country: Argentina
+iata: APZ
+icao: SAHZ
+latitude: -38.9755
+longitude: -70.113581
+elevation: 3330
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

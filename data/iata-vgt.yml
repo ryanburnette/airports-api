@@ -1,0 +1,12 @@
+---
+airport_name: North Las Vegas Airport
+city: Las Vegas
+country: United States
+iata: VGT
+icao: 
+latitude: 36.2106944
+longitude: -115.1944444
+elevation: 2205
+utc_offset: -8
+_class: U
+timezone: America/Los_Angeles

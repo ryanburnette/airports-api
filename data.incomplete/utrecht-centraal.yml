@@ -1,0 +1,12 @@
+---
+airport_name: Utrecht Centraal
+city: 'Utrecht '
+country: Netherlands
+iata: 
+icao: 
+latitude: 52.089167
+longitude: 5.109722
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

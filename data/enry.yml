@@ -1,0 +1,12 @@
+---
+airport_name: Moss
+city: Rygge
+country: Norway
+iata: RYG
+icao: ENRY
+latitude: 59.378933
+longitude: 10.785389
+elevation: 174
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

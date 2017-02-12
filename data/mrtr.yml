@@ -1,0 +1,12 @@
+---
+airport_name: Tambor Airport
+city: Nicoya
+country: Costa Rica
+iata: TMU
+icao: MRTR
+latitude: 9.73852
+longitude: -85.0138
+elevation: 33
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

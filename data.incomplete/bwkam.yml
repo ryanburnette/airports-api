@@ -1,0 +1,12 @@
+---
+airport_name: BWKAM
+city: Amberg
+country: Germany
+iata: 
+icao: 
+latitude: 49.43
+longitude: 11.8
+elevation: 500
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

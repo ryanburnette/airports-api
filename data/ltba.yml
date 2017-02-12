@@ -1,0 +1,12 @@
+---
+airport_name: Ataturk
+city: Istanbul
+country: Turkey
+iata: IST
+icao: LTBA
+latitude: 40.976922
+longitude: 28.814606
+elevation: 163
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

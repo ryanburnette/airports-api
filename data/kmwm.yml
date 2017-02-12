@@ -1,0 +1,12 @@
+---
+airport_name: Windom Municipal Airport
+city: Windom
+country: United States
+iata: MWM
+icao: KMWM
+latitude: 43.9134017
+longitude: -95.1094083
+elevation: 1410
+utc_offset: -6
+_class: A
+timezone: America/Chicago

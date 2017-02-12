@@ -1,0 +1,12 @@
+---
+airport_name: Tulip City Airport
+city: Holland
+country: United States
+iata: BIV
+icao: KBIV
+latitude: 42.7427778
+longitude: -86.1078333
+elevation: 698
+utc_offset: -5
+_class: A
+timezone: America/New_York

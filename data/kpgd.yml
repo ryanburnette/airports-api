@@ -1,0 +1,12 @@
+---
+airport_name: Charlotte County-Punta Gorda Airport
+city: Punta Gorda
+country: United States
+iata: PGD
+icao: KPGD
+latitude: 26.919722
+longitude: -81.990556
+elevation: 26
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Metro-North Station
+city: Poughkeepsie
+country: United States
+iata: 
+icao: PKPS
+latitude: 41.706516
+longitude: -73.937774
+elevation: 180
+utc_offset: -5
+_class: A
+timezone: America/New_York

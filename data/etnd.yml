@@ -1,0 +1,12 @@
+---
+airport_name: Diepholz
+city: Diepholz
+country: Germany
+iata: 
+icao: ETND
+latitude: 52.585514
+longitude: 8.341014
+elevation: 127
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

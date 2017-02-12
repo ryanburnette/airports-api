@@ -1,0 +1,12 @@
+---
+airport_name: Fort Smith Rgnl
+city: Fort Smith
+country: United States
+iata: FSM
+icao: KFSM
+latitude: 35.336583
+longitude: -94.367444
+elevation: 469
+utc_offset: -6
+_class: A
+timezone: America/Chicago

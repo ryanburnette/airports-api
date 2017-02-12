@@ -1,0 +1,12 @@
+---
+airport_name: Ambrosio L V Taravella
+city: Cordoba
+country: Argentina
+iata: COR
+icao: SACO
+latitude: -31.323619
+longitude: -64.207953
+elevation: 1604
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

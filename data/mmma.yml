@@ -1,0 +1,12 @@
+---
+airport_name: General Servando Canales Intl
+city: Matamoros
+country: Mexico
+iata: MAM
+icao: MMMA
+latitude: 25.769894
+longitude: -97.525311
+elevation: 25
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

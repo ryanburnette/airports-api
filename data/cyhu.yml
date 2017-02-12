@@ -1,0 +1,12 @@
+---
+airport_name: St Hubert
+city: Montreal
+country: Canada
+iata: YHU
+icao: CYHU
+latitude: 45.5175
+longitude: -73.416944
+elevation: 90
+utc_offset: -5
+_class: A
+timezone: America/Toronto

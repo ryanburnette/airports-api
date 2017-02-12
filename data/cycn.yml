@@ -1,0 +1,12 @@
+---
+airport_name: Cochrane
+city: Cochrane
+country: Canada
+iata: YCN
+icao: CYCN
+latitude: 49.106667
+longitude: -81.015278
+elevation: 852
+utc_offset: -5
+_class: A
+timezone: America/Toronto

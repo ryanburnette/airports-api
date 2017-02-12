@@ -1,0 +1,12 @@
+---
+airport_name: Tokyo Intl
+city: Tokyo
+country: Japan
+iata: HND
+icao: RJTT
+latitude: 35.552258
+longitude: 139.779694
+elevation: 35
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

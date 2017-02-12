@@ -1,0 +1,12 @@
+---
+airport_name: Luoyang Airport
+city: Luoyang
+country: China
+iata: LYA
+icao: ZHLY
+latitude: 34.41
+longitude: 112.28
+elevation: 210
+utc_offset: 8
+_class: U
+timezone: Asia/Chongqing

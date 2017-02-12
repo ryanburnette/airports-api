@@ -1,0 +1,12 @@
+---
+airport_name: Rakkestad Flyplass
+city: Rakkestad
+country: Norway
+iata: 
+icao: ENRK
+latitude: 59.3975
+longitude: 11.3469
+elevation: 381
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

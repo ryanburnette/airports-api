@@ -1,0 +1,12 @@
+---
+airport_name: Speck-Fehraltorf Airport
+city: Fehraltorf
+country: Switzerland
+iata: 
+icao: LSZK
+latitude: 47.3764
+longitude: 8.7575
+elevation: 1748
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

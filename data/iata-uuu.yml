@@ -1,0 +1,12 @@
+---
+airport_name: Newport State
+city: Newport RI
+country: United States
+iata: UUU
+icao: 
+latitude: 41.533056
+longitude: -71.282222
+elevation: 172
+utc_offset: -5
+_class: A
+timezone: America/New_York

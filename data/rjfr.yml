@@ -1,0 +1,12 @@
+---
+airport_name: New Kitakyushu
+city: Kitakyushu
+country: Japan
+iata: KKJ
+icao: RJFR
+latitude: 33.845942
+longitude: 131.034689
+elevation: 21
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

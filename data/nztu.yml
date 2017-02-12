@@ -1,0 +1,12 @@
+---
+airport_name: Timaru
+city: Timaru
+country: New Zealand
+iata: TIU
+icao: NZTU
+latitude: -44.302778
+longitude: 171.225278
+elevation: 89
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

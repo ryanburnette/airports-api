@@ -1,0 +1,12 @@
+---
+airport_name: Santa Maria Airport
+city: Santa Maria
+country: Brazil
+iata: RIA
+icao: SBSM
+latitude: -29.711358
+longitude: -53.688153
+elevation: 287
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

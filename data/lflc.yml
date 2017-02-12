@@ -1,0 +1,12 @@
+---
+airport_name: Auvergne
+city: Clermont-Ferrand
+country: France
+iata: CFE
+icao: LFLC
+latitude: 45.786661
+longitude: 3.169169
+elevation: 1090
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

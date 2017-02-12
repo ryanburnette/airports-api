@@ -1,0 +1,12 @@
+---
+airport_name: Four Corners Rgnl
+city: Farmington
+country: United States
+iata: FMN
+icao: KFMN
+latitude: 36.74125
+longitude: -108.229944
+elevation: 5506
+utc_offset: -7
+_class: A
+timezone: America/Denver

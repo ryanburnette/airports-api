@@ -1,0 +1,12 @@
+---
+airport_name: Ministro Pistarini
+city: Buenos Aires
+country: Argentina
+iata: EZE
+icao: SAEZ
+latitude: -34.822222
+longitude: -58.535833
+elevation: 67
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

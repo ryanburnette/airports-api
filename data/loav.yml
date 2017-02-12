@@ -1,0 +1,12 @@
+---
+airport_name: Bad Voeslau
+city: Bad Voeslau
+country: Austria
+iata: 
+icao: LOAV
+latitude: 47.965
+longitude: 16.259
+elevation: 765
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

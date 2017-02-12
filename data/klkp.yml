@@ -1,0 +1,12 @@
+---
+airport_name: Lake Placid Airport
+city: Lake Placid
+country: United States
+iata: LKP
+icao: KLKP
+latitude: 44.264444
+longitude: -73.961944
+elevation: 1747
+utc_offset: -5
+_class: A
+timezone: America/New_York

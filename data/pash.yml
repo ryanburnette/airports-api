@@ -1,0 +1,12 @@
+---
+airport_name: Shishmaref Airport
+city: Shishmaref
+country: United States
+iata: SHH
+icao: PASH
+latitude: 66.2496
+longitude: -166.089
+elevation: 12
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

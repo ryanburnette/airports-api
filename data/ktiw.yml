@@ -1,0 +1,12 @@
+---
+airport_name: Tacoma Narrows Airport
+city: Tacoma
+country: United States
+iata: TIW
+icao: KTIW
+latitude: 47.267944
+longitude: -122.57811
+elevation: 294
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

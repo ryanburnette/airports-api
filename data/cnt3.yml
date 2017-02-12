@@ -1,0 +1,12 @@
+---
+airport_name: Ogoki Post Airport
+city: Ogoki Post
+country: Canada
+iata: YOG
+icao: CNT3
+latitude: 51.6586
+longitude: -85.9017
+elevation: 594
+utc_offset: -5
+_class: A
+timezone: America/Toronto

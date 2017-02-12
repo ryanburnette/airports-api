@@ -1,0 +1,12 @@
+---
+airport_name: Waimea Kohala
+city: Kamuela
+country: United States
+iata: MUE
+icao: PHMU
+latitude: 20.001328
+longitude: -155.668108
+elevation: 2671
+utc_offset: -10
+_class: A
+timezone: Pacific/Honolulu

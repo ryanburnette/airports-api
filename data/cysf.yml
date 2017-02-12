@@ -1,0 +1,12 @@
+---
+airport_name: Stony Rapids Airport
+city: Stony Rapids
+country: Canada
+iata: YSF
+icao: CYSF
+latitude: 59.2503
+longitude: -105.841
+elevation: 805
+utc_offset: -6
+_class: N
+timezone: America/Regina

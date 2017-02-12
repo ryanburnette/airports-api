@@ -1,0 +1,12 @@
+---
+airport_name: Peterborough
+city: Peterborough
+country: Canada
+iata: YPQ
+icao: CYPQ
+latitude: 44.23
+longitude: -78.363333
+elevation: 628
+utc_offset: -5
+_class: A
+timezone: America/Toronto

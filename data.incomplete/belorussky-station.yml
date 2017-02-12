@@ -1,0 +1,12 @@
+---
+airport_name: Belorussky Station
+city: Moscow
+country: Russia
+iata: 
+icao: 
+latitude: 55.7764
+longitude: 37.5803
+elevation: 400
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

@@ -1,0 +1,12 @@
+---
+airport_name: Lipetsk Airport
+city: Lipetsk
+country: Russia
+iata: LPK
+icao: UUOL
+latitude: 52.7028
+longitude: 39.5378
+elevation: 584
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

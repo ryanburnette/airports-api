@@ -1,0 +1,12 @@
+---
+airport_name: Plzen Line
+city: Line
+country: Czech Republic
+iata: 
+icao: LKLN
+latitude: 49.675172
+longitude: 13.274617
+elevation: 1188
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

@@ -1,0 +1,12 @@
+---
+airport_name: Malmen
+city: Linkoeping
+country: Sweden
+iata: 
+icao: ESCF
+latitude: 58.402278
+longitude: 15.525683
+elevation: 308
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

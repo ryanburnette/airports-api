@@ -1,0 +1,12 @@
+---
+airport_name: Ryum Airport
+city: Rørvik
+country: Norway
+iata: RVK
+icao: ENRM
+latitude: 64.8383
+longitude: 11.1461
+elevation: 14
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

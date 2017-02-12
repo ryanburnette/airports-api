@@ -1,0 +1,12 @@
+---
+airport_name: Adnan Menderes
+city: Izmir
+country: Turkey
+iata: ADB
+icao: LTBJ
+latitude: 38.292392
+longitude: 27.156953
+elevation: 412
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

@@ -1,0 +1,12 @@
+---
+airport_name: Penn Station
+city: New York
+country: United States
+iata: ZYP
+icao: 
+latitude: 40.7505
+longitude: -73.9935
+elevation: 35
+utc_offset: -5
+_class: A
+timezone: America/New_York

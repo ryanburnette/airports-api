@@ -1,0 +1,12 @@
+---
+airport_name: Grand Bahama Intl
+city: Freeport
+country: Bahamas
+iata: FPO
+icao: MYGF
+latitude: 26.558686
+longitude: -78.695553
+elevation: 7
+utc_offset: -5
+_class: U
+timezone: America/Nassau

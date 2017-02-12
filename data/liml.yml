@@ -1,0 +1,12 @@
+---
+airport_name: Linate
+city: Milan
+country: Italy
+iata: LIN
+icao: LIML
+latitude: 45.445103
+longitude: 9.276739
+elevation: 353
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

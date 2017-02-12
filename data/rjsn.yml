@@ -1,0 +1,12 @@
+---
+airport_name: Niigata
+city: Niigata
+country: Japan
+iata: KIJ
+icao: RJSN
+latitude: 37.5711
+longitude: 139.0646
+elevation: 1
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

@@ -1,0 +1,12 @@
+---
+airport_name: Taoyuan Intl
+city: Taipei
+country: Taiwan
+iata: TPE
+icao: RCTP
+latitude: 25.077731
+longitude: 121.232822
+elevation: 106
+utc_offset: 8
+_class: U
+timezone: Asia/Taipei

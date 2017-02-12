@@ -1,0 +1,12 @@
+---
+airport_name: Eilat
+city: Elat
+country: Israel
+iata: ETH
+icao: LLET
+latitude: 29.561281
+longitude: 34.960081
+elevation: 42
+utc_offset: 2
+_class: U
+timezone: Asia/Jerusalem

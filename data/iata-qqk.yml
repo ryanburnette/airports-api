@@ -1,0 +1,12 @@
+---
+airport_name: London - Kings Cross
+city: London
+country: United Kingdom
+iata: QQK
+icao: 
+latitude: 51.5326
+longitude: 0.1233
+elevation: 72
+utc_offset: 0
+_class: E
+timezone: Europe/London

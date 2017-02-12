@@ -1,0 +1,12 @@
+---
+airport_name: Springfield-Beckly Municipal Airport
+city: Springfield
+country: United States
+iata: SGH
+icao: KSGH
+latitude: 39.8402778
+longitude: -83.8401667
+elevation: 1051
+utc_offset: -5
+_class: A
+timezone: America/New_York

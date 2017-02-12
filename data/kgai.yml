@@ -1,0 +1,12 @@
+---
+airport_name: Montgomery County Airpark
+city: Gaithersburg
+country: United States
+iata: GAI
+icao: KGAI
+latitude: 39.1006
+longitude: -77.09576
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

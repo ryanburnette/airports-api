@@ -1,0 +1,12 @@
+---
+airport_name: Tyndall Afb
+city: Panama City
+country: United States
+iata: PAM
+icao: KPAM
+latitude: 30.069567
+longitude: -85.575417
+elevation: 17
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Nulato Airport
+city: Nulato
+country: United States
+iata: NUL
+icao: PANU
+latitude: 64.729444
+longitude: -158.074167
+elevation: 399
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

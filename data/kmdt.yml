@@ -1,0 +1,12 @@
+---
+airport_name: Harrisburg Intl
+city: Harrisburg
+country: United States
+iata: MDT
+icao: KMDT
+latitude: 40.193494
+longitude: -76.763403
+elevation: 310
+utc_offset: -5
+_class: A
+timezone: America/New_York

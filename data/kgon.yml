@@ -1,0 +1,12 @@
+---
+airport_name: Groton New London
+city: Groton CT
+country: United States
+iata: GON
+icao: KGON
+latitude: 41.330056
+longitude: -72.045139
+elevation: 9
+utc_offset: -5
+_class: A
+timezone: America/New_York

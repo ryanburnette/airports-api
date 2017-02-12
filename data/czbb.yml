@@ -1,0 +1,12 @@
+---
+airport_name: Boundary Bay Airport
+city: Boundary Bay
+country: Canada
+iata: YDT
+icao: CZBB
+latitude: 49.073889
+longitude: -123.0075
+elevation: 6
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

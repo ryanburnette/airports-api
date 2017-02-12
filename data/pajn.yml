@@ -1,0 +1,12 @@
+---
+airport_name: Juneau Intl
+city: Juneau
+country: United States
+iata: JNU
+icao: PAJN
+latitude: 58.354972
+longitude: -134.576278
+elevation: 21
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

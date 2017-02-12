@@ -1,0 +1,12 @@
+---
+airport_name: Lherm
+city: La Rochelle
+country: France
+iata: 
+icao: LFBR
+latitude: 43.448891
+longitude: 1.263333
+elevation: 622
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Kochi
+city: Kochi
+country: Japan
+iata: KCZ
+icao: RJOK
+latitude: 33.546111
+longitude: 133.669444
+elevation: 42
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

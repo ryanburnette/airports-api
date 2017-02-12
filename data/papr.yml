@@ -1,0 +1,12 @@
+---
+airport_name: Prospect Creek Airport
+city: Prospect Creek
+country: United States
+iata: PPC
+icao: PAPR
+latitude: 66.814167
+longitude: -150.643611
+elevation: 1095
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Castlegar
+city: Castlegar
+country: Canada
+iata: YCG
+icao: CYCG
+latitude: 49.296389
+longitude: -117.6325
+elevation: 1624
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: Swansea
+city: Swansea
+country: United Kingdom
+iata: SWS
+icao: EGFH
+latitude: 51.605333
+longitude: -4.067833
+elevation: 299
+utc_offset: 0
+_class: E
+timezone: Europe/London

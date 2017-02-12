@@ -1,0 +1,12 @@
+---
+airport_name: Vina Del Mar
+city: Vina del Mar
+country: Chile
+iata: 
+icao: SCVM
+latitude: -32.949611
+longitude: -71.478583
+elevation: 461
+utc_offset: -4
+_class: S
+timezone: America/Santiago

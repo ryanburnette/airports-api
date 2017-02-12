@@ -1,0 +1,12 @@
+---
+airport_name: Uzundzhovo
+city: Haskovo
+country: Bulgaria
+iata: HKV
+icao: LB14
+latitude: 41.976375
+longitude: 25.589817
+elevation: 160
+utc_offset: 2
+_class: E
+timezone: Europe/Sofia

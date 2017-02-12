@@ -1,0 +1,12 @@
+---
+airport_name: Millbrae Intermodal Terminal
+city: San Mateo
+country: United States
+iata: 
+icao: 
+latitude: 37.6002772
+longitude: -122.3866667
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Neuburg
+city: Neuburg
+country: Germany
+iata: 
+icao: ETSN
+latitude: 48.711
+longitude: 11.2115
+elevation: 1249
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

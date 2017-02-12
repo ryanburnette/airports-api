@@ -1,0 +1,12 @@
+---
+airport_name: Minto Airport
+city: Minto
+country: United States
+iata: MNT
+icao: 
+latitude: 65.143611
+longitude: -149.37
+elevation: 460
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

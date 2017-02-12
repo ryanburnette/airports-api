@@ -1,0 +1,12 @@
+---
+airport_name: Penneshaw Airport
+city: Penneshaw
+country: Australia
+iata: PEA
+icao: YPSH
+latitude: -34.75
+longitude: 137.933
+elevation: 0
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

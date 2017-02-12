@@ -1,0 +1,12 @@
+---
+airport_name: Caldera Airport
+city: Caldera
+country: Chile
+iata: 
+icao: SCCL
+latitude: -27.078052
+longitude: -70.795305
+elevation: 180
+utc_offset: -4
+_class: U
+timezone: America/Santiago

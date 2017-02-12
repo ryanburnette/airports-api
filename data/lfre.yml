@@ -1,0 +1,12 @@
+---
+airport_name: Escoublac
+city: La Baule
+country: France
+iata: 
+icao: LFRE
+latitude: 47.289444
+longitude: -2.346389
+elevation: 105
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

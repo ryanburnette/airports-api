@@ -1,0 +1,12 @@
+---
+airport_name: Yalata
+city: Yalata
+country: Australia
+iata: 
+icao: YYTA
+latitude: -31.29
+longitude: 131.51
+elevation: 100
+utc_offset: 9.5
+_class: O
+timezone: Australia/Adelaide

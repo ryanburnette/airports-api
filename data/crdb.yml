@@ -1,0 +1,12 @@
+---
+airport_name: Cordoba Station
+city: Cordoba
+country: Spain
+iata: 
+icao: CRDB
+latitude: 37.888573
+longitude: -4.789177
+elevation: 390
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

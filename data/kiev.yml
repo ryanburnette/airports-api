@@ -1,0 +1,12 @@
+---
+airport_name: KIEV  INTERNATIONAL AIRPORT
+city: KIEV
+country: Ukraine
+iata: KIP
+icao: KIEV
+latitude: 50.1403
+longitude: 30.1808
+elevation: 250
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

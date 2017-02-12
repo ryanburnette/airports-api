@@ -1,0 +1,12 @@
+---
+airport_name: Ramona Airport
+city: Ramona
+country: United States
+iata: RNM
+icao: KRNM
+latitude: 33.0391667
+longitude: -116.91525
+elevation: 1395
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

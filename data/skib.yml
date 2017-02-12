@@ -1,0 +1,12 @@
+---
+airport_name: Perales
+city: Ibague
+country: Colombia
+iata: IBE
+icao: SKIB
+latitude: 4.421608
+longitude: -75.1333
+elevation: 2999
+utc_offset: -5
+_class: U
+timezone: America/Bogota

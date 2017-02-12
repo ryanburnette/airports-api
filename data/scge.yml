@@ -1,0 +1,12 @@
+---
+airport_name: Maria Dolores
+city: Los Angeles
+country: Chile
+iata: LSQ
+icao: SCGE
+latitude: -37.401731
+longitude: -72.425444
+elevation: 374
+utc_offset: -4
+_class: S
+timezone: America/Santiago

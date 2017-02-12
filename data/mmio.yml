@@ -1,0 +1,12 @@
+---
+airport_name: Plan De Guadalupe Intl
+city: Saltillo
+country: Mexico
+iata: SLW
+icao: MMIO
+latitude: 25.549497
+longitude: -100.928669
+elevation: 4778
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

@@ -1,0 +1,12 @@
+---
+airport_name: Rotenburg Wuemme Airport
+city: Rotenburg Wuemme
+country: Germany
+iata: 
+icao: EDXQ
+latitude: 53.1283
+longitude: 9.34861
+elevation: 98
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: St Petersburg Clearwater Intl
+city: St. Petersburg
+country: United States
+iata: PIE
+icao: KPIE
+latitude: 27.910167
+longitude: -82.687389
+elevation: 10
+utc_offset: -5
+_class: A
+timezone: America/New_York

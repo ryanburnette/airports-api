@@ -1,0 +1,12 @@
+---
+airport_name: Palm Beach Intl
+city: West Palm Beach
+country: United States
+iata: PBI
+icao: KPBI
+latitude: 26.683161
+longitude: -80.095589
+elevation: 19
+utc_offset: -5
+_class: A
+timezone: America/New_York

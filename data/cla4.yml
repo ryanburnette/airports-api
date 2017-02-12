@@ -1,0 +1,12 @@
+---
+airport_name: Holland Landing
+city: Holland Landing
+country: Canada
+iata: 
+icao: CLA4
+latitude: 44.089444
+longitude: -79.495
+elevation: 855
+utc_offset: -5
+_class: A
+timezone: America/Toronto

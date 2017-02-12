@@ -1,0 +1,12 @@
+---
+airport_name: Whitianga Airport
+city: Whitianga
+country: New Zealand
+iata: WTZ
+icao: NZWT
+latitude: -36.835833
+longitude: 175.700278
+elevation: 500
+utc_offset: 12
+_class: U
+timezone: Pacific/Auckland

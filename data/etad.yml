@@ -1,0 +1,12 @@
+---
+airport_name: Spangdahlem Ab
+city: Spangdahlem
+country: Germany
+iata: SPM
+icao: ETAD
+latitude: 49.972667
+longitude: 6.6925
+elevation: 1197
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

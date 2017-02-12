@@ -1,0 +1,12 @@
+---
+airport_name: Cabo San Lucas International Airport
+city: Cabo San Lucas
+country: Mexico
+iata: 
+icao: MMSL
+latitude: 22.9475
+longitude: -109.937081
+elevation: 459
+utc_offset: -7
+_class: A
+timezone: America/Mazatlan

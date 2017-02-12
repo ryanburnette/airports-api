@@ -1,0 +1,12 @@
+---
+airport_name: Sacramento Mather
+city: Sacramento
+country: United States
+iata: MHR
+icao: KMHR
+latitude: 38.553897
+longitude: -121.297592
+elevation: 96
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

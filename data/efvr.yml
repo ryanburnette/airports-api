@@ -1,0 +1,12 @@
+---
+airport_name: Varkaus
+city: Varkaus
+country: Finland
+iata: VRK
+icao: EFVR
+latitude: 62.171111
+longitude: 27.868611
+elevation: 286
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

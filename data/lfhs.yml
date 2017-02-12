@@ -1,0 +1,12 @@
+---
+airport_name: Ceyzeriat
+city: Bourg
+country: France
+iata: XBK
+icao: LFHS
+latitude: 46.20089
+longitude: 5.292028
+elevation: 857
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

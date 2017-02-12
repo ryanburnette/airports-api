@@ -1,0 +1,12 @@
+---
+airport_name: Visalia Municipal Airport
+city: Visalia
+country: United States
+iata: VIS
+icao: KVIS
+latitude: 36.318611
+longitude: -119.392778
+elevation: 295
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

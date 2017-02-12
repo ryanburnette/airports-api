@@ -1,0 +1,12 @@
+---
+airport_name: Hospital
+city: Port Au Prince
+country: Haiti
+iata: 
+icao: 
+latitude: 18.5501
+longitude: -72.3001
+elevation: 50
+utc_offset: -5
+_class: N
+timezone: America/Port-au-Prince

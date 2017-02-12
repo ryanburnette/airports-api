@@ -1,0 +1,12 @@
+---
+airport_name: Santa Fe Muni
+city: Santa Fe
+country: United States
+iata: SAF
+icao: KSAF
+latitude: 35.617108
+longitude: -106.089422
+elevation: 6348
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Dagali
+city: Geilo
+country: Norway
+iata: 
+icao: ENDI
+latitude: 60.416667
+longitude: 8.512778
+elevation: 2618
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

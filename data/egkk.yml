@@ -1,0 +1,12 @@
+---
+airport_name: Gatwick
+city: London
+country: United Kingdom
+iata: LGW
+icao: EGKK
+latitude: 51.148056
+longitude: -0.190278
+elevation: 202
+utc_offset: 0
+_class: E
+timezone: Europe/London

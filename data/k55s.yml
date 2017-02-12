@@ -1,0 +1,12 @@
+---
+airport_name: Packwood
+city: Packwood
+country: United States
+iata: 55S
+icao: K55S
+latitude: 46.3625
+longitude: -121.4067
+elevation: 1057
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

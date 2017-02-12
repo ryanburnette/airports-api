@@ -1,0 +1,12 @@
+---
+airport_name: Neustadt-Glewe
+city: Neustadt-Glewe
+country: Germany
+iata: 
+icao: EDAN
+latitude: 53.364779
+longitude: 11.607352
+elevation: 115
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

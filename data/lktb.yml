@@ -1,0 +1,12 @@
+---
+airport_name: Turany
+city: Brno
+country: Czech Republic
+iata: BRQ
+icao: LKTB
+latitude: 49.151269
+longitude: 16.694433
+elevation: 778
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

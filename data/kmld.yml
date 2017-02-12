@@ -1,0 +1,12 @@
+---
+airport_name: Malad City
+city: Malad City
+country: United States
+iata: MLD
+icao: KMLD
+latitude: 42.17
+longitude: -112.289
+elevation: 4503
+utc_offset: -7
+_class: A
+timezone: America/Denver

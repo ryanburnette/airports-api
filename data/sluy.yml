@@ -1,0 +1,12 @@
+---
+airport_name: Uyuni Airport
+city: Uyuni
+country: Bolivia
+iata: UYU
+icao: SLUY
+latitude: -20.466667
+longitude: -66.833333
+elevation: 11990
+utc_offset: -4
+_class: U
+timezone: America/La_Paz

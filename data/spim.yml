@@ -1,0 +1,12 @@
+---
+airport_name: Jorge Chavez Intl
+city: Lima
+country: Peru
+iata: LIM
+icao: SPIM
+latitude: -12.021889
+longitude: -77.114319
+elevation: 113
+utc_offset: -5
+_class: U
+timezone: America/Lima

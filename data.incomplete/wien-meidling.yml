@@ -1,0 +1,12 @@
+---
+airport_name: Wien Meidling
+city: Vienna
+country: Austria
+iata: 
+icao: 
+latitude: 48.175
+longitude: 16.335278
+elevation: 738
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

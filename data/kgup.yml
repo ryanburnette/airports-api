@@ -1,0 +1,12 @@
+---
+airport_name: Gallup Muni
+city: Gallup
+country: United States
+iata: GUP
+icao: KGUP
+latitude: 35.511058
+longitude: -108.789308
+elevation: 6472
+utc_offset: -7
+_class: A
+timezone: America/Denver

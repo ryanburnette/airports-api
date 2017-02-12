@@ -1,0 +1,12 @@
+---
+airport_name: Gostomel Antonov
+city: Kiev
+country: Ukraine
+iata: GML
+icao: UKKM
+latitude: 50.603611
+longitude: 30.191944
+elevation: 517
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

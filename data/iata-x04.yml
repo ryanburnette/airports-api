@@ -1,0 +1,12 @@
+---
+airport_name: Apopka
+city: Orlando
+country: United States
+iata: X04
+icao: 
+latitude: 28.707222
+longitude: -81.581667
+elevation: 143
+utc_offset: -5
+_class: A
+timezone: America/New_York

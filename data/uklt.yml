@@ -1,0 +1,12 @@
+---
+airport_name: Ternopol
+city: Ternopol
+country: Ukraine
+iata: TNL
+icao: UKLT
+latitude: 49.31
+longitude: 25.42
+elevation: 1073
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

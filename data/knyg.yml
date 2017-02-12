@@ -1,0 +1,12 @@
+---
+airport_name: Quantico Mcaf
+city: Quantico
+country: United States
+iata: NYG
+icao: KNYG
+latitude: 38.501683
+longitude: -77.305333
+elevation: 11
+utc_offset: -5
+_class: A
+timezone: America/New_York

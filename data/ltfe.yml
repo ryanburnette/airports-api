@@ -1,0 +1,12 @@
+---
+airport_name: Bodrum - Milas
+city: Bodrum
+country: Turkey
+iata: BJV
+icao: LTFE
+latitude: 37.249
+longitude: 27.667
+elevation: 19
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

@@ -1,0 +1,12 @@
+---
+airport_name: Maryborough Airport
+city: Maryborough
+country: Australia
+iata: MBH
+icao: YMYB
+latitude: -25.5133
+longitude: 152.715
+elevation: 38
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

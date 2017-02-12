@@ -1,0 +1,12 @@
+---
+airport_name: Norwood Memorial Airport
+city: Norwood
+country: United States
+iata: OWD
+icao: KOWD
+latitude: 42.1905278
+longitude: -71.1729444
+elevation: 49
+utc_offset: -5
+_class: A
+timezone: America/New_York

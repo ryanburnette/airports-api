@@ -1,0 +1,12 @@
+---
+airport_name: Knoxville Downtown Island Airport
+city: Knoxville
+country: United States
+iata: DKX
+icao: KDKX
+latitude: 35.9638333
+longitude: -83.8736667
+elevation: 833
+utc_offset: -5
+_class: A
+timezone: America/New_York

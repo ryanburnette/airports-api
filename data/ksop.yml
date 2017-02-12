@@ -1,0 +1,12 @@
+---
+airport_name: Moore County Airport
+city: Pinehurst-Southern Pines
+country: United States
+iata: SOP
+icao: KSOP
+latitude: 35.2376111
+longitude: -79.3887958
+elevation: 455
+utc_offset: -5
+_class: A
+timezone: America/New_York

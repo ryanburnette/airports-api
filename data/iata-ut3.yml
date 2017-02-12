@@ -1,0 +1,12 @@
+---
+airport_name: Hite Airport
+city: Hanksville
+country: United States
+iata: UT3
+icao: 
+latitude: 37.8916547
+longitude: -110.3840289
+elevation: 3840
+utc_offset: -7
+_class: A
+timezone: America/Denver

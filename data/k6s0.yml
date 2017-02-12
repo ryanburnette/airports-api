@@ -1,0 +1,12 @@
+---
+airport_name: Big Timber Airport
+city: Big Timber
+country: United States
+iata: 6S0
+icao: K6S0
+latitude: 45.8063889
+longitude: -109.9811111
+elevation: 4492
+utc_offset: -7
+_class: A
+timezone: America/Denver

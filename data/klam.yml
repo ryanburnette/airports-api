@@ -1,0 +1,12 @@
+---
+airport_name: Los Alamos Airport
+city: Los Alamos
+country: United States
+iata: LAM
+icao: KLAM
+latitude: 35.8798019
+longitude: -106.2694153
+elevation: 7171
+utc_offset: -7
+_class: A
+timezone: America/Denver

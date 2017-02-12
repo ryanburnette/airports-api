@@ -1,0 +1,12 @@
+---
+airport_name: Rankin Inlet
+city: Rankin Inlet
+country: Canada
+iata: YRT
+icao: CYRT
+latitude: 62.81139
+longitude: -92.115833
+elevation: 94
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

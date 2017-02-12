@@ -1,0 +1,12 @@
+---
+airport_name: Viterbo
+city: Viterbo
+country: Italy
+iata: 
+icao: LIRV
+latitude: 42.430183
+longitude: 12.064156
+elevation: 990
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

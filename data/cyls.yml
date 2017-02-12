@@ -1,0 +1,12 @@
+---
+airport_name: Lake Simcoe
+city: Barrie-Orillia
+country: Canada
+iata: YLS
+icao: CYLS
+latitude: 44.487778
+longitude: -79.559444
+elevation: 972
+utc_offset: -5
+_class: A
+timezone: America/Toronto

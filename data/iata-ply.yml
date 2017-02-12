@@ -1,0 +1,12 @@
+---
+airport_name: Gare de Lyon
+city: Paris
+country: France
+iata: PLY
+icao: 
+latitude: 48.844722
+longitude: 2.373611
+elevation: 129
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

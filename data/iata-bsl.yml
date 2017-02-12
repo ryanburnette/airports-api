@@ -1,0 +1,12 @@
+---
+airport_name: EuroAirport Basel-Mulhouse-Freiburg
+city: Basel
+country: Switzerland
+iata: BSL
+icao: 
+latitude: 47.59
+longitude: 7.529167
+elevation: 885
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

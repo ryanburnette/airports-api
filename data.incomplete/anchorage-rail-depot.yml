@@ -1,0 +1,12 @@
+---
+airport_name: Anchorage Rail Depot
+city: Anchorage
+country: United States
+iata: 
+icao: 
+latitude: 61.1318
+longitude: -149.5326
+elevation: 102
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

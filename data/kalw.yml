@@ -1,0 +1,12 @@
+---
+airport_name: Walla Walla Regional Airport
+city: Walla Walla
+country: United States
+iata: ALW
+icao: KALW
+latitude: 46.0949
+longitude: -118.288
+elevation: 1191
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

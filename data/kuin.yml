@@ -1,0 +1,12 @@
+---
+airport_name: Quincy Regional Baldwin Field
+city: Quincy
+country: United States
+iata: UIN
+icao: KUIN
+latitude: 39.9427
+longitude: -91.1946
+elevation: 769
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Kangirsuk Airport
+city: Kangirsuk
+country: Canada
+iata: YKG
+icao: CYAS
+latitude: 60.0272
+longitude: -69.9992
+elevation: 403
+utc_offset: -5
+_class: A
+timezone: America/Toronto

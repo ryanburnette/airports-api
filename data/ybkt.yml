@@ -1,0 +1,12 @@
+---
+airport_name: Burketown Airport
+city: Burketown
+country: Australia
+iata: BUC
+icao: YBKT
+latitude: -17.7486
+longitude: 139.534
+elevation: 21
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

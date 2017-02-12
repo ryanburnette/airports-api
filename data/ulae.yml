@@ -1,0 +1,12 @@
+---
+airport_name: Mezen
+city: Mezen
+country: Russia
+iata: 
+icao: ULAE
+latitude: 65.878333
+longitude: 44.215
+elevation: 46
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

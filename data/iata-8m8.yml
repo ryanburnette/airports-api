@@ -1,0 +1,12 @@
+---
+airport_name: Garland Airport
+city: Lewiston
+country: United States
+iata: 8M8
+icao: 
+latitude: 44.8065278
+longitude: -84.2761944
+elevation: 1218
+utc_offset: -5
+_class: A
+timezone: America/New_York

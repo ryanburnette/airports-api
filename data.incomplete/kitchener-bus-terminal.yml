@@ -1,0 +1,12 @@
+---
+airport_name: Kitchener Bus Terminal
+city: Kitchener
+country: Canada
+iata: 
+icao: 
+latitude: 43.44968
+longitude: -80.49222
+elevation: 1083
+utc_offset: -5
+_class: A
+timezone: America/Toronto

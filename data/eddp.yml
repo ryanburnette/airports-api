@@ -1,0 +1,12 @@
+---
+airport_name: Leipzig Halle
+city: Leipzig
+country: Germany
+iata: LEJ
+icao: EDDP
+latitude: 51.432447
+longitude: 12.241633
+elevation: 465
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

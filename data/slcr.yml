@@ -1,0 +1,12 @@
+---
+airport_name: Salt Lake City Intermodal Hub
+city: Salt Lake City
+country: United States
+iata: 
+icao: SLCR
+latitude: 40.762778
+longitude: -111.908333
+elevation: 0
+utc_offset: -7
+_class: A
+timezone: America/Denver

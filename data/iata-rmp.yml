@@ -1,0 +1,12 @@
+---
+airport_name: Rampart Airport
+city: Rampart
+country: United States
+iata: RMP
+icao: 
+latitude: 65.507778
+longitude: -150.140833
+elevation: 302
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

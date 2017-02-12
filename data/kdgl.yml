@@ -1,0 +1,12 @@
+---
+airport_name: Douglas Municipal Airport
+city: Douglas
+country: United States
+iata: DGL
+icao: KDGL
+latitude: 31.3426028
+longitude: -109.5064544
+elevation: 4173
+utc_offset: -7
+_class: N
+timezone: America/Phoenix

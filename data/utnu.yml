@@ -1,0 +1,12 @@
+---
+airport_name: Urgench Airport
+city: Urgench
+country: Uzbekistan
+iata: UGC
+icao: UTNU
+latitude: 41.5843
+longitude: 60.6417
+elevation: 320
+utc_offset: 5
+_class: U
+timezone: Asia/Samarkand

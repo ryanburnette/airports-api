@@ -1,0 +1,12 @@
+---
+airport_name: Buchel
+city: Buechel
+country: Germany
+iata: 
+icao: ETSB
+latitude: 50.173833
+longitude: 7.063333
+elevation: 1568
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

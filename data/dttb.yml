@@ -1,0 +1,12 @@
+---
+airport_name: Sidi Ahmed Air Base
+city: Bizerte
+country: Tunisia
+iata: 
+icao: DTTB
+latitude: 37.245447
+longitude: 9.791453
+elevation: 20
+utc_offset: 1
+_class: E
+timezone: Africa/Tunis

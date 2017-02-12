@@ -1,0 +1,12 @@
+---
+airport_name: Wainwright Airport
+city: Wainwright
+country: United States
+iata: AIN
+icao: PAWI
+latitude: 70.638056
+longitude: -159.994722
+elevation: 41
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

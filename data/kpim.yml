@@ -1,0 +1,12 @@
+---
+airport_name: Harris County Airport
+city: Pine Mountain
+country: United States
+iata: PIM
+icao: KPIM
+latitude: 32.8406944
+longitude: -84.8824444
+elevation: 902
+utc_offset: -5
+_class: A
+timezone: America/New_York

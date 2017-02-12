@@ -1,0 +1,12 @@
+---
+airport_name: El Eden
+city: Armenia
+country: Colombia
+iata: AXM
+icao: SKAR
+latitude: 4.452775
+longitude: -75.766447
+elevation: 3990
+utc_offset: -5
+_class: U
+timezone: America/Bogota

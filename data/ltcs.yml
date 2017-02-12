@@ -1,0 +1,12 @@
+---
+airport_name: Sanliurfa GAP
+city: Sanliurfa
+country: Turkey
+iata: GNY
+icao: LTCS
+latitude: 37.45
+longitude: 38.9
+elevation: 2700
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

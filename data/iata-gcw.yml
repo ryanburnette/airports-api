@@ -1,0 +1,12 @@
+---
+airport_name: Grand Canyon West Airport
+city: Grand Canyon West
+country: United States
+iata: GCW
+icao: 
+latitude: 35.5925
+longitude: -113.4859
+elevation: 4825
+utc_offset: -7
+_class: U
+timezone: America/Phoenix

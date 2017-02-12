@@ -1,0 +1,12 @@
+---
+airport_name: Sandspit
+city: Sandspit
+country: Canada
+iata: YZP
+icao: CYZP
+latitude: 53.254333
+longitude: -131.813833
+elevation: 21
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

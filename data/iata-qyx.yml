@@ -1,0 +1,12 @@
+---
+airport_name: Central Station
+city: Uppsala
+country: Sweden
+iata: QYX
+icao: 
+latitude: 59.858333
+longitude: 17.646111
+elevation: 23
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

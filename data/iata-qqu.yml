@@ -1,0 +1,12 @@
+---
+airport_name: Euston Station
+city: London
+country: United Kingdom
+iata: QQU
+icao: 
+latitude: 51.5284
+longitude: -0.1331
+elevation: 89
+utc_offset: 0
+_class: E
+timezone: Europe/London

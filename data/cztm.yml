@@ -1,0 +1,12 @@
+---
+airport_name: Shamattawa Airport
+city: Shamattawa
+country: Canada
+iata: ZTM
+icao: CZTM
+latitude: 55.8656
+longitude: -92.0814
+elevation: 289
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

@@ -1,0 +1,12 @@
+---
+airport_name: Oceana Nas
+city: Oceana
+country: United States
+iata: NTU
+icao: KNTU
+latitude: 36.820703
+longitude: -76.033542
+elevation: 22
+utc_offset: -5
+_class: A
+timezone: America/New_York

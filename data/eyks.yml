@@ -1,0 +1,12 @@
+---
+airport_name: S. Darius
+city: Kaunas
+country: Lithuania
+iata: 
+icao: EYKS
+latitude: 54.879792
+longitude: 23.881511
+elevation: 246
+utc_offset: 2
+_class: E
+timezone: Europe/Vilnius

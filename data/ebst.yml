@@ -1,0 +1,12 @@
+---
+airport_name: Sint Truiden
+city: Sint-truiden
+country: Belgium
+iata: 
+icao: EBST
+latitude: 50.791944
+longitude: 5.201667
+elevation: 246
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

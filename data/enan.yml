@@ -1,0 +1,12 @@
+---
+airport_name: Andenes
+city: Andoya
+country: Norway
+iata: ANX
+icao: ENAN
+latitude: 69.2925
+longitude: 16.144167
+elevation: 43
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

@@ -1,0 +1,12 @@
+---
+airport_name: Meribel Airport
+city: Ajaccio
+country: France
+iata: MFX
+icao: LFKX
+latitude: 45.4069
+longitude: 6.58056
+elevation: 5636
+utc_offset: 1
+_class: U
+timezone: Europe/Paris

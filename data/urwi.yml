@@ -1,0 +1,12 @@
+---
+airport_name: Elista Airport
+city: Elista
+country: Russia
+iata: ESL
+icao: URWI
+latitude: 46.3739
+longitude: 44.3309
+elevation: 501
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

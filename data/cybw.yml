@@ -1,0 +1,12 @@
+---
+airport_name: Calgary Springbank Airport
+city: Calgary
+country: Canada
+iata: YBW
+icao: CYBW
+latitude: 51.1031
+longitude: -114.374
+elevation: 3939
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

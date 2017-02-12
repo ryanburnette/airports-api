@@ -1,0 +1,12 @@
+---
+airport_name: Central Nebraska Regional Airport
+city: Grand Island
+country: United States
+iata: GRI
+icao: KGRI
+latitude: 40.9675
+longitude: -98.3096
+elevation: 1847
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Minatitlan
+city: Minatitlan
+country: Mexico
+iata: MTT
+icao: MMMT
+latitude: 18.103419
+longitude: -94.580681
+elevation: 36
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

@@ -1,0 +1,12 @@
+---
+airport_name: Old Harbor Airport
+city: Old Harbor
+country: United States
+iata: OLH
+icao: 
+latitude: 57.218056
+longitude: -153.269722
+elevation: 55
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

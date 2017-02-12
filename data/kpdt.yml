@@ -1,0 +1,12 @@
+---
+airport_name: Eastern Oregon Regional Airport
+city: Pendleton
+country: United States
+iata: PDT
+icao: KPDT
+latitude: 45.695
+longitude: -118.841389
+elevation: 1497
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

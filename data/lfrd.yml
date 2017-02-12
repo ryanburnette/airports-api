@@ -1,0 +1,12 @@
+---
+airport_name: Pleurtuit
+city: Dinard
+country: France
+iata: DNR
+icao: LFRD
+latitude: 48.587683
+longitude: -2.079958
+elevation: 219
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

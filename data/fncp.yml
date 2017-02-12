@@ -1,0 +1,12 @@
+---
+airport_name: Kapanda Airport
+city: Kapanda
+country: Angola
+iata: KNP
+icao: FNCP
+latitude: -9.771944
+longitude: 15.456111
+elevation: 500
+utc_offset: 1
+_class: U
+timezone: Africa/Luanda

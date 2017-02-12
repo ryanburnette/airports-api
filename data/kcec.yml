@@ -1,0 +1,12 @@
+---
+airport_name: Del Norte County Airport
+city: Crescent City
+country: United States
+iata: CEC
+icao: KCEC
+latitude: 41.7802
+longitude: -124.237
+elevation: 57
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

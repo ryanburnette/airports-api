@@ -1,0 +1,12 @@
+---
+airport_name: Mannheim Railway
+city: Mannheim
+country: Germany
+iata: ZMA
+icao: 
+latitude: 49.479633
+longitude: 8.469858
+elevation: 200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

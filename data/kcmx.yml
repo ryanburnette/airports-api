@@ -1,0 +1,12 @@
+---
+airport_name: Houghton County Memorial Airport
+city: Hancock
+country: United States
+iata: CMX
+icao: KCMX
+latitude: 47.1684
+longitude: -88.4891
+elevation: 1095
+utc_offset: -5
+_class: A
+timezone: America/New_York

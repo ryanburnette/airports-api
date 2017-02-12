@@ -1,0 +1,12 @@
+---
+airport_name: Enontekio
+city: Enontekio
+country: Finland
+iata: ENF
+icao: EFET
+latitude: 68.362586
+longitude: 23.424322
+elevation: 1005
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

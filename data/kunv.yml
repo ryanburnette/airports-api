@@ -1,0 +1,12 @@
+---
+airport_name: University Park Airport
+city: State College Pennsylvania
+country: United States
+iata: SCE
+icao: KUNV
+latitude: 40.849278
+longitude: -77.848694
+elevation: 1239
+utc_offset: -5
+_class: A
+timezone: America/New_York

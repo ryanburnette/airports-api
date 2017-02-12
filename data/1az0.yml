@@ -1,0 +1,12 @@
+---
+airport_name: Mobile
+city: Mobile
+country: United States
+iata: 
+icao: 1AZ0
+latitude: 33.111944
+longitude: -112.269166
+elevation: 1261
+utc_offset: -7
+_class: U
+timezone: America/Phoenix

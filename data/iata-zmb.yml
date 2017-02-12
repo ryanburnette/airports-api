@@ -1,0 +1,12 @@
+---
+airport_name: Hamburg Hbf
+city: Hamburg
+country: Germany
+iata: ZMB
+icao: 
+latitude: 53.552776
+longitude: 10.006683
+elevation: 30
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

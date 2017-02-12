@@ -1,0 +1,12 @@
+---
+airport_name: Macaé Airport
+city: Macaé
+country: Brazil
+iata: MEA
+icao: SBME
+latitude: -22.343
+longitude: -41.766
+elevation: 8
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

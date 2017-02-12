@@ -1,0 +1,12 @@
+---
+airport_name: Abando
+city: Bilbao
+country: Spain
+iata: 
+icao: BLBO
+latitude: 43.25947
+longitude: -2.929017
+elevation: 62
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

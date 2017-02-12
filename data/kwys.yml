@@ -1,0 +1,12 @@
+---
+airport_name: Yellowstone Airport
+city: West Yellowstone
+country: United States
+iata: WYS
+icao: KWYS
+latitude: 44.688333
+longitude: -111.1175
+elevation: 6644
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: Buffalo-Depew Station
+city: Depew
+country: United States
+iata: 
+icao: 
+latitude: 42.9074
+longitude: -78.7266
+elevation: 676
+utc_offset: -5
+_class: A
+timezone: America/New_York

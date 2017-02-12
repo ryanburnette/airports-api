@@ -1,0 +1,12 @@
+---
+airport_name: Tri-County Regional Airport
+city: Lone Rock
+country: United States
+iata: LNR
+icao: KLNR
+latitude: 43.211667
+longitude: -90.181667
+elevation: 718
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Magenta
+city: Noumea
+country: New Caledonia
+iata: GEA
+icao: NWWM
+latitude: -22.258278
+longitude: 166.472806
+elevation: 10
+utc_offset: 11
+_class: U
+timezone: Pacific/Noumea

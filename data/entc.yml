@@ -1,0 +1,12 @@
+---
+airport_name: Langnes
+city: Tromso
+country: Norway
+iata: TOS
+icao: ENTC
+latitude: 69.683333
+longitude: 18.918919
+elevation: 31
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

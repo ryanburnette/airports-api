@@ -1,0 +1,12 @@
+---
+airport_name: Dimapur Airport
+city: Dimapur
+country: India
+iata: DMU
+icao: VEMR
+latitude: 25.8839
+longitude: 93.7711
+elevation: 487
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

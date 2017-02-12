@@ -1,0 +1,12 @@
+---
+airport_name: Elcho Island Airport
+city: Elcho Island
+country: Australia
+iata: ELC
+icao: YELD
+latitude: -12.0194
+longitude: 135.571
+elevation: 101
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

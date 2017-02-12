@@ -1,0 +1,12 @@
+---
+airport_name: Lalbenque
+city: Cahors
+country: France
+iata: 
+icao: LFCC
+latitude: 44.351387
+longitude: 1.475278
+elevation: 912
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Hamilton Island Airport
+city: Hamilton Island
+country: Australia
+iata: HTI
+icao: YBHM
+latitude: -20.3581
+longitude: 148.952
+elevation: 15
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

@@ -1,0 +1,12 @@
+---
+airport_name: Ivujivik Airport
+city: Ivujivik
+country: Canada
+iata: YIK
+icao: CYIK
+latitude: 62.4173
+longitude: -77.9253
+elevation: 126
+utc_offset: -5
+_class: A
+timezone: America/Toronto

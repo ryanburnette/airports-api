@@ -1,0 +1,12 @@
+---
+airport_name: Ormoc Airport
+city: Ormoc City
+country: Philippines
+iata: OMC
+icao: RPVO
+latitude: 11.057997
+longitude: 124.565322
+elevation: 83
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

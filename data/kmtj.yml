@@ -1,0 +1,12 @@
+---
+airport_name: Montrose Regional Airport
+city: Montrose CO
+country: United States
+iata: MTJ
+icao: KMTJ
+latitude: 38.509794
+longitude: -107.894242
+elevation: 5759
+utc_offset: -7
+_class: A
+timezone: America/Denver

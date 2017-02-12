@@ -1,0 +1,12 @@
+---
+airport_name: Warri Airport
+city: Osubi
+country: Nigeria
+iata: QRW
+icao: DNSU
+latitude: 5.31
+longitude: 5.45
+elevation: 50
+utc_offset: 1
+_class: U
+timezone: Africa/Lagos

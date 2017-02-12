@@ -1,0 +1,12 @@
+---
+airport_name: Livingood Airport
+city: Livingood
+country: United States
+iata: LIV
+icao: 
+latitude: 65.531111
+longitude: -148.541111
+elevation: 696
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

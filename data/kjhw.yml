@@ -1,0 +1,12 @@
+---
+airport_name: Chautauqua County-Jamestown
+city: Jamestown
+country: United States
+iata: JHW
+icao: KJHW
+latitude: 42.153333
+longitude: -79.258056
+elevation: 525
+utc_offset: -5
+_class: A
+timezone: America/New_York

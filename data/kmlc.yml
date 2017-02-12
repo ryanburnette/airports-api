@@ -1,0 +1,12 @@
+---
+airport_name: Mc Alester Rgnl
+city: Mcalester
+country: United States
+iata: MLC
+icao: KMLC
+latitude: 34.882403
+longitude: -95.783463
+elevation: 770
+utc_offset: -6
+_class: A
+timezone: America/Chicago

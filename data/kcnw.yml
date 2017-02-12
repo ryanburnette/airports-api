@@ -1,0 +1,12 @@
+---
+airport_name: Tstc Waco
+city: Waco
+country: United States
+iata: CNW
+icao: KCNW
+latitude: 31.637831
+longitude: -97.074139
+elevation: 470
+utc_offset: -6
+_class: A
+timezone: America/Chicago

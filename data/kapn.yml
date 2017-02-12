@@ -1,0 +1,12 @@
+---
+airport_name: Alpena County Regional Airport
+city: Alpena
+country: United States
+iata: APN
+icao: KAPN
+latitude: 45.0781
+longitude: -83.5603
+elevation: 689
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Rockhampton
+city: Rockhampton
+country: Australia
+iata: ROK
+icao: YBRK
+latitude: -23.381944
+longitude: 150.475278
+elevation: 34
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

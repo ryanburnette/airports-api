@@ -1,0 +1,12 @@
+---
+airport_name: Magas
+city: Nazran
+country: Russia
+iata: "%u0"
+icao: "%u04"
+latitude: 43.323815
+longitude: 45.017761
+elevation: 1060
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

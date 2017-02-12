@@ -1,0 +1,12 @@
+---
+airport_name: Buckland Airport
+city: Buckland
+country: United States
+iata: BKC
+icao: PABL
+latitude: 65.981667
+longitude: -161.149167
+elevation: 31
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

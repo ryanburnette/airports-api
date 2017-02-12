@@ -1,0 +1,12 @@
+---
+airport_name: Chippewa County International Airport
+city: Sault Ste Marie
+country: United States
+iata: CIU
+icao: KCIU
+latitude: 46.2508
+longitude: -84.4724
+elevation: 800
+utc_offset: -5
+_class: A
+timezone: America/New_York

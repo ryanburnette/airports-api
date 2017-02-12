@@ -1,0 +1,12 @@
+---
+airport_name: Webequie Airport
+city: Webequie
+country: Canada
+iata: YWP
+icao: CYWP
+latitude: 52.9597
+longitude: -87.3689
+elevation: 685
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Miami Intl
+city: Miami
+country: United States
+iata: MIA
+icao: KMIA
+latitude: 25.79325
+longitude: -80.290556
+elevation: 8
+utc_offset: -5
+_class: A
+timezone: America/New_York

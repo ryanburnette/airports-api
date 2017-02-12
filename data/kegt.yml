@@ -1,0 +1,12 @@
+---
+airport_name: Wellington Municipal
+city: Wellington
+country: United States
+iata: EGT
+icao: KEGT
+latitude: 37.39411
+longitude: -97.423225
+elevation: 1277
+utc_offset: -6
+_class: A
+timezone: America/Chicago

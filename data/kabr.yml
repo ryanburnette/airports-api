@@ -1,0 +1,12 @@
+---
+airport_name: Aberdeen Regional Airport
+city: Aberdeen
+country: United States
+iata: ABR
+icao: KABR
+latitude: 45.4491
+longitude: -98.4218
+elevation: 1302
+utc_offset: -6
+_class: A
+timezone: America/Chicago

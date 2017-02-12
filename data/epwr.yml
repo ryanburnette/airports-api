@@ -1,0 +1,12 @@
+---
+airport_name: Strachowice
+city: Wroclaw
+country: Poland
+iata: WRO
+icao: EPWR
+latitude: 51.102683
+longitude: 16.885836
+elevation: 404
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

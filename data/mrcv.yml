@@ -1,0 +1,12 @@
+---
+airport_name: Cabo Velas Airport
+city: Nicoya
+country: Costa Rica
+iata: TNO
+icao: MRCV
+latitude: 10.3557
+longitude: -85.852892
+elevation: 33
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

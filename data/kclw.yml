@@ -1,0 +1,12 @@
+---
+airport_name: Clearwater Air Park
+city: Clearwater
+country: United States
+iata: CLW
+icao: KCLW
+latitude: 27.9764722
+longitude: -82.7586667
+elevation: 70
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Zafer
+city: Kutahya
+country: Turkey
+iata: KZR
+icao: LTBZ
+latitude: 39.111389
+longitude: 30.13
+elevation: 3327
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

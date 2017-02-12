@@ -1,0 +1,12 @@
+---
+airport_name: Obera
+city: Obera
+country: Argentina
+iata: 
+icao: SATO
+latitude: -27.518156
+longitude: -55.124156
+elevation: 1125
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

@@ -1,0 +1,12 @@
+---
+airport_name: Santiago
+city: Santiago
+country: Spain
+iata: SCQ
+icao: LEST
+latitude: 42.896333
+longitude: -8.415144
+elevation: 1213
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

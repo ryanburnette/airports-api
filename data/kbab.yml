@@ -1,0 +1,12 @@
+---
+airport_name: Beale Afb
+city: Marysville
+country: United States
+iata: BAB
+icao: KBAB
+latitude: 39.136089
+longitude: -121.436567
+elevation: 113
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

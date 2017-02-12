@@ -1,0 +1,12 @@
+---
+airport_name: Laredo Intl
+city: Laredo
+country: United States
+iata: LRD
+icao: KLRD
+latitude: 27.54375
+longitude: -99.461556
+elevation: 508
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Le Rozelier
+city: Verdun
+country: France
+iata: 
+icao: LFGW
+latitude: 49.122383
+longitude: 5.469047
+elevation: 1230
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

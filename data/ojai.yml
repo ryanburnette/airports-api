@@ -1,0 +1,12 @@
+---
+airport_name: Queen Alia Intl
+city: Amman
+country: Jordan
+iata: AMM
+icao: OJAI
+latitude: 31.722556
+longitude: 35.993214
+elevation: 2395
+utc_offset: 2
+_class: E
+timezone: Asia/Amman

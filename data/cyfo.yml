@@ -1,0 +1,12 @@
+---
+airport_name: Flin Flon
+city: Flin Flon
+country: Canada
+iata: YFO
+icao: CYFO
+latitude: 54.678055
+longitude: -101.681667
+elevation: 997
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

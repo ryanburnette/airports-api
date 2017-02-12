@@ -1,0 +1,12 @@
+---
+airport_name: Haifa
+city: Haifa
+country: Israel
+iata: HFA
+icao: LLHA
+latitude: 32.809444
+longitude: 35.043056
+elevation: 28
+utc_offset: 2
+_class: U
+timezone: Asia/Jerusalem

@@ -1,0 +1,12 @@
+---
+airport_name: Ferry Terminal
+city: Anacortes
+country: United States
+iata: 
+icao: ACRT
+latitude: 48.50728
+longitude: -122.677596
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

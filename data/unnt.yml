@@ -1,0 +1,12 @@
+---
+airport_name: Tolmachevo
+city: Novosibirsk
+country: Russia
+iata: OVB
+icao: UNNT
+latitude: 55.012622
+longitude: 82.650656
+elevation: 365
+utc_offset: 7
+_class: N
+timezone: Asia/Omsk

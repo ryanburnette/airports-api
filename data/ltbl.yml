@@ -1,0 +1,12 @@
+---
+airport_name: Cigli
+city: Izmir
+country: Turkey
+iata: IGL
+icao: LTBL
+latitude: 38.513022
+longitude: 27.010053
+elevation: 16
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

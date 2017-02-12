@@ -1,0 +1,12 @@
+---
+airport_name: Beech Factory Airport
+city: Wichita
+country: United States
+iata: BEC
+icao: KBEC
+latitude: 37.6939167
+longitude: -97.2149167
+elevation: 1409
+utc_offset: -6
+_class: A
+timezone: America/Chicago

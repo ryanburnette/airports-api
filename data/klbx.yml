@@ -1,0 +1,12 @@
+---
+airport_name: Texas Gulf Coast Regional
+city: Angleton
+country: United States
+iata: 
+icao: KLBX
+latitude: 29.1086389
+longitude: -95.4620833
+elevation: 25
+utc_offset: -6
+_class: A
+timezone: America/Chicago

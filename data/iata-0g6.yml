@@ -1,0 +1,12 @@
+---
+airport_name: Williams County Airport
+city: Bryan
+country: United States
+iata: 0G6
+icao: 
+latitude: 41.4673056
+longitude: -84.5067778
+elevation: 730
+utc_offset: -5
+_class: A
+timezone: America/New_York

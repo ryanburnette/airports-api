@@ -1,0 +1,12 @@
+---
+airport_name: William R Fairchild International Airport
+city: Port Angeles
+country: United States
+iata: CLM
+icao: KCLM
+latitude: 48.1202
+longitude: -123.5
+elevation: 291
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

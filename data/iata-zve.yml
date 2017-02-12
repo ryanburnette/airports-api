@@ -1,0 +1,12 @@
+---
+airport_name: New Haven Rail Station
+city: New Haven
+country: United States
+iata: ZVE
+icao: 
+latitude: 41.298669
+longitude: -72.925992
+elevation: 7
+utc_offset: -5
+_class: A
+timezone: America/New_York

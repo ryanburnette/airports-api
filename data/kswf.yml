@@ -1,0 +1,12 @@
+---
+airport_name: Stewart Intl
+city: Newburgh
+country: United States
+iata: SWF
+icao: KSWF
+latitude: 41.504094
+longitude: -74.104839
+elevation: 491
+utc_offset: -5
+_class: A
+timezone: America/New_York

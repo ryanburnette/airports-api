@@ -1,0 +1,12 @@
+---
+airport_name: Boma Airport
+city: Boma
+country: Congo (Kinshasa)
+iata: BOA
+icao: FZAJ
+latitude: -5.854
+longitude: 13.064
+elevation: 26
+utc_offset: 1
+_class: N
+timezone: Africa/Kinshasa

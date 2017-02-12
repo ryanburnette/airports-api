@@ -1,0 +1,12 @@
+---
+airport_name: La Ferte Alais Airport
+city: La Ferte Alais
+country: France
+iata: 
+icao: LFFQ
+latitude: 48.497799
+longitude: 2.34333
+elevation: 453
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

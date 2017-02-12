@@ -1,0 +1,12 @@
+---
+airport_name: Valdez Pioneer Fld
+city: Valdez
+country: United States
+iata: VDZ
+icao: PAVD
+latitude: 61.133949
+longitude: -146.248342
+elevation: 118
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

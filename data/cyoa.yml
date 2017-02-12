@@ -1,0 +1,12 @@
+---
+airport_name: Ekati
+city: Ekati
+country: Canada
+iata: YOA
+icao: CYOA
+latitude: 64.698889
+longitude: -110.614722
+elevation: 1540
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

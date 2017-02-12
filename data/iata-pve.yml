@@ -1,0 +1,12 @@
+---
+airport_name: El Porvenir
+city: El Porvenir
+country: Panama
+iata: PVE
+icao: 
+latitude: 9.559167
+longitude: -78.971111
+elevation: 5
+utc_offset: -5
+_class: U
+timezone: America/Panama

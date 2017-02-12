@@ -1,0 +1,12 @@
+---
+airport_name: Yarram
+city: Yarram
+country: Australia
+iata: 
+icao: YYRM
+latitude: -38.56
+longitude: 146.75
+elevation: 200
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

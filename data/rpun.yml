@@ -1,0 +1,12 @@
+---
+airport_name: Naga Airport
+city: Naga
+country: Philippines
+iata: WNP
+icao: RPUN
+latitude: 13.584886
+longitude: 123.270239
+elevation: 142
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

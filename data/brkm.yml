@@ -1,0 +1,12 @@
+---
+airport_name: Brockville Megabus Stop
+city: Brockville
+country: Canada
+iata: 
+icao: BRKM
+latitude: 44.6003
+longitude: -75.7039
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/Toronto

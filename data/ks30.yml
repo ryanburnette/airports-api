@@ -1,0 +1,12 @@
+---
+airport_name: Lebanon State
+city: Lebanon
+country: United States
+iata: S30
+icao: KS30
+latitude: 44.3179
+longitude: -122.5577
+elevation: 344
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

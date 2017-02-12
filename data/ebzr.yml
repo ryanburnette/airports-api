@@ -1,0 +1,12 @@
+---
+airport_name: Zoersel
+city: Zoersel
+country: Belgium
+iata: 
+icao: EBZR
+latitude: 51.264722
+longitude: 4.753333
+elevation: 53
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

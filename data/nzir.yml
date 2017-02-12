@@ -1,0 +1,12 @@
+---
+airport_name: Ice Runway-McMurdo Sstation
+city: Ross Island
+country: Antarctica
+iata: 
+icao: NZIR
+latitude: -77.8477778
+longitude: 166.6683333
+elevation: 1
+utc_offset: 12
+_class: N
+timezone: Antarctica/South_Pole

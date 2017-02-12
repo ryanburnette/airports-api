@@ -1,0 +1,12 @@
+---
+airport_name: Jujuy
+city: Jujuy
+country: Argentina
+iata: JUJ
+icao: SASJ
+latitude: -24.392778
+longitude: -65.097778
+elevation: 3019
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

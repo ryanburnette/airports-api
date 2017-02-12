@@ -1,0 +1,12 @@
+---
+airport_name: North Perry
+city: Hollywood
+country: United States
+iata: HWO
+icao: KHWO
+latitude: 26.001222
+longitude: -80.240722
+elevation: 8
+utc_offset: -5
+_class: A
+timezone: America/New_York

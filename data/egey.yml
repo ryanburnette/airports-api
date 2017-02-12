@@ -1,0 +1,12 @@
+---
+airport_name: Colonsay Airport
+city: Colonsay
+country: United Kingdom
+iata: CSA
+icao: EGEY
+latitude: 56.0575
+longitude: -6.243056
+elevation: 44
+utc_offset: 0
+_class: U
+timezone: Europe/London

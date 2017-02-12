@@ -1,0 +1,12 @@
+---
+airport_name: Lancaster Airport
+city: Lancaster
+country: United States
+iata: LNS
+icao: KLNS
+latitude: 40.1217
+longitude: -76.2961
+elevation: 403
+utc_offset: -5
+_class: A
+timezone: America/New_York

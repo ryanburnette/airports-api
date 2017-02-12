@@ -1,0 +1,12 @@
+---
+airport_name: Cooktown Airport
+city: Cooktown
+country: Australia
+iata: CTN
+icao: YCKN
+latitude: -15.4447
+longitude: 145.184
+elevation: 26
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

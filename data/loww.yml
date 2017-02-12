@@ -1,0 +1,12 @@
+---
+airport_name: Schwechat
+city: Vienna
+country: Austria
+iata: VIE
+icao: LOWW
+latitude: 48.110278
+longitude: 16.569722
+elevation: 600
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

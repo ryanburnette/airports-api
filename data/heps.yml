@@ -1,0 +1,12 @@
+---
+airport_name: Port Said
+city: Port Said
+country: Egypt
+iata: PSD
+icao: HEPS
+latitude: 31.279444
+longitude: 32.24
+elevation: 8
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

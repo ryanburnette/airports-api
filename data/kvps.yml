@@ -1,0 +1,12 @@
+---
+airport_name: Eglin Afb
+city: Valparaiso
+country: United States
+iata: VPS
+icao: KVPS
+latitude: 30.48325
+longitude: -86.5254
+elevation: 87
+utc_offset: -6
+_class: A
+timezone: America/Chicago

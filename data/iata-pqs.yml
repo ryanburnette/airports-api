@@ -1,0 +1,12 @@
+---
+airport_name: Pilot Station Airport
+city: Pilot Station
+country: United States
+iata: PQS
+icao: 
+latitude: 61.934444
+longitude: -162.899444
+elevation: 305
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

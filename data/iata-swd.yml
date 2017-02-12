@@ -1,0 +1,12 @@
+---
+airport_name: Seward Airport
+city: Seward
+country: United States
+iata: SWD
+icao: 
+latitude: 60.1269383
+longitude: -149.4188122
+elevation: 22
+utc_offset: -9
+_class: U
+timezone: America/Anchorage

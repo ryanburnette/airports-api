@@ -1,0 +1,12 @@
+---
+airport_name: Franca Airport
+city: Franca
+country: Brazil
+iata: FRC
+icao: SIMK
+latitude: -20.538611
+longitude: -47.400833
+elevation: 1040
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

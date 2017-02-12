@@ -1,0 +1,12 @@
+---
+airport_name: Imam Khomeini
+city: Tehran
+country: Iran
+iata: IKA
+icao: OIIE
+latitude: 35.416111
+longitude: 51.152222
+elevation: 3305
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

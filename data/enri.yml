@@ -1,0 +1,12 @@
+---
+airport_name: Ringebu Airport
+city: Frya
+country: Norway
+iata: 
+icao: ENRI
+latitude: 61.5472
+longitude: 10.0611
+elevation: 571
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

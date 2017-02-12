@@ -1,0 +1,12 @@
+---
+airport_name: Lemhi County Airport
+city: Salmon
+country: United States
+iata: SMN
+icao: KSMN
+latitude: 45.123889
+longitude: -113.881389
+elevation: 4043
+utc_offset: -7
+_class: A
+timezone: America/Denver

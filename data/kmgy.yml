@@ -1,0 +1,12 @@
+---
+airport_name: Dayton-Wright Brothers Airport
+city: Dayton
+country: United States
+iata: MGY
+icao: KMGY
+latitude: 39.5889722
+longitude: -84.2248611
+elevation: 957
+utc_offset: -5
+_class: U
+timezone: America/New_York

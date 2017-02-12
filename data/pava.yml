@@ -1,0 +1,12 @@
+---
+airport_name: Chevak Airport
+city: Chevak
+country: United States
+iata: VAK
+icao: PAVA
+latitude: 61.5338
+longitude: -165.584
+elevation: 75
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

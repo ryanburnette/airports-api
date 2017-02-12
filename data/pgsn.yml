@@ -1,0 +1,12 @@
+---
+airport_name: Francisco C Ada Saipan Intl
+city: Saipan
+country: Northern Mariana Islands
+iata: SPN
+icao: PGSN
+latitude: 15.119003
+longitude: 145.729356
+elevation: 215
+utc_offset: 10
+_class: U
+timezone: Pacific/Saipan

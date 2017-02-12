@@ -1,0 +1,12 @@
+---
+airport_name: Downtown Mountain View Station
+city: Mountain View
+country: United States
+iata: 
+icao: 
+latitude: 37.3943934
+longitude: -122.075872
+elevation: 15
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

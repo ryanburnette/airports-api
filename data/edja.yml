@@ -1,0 +1,12 @@
+---
+airport_name: Allgau
+city: Memmingen
+country: Germany
+iata: FMM
+icao: EDJA
+latitude: 47.988758
+longitude: 10.2395
+elevation: 2077
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

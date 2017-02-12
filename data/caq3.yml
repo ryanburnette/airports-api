@@ -1,0 +1,12 @@
+---
+airport_name: Vancouver Coal Harbour
+city: Vancouver
+country: Canada
+iata: CXH
+icao: CAQ3
+latitude: 49.289722
+longitude: -123.115833
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

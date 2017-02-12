@@ -1,0 +1,12 @@
+---
+airport_name: Fort Lauderdale Executive
+city: Fort Lauderdale
+country: United States
+iata: FXE
+icao: KFXE
+latitude: 26.197281
+longitude: -80.170706
+elevation: 13
+utc_offset: -5
+_class: A
+timezone: America/New_York

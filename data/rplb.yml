@@ -1,0 +1,12 @@
+---
+airport_name: Subic Bay International Airport
+city: Olongapo City
+country: Philippines
+iata: SFS
+icao: RPLB
+latitude: 14.7944
+longitude: 120.271
+elevation: 64
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

@@ -1,0 +1,12 @@
+---
+airport_name: Kunsan Air Base
+city: Kunsan
+country: South Korea
+iata: KUV
+icao: RKJK
+latitude: 35.903756
+longitude: 126.615906
+elevation: 29
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

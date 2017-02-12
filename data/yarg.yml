@@ -1,0 +1,12 @@
+---
+airport_name: Argyle Airport
+city: Argyle
+country: Australia
+iata: GYL
+icao: YARG
+latitude: -16.6369
+longitude: 128.451
+elevation: 522
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

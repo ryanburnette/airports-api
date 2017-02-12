@@ -1,0 +1,12 @@
+---
+airport_name: Koliganek Airport
+city: Koliganek
+country: United States
+iata: KGK
+icao: PAJZ
+latitude: 59.726667
+longitude: -157.259444
+elevation: 269
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

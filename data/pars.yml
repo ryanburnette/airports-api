@@ -1,0 +1,12 @@
+---
+airport_name: Russian Mission Airport
+city: Russian Mission
+country: United States
+iata: RSH
+icao: PARS
+latitude: 61.775
+longitude: -161.319444
+elevation: 51
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

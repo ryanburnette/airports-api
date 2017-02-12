@@ -1,0 +1,12 @@
+---
+airport_name: Houssen
+city: Colmar
+country: France
+iata: CMR
+icao: LFGA
+latitude: 48.109853
+longitude: 7.359011
+elevation: 628
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

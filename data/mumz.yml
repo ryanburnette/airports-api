@@ -1,0 +1,12 @@
+---
+airport_name: Sierra Maestra
+city: Manzanillo
+country: Cuba
+iata: MZO
+icao: MUMZ
+latitude: 20.288172
+longitude: -77.0893
+elevation: 112
+utc_offset: -5
+_class: U
+timezone: America/Havana

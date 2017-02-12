@@ -1,0 +1,12 @@
+---
+airport_name: Hawarden
+city: Hawarden
+country: United Kingdom
+iata: CEG
+icao: EGNR
+latitude: 53.178056
+longitude: -2.977778
+elevation: 45
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Golden Airport
+city: Golden
+country: Canada
+iata: YGE
+icao: CYGE
+latitude: 51.2992
+longitude: -116.982
+elevation: 2575
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

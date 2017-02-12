@@ -1,0 +1,12 @@
+---
+airport_name: Eagle County Airport
+city: Eagle
+country: United States
+iata: EGA
+icao: 
+latitude: 39.6427611
+longitude: -106.9159347
+elevation: 6548
+utc_offset: -7
+_class: U
+timezone: America/Denver

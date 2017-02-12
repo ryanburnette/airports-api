@@ -1,0 +1,12 @@
+---
+airport_name: Las Brujas
+city: Corozal
+country: Colombia
+iata: CZU
+icao: SKCZ
+latitude: 9.332742
+longitude: -75.285594
+elevation: 528
+utc_offset: -5
+_class: U
+timezone: America/Bogota

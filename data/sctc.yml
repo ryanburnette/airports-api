@@ -1,0 +1,12 @@
+---
+airport_name: Maquehue
+city: Temuco
+country: Chile
+iata: ZCO
+icao: SCTC
+latitude: -38.766819
+longitude: -72.637097
+elevation: 304
+utc_offset: -4
+_class: S
+timezone: America/Santiago

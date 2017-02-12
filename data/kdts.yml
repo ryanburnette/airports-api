@@ -1,0 +1,12 @@
+---
+airport_name: Destin
+city: Destin
+country: United States
+iata: DTS
+icao: KDTS
+latitude: 30.4000611
+longitude: -86.4714772
+elevation: 23
+utc_offset: -6
+_class: A
+timezone: America/Chicago

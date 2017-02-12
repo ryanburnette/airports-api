@@ -1,0 +1,12 @@
+---
+airport_name: Central Station
+city: Stockholm
+country: Sweden
+iata: XEV
+icao: 
+latitude: 59.33
+longitude: 18.058056
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

@@ -1,0 +1,12 @@
+---
+airport_name: Bartow Municipal Airport
+city: Bartow
+country: United States
+iata: BOW
+icao: KBOW
+latitude: 27.9434
+longitude: -81.7834
+elevation: 125
+utc_offset: -5
+_class: U
+timezone: America/New_York

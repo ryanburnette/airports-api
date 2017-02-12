@@ -1,0 +1,12 @@
+---
+airport_name: Funafuti International
+city: Funafuti
+country: Tuvalu
+iata: FUN
+icao: NGFU
+latitude: -8.525
+longitude: 179.196389
+elevation: 9
+utc_offset: 12
+_class: U
+timezone: Pacific/Funafuti

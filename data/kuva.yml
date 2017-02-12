@@ -1,0 +1,12 @@
+---
+airport_name: Garner Field
+city: Uvalde
+country: United States
+iata: UVA
+icao: KUVA
+latitude: 29.215429
+longitude: -99.748962
+elevation: 942
+utc_offset: -6
+_class: A
+timezone: America/Chicago

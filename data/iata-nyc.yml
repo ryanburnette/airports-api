@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: New York
+country: United States
+iata: NYC
+icao: 
+latitude: 40.714167
+longitude: -74.005833
+elevation: 31
+utc_offset: -5
+_class: A
+timezone: America/New_York

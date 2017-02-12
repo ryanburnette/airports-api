@@ -1,0 +1,12 @@
+---
+airport_name: Napier
+city: NAPIER
+country: New Zealand
+iata: NPE
+icao: NZNR
+latitude: -39.465833
+longitude: 176.87
+elevation: 6
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

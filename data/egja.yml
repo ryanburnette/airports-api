@@ -1,0 +1,12 @@
+---
+airport_name: Alderney
+city: Alderney
+country: Guernsey
+iata: ACI
+icao: EGJA
+latitude: 49.706111
+longitude: -2.214722
+elevation: 290
+utc_offset: 0
+_class: E
+timezone: Europe/Guernsey

@@ -1,0 +1,12 @@
+---
+airport_name: Bishop International
+city: Flint
+country: United States
+iata: FNT
+icao: KFNT
+latitude: 42.965424
+longitude: -83.743629
+elevation: 782
+utc_offset: -5
+_class: A
+timezone: America/New_York

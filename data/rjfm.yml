@@ -1,0 +1,12 @@
+---
+airport_name: Miyazaki
+city: Miyazaki
+country: Japan
+iata: KMI
+icao: RJFM
+latitude: 31.877222
+longitude: 131.448611
+elevation: 20
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

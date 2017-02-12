@@ -1,0 +1,12 @@
+---
+airport_name: Armstrong
+city: Armstrong
+country: Canada
+iata: YYW
+icao: CYYW
+latitude: 50.290279
+longitude: -88.909721
+elevation: 1058
+utc_offset: -5
+_class: A
+timezone: America/Toronto

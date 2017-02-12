@@ -1,0 +1,12 @@
+---
+airport_name: Yasser Arafat Intl
+city: Gaza
+country: Palestine
+iata: GZA
+icao: LVGZ
+latitude: 31.246389
+longitude: 34.276111
+elevation: 320
+utc_offset: 2
+_class: U
+timezone: Asia/Gaza

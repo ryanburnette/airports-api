@@ -1,0 +1,12 @@
+---
+airport_name: Filippos
+city: Kozani
+country: Greece
+iata: KZI
+icao: LGKZ
+latitude: 40.28611
+longitude: 21.840834
+elevation: 2059
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

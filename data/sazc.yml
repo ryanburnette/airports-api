@@ -1,0 +1,12 @@
+---
+airport_name: Coronel Suarez
+city: Colonel Suarez
+country: Argentina
+iata: 
+icao: SAZC
+latitude: -37.446111
+longitude: -61.889297
+elevation: 768
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

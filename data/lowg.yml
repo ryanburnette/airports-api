@@ -1,0 +1,12 @@
+---
+airport_name: Graz
+city: Graz
+country: Austria
+iata: GRZ
+icao: LOWG
+latitude: 46.991067
+longitude: 15.439628
+elevation: 1115
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

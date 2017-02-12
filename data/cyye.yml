@@ -1,0 +1,12 @@
+---
+airport_name: Fort Nelson
+city: Fort Nelson
+country: Canada
+iata: YYE
+icao: CYYE
+latitude: 58.836389
+longitude: -122.596944
+elevation: 1253
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: La Gomera Airport
+city: La Gomera
+country: Spain
+iata: GMZ
+icao: GCGM
+latitude: 28.0296
+longitude: -17.2146
+elevation: 718
+utc_offset: 0
+_class: E
+timezone: Atlantic/Canary

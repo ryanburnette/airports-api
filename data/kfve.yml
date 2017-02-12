@@ -1,0 +1,12 @@
+---
+airport_name: Northern Aroostook Regional Airport
+city: Frenchville
+country: United States
+iata: WFK
+icao: KFVE
+latitude: 47.285556
+longitude: -68.312778
+elevation: 988
+utc_offset: -5
+_class: A
+timezone: America/New_York

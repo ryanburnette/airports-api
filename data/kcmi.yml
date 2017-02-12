@@ -1,0 +1,12 @@
+---
+airport_name: Champaign
+city: Champaign
+country: United States
+iata: CMI
+icao: KCMI
+latitude: 40.03925
+longitude: -88.278056
+elevation: 754
+utc_offset: -6
+_class: A
+timezone: America/Chicago

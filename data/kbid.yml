@@ -1,0 +1,12 @@
+---
+airport_name: Block Island State Airport
+city: Block Island
+country: United States
+iata: BID
+icao: KBID
+latitude: 41.168056
+longitude: -71.577778
+elevation: 108
+utc_offset: -5
+_class: A
+timezone: America/New_York

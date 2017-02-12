@@ -1,0 +1,12 @@
+---
+airport_name: Gary Chicago International Airport
+city: Gary
+country: United States
+iata: GYY
+icao: KGYY
+latitude: 41.6163
+longitude: -87.4128
+elevation: 591
+utc_offset: -6
+_class: A
+timezone: America/Chicago

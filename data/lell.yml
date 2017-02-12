@@ -1,0 +1,12 @@
+---
+airport_name: Sabadell Airport
+city: Sabadell
+country: Spain
+iata: QSA
+icao: LELL
+latitude: 41.5209
+longitude: 2.10508
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

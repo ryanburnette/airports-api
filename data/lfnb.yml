@@ -1,0 +1,12 @@
+---
+airport_name: Brenoux
+city: Mende
+country: France
+iata: MEN
+icao: LFNB
+latitude: 44.502108
+longitude: 3.532819
+elevation: 3362
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

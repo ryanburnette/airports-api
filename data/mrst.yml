@@ -1,0 +1,12 @@
+---
+airport_name: Morristown Station
+city: Morristown
+country: United States
+iata: 
+icao: MRST
+latitude: 40.796957
+longitude: -74.473834
+elevation: 315
+utc_offset: -5
+_class: A
+timezone: America/New_York

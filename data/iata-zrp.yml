@@ -1,0 +1,12 @@
+---
+airport_name: Newark Penn Station
+city: Newark
+country: United States
+iata: ZRP
+icao: 
+latitude: 40.734722
+longitude: -74.164167
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Middle Caicos Airport
+city: Middle Caicos
+country: Turks and Caicos Islands
+iata: MDS
+icao: MBMC
+latitude: 21.833
+longitude: -71.817
+elevation: 9
+utc_offset: -5
+_class: U
+timezone: America/Grand_Turk

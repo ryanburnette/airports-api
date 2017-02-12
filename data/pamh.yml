@@ -1,0 +1,12 @@
+---
+airport_name: Minchumina Airport
+city: Lake Minchumina
+country: United States
+iata: MHM
+icao: PAMH
+latitude: 63.886111
+longitude: -152.301944
+elevation: 678
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

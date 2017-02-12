@@ -1,0 +1,12 @@
+---
+airport_name: Helsinki Cruise Port
+city: Helsinki
+country: Finland
+iata: 
+icao: HELC
+latitude: 60.163056
+longitude: 24.969167
+elevation: 6
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

@@ -1,0 +1,12 @@
+---
+airport_name: Egegik Airport
+city: Egegik
+country: United States
+iata: EGX
+icao: PAII
+latitude: 58.185556
+longitude: -157.375556
+elevation: 92
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

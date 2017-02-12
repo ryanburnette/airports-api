@@ -1,0 +1,12 @@
+---
+airport_name: Franklin County Airport
+city: Sewanee
+country: United States
+iata: 
+icao: KUOS
+latitude: 35.2051
+longitude: -85.8981
+elevation: 1953
+utc_offset: -6
+_class: A
+timezone: America/Chicago

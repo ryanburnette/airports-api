@@ -1,0 +1,12 @@
+---
+airport_name: Inowroclaw Inowr Airport
+city: Inowroclaw
+country: Poland
+iata: 
+icao: EPIR
+latitude: 52.829444
+longitude: 18.330556
+elevation: 259
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

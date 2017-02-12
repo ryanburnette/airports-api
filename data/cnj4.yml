@@ -1,0 +1,12 @@
+---
+airport_name: Orillia
+city: Orillia
+country: Canada
+iata: 
+icao: CNJ4
+latitude: 44.683333
+longitude: -79.316667
+elevation: 725
+utc_offset: -5
+_class: A
+timezone: America/Toronto

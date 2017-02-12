@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Winnipeg
+country: Canada
+iata: XEF
+icao: 
+latitude: 49.8889
+longitude: -97.1342
+elevation: 751
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

@@ -1,0 +1,12 @@
+---
+airport_name: Nuernberg Port
+city: Nuernberg
+country: Germany
+iata: 
+icao: 
+latitude: 49.392222
+longitude: 11.061944
+elevation: 990
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

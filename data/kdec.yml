@@ -1,0 +1,12 @@
+---
+airport_name: Decatur
+city: Decatur
+country: United States
+iata: DEC
+icao: KDEC
+latitude: 39.834564
+longitude: -88.865689
+elevation: 682
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Seaplane Base
+city: Port Simpson
+country: Canada
+iata: YPI
+icao: CYPI
+latitude: 54.566667
+longitude: -130.433333
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

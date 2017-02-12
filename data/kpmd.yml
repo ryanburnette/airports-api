@@ -1,0 +1,12 @@
+---
+airport_name: Palmdale Rgnl Usaf Plt 42
+city: Palmdale
+country: United States
+iata: PMD
+icao: KPMD
+latitude: 34.629391
+longitude: -118.08456
+elevation: 2543
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

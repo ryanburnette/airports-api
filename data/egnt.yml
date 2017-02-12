@@ -1,0 +1,12 @@
+---
+airport_name: Newcastle
+city: Newcastle
+country: United Kingdom
+iata: NCL
+icao: EGNT
+latitude: 55.0375
+longitude: -1.691667
+elevation: 266
+utc_offset: 0
+_class: E
+timezone: Europe/London

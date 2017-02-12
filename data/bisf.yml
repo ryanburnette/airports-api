@@ -1,0 +1,12 @@
+---
+airport_name: Selfoss Airport
+city: Selfoss
+country: Iceland
+iata: 
+icao: BISF
+latitude: 63.929167
+longitude: -21.037778
+elevation: 45
+utc_offset: 0
+_class: N
+timezone: Atlantic/Reykjavik

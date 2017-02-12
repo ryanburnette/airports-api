@@ -1,0 +1,12 @@
+---
+airport_name: Forest Lake Airport
+city: Forest Lake
+country: United States
+iata: 25D
+icao: 
+latitude: 45.2477456
+longitude: -92.9943853
+elevation: 925
+utc_offset: -6
+_class: A
+timezone: America/Chicago

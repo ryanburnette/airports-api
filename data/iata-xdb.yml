@@ -1,0 +1,12 @@
+---
+airport_name: Lille
+city: Lille
+country: France
+iata: XDB
+icao: 
+latitude: 50.563333
+longitude: 3.08805
+elevation: 1
+utc_offset: 1
+_class: U
+timezone: Europe/Paris

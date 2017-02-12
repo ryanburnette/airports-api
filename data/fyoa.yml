@@ -1,0 +1,12 @@
+---
+airport_name: Ondangwa Airport
+city: Ondangwa
+country: Namibia
+iata: OND
+icao: FYOA
+latitude: -17.8782
+longitude: 15.9526
+elevation: 3599
+utc_offset: 1
+_class: S
+timezone: Africa/Windhoek

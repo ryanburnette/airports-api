@@ -1,0 +1,12 @@
+---
+airport_name: Ely Municipal
+city: Ely
+country: United States
+iata: LYU
+icao: KELO
+latitude: 47.824444
+longitude: -91.830833
+elevation: 1456
+utc_offset: -6
+_class: A
+timezone: America/Chicago

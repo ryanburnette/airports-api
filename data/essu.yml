@@ -1,0 +1,12 @@
+---
+airport_name: Eskilstuna
+city: Eskilstuna
+country: Sweden
+iata: 
+icao: ESSU
+latitude: 59.351078
+longitude: 16.7084
+elevation: 139
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

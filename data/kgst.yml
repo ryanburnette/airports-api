@@ -1,0 +1,12 @@
+---
+airport_name: Kingston Train Station
+city: Kingston
+country: Canada
+iata: XEG
+icao: KGST
+latitude: 44.256944
+longitude: -76.536943
+elevation: 282
+utc_offset: -5
+_class: A
+timezone: America/Toronto

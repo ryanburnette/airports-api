@@ -1,0 +1,12 @@
+---
+airport_name: Paddington Station
+city: London
+country: United Kingdom
+iata: QQP
+icao: 
+latitude: 51.515833
+longitude: -0.176111
+elevation: 0
+utc_offset: 0
+_class: E
+timezone: Europe/London

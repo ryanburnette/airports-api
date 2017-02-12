@@ -1,0 +1,12 @@
+---
+airport_name: Bellevue
+city: Autun
+country: France
+iata: 
+icao: LFQF
+latitude: 46.967283
+longitude: 4.260572
+elevation: 997
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Sechelt Aerodrome
+city: Sechelt-Gibsons
+country: Canada
+iata: YHS
+icao: 
+latitude: 49.460556
+longitude: -123.718611
+elevation: 250
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: Savoonga Airport
+city: Savoonga
+country: United States
+iata: SVA
+icao: PASA
+latitude: 63.6864
+longitude: -170.493
+elevation: 53
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

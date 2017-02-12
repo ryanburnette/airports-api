@@ -1,0 +1,12 @@
+---
+airport_name: Knevichi
+city: Vladivostok
+country: Russia
+iata: VVO
+icao: UHWW
+latitude: 43.398953
+longitude: 132.148017
+elevation: 46
+utc_offset: 11
+_class: N
+timezone: Asia/Vladivostok

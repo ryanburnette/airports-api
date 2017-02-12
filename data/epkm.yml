@@ -1,0 +1,12 @@
+---
+airport_name: Muchowiec
+city: Katowice
+country: Poland
+iata: 
+icao: EPKM
+latitude: 50.238147
+longitude: 19.034181
+elevation: 909
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

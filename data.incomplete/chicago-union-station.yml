@@ -1,0 +1,12 @@
+---
+airport_name: Chicago Union Station
+city: Chicago
+country: United States
+iata: 
+icao: 
+latitude: 41.8791966
+longitude: -87.6388507
+elevation: 581
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Pellworm
+city: Pellworm
+country: Germany
+iata: 
+icao: EDHP
+latitude: 54.536431
+longitude: 8.67994
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

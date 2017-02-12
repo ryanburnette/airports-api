@@ -1,0 +1,12 @@
+---
+airport_name: Merignac
+city: Bordeaux
+country: France
+iata: BOD
+icao: LFBD
+latitude: 44.828335
+longitude: -0.715556
+elevation: 162
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

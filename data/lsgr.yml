@@ -1,0 +1,12 @@
+---
+airport_name: Reichenbach
+city: Reichenbach im Kandertal
+country: Switzerland
+iata: 
+icao: LSGR
+latitude: 46.61298
+longitude: 7.67773
+elevation: 2300
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

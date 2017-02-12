@@ -1,0 +1,12 @@
+---
+airport_name: Berlin Gatow
+city: Berlin
+country: Germany
+iata: GWW
+icao: 
+latitude: 52.475
+longitude: 13.139
+elevation: 160
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

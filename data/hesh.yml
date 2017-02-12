@@ -1,0 +1,12 @@
+---
+airport_name: Sharm El Sheikh Intl
+city: Sharm El Sheikh
+country: Egypt
+iata: SSH
+icao: HESH
+latitude: 27.977222
+longitude: 34.394722
+elevation: 143
+utc_offset: 2
+_class: N
+timezone: Africa/Cairo

@@ -1,0 +1,12 @@
+---
+airport_name: Osaka Intl
+city: Osaka
+country: Japan
+iata: ITM
+icao: RJOO
+latitude: 34.785528
+longitude: 135.438222
+elevation: 50
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

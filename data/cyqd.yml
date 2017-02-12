@@ -1,0 +1,12 @@
+---
+airport_name: The Pas Airport
+city: The Pas
+country: Canada
+iata: YQD
+icao: CYQD
+latitude: 53.9714
+longitude: -101.091
+elevation: 887
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

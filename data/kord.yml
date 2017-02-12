@@ -1,0 +1,12 @@
+---
+airport_name: Chicago Ohare Intl
+city: Chicago
+country: United States
+iata: ORD
+icao: KORD
+latitude: 41.978603
+longitude: -87.904842
+elevation: 668
+utc_offset: -6
+_class: A
+timezone: America/Chicago

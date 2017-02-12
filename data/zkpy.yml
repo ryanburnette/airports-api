@@ -1,0 +1,12 @@
+---
+airport_name: Pyongyang Intl
+city: Pyongyang
+country: Korea
+iata: FNJ
+icao: ZKPY
+latitude: 39.224061
+longitude: 125.67015
+elevation: 117
+utc_offset: 9
+_class: U
+timezone: Asia/Pyongyang

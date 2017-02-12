@@ -1,0 +1,12 @@
+---
+airport_name: Paros
+city: Paros
+country: Greece
+iata: PAS
+icao: LGPA
+latitude: 37.010278
+longitude: 25.127778
+elevation: 121
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

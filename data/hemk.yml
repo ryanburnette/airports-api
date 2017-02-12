@@ -1,0 +1,12 @@
+---
+airport_name: Sohag International
+city: Sohag
+country: Egypt
+iata: HMB
+icao: HEMK
+latitude: 26.341189
+longitude: 31.742983
+elevation: 859
+utc_offset: 2
+_class: E
+timezone: Africa/Cairo

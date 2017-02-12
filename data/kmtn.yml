@@ -1,0 +1,12 @@
+---
+airport_name: Martin State
+city: Baltimore
+country: United States
+iata: MTN
+icao: KMTN
+latitude: 39.3256667
+longitude: -76.4137778
+elevation: 22
+utc_offset: -5
+_class: A
+timezone: America/New_York

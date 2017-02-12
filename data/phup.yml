@@ -1,0 +1,12 @@
+---
+airport_name: Upolu
+city: Opolu
+country: United States
+iata: UPP
+icao: PHUP
+latitude: 20.265256
+longitude: -155.859989
+elevation: 96
+utc_offset: -10
+_class: A
+timezone: Pacific/Honolulu

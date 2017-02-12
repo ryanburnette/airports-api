@@ -1,0 +1,12 @@
+---
+airport_name: Parry Sound
+city: Parry Sound
+country: Canada
+iata: YPD
+icao: CNK4
+latitude: 45.253889
+longitude: -79.827778
+elevation: 830
+utc_offset: -5
+_class: A
+timezone: America/Toronto

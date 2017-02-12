@@ -1,0 +1,12 @@
+---
+airport_name: Zhytomyr
+city: Zhytomyr
+country: Ukraine
+iata: ZTR
+icao: UKKV
+latitude: 50.270556
+longitude: 28.738611
+elevation: 0
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

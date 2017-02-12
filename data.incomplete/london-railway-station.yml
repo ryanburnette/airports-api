@@ -1,0 +1,12 @@
+---
+airport_name: London Railway Station
+city: London
+country: Canada
+iata: 
+icao: 
+latitude: 42.9819
+longitude: -81.2464
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/Toronto

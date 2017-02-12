@@ -1,0 +1,12 @@
+---
+airport_name: Minsk 2
+city: Minsk 2
+country: Belarus
+iata: MSQ
+icao: UMMS
+latitude: 53.882469
+longitude: 28.030731
+elevation: 670
+utc_offset: 3
+_class: E
+timezone: Europe/Minsk

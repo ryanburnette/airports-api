@@ -1,0 +1,12 @@
+---
+airport_name: Grand Canyon Heliport
+city: Grand Canyon
+country: United States
+iata: JGC
+icao: 
+latitude: 35.96666666
+longitude: -112.13333333
+elevation: 2500
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

@@ -1,0 +1,12 @@
+---
+airport_name: Soderhamn Airport
+city: Soderhamn
+country: Sweden
+iata: SOO
+icao: ESCL
+latitude: 61.261667
+longitude: 17.098056
+elevation: 94
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

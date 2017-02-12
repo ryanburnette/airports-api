@@ -1,0 +1,12 @@
+---
+airport_name: Four Corners
+city: Four Corners
+country: United States
+iata: 
+icao: 
+latitude: 36.998976
+longitude: -109.045172
+elevation: 1000
+utc_offset: -7
+_class: U
+timezone: America/Denver

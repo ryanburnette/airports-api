@@ -1,0 +1,12 @@
+---
+airport_name: Pitt Meadows
+city: Pitt Meadows
+country: Canada
+iata: 
+icao: CYPK
+latitude: 49.21611
+longitude: -122.71
+elevation: 11
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: Batumi
+city: Batumi
+country: Georgia
+iata: BUS
+icao: UGSB
+latitude: 41.610278
+longitude: 41.599694
+elevation: 105
+utc_offset: 4
+_class: N
+timezone: Asia/Tbilisi

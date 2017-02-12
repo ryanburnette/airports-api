@@ -1,0 +1,12 @@
+---
+airport_name: Raleigh County Memorial Airport
+city: Beckley
+country: United States
+iata: BKW
+icao: KBKW
+latitude: 37.7873
+longitude: -81.1242
+elevation: 2504
+utc_offset: -5
+_class: A
+timezone: America/New_York

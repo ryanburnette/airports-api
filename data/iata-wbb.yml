@@ -1,0 +1,12 @@
+---
+airport_name: Stebbins Airport
+city: Stebbins
+country: United States
+iata: WBB
+icao: 
+latitude: 63.515833
+longitude: -162.278056
+elevation: 14
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

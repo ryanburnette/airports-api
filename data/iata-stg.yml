@@ -1,0 +1,12 @@
+---
+airport_name: St. George Airport
+city: St. George
+country: United States
+iata: STG
+icao: 
+latitude: 56.577222
+longitude: -169.663611
+elevation: 125
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

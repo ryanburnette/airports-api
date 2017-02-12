@@ -1,0 +1,12 @@
+---
+airport_name: Phnom Penh Intl
+city: Phnom-penh
+country: Cambodia
+iata: PNH
+icao: VDPP
+latitude: 11.546556
+longitude: 104.844139
+elevation: 40
+utc_offset: 7
+_class: U
+timezone: Asia/Phnom_Penh

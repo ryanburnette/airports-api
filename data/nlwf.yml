@@ -1,0 +1,12 @@
+---
+airport_name: Pointe Vele Airport
+city: Futuna Island
+country: Wallis and Futuna
+iata: FUT
+icao: NLWF
+latitude: -14.3114
+longitude: -178.066
+elevation: 20
+utc_offset: 12
+_class: U
+timezone: Pacific/Wallis

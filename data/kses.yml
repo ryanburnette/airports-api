@@ -1,0 +1,12 @@
+---
+airport_name: Selfield Airport
+city: Selma Alabama
+country: United States
+iata: SES
+icao: KSES
+latitude: 32.4404
+longitude: -86.9522
+elevation: 131
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Spitfire Aerodrome
+city: Pedricktown
+country: United States
+iata: 7N7
+icao: 
+latitude: 39.7355633
+longitude: -75.3977211
+elevation: 40
+utc_offset: -5
+_class: A
+timezone: America/New_York

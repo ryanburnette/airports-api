@@ -1,0 +1,12 @@
+---
+airport_name: Gustavus Airport
+city: Gustavus
+country: United States
+iata: GST
+icao: PAGS
+latitude: 58.4253
+longitude: -135.707
+elevation: 34
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

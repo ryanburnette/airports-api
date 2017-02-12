@@ -1,0 +1,12 @@
+---
+airport_name: Jasionka
+city: Rzeszow
+country: Poland
+iata: RZE
+icao: EPRZ
+latitude: 50.109958
+longitude: 22.019
+elevation: 675
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

@@ -1,0 +1,12 @@
+---
+airport_name: Mountain Airport
+city: Mountain
+country: Nepal
+iata: MWP
+icao: 
+latitude: 28
+longitude: 85.333
+elevation: 0
+utc_offset: 5.75
+_class: N
+timezone: Asia/Katmandu

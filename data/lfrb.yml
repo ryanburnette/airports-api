@@ -1,0 +1,12 @@
+---
+airport_name: Guipavas
+city: Brest
+country: France
+iata: BES
+icao: LFRB
+latitude: 48.447911
+longitude: -4.418539
+elevation: 325
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

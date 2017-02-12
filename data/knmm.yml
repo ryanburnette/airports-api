@@ -1,0 +1,12 @@
+---
+airport_name: Meridian Nas
+city: Meridian
+country: United States
+iata: NMM
+icao: KNMM
+latitude: 32.552083
+longitude: -88.555557
+elevation: 317
+utc_offset: -6
+_class: A
+timezone: America/Chicago

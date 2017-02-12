@@ -1,0 +1,12 @@
+---
+airport_name: General Lucio Blanco Intl
+city: Reynosa
+country: Mexico
+iata: REX
+icao: MMRX
+latitude: 26.008908
+longitude: -98.228513
+elevation: 139
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

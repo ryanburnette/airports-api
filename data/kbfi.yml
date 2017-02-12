@@ -1,0 +1,12 @@
+---
+airport_name: Boeing Fld King Co Intl
+city: Seattle
+country: United States
+iata: BFI
+icao: KBFI
+latitude: 47.53
+longitude: -122.301947
+elevation: 21
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

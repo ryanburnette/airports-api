@@ -1,0 +1,12 @@
+---
+airport_name: Hsinchu
+city: Hsinchu
+country: Taiwan
+iata: 
+icao: RCPO
+latitude: 24.818033
+longitude: 120.939394
+elevation: 26
+utc_offset: 8
+_class: U
+timezone: Asia/Taipei

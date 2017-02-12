@@ -1,0 +1,12 @@
+---
+airport_name: Greater Moncton Intl
+city: Moncton
+country: Canada
+iata: YQM
+icao: CYQM
+latitude: 46.112221
+longitude: -64.678611
+elevation: 232
+utc_offset: -4
+_class: A
+timezone: America/Halifax

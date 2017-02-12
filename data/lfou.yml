@@ -1,0 +1,12 @@
+---
+airport_name: Le Pontreau
+city: Cholet
+country: France
+iata: CET
+icao: LFOU
+latitude: 47.082136
+longitude: -0.877064
+elevation: 443
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

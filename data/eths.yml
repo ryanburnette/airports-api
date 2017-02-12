@@ -1,0 +1,12 @@
+---
+airport_name: Fassberg
+city: Fassberg
+country: Germany
+iata: 
+icao: ETHS
+latitude: 52.919406
+longitude: 10.197528
+elevation: 245
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

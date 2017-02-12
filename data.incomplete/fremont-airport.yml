@@ -1,0 +1,12 @@
+---
+airport_name: Fremont Airport
+city: Fremont
+country: United States
+iata: 
+icao: 
+latitude: 41.3331
+longitude: -83.1612
+elevation: 663
+utc_offset: -5
+_class: A
+timezone: America/New_York

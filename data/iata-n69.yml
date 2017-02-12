@@ -1,0 +1,12 @@
+---
+airport_name: Stormville Airport
+city: Stormville
+country: United States
+iata: N69
+icao: 
+latitude: 41.5769708
+longitude: -73.7323514
+elevation: 358
+utc_offset: -5
+_class: A
+timezone: America/New_York

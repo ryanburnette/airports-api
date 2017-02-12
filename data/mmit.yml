@@ -1,0 +1,12 @@
+---
+airport_name: Ixtepec
+city: Iztepec
+country: Mexico
+iata: 
+icao: MMIT
+latitude: 16.449336
+longitude: -95.093697
+elevation: 164
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

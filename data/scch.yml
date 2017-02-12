@@ -1,0 +1,12 @@
+---
+airport_name: General Bernardo O Higgins
+city: Chillan
+country: Chile
+iata: 
+icao: SCCH
+latitude: -36.582497
+longitude: -72.031367
+elevation: 495
+utc_offset: -4
+_class: S
+timezone: America/Santiago

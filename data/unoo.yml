@@ -1,0 +1,12 @@
+---
+airport_name: Omsk
+city: Omsk
+country: Russia
+iata: OMS
+icao: UNOO
+latitude: 54.967042
+longitude: 73.310514
+elevation: 311
+utc_offset: 7
+_class: N
+timezone: Asia/Omsk

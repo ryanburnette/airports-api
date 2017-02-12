@@ -1,0 +1,12 @@
+---
+airport_name: Mekoryuk Airport
+city: Mekoryuk
+country: United States
+iata: MYU
+icao: PAMY
+latitude: 60.3714
+longitude: -166.271
+elevation: 48
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

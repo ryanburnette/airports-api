@@ -1,0 +1,12 @@
+---
+airport_name: El Alto Intl
+city: La Paz
+country: Bolivia
+iata: LPB
+icao: SLLP
+latitude: -16.513339
+longitude: -68.192256
+elevation: 13325
+utc_offset: -4
+_class: U
+timezone: America/La_Paz

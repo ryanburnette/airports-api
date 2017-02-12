@@ -1,0 +1,12 @@
+---
+airport_name: Baghdad International Airport
+city: Baghdad
+country: Iraq
+iata: BGW
+icao: ORBI
+latitude: 33.262539
+longitude: 44.234578
+elevation: 114
+utc_offset: 3
+_class: U
+timezone: Asia/Baghdad

@@ -1,0 +1,12 @@
+---
+airport_name: Umiujaq Airport
+city: Umiujaq
+country: Canada
+iata: YUD
+icao: CYMU
+latitude: 56.5361
+longitude: -76.5183
+elevation: 250
+utc_offset: -5
+_class: A
+timezone: America/Toronto

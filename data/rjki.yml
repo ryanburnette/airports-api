@@ -1,0 +1,12 @@
+---
+airport_name: Kikai Airport
+city: Kikai
+country: Japan
+iata: KKX
+icao: RJKI
+latitude: 28.321389
+longitude: 129.928056
+elevation: 15
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

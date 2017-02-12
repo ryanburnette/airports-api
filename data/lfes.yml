@@ -1,0 +1,12 @@
+---
+airport_name: Scaer
+city: Guiscriff-scaer
+country: France
+iata: 
+icao: LFES
+latitude: 48.052508
+longitude: -3.664717
+elevation: 574
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

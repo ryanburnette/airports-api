@@ -1,0 +1,12 @@
+---
+airport_name: City of Derry
+city: Londonderry
+country: United Kingdom
+iata: LDY
+icao: EGAE
+latitude: 55.042778
+longitude: -7.161111
+elevation: 22
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Saint Geoirs
+city: Grenoble
+country: France
+iata: GNB
+icao: LFLS
+latitude: 45.362944
+longitude: 5.329375
+elevation: 1302
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

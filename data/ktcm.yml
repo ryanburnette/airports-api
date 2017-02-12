@@ -1,0 +1,12 @@
+---
+airport_name: Mc Chord Afb
+city: Tacoma
+country: United States
+iata: TCM
+icao: KTCM
+latitude: 47.137678
+longitude: -122.476475
+elevation: 322
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Louisville International Airport
+city: Louisville
+country: United States
+iata: SDF
+icao: KSDF
+latitude: 38.1740858
+longitude: -85.7364989
+elevation: 501
+utc_offset: -5
+_class: A
+timezone: America/New_York

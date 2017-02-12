@@ -1,0 +1,12 @@
+---
+airport_name: CedarKey
+city: Cedar Key
+country: United States
+iata: CDK
+icao: KCDK
+latitude: 29.1342222
+longitude: -83.0504722
+elevation: 11
+utc_offset: -5
+_class: A
+timezone: America/New_York

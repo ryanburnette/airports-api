@@ -1,0 +1,12 @@
+---
+airport_name: Valdosta Regional Airport
+city: Valdosta
+country: United States
+iata: VLD
+icao: KVLD
+latitude: 30.7825
+longitude: -83.2767
+elevation: 203
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Canberra
+city: Canberra
+country: Australia
+iata: CBR
+icao: YSCB
+latitude: -35.306944
+longitude: 149.195
+elevation: 1886
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

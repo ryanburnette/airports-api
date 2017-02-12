@@ -1,0 +1,12 @@
+---
+airport_name: Palma De Mallorca
+city: Palma De Mallorca
+country: Spain
+iata: 
+icao: LESJ
+latitude: 39.551675
+longitude: 2.738808
+elevation: 27
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Cannon Afb
+city: Clovis
+country: United States
+iata: CVS
+icao: KCVS
+latitude: 34.382775
+longitude: -103.322147
+elevation: 4295
+utc_offset: -7
+_class: A
+timezone: America/Denver

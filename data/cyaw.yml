@@ -1,0 +1,12 @@
+---
+airport_name: Shearwater
+city: Halifax
+country: Canada
+iata: YAW
+icao: CYAW
+latitude: 44.639721
+longitude: -63.499444
+elevation: 167
+utc_offset: -4
+_class: A
+timezone: America/Halifax

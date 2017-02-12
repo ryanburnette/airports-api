@@ -1,0 +1,12 @@
+---
+airport_name: Jamestown Regional Airport
+city: Jamestown
+country: United States
+iata: JMS
+icao: KJMS
+latitude: 46.9297
+longitude: -98.6782
+elevation: 1498
+utc_offset: -6
+_class: A
+timezone: America/Chicago

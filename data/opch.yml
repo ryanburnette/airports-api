@@ -1,0 +1,12 @@
+---
+airport_name: Chitral Airport
+city: Chitral
+country: Pakistan
+iata: CJL
+icao: OPCH
+latitude: 35.886592
+longitude: 71.800578
+elevation: 4920
+utc_offset: 5
+_class: N
+timezone: Asia/Karachi

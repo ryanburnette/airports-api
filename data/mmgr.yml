@@ -1,0 +1,12 @@
+---
+airport_name: Guerrero Negro Airport
+city: Guerrero Negro
+country: Mexico
+iata: GUB
+icao: MMGR
+latitude: 28.0261
+longitude: -114.024
+elevation: 59
+utc_offset: -8
+_class: S
+timezone: America/Tijuana

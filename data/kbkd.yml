@@ -1,0 +1,12 @@
+---
+airport_name: Stephens Co
+city: Breckenridge
+country: United States
+iata: BKD
+icao: KBKD
+latitude: 32.719047
+longitude: -98.891
+elevation: 1284
+utc_offset: -6
+_class: A
+timezone: America/Chicago

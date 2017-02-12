@@ -1,0 +1,12 @@
+---
+airport_name: Bisbee Douglas Intl
+city: Douglas
+country: United States
+iata: DUG
+icao: KDUG
+latitude: 31.469028
+longitude: -109.603667
+elevation: 4154
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

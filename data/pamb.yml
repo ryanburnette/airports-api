@@ -1,0 +1,12 @@
+---
+airport_name: Manokotak Airport
+city: Manokotak
+country: United States
+iata: KMO
+icao: PAMB
+latitude: 58.990278
+longitude: -159.05
+elevation: 51
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

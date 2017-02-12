@@ -1,0 +1,12 @@
+---
+airport_name: Kidlington
+city: Oxford
+country: United Kingdom
+iata: OXF
+icao: EGTK
+latitude: 51.836944
+longitude: -1.32
+elevation: 270
+utc_offset: 0
+_class: E
+timezone: Europe/London

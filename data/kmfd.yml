@@ -1,0 +1,12 @@
+---
+airport_name: Mansfield Lahm Regional
+city: Mansfield
+country: United States
+iata: MFD
+icao: KMFD
+latitude: 40.8214167
+longitude: -82.5166389
+elevation: 1297
+utc_offset: -5
+_class: A
+timezone: America/New_York

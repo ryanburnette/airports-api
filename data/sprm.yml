@@ -1,0 +1,12 @@
+---
+airport_name: San Ramon
+city: San Ramon
+country: Peru
+iata: 
+icao: SPRM
+latitude: -11.128639
+longitude: -75.3505
+elevation: 2600
+utc_offset: -5
+_class: U
+timezone: America/Lima

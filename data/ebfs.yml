@@ -1,0 +1,12 @@
+---
+airport_name: Florennes
+city: Florennes
+country: Belgium
+iata: 
+icao: EBFS
+latitude: 50.243333
+longitude: 4.645833
+elevation: 935
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

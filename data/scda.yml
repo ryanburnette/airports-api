@@ -1,0 +1,12 @@
+---
+airport_name: Diego Aracena Intl
+city: Iquique
+country: Chile
+iata: IQQ
+icao: SCDA
+latitude: -20.535222
+longitude: -70.181275
+elevation: 155
+utc_offset: -4
+_class: S
+timezone: America/Santiago

@@ -1,0 +1,12 @@
+---
+airport_name: Bresso
+city: Milano
+country: Italy
+iata: 
+icao: LIMB
+latitude: 45.542222
+longitude: 9.203333
+elevation: 484
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

@@ -1,0 +1,12 @@
+---
+airport_name: Ventura Amtrak
+city: Ventura
+country: United States
+iata: 
+icao: 
+latitude: 34.27833
+longitude: -119.29222
+elevation: 59
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

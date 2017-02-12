@@ -1,0 +1,12 @@
+---
+airport_name: Selfridge Angb
+city: Mount Clemens
+country: United States
+iata: MTC
+icao: KMTC
+latitude: 42.608333
+longitude: -82.8355
+elevation: 580
+utc_offset: -5
+_class: A
+timezone: America/New_York

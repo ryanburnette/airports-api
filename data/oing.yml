@@ -1,0 +1,12 @@
+---
+airport_name: Gorgan Airport
+city: Gorgan
+country: Iran
+iata: GBT
+icao: OING
+latitude: 36.909381
+longitude: 54.401339
+elevation: -24
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

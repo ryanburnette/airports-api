@@ -1,0 +1,12 @@
+---
+airport_name: Mannheim HBF
+city: Mannheim
+country: Germany
+iata: 
+icao: 
+latitude: 49.471
+longitude: 8.469858
+elevation: 1000
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

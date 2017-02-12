@@ -1,0 +1,12 @@
+---
+airport_name: Stroudsburg-Pocono Airport
+city: East Stroudsburg
+country: United States
+iata: N53
+icao: 
+latitude: 41.0358717
+longitude: -75.1606789
+elevation: 480
+utc_offset: -5
+_class: A
+timezone: America/New_York

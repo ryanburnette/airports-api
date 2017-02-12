@@ -1,0 +1,12 @@
+---
+airport_name: Klamath Falls Airport
+city: Klamath Falls
+country: United States
+iata: LMT
+icao: KLMT
+latitude: 42.1561
+longitude: -121.733
+elevation: 4095
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

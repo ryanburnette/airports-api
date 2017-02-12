@@ -1,0 +1,12 @@
+---
+airport_name: Kuujjuarapik Airport
+city: Kuujjuarapik
+country: Canada
+iata: YGW
+icao: CYGW
+latitude: 55.2819
+longitude: -77.7653
+elevation: 34
+utc_offset: -5
+_class: A
+timezone: America/Toronto

@@ -1,0 +1,12 @@
+---
+airport_name: Aviano Ab
+city: Aviano
+country: Italy
+iata: AVB
+icao: LIPA
+latitude: 46.031889
+longitude: 12.596472
+elevation: 410
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

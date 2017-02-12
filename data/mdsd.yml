@@ -1,0 +1,12 @@
+---
+airport_name: Las Americas Intl
+city: Santo Domingo
+country: Dominican Republic
+iata: SDQ
+icao: MDSD
+latitude: 18.429664
+longitude: -69.668925
+elevation: 59
+utc_offset: -4
+_class: U
+timezone: America/Santo_Domingo

@@ -1,0 +1,12 @@
+---
+airport_name: Aeropuerto de Rafaela
+city: Rafaela
+country: Argentina
+iata: RAF
+icao: 
+latitude: -31.282072
+longitude: -61.501594
+elevation: 100
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

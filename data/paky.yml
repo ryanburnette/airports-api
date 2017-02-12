@@ -1,0 +1,12 @@
+---
+airport_name: Karuluk Airport
+city: Karluk
+country: United States
+iata: KYK
+icao: PAKY
+latitude: 57.566944
+longitude: -154.450278
+elevation: 137
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

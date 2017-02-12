@@ -1,0 +1,12 @@
+---
+airport_name: Cape Dorset
+city: Cape Dorset
+country: Canada
+iata: YTE
+icao: CYTE
+latitude: 64.23
+longitude: -76.526667
+elevation: 164
+utc_offset: -5
+_class: A
+timezone: America/Toronto

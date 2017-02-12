@@ -1,0 +1,12 @@
+---
+airport_name: Nalchik Airport
+city: Nalchik
+country: Russia
+iata: NAL
+icao: URMN
+latitude: 43.5129
+longitude: 43.6366
+elevation: 1461
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

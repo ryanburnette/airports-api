@@ -1,0 +1,12 @@
+---
+airport_name: Hilton Head
+city: Hilton Head
+country: United States
+iata: HHH
+icao: KHHH
+latitude: 32.216
+longitude: -80.752
+elevation: 10
+utc_offset: -5
+_class: U
+timezone: America/New_York

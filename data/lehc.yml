@@ -1,0 +1,12 @@
+---
+airport_name: Huesca-Pirineos Airport
+city: Huesca
+country: Spain
+iata: HSK
+icao: LEHC
+latitude: 42.080833
+longitude: -0.323333
+elevation: 1768
+utc_offset: 1
+_class: U
+timezone: Europe/Madrid

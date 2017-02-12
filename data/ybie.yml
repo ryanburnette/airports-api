@@ -1,0 +1,12 @@
+---
+airport_name: Bedourie Airport
+city: Bedourie
+country: Australia
+iata: BEU
+icao: YBIE
+latitude: -24.3461
+longitude: 139.46
+elevation: 300
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

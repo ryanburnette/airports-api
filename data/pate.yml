@@ -1,0 +1,12 @@
+---
+airport_name: Teller Airport
+city: Teller
+country: United States
+iata: TLA
+icao: PATE
+latitude: 65.240278
+longitude: -166.339444
+elevation: 294
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Masset Airport
+city: Masset
+country: Canada
+iata: ZMT
+icao: CZMT
+latitude: 54.0275
+longitude: -132.125
+elevation: 25
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

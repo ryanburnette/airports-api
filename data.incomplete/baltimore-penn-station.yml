@@ -1,0 +1,12 @@
+---
+airport_name: Baltimore Penn Station
+city: Baltimore
+country: United States
+iata: 
+icao: 
+latitude: 39.307408
+longitude: -76.615552
+elevation: 62
+utc_offset: -5
+_class: A
+timezone: America/New_York

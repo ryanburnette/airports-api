@@ -1,0 +1,12 @@
+---
+airport_name: Playa del Carmen Airport
+city: Playa del Carmen
+country: Mexico
+iata: PCM
+icao: 
+latitude: 20.6225
+longitude: -87.082221
+elevation: 1
+utc_offset: -6
+_class: U
+timezone: America/Mexico_City

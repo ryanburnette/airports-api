@@ -1,0 +1,12 @@
+---
+airport_name: Edmonton Intl
+city: Edmonton
+country: Canada
+iata: YEG
+icao: CYEG
+latitude: 53.309723
+longitude: -113.579722
+elevation: 2373
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

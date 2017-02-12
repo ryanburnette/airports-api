@@ -1,0 +1,12 @@
+---
+airport_name: San Luis
+city: San Luis
+country: Spain
+iata: 
+icao: LESL
+latitude: 39.862222
+longitude: 4.258333
+elevation: 197
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

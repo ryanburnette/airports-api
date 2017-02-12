@@ -1,0 +1,12 @@
+---
+airport_name: Hoonah Airport
+city: Hoonah
+country: United States
+iata: HNH
+icao: PAOH
+latitude: 58.096111
+longitude: -135.409722
+elevation: 19
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

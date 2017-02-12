@@ -1,0 +1,12 @@
+---
+airport_name: Cold Lake
+city: Cold Lake
+country: Canada
+iata: YOD
+icao: CYOD
+latitude: 54.404999
+longitude: -110.279444
+elevation: 1775
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

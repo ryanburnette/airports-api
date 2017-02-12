@@ -1,0 +1,12 @@
+---
+airport_name: Saint-Laurent-du-Maroni Airport
+city: Saint-Laurent-du-Maroni
+country: French Guiana
+iata: LDX
+icao: SOOM
+latitude: 5.483056
+longitude: -54.034444
+elevation: 17
+utc_offset: -3
+_class: S
+timezone: America/Cayenne

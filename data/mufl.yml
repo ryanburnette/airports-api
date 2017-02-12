@@ -1,0 +1,12 @@
+---
+airport_name: Florida
+city: Florida
+country: Cuba
+iata: 
+icao: MUFL
+latitude: 21.499722
+longitude: -78.202778
+elevation: 197
+utc_offset: -5
+_class: U
+timezone: America/Havana

@@ -1,0 +1,12 @@
+---
+airport_name: Poulmic
+city: Lanvedoc
+country: France
+iata: 
+icao: LFRL
+latitude: 48.281703
+longitude: -4.445017
+elevation: 287
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

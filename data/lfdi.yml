@@ -1,0 +1,12 @@
+---
+airport_name: Artigues De Lussac
+city: Libourne
+country: France
+iata: 
+icao: LFDI
+latitude: 44.982498
+longitude: -0.134722
+elevation: 157
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

@@ -1,0 +1,12 @@
+---
+airport_name: Ardmore
+city: Ardmore
+country: New Zealand
+iata: AMZ
+icao: NZAR
+latitude: -37.029722
+longitude: 174.973333
+elevation: 111
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

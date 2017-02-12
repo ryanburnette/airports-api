@@ -1,0 +1,12 @@
+---
+airport_name: Batman
+city: Batman
+country: Turkey
+iata: BAL
+icao: LTCJ
+latitude: 37.928969
+longitude: 41.116583
+elevation: 1822
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

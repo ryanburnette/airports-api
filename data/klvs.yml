@@ -1,0 +1,12 @@
+---
+airport_name: Las Vegas Muni
+city: Las Vegas
+country: United States
+iata: LVS
+icao: KLVS
+latitude: 35.654222
+longitude: -105.142389
+elevation: 6877
+utc_offset: -7
+_class: A
+timezone: America/Denver

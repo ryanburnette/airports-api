@@ -1,0 +1,12 @@
+---
+airport_name: Orlando Intl
+city: Orlando
+country: United States
+iata: MCO
+icao: KMCO
+latitude: 28.429394
+longitude: -81.308994
+elevation: 96
+utc_offset: -5
+_class: A
+timezone: America/New_York

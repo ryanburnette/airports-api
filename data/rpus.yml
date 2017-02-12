@@ -1,0 +1,12 @@
+---
+airport_name: San Fernando Airport
+city: San Fernando
+country: Philippines
+iata: SFE
+icao: RPUS
+latitude: 16.595589
+longitude: 120.303219
+elevation: 13
+utc_offset: 8
+_class: N
+timezone: Asia/Manila

@@ -1,0 +1,12 @@
+---
+airport_name: Quezaltenango Airport
+city: Quezaltenango
+country: Guatemala
+iata: AAZ
+icao: MGQZ
+latitude: 14.8656
+longitude: -91.502
+elevation: 7779
+utc_offset: -6
+_class: U
+timezone: America/Guatemala

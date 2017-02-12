@@ -1,0 +1,12 @@
+---
+airport_name: Chicago Millennium Station
+city: Chicago
+country: United States
+iata: 
+icao: 
+latitude: 41.8837
+longitude: -87.623
+elevation: 620
+utc_offset: -6
+_class: A
+timezone: America/Chicago

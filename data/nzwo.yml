@@ -1,0 +1,12 @@
+---
+airport_name: Wairoa
+city: Wairoa
+country: New Zealand
+iata: 
+icao: NZWO
+latitude: -39.006944
+longitude: 177.406667
+elevation: 42
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

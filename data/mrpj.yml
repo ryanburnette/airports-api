@@ -1,0 +1,12 @@
+---
+airport_name: Puerto Jimenez Airport
+city: Puerto Jimenez
+country: Costa Rica
+iata: PJM
+icao: MRPJ
+latitude: 8.53333
+longitude: -83.3
+elevation: 7
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

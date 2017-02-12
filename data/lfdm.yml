@@ -1,0 +1,12 @@
+---
+airport_name: Virazeil
+city: Marmande
+country: France
+iata: 
+icao: LFDM
+latitude: 44.498919
+longitude: 0.200514
+elevation: 105
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

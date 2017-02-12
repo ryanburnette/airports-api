@@ -1,0 +1,12 @@
+---
+airport_name: Cardiff
+city: Cardiff
+country: United Kingdom
+iata: CWL
+icao: EGFF
+latitude: 51.396667
+longitude: -3.343333
+elevation: 220
+utc_offset: 0
+_class: E
+timezone: Europe/London

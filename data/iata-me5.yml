@@ -1,0 +1,12 @@
+---
+airport_name: Banks Airport
+city: Swans Island
+country: United States
+iata: ME5
+icao: 
+latitude: 44.1653889
+longitude: -68.4281667
+elevation: 100
+utc_offset: -5
+_class: A
+timezone: America/New_York

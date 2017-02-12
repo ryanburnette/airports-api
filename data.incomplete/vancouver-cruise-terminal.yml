@@ -1,0 +1,12 @@
+---
+airport_name: Vancouver Cruise Terminal
+city: Vancouver BC
+country: Canada
+iata: 
+icao: 
+latitude: 49.289012
+longitude: -123.111463
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

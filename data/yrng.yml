@@ -1,0 +1,12 @@
+---
+airport_name: Ramingining Airport
+city: Ramingining
+country: Australia
+iata: RAM
+icao: YRNG
+latitude: -12.3564
+longitude: 134.898
+elevation: 206
+utc_offset: 9.5
+_class: O
+timezone: Australia/Darwin

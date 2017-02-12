@@ -1,0 +1,12 @@
+---
+airport_name: Merritt Island Airport
+city: Cocoa
+country: United States
+iata: COI
+icao: 
+latitude: 28.3416111
+longitude: -80.6854722
+elevation: 6
+utc_offset: -5
+_class: A
+timezone: America/New_York

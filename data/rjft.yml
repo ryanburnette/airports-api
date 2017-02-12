@@ -1,0 +1,12 @@
+---
+airport_name: Kumamoto
+city: Kumamoto
+country: Japan
+iata: KMJ
+icao: RJFT
+latitude: 32.837319
+longitude: 130.85505
+elevation: 642
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

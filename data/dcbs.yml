@@ -1,0 +1,12 @@
+---
+airport_name: Greyhound Station
+city: Washington DC
+country: United States
+iata: 
+icao: DCBS
+latitude: 38.90339
+longitude: -77.00583
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

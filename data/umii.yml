@@ -1,0 +1,12 @@
+---
+airport_name: Vitebsk
+city: Vitebsk
+country: Belarus
+iata: VTB
+icao: UMII
+latitude: 55.1265
+longitude: 30.349639
+elevation: 683
+utc_offset: 3
+_class: E
+timezone: Europe/Minsk

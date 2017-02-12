@@ -1,0 +1,12 @@
+---
+airport_name: Nain Airport
+city: Nain
+country: Canada
+iata: YDP
+icao: CYDP
+latitude: 56.5492
+longitude: -61.6803
+elevation: 22
+utc_offset: -4
+_class: A
+timezone: America/Halifax

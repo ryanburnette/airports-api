@@ -1,0 +1,12 @@
+---
+airport_name: Jimmy Carter Regional
+city: Americus
+country: United States
+iata: ACJ
+icao: KACJ
+latitude: 32.0665
+longitude: -84.1133
+elevation: 468
+utc_offset: -5
+_class: A
+timezone: America/New_York

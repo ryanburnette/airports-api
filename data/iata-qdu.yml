@@ -1,0 +1,12 @@
+---
+airport_name: Dusseldorf Hauptbahnhof
+city: Dusseldorf
+country: Germany
+iata: QDU
+icao: 
+latitude: 51.220278
+longitude: 6.792778
+elevation: 125
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

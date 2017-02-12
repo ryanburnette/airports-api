@@ -1,0 +1,12 @@
+---
+airport_name: Elstree
+city: Elstree
+country: United Kingdom
+iata: 
+icao: EGTR
+latitude: 51.4807
+longitude: -0.00093
+elevation: 250
+utc_offset: 0
+_class: E
+timezone: Europe/London

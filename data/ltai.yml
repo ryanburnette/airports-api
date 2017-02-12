@@ -1,0 +1,12 @@
+---
+airport_name: Antalya
+city: Antalya
+country: Turkey
+iata: AYT
+icao: LTAI
+latitude: 36.898731
+longitude: 30.800461
+elevation: 177
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

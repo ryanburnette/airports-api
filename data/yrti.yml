@@ -1,0 +1,12 @@
+---
+airport_name: Rottnest Island
+city: Rottnest Island
+country: Australia
+iata: 
+icao: YRTI
+latitude: -32.006667
+longitude: 115.539722
+elevation: 12
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

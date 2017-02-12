@@ -1,0 +1,12 @@
+---
+airport_name: Trenton Transit Center
+city: Trenton
+country: United States
+iata: 
+icao: TRTC
+latitude: 40.218839
+longitude: -74.754279
+elevation: 49
+utc_offset: -5
+_class: A
+timezone: America/New_York

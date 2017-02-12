@@ -1,0 +1,12 @@
+---
+airport_name: Central Airport
+city: Central
+country: United States
+iata: CEM
+icao: PACE
+latitude: 65.573889
+longitude: -144.780833
+elevation: 937
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Salt Lake City Intl
+city: Salt Lake City
+country: United States
+iata: SLC
+icao: KSLC
+latitude: 40.788389
+longitude: -111.977772
+elevation: 4227
+utc_offset: -7
+_class: A
+timezone: America/Denver

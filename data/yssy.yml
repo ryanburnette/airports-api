@@ -1,0 +1,12 @@
+---
+airport_name: Sydney Intl
+city: Sydney
+country: Australia
+iata: SYD
+icao: YSSY
+latitude: -33.946111
+longitude: 151.177222
+elevation: 21
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

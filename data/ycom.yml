@@ -1,0 +1,12 @@
+---
+airport_name: Cooma Snowy Mountains Airport
+city: Cooma
+country: Australia
+iata: OOM
+icao: YCOM
+latitude: -36.3006
+longitude: 148.974
+elevation: 3088
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

@@ -1,0 +1,12 @@
+---
+airport_name: BLABU
+city: Blankenburg
+country: Germany
+iata: 
+icao: 
+latitude: 51.7946
+longitude: 11.0183
+elevation: 551
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

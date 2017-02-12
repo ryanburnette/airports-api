@@ -1,0 +1,12 @@
+---
+airport_name: Tinian Intl
+city: West Tinian
+country: Northern Mariana Islands
+iata: TIQ
+icao: PGWT
+latitude: 14.999203
+longitude: 145.61935
+elevation: 271
+utc_offset: 10
+_class: U
+timezone: Pacific/Saipan

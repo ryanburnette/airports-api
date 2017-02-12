@@ -1,0 +1,12 @@
+---
+airport_name: Charlo
+city: Charlo
+country: Canada
+iata: YCL
+icao: CYCL
+latitude: 47.990833
+longitude: -66.330278
+elevation: 132
+utc_offset: -4
+_class: A
+timezone: America/Halifax

@@ -1,0 +1,12 @@
+---
+airport_name: Erechim Airport
+city: Erechim
+country: Brazil
+iata: ERM
+icao: SSER
+latitude: -27.6619
+longitude: -52.2683
+elevation: 2498
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

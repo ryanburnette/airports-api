@@ -1,0 +1,12 @@
+---
+airport_name: Bakki Airport
+city: Bakki
+country: Iceland
+iata: 
+icao: BIBA
+latitude: 63.55805
+longitude: -20.14833
+elevation: 45
+utc_offset: 0
+_class: N
+timezone: Atlantic/Reykjavik

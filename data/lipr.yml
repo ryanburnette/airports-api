@@ -1,0 +1,12 @@
+---
+airport_name: Rimini
+city: Rimini
+country: Italy
+iata: RMI
+icao: LIPR
+latitude: 44.020292
+longitude: 12.611747
+elevation: 41
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

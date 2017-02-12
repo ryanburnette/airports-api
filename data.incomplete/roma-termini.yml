@@ -1,0 +1,12 @@
+---
+airport_name: Roma Termini
+city: Rome
+country: Italy
+iata: 
+icao: 
+latitude: 41.900833
+longitude: 12.501944
+elevation: 197
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

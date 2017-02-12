@@ -1,0 +1,12 @@
+---
+airport_name: Transilvania Targu Mures
+city: Tirgu Mures
+country: Romania
+iata: TGM
+icao: LRTM
+latitude: 46.467714
+longitude: 24.412525
+elevation: 963
+utc_offset: 2
+_class: E
+timezone: Europe/Bucharest

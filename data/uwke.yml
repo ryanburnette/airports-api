@@ -1,0 +1,12 @@
+---
+airport_name: Begishevo
+city: Nizhnekamsk
+country: Russia
+iata: NBC
+icao: UWKE
+latitude: 55.34
+longitude: 52.06
+elevation: 50
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

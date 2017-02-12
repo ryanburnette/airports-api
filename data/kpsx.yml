@@ -1,0 +1,12 @@
+---
+airport_name: Palacios Muni
+city: Palacios
+country: United States
+iata: PSX
+icao: KPSX
+latitude: 28.727508
+longitude: -96.250958
+elevation: 14
+utc_offset: -6
+_class: A
+timezone: America/Chicago

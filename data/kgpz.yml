@@ -1,0 +1,12 @@
+---
+airport_name: Grand Rapids Itasca County
+city: Grand Rapids MN
+country: United States
+iata: GPZ
+icao: KGPZ
+latitude: 47.211111
+longitude: -93.509722
+elevation: 413
+utc_offset: -6
+_class: A
+timezone: America/Chicago

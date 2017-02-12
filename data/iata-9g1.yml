@@ -1,0 +1,12 @@
+---
+airport_name: Rock Airport
+city: Tarentum
+country: United States
+iata: 9G1
+icao: 
+latitude: 40.6035463
+longitude: -79.8261189
+elevation: 1063
+utc_offset: -5
+_class: A
+timezone: America/New_York

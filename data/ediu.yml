@@ -1,0 +1,12 @@
+---
+airport_name: Heidelberg
+city: Heidelberg
+country: Germany
+iata: HDB
+icao: EDIU
+latitude: 49.393333
+longitude: 8.6525
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

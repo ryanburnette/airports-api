@@ -1,0 +1,12 @@
+---
+airport_name: Los Chiles
+city: Los Chiles
+country: Costa Rica
+iata: 
+icao: MRLC
+latitude: 11.035277
+longitude: -84.706108
+elevation: 131
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

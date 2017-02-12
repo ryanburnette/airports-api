@@ -1,0 +1,12 @@
+---
+airport_name: Budapest Keteli
+city: Budapest
+country: Hungary
+iata: 
+icao: 
+latitude: 47.500497
+longitude: 19.085484
+elevation: 100
+utc_offset: 1
+_class: E
+timezone: Europe/Budapest

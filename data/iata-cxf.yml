@@ -1,0 +1,12 @@
+---
+airport_name: Coldfoot Airport
+city: Coldfoot
+country: United States
+iata: CXF
+icao: 
+latitude: 67.251389
+longitude: -150.176111
+elevation: 1014
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

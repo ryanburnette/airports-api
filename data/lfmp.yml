@@ -1,0 +1,12 @@
+---
+airport_name: Rivesaltes
+city: Perpignan
+country: France
+iata: PGF
+icao: LFMP
+latitude: 42.740442
+longitude: 2.870667
+elevation: 144
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

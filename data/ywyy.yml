@@ -1,0 +1,12 @@
+---
+airport_name: Wynyard Airport
+city: Burnie
+country: Australia
+iata: BWT
+icao: YWYY
+latitude: -40.9989
+longitude: 145.731
+elevation: 62
+utc_offset: 10
+_class: O
+timezone: Australia/Melbourne

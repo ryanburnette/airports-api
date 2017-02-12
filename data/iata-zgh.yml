@@ -1,0 +1,12 @@
+---
+airport_name: Central
+city: Copenhagen
+country: Denmark
+iata: ZGH
+icao: 
+latitude: 55.672778
+longitude: 12.564444
+elevation: 16
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

@@ -1,0 +1,12 @@
+---
+airport_name: San Julian
+city: San Julian
+country: Argentina
+iata: ULA
+icao: SAWJ
+latitude: -49.306775
+longitude: -67.802589
+elevation: 190
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

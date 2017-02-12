@@ -1,0 +1,12 @@
+---
+airport_name: All Airports
+city: London
+country: United Kingdom
+iata: LON
+icao: 
+latitude: 51.508056
+longitude: -0.127778
+elevation: 66
+utc_offset: 0
+_class: E
+timezone: Europe/London

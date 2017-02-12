@@ -1,0 +1,12 @@
+---
+airport_name: Long Beach
+city: Long Beach
+country: United States
+iata: LGB
+icao: KLGB
+latitude: 33.817722
+longitude: -118.151611
+elevation: 60
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

@@ -1,0 +1,12 @@
+---
+airport_name: Tocumen Intl
+city: Panama City
+country: Panama
+iata: PTY
+icao: MPTO
+latitude: 9.071364
+longitude: -79.383453
+elevation: 135
+utc_offset: -5
+_class: U
+timezone: America/Panama

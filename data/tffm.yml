@@ -1,0 +1,12 @@
+---
+airport_name: Les Bases Airport
+city: Grand Bourg
+country: Guadeloupe
+iata: GBJ
+icao: TFFM
+latitude: 15.86875
+longitude: -61.270022
+elevation: 16
+utc_offset: -4
+_class: U
+timezone: America/Guadeloupe

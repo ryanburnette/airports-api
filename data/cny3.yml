@@ -1,0 +1,12 @@
+---
+airport_name: Collingwood
+city: Collingwood
+country: Canada
+iata: 
+icao: CNY3
+latitude: 44.449167
+longitude: -80.158333
+elevation: 730
+utc_offset: -5
+_class: A
+timezone: America/Toronto

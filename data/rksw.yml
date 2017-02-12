@@ -1,0 +1,12 @@
+---
+airport_name: Suwon
+city: Suwon
+country: South Korea
+iata: 
+icao: RKSW
+latitude: 37.239406
+longitude: 127.007053
+elevation: 88
+utc_offset: 9
+_class: U
+timezone: Asia/Seoul

@@ -1,0 +1,12 @@
+---
+airport_name: Hamadan Airport
+city: Hamadan
+country: Iran
+iata: HDM
+icao: OIHH
+latitude: 34.869167
+longitude: 48.5525
+elevation: 5755
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

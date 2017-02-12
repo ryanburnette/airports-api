@@ -1,0 +1,12 @@
+---
+airport_name: Sachigo Lake Airport
+city: Sachigo Lake
+country: Canada
+iata: ZPB
+icao: CZPB
+latitude: 53.8911
+longitude: -92.1964
+elevation: 876
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

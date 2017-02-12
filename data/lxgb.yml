@@ -1,0 +1,12 @@
+---
+airport_name: Gibraltar
+city: Gibraltar
+country: Gibraltar
+iata: GIB
+icao: LXGB
+latitude: 36.151219
+longitude: -5.349664
+elevation: 15
+utc_offset: 1
+_class: N
+timezone: Europe/Gibraltar

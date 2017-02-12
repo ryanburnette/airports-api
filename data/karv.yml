@@ -1,0 +1,12 @@
+---
+airport_name: Lakeland
+city: Minocqua - Woodruff
+country: United States
+iata: ARV
+icao: KARV
+latitude: 45.927778
+longitude: -89.730833
+elevation: 1629
+utc_offset: -6
+_class: A
+timezone: America/Chicago

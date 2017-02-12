@@ -1,0 +1,12 @@
+---
+airport_name: Balakovo Airport
+city: Balakovo
+country: Russia
+iata: BWO
+icao: UWSB
+latitude: 51.8583
+longitude: 47.7456
+elevation: 95
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

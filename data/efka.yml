@@ -1,0 +1,12 @@
+---
+airport_name: Kauhava
+city: Kauhava
+country: Finland
+iata: KAU
+icao: EFKA
+latitude: 63.127078
+longitude: 23.051442
+elevation: 151
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

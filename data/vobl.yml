@@ -1,0 +1,12 @@
+---
+airport_name: Bangalore
+city: Bangalore
+country: India
+iata: BLR
+icao: VOBL
+latitude: 12.949986
+longitude: 77.668206
+elevation: 2912
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

@@ -1,0 +1,12 @@
+---
+airport_name: Quilpie Airport
+city: Quilpie
+country: Australia
+iata: ULP
+icao: YQLP
+latitude: -26.6122
+longitude: 144.253
+elevation: 655
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

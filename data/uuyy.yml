@@ -1,0 +1,12 @@
+---
+airport_name: Syktyvkar
+city: Syktyvkar
+country: Russia
+iata: SCW
+icao: UUYY
+latitude: 61.64705
+longitude: 50.84505
+elevation: 342
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

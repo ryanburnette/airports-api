@@ -1,0 +1,12 @@
+---
+airport_name: Ohio State University Airport
+city: Columbus
+country: United States
+iata: OSU
+icao: KOSU
+latitude: 40.0798
+longitude: -83.073
+elevation: 905
+utc_offset: -5
+_class: U
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Churchill
+country: Canada
+iata: XAD
+icao: 
+latitude: 58.76775
+longitude: -94.17425
+elevation: 10
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

@@ -1,0 +1,12 @@
+---
+airport_name: Norfolk Intl
+city: Norfolk
+country: United States
+iata: ORF
+icao: KORF
+latitude: 36.894611
+longitude: -76.201222
+elevation: 26
+utc_offset: -5
+_class: A
+timezone: America/New_York

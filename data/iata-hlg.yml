@@ -1,0 +1,12 @@
+---
+airport_name: Wheeling Ohio County Airport
+city: Wheeling
+country: United States
+iata: HLG
+icao: 
+latitude: 40.175
+longitude: -80.6463
+elevation: 1195
+utc_offset: -5
+_class: A
+timezone: America/New_York

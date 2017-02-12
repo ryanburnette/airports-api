@@ -1,0 +1,12 @@
+---
+airport_name: Teslin
+city: Teslin
+country: Canada
+iata: YZW
+icao: CYZW
+latitude: 60.172779
+longitude: -132.742778
+elevation: 2313
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

@@ -1,0 +1,12 @@
+---
+airport_name: Weelde
+city: Weelde
+country: Belgium
+iata: 
+icao: EBWE
+latitude: 51.394783
+longitude: 4.960194
+elevation: 105
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

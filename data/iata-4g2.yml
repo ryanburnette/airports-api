@@ -1,0 +1,12 @@
+---
+airport_name: Hamburg Inc Airport
+city: Hamburg
+country: United States
+iata: 4G2
+icao: 
+latitude: 42.7008925
+longitude: -78.9147569
+elevation: 751
+utc_offset: -5
+_class: A
+timezone: America/New_York

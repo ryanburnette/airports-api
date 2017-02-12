@@ -1,0 +1,12 @@
+---
+airport_name: Train Station
+city: Richmond
+country: United States
+iata: ZRD
+icao: 
+latitude: 37.5343
+longitude: -77.42945
+elevation: 26
+utc_offset: -5
+_class: A
+timezone: America/New_York

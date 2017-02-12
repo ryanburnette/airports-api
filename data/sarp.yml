@@ -1,0 +1,12 @@
+---
+airport_name: Posadas
+city: Posadas
+country: Argentina
+iata: PSS
+icao: SARP
+latitude: -27.385839
+longitude: -55.970728
+elevation: 430
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

@@ -1,0 +1,12 @@
+---
+airport_name: Fresno Yosemite Intl
+city: Fresno
+country: United States
+iata: FAT
+icao: KFAT
+latitude: 36.776194
+longitude: -119.71814
+elevation: 336
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

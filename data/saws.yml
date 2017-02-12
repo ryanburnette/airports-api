@@ -1,0 +1,12 @@
+---
+airport_name: Jose de San Martin Airport
+city: Jose de San Martin
+country: Argentina
+iata: JSM
+icao: SAWS
+latitude: -44.016667
+longitude: -70.466667
+elevation: 4359
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

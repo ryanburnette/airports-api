@@ -1,0 +1,12 @@
+---
+airport_name: Clovis Muni
+city: Clovis
+country: United States
+iata: CVN
+icao: KCVN
+latitude: 34.425139
+longitude: -103.079278
+elevation: 4216
+utc_offset: -7
+_class: A
+timezone: America/Denver

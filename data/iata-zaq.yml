@@ -1,0 +1,12 @@
+---
+airport_name: Nuernberg Railway
+city: Nuernberg
+country: Germany
+iata: ZAQ
+icao: 
+latitude: 49.446389
+longitude: 11.081944
+elevation: 312
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

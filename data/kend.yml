@@ -1,0 +1,12 @@
+---
+airport_name: Vance Afb
+city: Enid
+country: United States
+iata: END
+icao: KEND
+latitude: 36.339167
+longitude: -97.9165
+elevation: 1307
+utc_offset: -6
+_class: A
+timezone: America/Chicago

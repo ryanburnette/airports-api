@@ -1,0 +1,12 @@
+---
+airport_name: Tres Cruces
+city: Montevideo
+country: Uruguay
+iata: 
+icao: 
+latitude: -34.893891
+longitude: -56.166589
+elevation: 141
+utc_offset: -3
+_class: S
+timezone: America/Montevideo

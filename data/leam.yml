@@ -1,0 +1,12 @@
+---
+airport_name: Almeria
+city: Almeria
+country: Spain
+iata: LEI
+icao: LEAM
+latitude: 36.843936
+longitude: -2.370097
+elevation: 70
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

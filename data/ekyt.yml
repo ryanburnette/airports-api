@@ -1,0 +1,12 @@
+---
+airport_name: Aalborg
+city: Aalborg
+country: Denmark
+iata: AAL
+icao: EKYT
+latitude: 57.092789
+longitude: 9.849164
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

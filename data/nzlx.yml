@@ -1,0 +1,12 @@
+---
+airport_name: Alexandra
+city: Alexandra
+country: New Zealand
+iata: ALR
+icao: NZLX
+latitude: -45.211666
+longitude: 169.373333
+elevation: 752
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

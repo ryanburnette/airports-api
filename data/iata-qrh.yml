@@ -1,0 +1,12 @@
+---
+airport_name: Centraal
+city: Rotterdam
+country: Netherlands
+iata: QRH
+icao: 
+latitude: 51.924444
+longitude: 4.469444
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

@@ -1,0 +1,12 @@
+---
+airport_name: Olten Airport
+city: Olten
+country: Switzerland
+iata: 
+icao: LSPO
+latitude: 47.343611
+longitude: 7.8875
+elevation: 1370
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

@@ -1,0 +1,12 @@
+---
+airport_name: Belfast Intl
+city: Belfast
+country: United Kingdom
+iata: BFS
+icao: EGAA
+latitude: 54.6575
+longitude: -6.215833
+elevation: 268
+utc_offset: 0
+_class: E
+timezone: Europe/London

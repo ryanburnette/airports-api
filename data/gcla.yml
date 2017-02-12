@@ -1,0 +1,12 @@
+---
+airport_name: La Palma
+city: Santa Cruz De La Palma
+country: Spain
+iata: SPC
+icao: GCLA
+latitude: 28.626478
+longitude: -17.755611
+elevation: 107
+utc_offset: 0
+_class: E
+timezone: Atlantic/Canary

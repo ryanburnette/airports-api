@@ -1,0 +1,12 @@
+---
+airport_name: El Chalten
+city: El Chalten
+country: Argentina
+iata: ELX
+icao: 
+latitude: -49.328889
+longitude: -72.93
+elevation: 1279
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

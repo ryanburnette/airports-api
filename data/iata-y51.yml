@@ -1,0 +1,12 @@
+---
+airport_name: Municipal Airport
+city: Viroqua
+country: United States
+iata: Y51
+icao: 
+latitude: 43.5793603
+longitude: -90.8964742
+elevation: 1292
+utc_offset: -6
+_class: A
+timezone: America/Chicago

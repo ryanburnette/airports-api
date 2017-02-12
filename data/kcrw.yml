@@ -1,0 +1,12 @@
+---
+airport_name: Yeager
+city: Charleston
+country: United States
+iata: CRW
+icao: KCRW
+latitude: 38.373147
+longitude: -81.593189
+elevation: 981
+utc_offset: -5
+_class: A
+timezone: America/New_York

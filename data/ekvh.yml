@@ -1,0 +1,12 @@
+---
+airport_name: Aars
+city: Vesthimmerland
+country: Denmark
+iata: 
+icao: EKVH
+latitude: 56.846944
+longitude: 9.458611
+elevation: 119
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

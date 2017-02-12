@@ -1,0 +1,12 @@
+---
+airport_name: Gardermoen Airport
+city: Oslo
+country: Norway
+iata: GEN
+icao: 
+latitude: 60.1939
+longitude: 11.1004
+elevation: 681
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

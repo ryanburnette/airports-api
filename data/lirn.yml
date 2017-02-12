@@ -1,0 +1,12 @@
+---
+airport_name: Capodichino
+city: Naples
+country: Italy
+iata: NAP
+icao: LIRN
+latitude: 40.886033
+longitude: 14.290781
+elevation: 294
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

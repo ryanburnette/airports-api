@@ -1,0 +1,12 @@
+---
+airport_name: Andrews Afb
+city: Camp Springs
+country: United States
+iata: ADW
+icao: KADW
+latitude: 38.810806
+longitude: -76.867028
+elevation: 280
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Passau Hbf
+city: Passau
+country: Germany
+iata: 
+icao: 
+latitude: 48.574167
+longitude: 13.450833
+elevation: 1000
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Praha hlavni nadrazi
+city: Prague
+country: Czech Republic
+iata: XYG
+icao: 
+latitude: 50.0826892098189
+longitude: 14.4350297593689
+elevation: 691
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

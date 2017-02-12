@@ -1,0 +1,12 @@
+---
+airport_name: Millville Muni
+city: Millville
+country: United States
+iata: MIV
+icao: KMIV
+latitude: 39.367806
+longitude: -75.072222
+elevation: 85
+utc_offset: -5
+_class: A
+timezone: America/New_York

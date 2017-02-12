@@ -1,0 +1,12 @@
+---
+airport_name: Gelendzhik
+city: Gelendzhik
+country: Russia
+iata: 
+icao: URKG
+latitude: 44.55
+longitude: 38.083
+elevation: 100
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

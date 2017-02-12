@@ -1,0 +1,12 @@
+---
+airport_name: Buffalo Bus Terminal
+city: Buffalo
+country: United States
+iata: 
+icao: BBUF
+latitude: 42.883512
+longitude: -78.87205
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

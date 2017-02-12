@@ -1,0 +1,12 @@
+---
+airport_name: Macdill Afb
+city: Tampa
+country: United States
+iata: MCF
+icao: KMCF
+latitude: 27.849339
+longitude: -82.521214
+elevation: 14
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Jacksonville Nas
+city: Jacksonville
+country: United States
+iata: NIP
+icao: KNIP
+latitude: 30.235834
+longitude: -81.680556
+elevation: 22
+utc_offset: -5
+_class: A
+timezone: America/New_York

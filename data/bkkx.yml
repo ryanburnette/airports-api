@@ -1,0 +1,12 @@
+---
+airport_name: Bangkok Intl closed
+city: Bangkok
+country: Thailand
+iata: 
+icao: BKKX
+latitude: 13.91111
+longitude: 100.60611
+elevation: 5
+utc_offset: 7
+_class: U
+timezone: Asia/Bangkok

@@ -1,0 +1,12 @@
+---
+airport_name: Ronda Airport
+city: Ronda
+country: Spain
+iata: RRA
+icao: 
+latitude: 36.75
+longitude: -5.166667
+elevation: 2500
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

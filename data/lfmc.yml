@@ -1,0 +1,12 @@
+---
+airport_name: Le Cannet
+city: Le Luc
+country: France
+iata: 
+icao: LFMC
+latitude: 43.384672
+longitude: 6.387139
+elevation: 265
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

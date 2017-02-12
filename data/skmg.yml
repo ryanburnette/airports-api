@@ -1,0 +1,12 @@
+---
+airport_name: Baracoa
+city: Magangue
+country: Colombia
+iata: MGN
+icao: SKMG
+latitude: 9.284739
+longitude: -74.846092
+elevation: 178
+utc_offset: -5
+_class: U
+timezone: America/Bogota

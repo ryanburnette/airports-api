@@ -1,0 +1,12 @@
+---
+airport_name: Bydgoszcz Ignacy Jan Paderewski Airport
+city: Bydgoszcz
+country: Poland
+iata: BZG
+icao: EPBY
+latitude: 53.0968
+longitude: 17.9777
+elevation: 235
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

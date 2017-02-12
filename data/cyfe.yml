@@ -1,0 +1,12 @@
+---
+airport_name: Forestville
+city: Forestville
+country: Canada
+iata: 
+icao: CYFE
+latitude: 48.746111
+longitude: -69.097222
+elevation: 293
+utc_offset: -5
+_class: A
+timezone: America/Toronto

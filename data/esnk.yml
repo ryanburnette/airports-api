@@ -1,0 +1,12 @@
+---
+airport_name: Kramfors Solleftea
+city: Kramfors
+country: Sweden
+iata: KRF
+icao: ESNK
+latitude: 63.048597
+longitude: 17.768856
+elevation: 34
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

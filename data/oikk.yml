@@ -1,0 +1,12 @@
+---
+airport_name: Kerman
+city: Kerman
+country: Iran
+iata: KER
+icao: OIKK
+latitude: 30.274444
+longitude: 56.951111
+elevation: 5741
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

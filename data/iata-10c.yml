@@ -1,0 +1,12 @@
+---
+airport_name: Galt Field Airport
+city: Greenwood
+country: United States
+iata: 10C
+icao: 
+latitude: 42.4028889
+longitude: -88.3751111
+elevation: 875
+utc_offset: -6
+_class: U
+timezone: America/Chicago

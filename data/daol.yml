@@ -1,0 +1,12 @@
+---
+airport_name: Tafaraoui
+city: Oran
+country: Algeria
+iata: TAF
+icao: DAOL
+latitude: 35.542444
+longitude: -0.532278
+elevation: 367
+utc_offset: 1
+_class: N
+timezone: Africa/Algiers

@@ -1,0 +1,12 @@
+---
+airport_name: Ruby Airport
+city: Ruby
+country: United States
+iata: RBY
+icao: PARY
+latitude: 64.7272
+longitude: -155.47
+elevation: 653
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

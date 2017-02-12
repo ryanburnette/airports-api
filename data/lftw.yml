@@ -1,0 +1,12 @@
+---
+airport_name: Garons
+city: Nimes
+country: France
+iata: FNI
+icao: LFTW
+latitude: 43.757444
+longitude: 4.416347
+elevation: 309
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

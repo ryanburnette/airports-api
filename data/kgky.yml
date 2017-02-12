@@ -1,0 +1,12 @@
+---
+airport_name: Arlington Municipal
+city: Arlington
+country: United States
+iata: GKY
+icao: KGKY
+latitude: 32.6638611
+longitude: -97.0942778
+elevation: 628
+utc_offset: -6
+_class: A
+timezone: America/Chicago

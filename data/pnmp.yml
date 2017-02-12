@@ -1,0 +1,12 @@
+---
+airport_name: Bus
+city: Phnom Penh
+country: Cambodia
+iata: 
+icao: PNMP
+latitude: 11.561716
+longitude: 104.914276
+elevation: 0
+utc_offset: 7
+_class: N
+timezone: Asia/Phnom_Penh

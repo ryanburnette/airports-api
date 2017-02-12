@@ -1,0 +1,12 @@
+---
+airport_name: Port Harcourt Intl
+city: Port Hartcourt
+country: Nigeria
+iata: PHC
+icao: DNPO
+latitude: 5.015494
+longitude: 6.949594
+elevation: 87
+utc_offset: 1
+_class: N
+timezone: Africa/Lagos

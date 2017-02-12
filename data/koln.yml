@@ -1,0 +1,12 @@
+---
+airport_name: Koln HBF
+city: Koln
+country: Germany
+iata: KOX
+icao: KOLN
+latitude: 50.9425
+longitude: 6.958056
+elevation: 1000
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

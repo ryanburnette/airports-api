@@ -1,0 +1,12 @@
+---
+airport_name: Cayo Coco Airport
+city: Cayo Coco
+country: Cuba
+iata: CCC
+icao: MUOC
+latitude: 22.5132
+longitude: -78.511
+elevation: 6
+utc_offset: -5
+_class: U
+timezone: America/Havana

@@ -1,0 +1,12 @@
+---
+airport_name: Salzgitter Druette Airport
+city: Salzgitter
+country: Germany
+iata: 
+icao: EDVS
+latitude: 52.1544
+longitude: 10.4267
+elevation: 328
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

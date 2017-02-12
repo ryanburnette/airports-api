@@ -1,0 +1,12 @@
+---
+airport_name: Missoula Intl
+city: Missoula
+country: United States
+iata: MSO
+icao: KMSO
+latitude: 46.916306
+longitude: -114.090556
+elevation: 3205
+utc_offset: -7
+_class: A
+timezone: America/Denver

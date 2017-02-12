@@ -1,0 +1,12 @@
+---
+airport_name: Augsburg Railway
+city: Augsburg
+country: Germany
+iata: ZAU
+icao: 
+latitude: 48.3655
+longitude: 10.8863
+elevation: 500
+utc_offset: 1
+_class: U
+timezone: Europe/Berlin

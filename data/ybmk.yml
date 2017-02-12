@@ -1,0 +1,12 @@
+---
+airport_name: Mackay
+city: Mackay
+country: Australia
+iata: MKY
+icao: YBMK
+latitude: -21.171667
+longitude: 149.179722
+elevation: 19
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

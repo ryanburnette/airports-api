@@ -1,0 +1,12 @@
+---
+airport_name: Grissom Arb
+city: Peru
+country: United States
+iata: GUS
+icao: KGUS
+latitude: 40.648094
+longitude: -86.152119
+elevation: 812
+utc_offset: -5
+_class: A
+timezone: America/New_York

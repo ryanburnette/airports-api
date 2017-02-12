@@ -1,0 +1,12 @@
+---
+airport_name: Tucumcari Muni
+city: Tucumcari
+country: United States
+iata: TCC
+icao: KTCC
+latitude: 35.182777
+longitude: -103.603186
+elevation: 4065
+utc_offset: -7
+_class: A
+timezone: America/Denver

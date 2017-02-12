@@ -1,0 +1,12 @@
+---
+airport_name: Avord
+city: Avord
+country: France
+iata: 
+icao: LFOA
+latitude: 47.053333
+longitude: 2.6325
+elevation: 580
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

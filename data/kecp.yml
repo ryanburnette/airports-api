@@ -1,0 +1,12 @@
+---
+airport_name: Panama City-NW Florida Bea.
+city: Panama City
+country: United States
+iata: ECP
+icao: KECP
+latitude: 30.3417
+longitude: -85.7973
+elevation: 69
+utc_offset: -6
+_class: A
+timezone: America/Chicago

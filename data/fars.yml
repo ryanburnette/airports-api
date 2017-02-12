@@ -1,0 +1,12 @@
+---
+airport_name: Robertson
+city: Robertson
+country: South Africa
+iata: 
+icao: FARS
+latitude: -33.812181
+longitude: 19.902828
+elevation: 640
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

@@ -1,0 +1,12 @@
+---
+airport_name: Dnipropetrovsk Intl
+city: Dnepropetrovsk
+country: Ukraine
+iata: DNK
+icao: UKDD
+latitude: 48.357222
+longitude: 35.100556
+elevation: 481
+utc_offset: 2
+_class: E
+timezone: Europe/Kiev

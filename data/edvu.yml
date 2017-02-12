@@ -1,0 +1,12 @@
+---
+airport_name: Uelzen Airport
+city: Uelzen
+country: Germany
+iata: 
+icao: EDVU
+latitude: 52.9839
+longitude: 10.465
+elevation: 246
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Laguna de Los Patos International Airport
+city: Colonia
+country: Uruguay
+iata: CYR
+icao: SUCA
+latitude: -34.4564
+longitude: -57.7706
+elevation: 66
+utc_offset: -3
+_class: U
+timezone: America/Montevideo

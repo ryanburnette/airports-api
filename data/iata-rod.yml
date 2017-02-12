@@ -1,0 +1,12 @@
+---
+airport_name: Rodby Port
+city: Rodby
+country: Denmark
+iata: ROD
+icao: 
+latitude: 54.65
+longitude: 11.35
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

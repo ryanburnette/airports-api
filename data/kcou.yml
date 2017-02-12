@@ -1,0 +1,12 @@
+---
+airport_name: Columbia Rgnl
+city: Columbia
+country: United States
+iata: COU
+icao: KCOU
+latitude: 38.818094
+longitude: -92.219631
+elevation: 889
+utc_offset: -6
+_class: A
+timezone: America/Chicago

@@ -1,0 +1,12 @@
+---
+airport_name: Mikonos
+city: Mykonos
+country: Greece
+iata: JMK
+icao: LGMK
+latitude: 37.435128
+longitude: 25.348103
+elevation: 405
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

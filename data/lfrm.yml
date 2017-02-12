@@ -1,0 +1,12 @@
+---
+airport_name: Arnage
+city: Le Mans
+country: France
+iata: LME
+icao: LFRM
+latitude: 47.948611
+longitude: 0.201667
+elevation: 194
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

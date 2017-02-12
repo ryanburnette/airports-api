@@ -1,0 +1,12 @@
+---
+airport_name: Fukushima Airport
+city: Fukushima
+country: Japan
+iata: FKS
+icao: RJSF
+latitude: 37.2274
+longitude: 140.431
+elevation: 1221
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

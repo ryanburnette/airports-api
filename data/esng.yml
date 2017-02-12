@@ -1,0 +1,12 @@
+---
+airport_name: Gallivare
+city: Gallivare
+country: Sweden
+iata: GEV
+icao: ESNG
+latitude: 67.132408
+longitude: 20.814636
+elevation: 1027
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

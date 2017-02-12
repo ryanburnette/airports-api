@@ -1,0 +1,12 @@
+---
+airport_name: SFO Helicopter
+city: Sausalito
+country: United States
+iata: 
+icao: 
+latitude: 37.87856
+longitude: -122.512742
+elevation: 13
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

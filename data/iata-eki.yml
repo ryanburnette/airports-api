@@ -1,0 +1,12 @@
+---
+airport_name: Elkhart Municipal
+city: Elkhart
+country: United States
+iata: EKI
+icao: 
+latitude: 41.719444
+longitude: -86.003333
+elevation: 778
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Kearney Municipal Airport
+city: Kearney
+country: United States
+iata: EAR
+icao: EAR
+latitude: 40.727
+longitude: -99.0068
+elevation: 2131
+utc_offset: -6
+_class: A
+timezone: America/Chicago

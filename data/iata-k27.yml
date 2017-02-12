@@ -1,0 +1,12 @@
+---
+airport_name: Burrello-Mechanicville Airport
+city: Mechanicville
+country: United States
+iata: K27
+icao: 
+latitude: 42.893133
+longitude: -73.66845
+elevation: 195
+utc_offset: -5
+_class: A
+timezone: America/New_York

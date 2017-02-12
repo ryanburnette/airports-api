@@ -1,0 +1,12 @@
+---
+airport_name: Treuchtlingen BF
+city: Treuchtlingen
+country: Germany
+iata: TLG
+icao: TREU
+latitude: 49.04
+longitude: 11.081944
+elevation: 1200
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

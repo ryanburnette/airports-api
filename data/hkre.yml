@@ -1,0 +1,12 @@
+---
+airport_name: Eastleigh
+city: Nairobi
+country: Kenya
+iata: 
+icao: HKRE
+latitude: -1.277267
+longitude: 36.862339
+elevation: 5380
+utc_offset: 3
+_class: U
+timezone: Africa/Nairobi

@@ -1,0 +1,12 @@
+---
+airport_name: Muskegon County Airport
+city: Muskegon
+country: United States
+iata: MKG
+icao: KMKG
+latitude: 43.1695
+longitude: -86.2382
+elevation: 628
+utc_offset: -5
+_class: A
+timezone: America/New_York

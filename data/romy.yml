@@ -1,0 +1,12 @@
+---
+airport_name: Miyako
+city: Miyako
+country: Japan
+iata: MMY
+icao: ROMY
+latitude: 24.782833
+longitude: 125.295111
+elevation: 150
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

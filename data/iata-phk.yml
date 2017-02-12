@@ -1,0 +1,12 @@
+---
+airport_name: Pahokee Airport
+city: Pahokee
+country: United States
+iata: PHK
+icao: 
+latitude: 26.789
+longitude: -80.692
+elevation: 18
+utc_offset: -5
+_class: A
+timezone: America/New_York

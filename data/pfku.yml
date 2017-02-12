@@ -1,0 +1,12 @@
+---
+airport_name: Koyukuk Airport
+city: Koyukuk
+country: United States
+iata: KYU
+icao: PFKU
+latitude: 64.875833
+longitude: -157.730556
+elevation: 149
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

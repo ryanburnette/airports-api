@@ -1,0 +1,12 @@
+---
+airport_name: Muenster-Telgte Airport
+city: Muenster
+country: Germany
+iata: 
+icao: EDLT
+latitude: 51.9444
+longitude: 7.77389
+elevation: 177
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

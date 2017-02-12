@@ -1,0 +1,12 @@
+---
+airport_name: Kalundborg Flyveplads
+city: Kalundborg
+country: Denmark
+iata: 
+icao: EKKL
+latitude: 55.7001
+longitude: 11.2549
+elevation: 13
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

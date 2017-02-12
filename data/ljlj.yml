@@ -1,0 +1,12 @@
+---
+airport_name: Ljubljana
+city: Ljubljana
+country: Slovenia
+iata: LJU
+icao: LJLJ
+latitude: 46.223686
+longitude: 14.457611
+elevation: 1273
+utc_offset: 1
+_class: E
+timezone: Europe/Ljubljana

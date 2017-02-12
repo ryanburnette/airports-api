@@ -1,0 +1,12 @@
+---
+airport_name: Albany Airport
+city: Albany
+country: Australia
+iata: ALH
+icao: YABA
+latitude: -34.9433
+longitude: 117.809
+elevation: 233
+utc_offset: 8
+_class: O
+timezone: Australia/Perth

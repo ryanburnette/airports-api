@@ -1,0 +1,12 @@
+---
+airport_name: Aix Les Bains
+city: Chambery
+country: France
+iata: CMF
+icao: LFLB
+latitude: 45.63805
+longitude: 5.880225
+elevation: 779
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

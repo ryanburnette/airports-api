@@ -1,0 +1,12 @@
+---
+airport_name: Tepic
+city: Tepic
+country: Mexico
+iata: TPQ
+icao: MMEP
+latitude: 21.419453
+longitude: -104.842581
+elevation: 3020
+utc_offset: -7
+_class: S
+timezone: America/Mazatlan

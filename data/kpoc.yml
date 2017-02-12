@@ -1,0 +1,12 @@
+---
+airport_name: Brackett Field
+city: La Verne
+country: United States
+iata: POC
+icao: KPOC
+latitude: 34.0916667
+longitude: -117.7817778
+elevation: 1014
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

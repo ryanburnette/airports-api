@@ -1,0 +1,12 @@
+---
+airport_name: Valkenburg
+city: Valkenburg
+country: Netherlands
+iata: LID
+icao: EHVB
+latitude: 52.166139
+longitude: 4.417944
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

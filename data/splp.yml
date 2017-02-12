@@ -1,0 +1,12 @@
+---
+airport_name: Las Palmas
+city: Las Palmas
+country: Peru
+iata: 
+icao: SPLP
+latitude: -12.160708
+longitude: -76.998942
+elevation: 250
+utc_offset: -5
+_class: U
+timezone: America/Lima

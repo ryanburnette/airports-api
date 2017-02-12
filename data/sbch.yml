@@ -1,0 +1,12 @@
+---
+airport_name: Chapeco
+city: Chapeco
+country: Brazil
+iata: XAP
+icao: SBCH
+latitude: -27.134219
+longitude: -52.656553
+elevation: 2146
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

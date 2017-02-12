@@ -1,0 +1,12 @@
+---
+airport_name: Gheshm Airport
+city: Gheshm
+country: Iran
+iata: GSM
+icao: 
+latitude: 26.9487
+longitude: 56.2688
+elevation: 100
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

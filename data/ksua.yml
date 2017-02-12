@@ -1,0 +1,12 @@
+---
+airport_name: Witham Field Airport
+city: Stuart
+country: United States
+iata: SUA
+icao: KSUA
+latitude: 27.1816996
+longitude: -80.221294
+elevation: 16
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Bob Baker Memorial Airport
+city: Kiana
+country: United States
+iata: IAN
+icao: PAIK
+latitude: 66.975833
+longitude: -160.436667
+elevation: 166
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

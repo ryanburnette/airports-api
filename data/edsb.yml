@@ -1,0 +1,12 @@
+---
+airport_name: Baden Airpark
+city: Karlsruhe/Baden-Baden
+country: Germany
+iata: FKB
+icao: EDSB
+latitude: 48.7793
+longitude: 8.08048
+elevation: 407
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

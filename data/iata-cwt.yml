@@ -1,0 +1,12 @@
+---
+airport_name: Chatsworth Station
+city: Chatsworth
+country: United States
+iata: CWT
+icao: 
+latitude: 34.256944
+longitude: -118.598889
+elevation: 978
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

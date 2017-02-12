@@ -1,0 +1,12 @@
+---
+airport_name: Helsinki Vantaa
+city: Helsinki
+country: Finland
+iata: HEL
+icao: EFHK
+latitude: 60.317222
+longitude: 24.963333
+elevation: 179
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

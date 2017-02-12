@@ -1,0 +1,12 @@
+---
+airport_name: High Level
+city: High Level
+country: Canada
+iata: YOJ
+icao: CYOJ
+latitude: 58.621389
+longitude: -117.164722
+elevation: 1110
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

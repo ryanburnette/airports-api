@@ -1,0 +1,12 @@
+---
+airport_name: Feringe
+city: Ljungby
+country: Sweden
+iata: 
+icao: ESMG
+latitude: 56.950278
+longitude: 13.921667
+elevation: 538
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

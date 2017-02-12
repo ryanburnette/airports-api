@@ -1,0 +1,12 @@
+---
+airport_name: Thule Air Base
+city: Thule
+country: Greenland
+iata: THU
+icao: BGTL
+latitude: 76.531203
+longitude: -68.703161
+elevation: 251
+utc_offset: -4
+_class: E
+timezone: America/Thule

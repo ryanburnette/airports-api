@@ -1,0 +1,12 @@
+---
+airport_name: Norfolk Island Intl
+city: Norfolk Island
+country: Norfolk Island
+iata: NLK
+icao: YSNF
+latitude: -29.041625
+longitude: 167.938742
+elevation: 371
+utc_offset: 11.5
+_class: U
+timezone: Pacific/Norfolk

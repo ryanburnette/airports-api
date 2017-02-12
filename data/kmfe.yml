@@ -1,0 +1,12 @@
+---
+airport_name: Mc Allen Miller Intl
+city: Mcallen
+country: United States
+iata: MFE
+icao: KMFE
+latitude: 26.175833
+longitude: -98.238611
+elevation: 107
+utc_offset: -6
+_class: A
+timezone: America/Chicago

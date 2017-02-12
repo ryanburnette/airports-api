@@ -1,0 +1,12 @@
+---
+airport_name: Cambridge Municipal Airport
+city: Cambridge
+country: United States
+iata: CDI
+icao: 
+latitude: 39.9750278
+longitude: -81.5775833
+elevation: 799
+utc_offset: -5
+_class: U
+timezone: America/New_York

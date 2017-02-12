@@ -1,0 +1,12 @@
+---
+airport_name: Airport
+city: Vadso
+country: Norway
+iata: VDS
+icao: ENVD
+latitude: 70.065
+longitude: 29.844
+elevation: 127
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

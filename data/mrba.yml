@@ -1,0 +1,12 @@
+---
+airport_name: Buenos Aires
+city: Buenos Aires
+country: Costa Rica
+iata: 
+icao: MRBA
+latitude: 9.163606
+longitude: -83.329872
+elevation: 1214
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

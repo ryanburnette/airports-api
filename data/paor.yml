@@ -1,0 +1,12 @@
+---
+airport_name: Northway
+city: Northway
+country: United States
+iata: ORT
+icao: PAOR
+latitude: 62.961334
+longitude: -141.929136
+elevation: 1716
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

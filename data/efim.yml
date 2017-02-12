@@ -1,0 +1,12 @@
+---
+airport_name: Immola
+city: Immola
+country: Finland
+iata: 
+icao: EFIM
+latitude: 61.249172
+longitude: 28.903711
+elevation: 338
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

@@ -1,0 +1,12 @@
+---
+airport_name: Eyn Shemer
+city: Eyn-shemer
+country: Israel
+iata: 
+icao: LLES
+latitude: 32.440814
+longitude: 35.007661
+elevation: 95
+utc_offset: 2
+_class: U
+timezone: Asia/Jerusalem

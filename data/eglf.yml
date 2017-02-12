@@ -1,0 +1,12 @@
+---
+airport_name: Farnborough
+city: Farnborough
+country: United Kingdom
+iata: FAB
+icao: EGLF
+latitude: 51.275833
+longitude: -0.776333
+elevation: 238
+utc_offset: 0
+_class: E
+timezone: Europe/London

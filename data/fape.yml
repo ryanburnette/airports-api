@@ -1,0 +1,12 @@
+---
+airport_name: Port Elizabeth Intl
+city: Port Elizabeth
+country: South Africa
+iata: PLZ
+icao: FAPE
+latitude: -33.984919
+longitude: 25.617275
+elevation: 226
+utc_offset: 2
+_class: U
+timezone: Africa/Johannesburg

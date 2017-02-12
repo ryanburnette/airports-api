@@ -1,0 +1,12 @@
+---
+airport_name: Bus Stop
+city: Cilaos
+country: Reunion
+iata: 
+icao: CILS
+latitude: -21.135518
+longitude: 55.472087
+elevation: 4000
+utc_offset: 4
+_class: E
+timezone: Indian/Reunion

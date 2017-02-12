@@ -1,0 +1,12 @@
+---
+airport_name: Inyokern Airport
+city: Inyokern
+country: United States
+iata: IYK
+icao: KIYK
+latitude: 35.658889
+longitude: -117.829444
+elevation: 2455
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

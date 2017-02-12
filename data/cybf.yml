@@ -1,0 +1,12 @@
+---
+airport_name: Bonnyville Airport
+city: Bonnyville
+country: Canada
+iata: YBY
+icao: CYBF
+latitude: 54.304722
+longitude: -110.741111
+elevation: 1839
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

@@ -1,0 +1,12 @@
+---
+airport_name: Siuna Airport
+city: Siuna
+country: Nicaragua
+iata: SIU
+icao: MNSI
+latitude: 13.716667
+longitude: -84.776944
+elevation: 480
+utc_offset: -6
+_class: U
+timezone: America/Managua

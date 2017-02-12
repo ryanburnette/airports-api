@@ -1,0 +1,12 @@
+---
+airport_name: Grand Forks Intl
+city: Grand Forks
+country: United States
+iata: GFK
+icao: KGFK
+latitude: 47.949256
+longitude: -97.176111
+elevation: 845
+utc_offset: -6
+_class: A
+timezone: America/Chicago

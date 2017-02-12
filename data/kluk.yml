@@ -1,0 +1,12 @@
+---
+airport_name: Cincinnati Muni Lunken Fld
+city: Cincinnati
+country: United States
+iata: LUK
+icao: KLUK
+latitude: 39.103333
+longitude: -84.418611
+elevation: 483
+utc_offset: -5
+_class: A
+timezone: America/New_York

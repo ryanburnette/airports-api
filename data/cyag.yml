@@ -1,0 +1,12 @@
+---
+airport_name: Fort Frances Municipal Airport
+city: Fort Frances
+country: Canada
+iata: YAG
+icao: CYAG
+latitude: 48.6542
+longitude: -93.4397
+elevation: 1125
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

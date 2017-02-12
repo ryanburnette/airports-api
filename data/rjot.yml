@@ -1,0 +1,12 @@
+---
+airport_name: Takamatsu
+city: Takamatsu
+country: Japan
+iata: TAK
+icao: RJOT
+latitude: 34.214167
+longitude: 134.015556
+elevation: 607
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

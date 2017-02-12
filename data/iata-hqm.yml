@@ -1,0 +1,12 @@
+---
+airport_name: Bowerman Field
+city: Hoquiam
+country: United States
+iata: HQM
+icao: 
+latitude: 46.9711944
+longitude: -123.9365556
+elevation: 18
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

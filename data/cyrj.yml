@@ -1,0 +1,12 @@
+---
+airport_name: Roberval
+city: Roberval
+country: Canada
+iata: YRJ
+icao: CYRJ
+latitude: 48.52
+longitude: -72.265556
+elevation: 586
+utc_offset: -5
+_class: A
+timezone: America/Toronto

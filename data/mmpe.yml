@@ -1,0 +1,12 @@
+---
+airport_name: Puerto Penasco
+city: Punta Penasco
+country: Mexico
+iata: PPE
+icao: MMPE
+latitude: 31.351878
+longitude: -113.525728
+elevation: 30
+utc_offset: -7
+_class: S
+timezone: America/Hermosillo

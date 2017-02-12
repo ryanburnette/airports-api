@@ -1,0 +1,12 @@
+---
+airport_name: Matsuyama
+city: Matsuyama
+country: Japan
+iata: MYJ
+icao: RJOM
+latitude: 33.827222
+longitude: 132.699722
+elevation: 25
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

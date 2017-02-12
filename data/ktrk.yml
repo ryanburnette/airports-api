@@ -1,0 +1,12 @@
+---
+airport_name: Truckee-Tahoe Airport
+city: Truckee
+country: United States
+iata: TKF
+icao: KTRK
+latitude: 39.3200422
+longitude: -120.1395628
+elevation: 5900
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

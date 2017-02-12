@@ -1,0 +1,12 @@
+---
+airport_name: Nanded Airport
+city: Nanded
+country: India
+iata: NDC
+icao: VAND
+latitude: 19.1833
+longitude: 77.3167
+elevation: 1250
+utc_offset: 5.5
+_class: N
+timezone: Asia/Calcutta

@@ -1,0 +1,12 @@
+---
+airport_name: Punitz-Guessing
+city: Punitz-Guessing
+country: Austria
+iata: 
+icao: LOGG
+latitude: 47.14833
+longitude: 16.31833
+elevation: 950
+utc_offset: 1
+_class: E
+timezone: Europe/Vienna

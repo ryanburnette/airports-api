@@ -1,0 +1,12 @@
+---
+airport_name: Salerno Pontecagnano Airport
+city: Salerno
+country: Italy
+iata: QSR
+icao: LIRI
+latitude: 40.6204
+longitude: 14.911294
+elevation: 123
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

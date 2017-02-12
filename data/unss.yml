@@ -1,0 +1,12 @@
+---
+airport_name: Strezhevoy
+city: Strezhevoy
+country: Russia
+iata: SWT
+icao: UNSS
+latitude: 60.716667
+longitude: 77.65
+elevation: 164
+utc_offset: 7
+_class: N
+timezone: Asia/Omsk

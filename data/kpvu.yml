@@ -1,0 +1,12 @@
+---
+airport_name: Provo Municipal Airport
+city: Provo
+country: United States
+iata: PVU
+icao: KPVU
+latitude: 40.21805555
+longitude: -111.72222222
+elevation: 4497
+utc_offset: -7
+_class: A
+timezone: America/Denver

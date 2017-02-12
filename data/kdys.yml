@@ -1,0 +1,12 @@
+---
+airport_name: Dyess Afb
+city: Abilene
+country: United States
+iata: DYS
+icao: KDYS
+latitude: 32.420756
+longitude: -99.8546
+elevation: 1789
+utc_offset: -6
+_class: A
+timezone: America/Chicago

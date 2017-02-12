@@ -1,0 +1,12 @@
+---
+airport_name: Brussels Gare Centrale
+city: Brussels
+country: Belgium
+iata: 
+icao: 
+latitude: 50.84548
+longitude: 4.357174
+elevation: 43
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

@@ -1,0 +1,12 @@
+---
+airport_name: Barksdale Afb
+city: Shreveport
+country: United States
+iata: BAD
+icao: KBAD
+latitude: 32.50182
+longitude: -93.662674
+elevation: 166
+utc_offset: -6
+_class: A
+timezone: America/Chicago

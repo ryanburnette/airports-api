@@ -1,0 +1,12 @@
+---
+airport_name: Melilla
+city: Melilla
+country: Spain
+iata: MLN
+icao: GEML
+latitude: 35.279817
+longitude: -2.956256
+elevation: 156
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: Chabeuil
+city: Valence
+country: France
+iata: VAF
+icao: LFLU
+latitude: 44.921594
+longitude: 4.9699
+elevation: 525
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

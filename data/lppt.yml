@@ -1,0 +1,12 @@
+---
+airport_name: Lisboa
+city: Lisbon
+country: Portugal
+iata: LIS
+icao: LPPT
+latitude: 38.781311
+longitude: -9.135919
+elevation: 374
+utc_offset: 0
+_class: E
+timezone: Europe/Lisbon

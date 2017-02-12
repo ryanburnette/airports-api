@@ -1,0 +1,12 @@
+---
+airport_name: Lansdowne Airport
+city: Youngstown
+country: United States
+iata: 04G
+icao: 
+latitude: 41.1304722
+longitude: -80.6195833
+elevation: 1044
+utc_offset: -5
+_class: A
+timezone: America/New_York

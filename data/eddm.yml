@@ -1,0 +1,12 @@
+---
+airport_name: Franz Josef Strauss
+city: Munich
+country: Germany
+iata: MUC
+icao: EDDM
+latitude: 48.353783
+longitude: 11.786086
+elevation: 1487
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

@@ -1,0 +1,12 @@
+---
+airport_name: Berlin Hauptbahnhof
+city: Berlin
+country: Germany
+iata: QPP
+icao: 
+latitude: 52.52493
+longitude: 13.36963
+elevation: 110
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

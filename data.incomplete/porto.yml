@@ -1,0 +1,12 @@
+---
+airport_name: Porto
+city: Porto
+country: Portugal
+iata: 
+icao: 
+latitude: 41.1667
+longitude: 8.5833
+elevation: 341
+utc_offset: 1
+_class: E
+timezone: Europe/Rome

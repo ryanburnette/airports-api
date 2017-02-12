@@ -1,0 +1,12 @@
+---
+airport_name: Krzesiny
+city: Poznan
+country: Poland
+iata: 
+icao: EPKS
+latitude: 52.331719
+longitude: 16.966428
+elevation: 265
+utc_offset: 1
+_class: E
+timezone: Europe/Warsaw

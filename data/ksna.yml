@@ -1,0 +1,12 @@
+---
+airport_name: John Wayne Arpt Orange Co
+city: Santa Ana
+country: United States
+iata: SNA
+icao: KSNA
+latitude: 33.675667
+longitude: -117.868222
+elevation: 56
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

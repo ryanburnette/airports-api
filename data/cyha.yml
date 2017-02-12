@@ -1,0 +1,12 @@
+---
+airport_name: Quaqtaq Airport
+city: Quaqtaq
+country: Canada
+iata: YQC
+icao: CYHA
+latitude: 61.0464
+longitude: -69.6178
+elevation: 103
+utc_offset: -5
+_class: A
+timezone: America/Toronto

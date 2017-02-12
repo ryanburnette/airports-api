@@ -1,0 +1,12 @@
+---
+airport_name: Allakaket Airport
+city: Allakaket
+country: United States
+iata: AET
+icao: PFAL
+latitude: 66.5519
+longitude: -152.6222
+elevation: 441
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

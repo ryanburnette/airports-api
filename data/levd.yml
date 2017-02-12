@@ -1,0 +1,12 @@
+---
+airport_name: Valladolid
+city: Valladolid
+country: Spain
+iata: VLL
+icao: LEVD
+latitude: 41.706111
+longitude: -4.851944
+elevation: 2775
+utc_offset: 1
+_class: E
+timezone: Europe/Madrid

@@ -1,0 +1,12 @@
+---
+airport_name: San Fernando
+city: San Fernando
+country: Argentina
+iata: 
+icao: SADF
+latitude: -34.453189
+longitude: -58.589644
+elevation: 10
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

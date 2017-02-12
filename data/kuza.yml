@@ -1,0 +1,12 @@
+---
+airport_name: Rock Hill York Co Bryant Airport
+city: Rock Hill
+country: United States
+iata: RKH
+icao: KUZA
+latitude: 34.9878
+longitude: -81.0572
+elevation: 667
+utc_offset: -5
+_class: A
+timezone: America/New_York

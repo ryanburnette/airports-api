@@ -1,0 +1,12 @@
+---
+airport_name: Split
+city: Split
+country: Croatia
+iata: SPU
+icao: LDSP
+latitude: 43.538944
+longitude: 16.297964
+elevation: 79
+utc_offset: 1
+_class: E
+timezone: Europe/Zagreb

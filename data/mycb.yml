@@ -1,0 +1,12 @@
+---
+airport_name: New Bight Airport
+city: Cat Island
+country: Bahamas
+iata: CAT
+icao: MYCB
+latitude: 24.315292
+longitude: -75.452331
+elevation: 5
+utc_offset: -5
+_class: U
+timezone: America/Nassau

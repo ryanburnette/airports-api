@@ -1,0 +1,12 @@
+---
+airport_name: Eura
+city: Eura
+country: Finland
+iata: 
+icao: EFEU
+latitude: 61.116112
+longitude: 22.201389
+elevation: 259
+utc_offset: 2
+_class: E
+timezone: Europe/Helsinki

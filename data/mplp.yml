@@ -1,0 +1,12 @@
+---
+airport_name: Captain Ramon Xatruch Airport
+city: La Palma
+country: Panama
+iata: PLP
+icao: MPLP
+latitude: 8.40667
+longitude: -78.1417
+elevation: 30
+utc_offset: -5
+_class: U
+timezone: America/Panama

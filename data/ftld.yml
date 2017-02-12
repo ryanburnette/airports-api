@@ -1,0 +1,12 @@
+---
+airport_name: Port Everglades
+city: Fort Lauderdale
+country: United States
+iata: 
+icao: FTLD
+latitude: 26.087679
+longitude: -80.115942
+elevation: 0
+utc_offset: -5
+_class: A
+timezone: America/New_York

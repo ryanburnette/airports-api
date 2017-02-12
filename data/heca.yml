@@ -1,0 +1,12 @@
+---
+airport_name: Cairo Intl
+city: Cairo
+country: Egypt
+iata: CAI
+icao: HECA
+latitude: 30.121944
+longitude: 31.405556
+elevation: 382
+utc_offset: 2
+_class: U
+timezone: Africa/Cairo

@@ -1,0 +1,12 @@
+---
+airport_name: Stavns
+city: Samsoe
+country: Denmark
+iata: 
+icao: EKSS
+latitude: 55.89
+longitude: 10.62
+elevation: 1
+utc_offset: 1
+_class: E
+timezone: Europe/Copenhagen

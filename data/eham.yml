@@ -1,0 +1,12 @@
+---
+airport_name: Schiphol
+city: Amsterdam
+country: Netherlands
+iata: AMS
+icao: EHAM
+latitude: 52.308613
+longitude: 4.763889
+elevation: -11
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

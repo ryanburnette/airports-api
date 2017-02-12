@@ -1,0 +1,12 @@
+---
+airport_name: Newcastle Airfield
+city: Newcastle
+country: Ireland
+iata: 
+icao: EINC
+latitude: 53.073056
+longitude: -6.039722
+elevation: 14
+utc_offset: 0
+_class: E
+timezone: Europe/Dublin

@@ -1,0 +1,12 @@
+---
+airport_name: Igor I Sikorsky Mem
+city: Stratford
+country: United States
+iata: BDR
+icao: KBDR
+latitude: 41.163472
+longitude: -73.126167
+elevation: 9
+utc_offset: -5
+_class: A
+timezone: America/New_York

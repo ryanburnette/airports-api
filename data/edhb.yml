@@ -1,0 +1,12 @@
+---
+airport_name: Grube Airport
+city: Grube
+country: Germany
+iata: 
+icao: EDHB
+latitude: 54.2444
+longitude: 11.0247
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Berlin

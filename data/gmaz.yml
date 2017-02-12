@@ -1,0 +1,12 @@
+---
+airport_name: Zagora Airport
+city: Zagora
+country: Morocco
+iata: 
+icao: GMAZ
+latitude: 30.330556
+longitude: -5.838056
+elevation: 1500
+utc_offset: 0
+_class: U
+timezone: Africa/Casablanca

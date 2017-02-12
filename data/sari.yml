@@ -1,0 +1,12 @@
+---
+airport_name: Cataratas Del Iguazu
+city: Iguazu Falls
+country: Argentina
+iata: IGR
+icao: SARI
+latitude: -25.737281
+longitude: -54.473444
+elevation: 916
+utc_offset: -3
+_class: N
+timezone: America/Cordoba

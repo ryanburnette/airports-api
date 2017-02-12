@@ -1,0 +1,12 @@
+---
+airport_name: Devonport Airport
+city: Devonport
+country: Australia
+iata: DPO
+icao: YDPO
+latitude: -41.1697
+longitude: 146.43
+elevation: 33
+utc_offset: 10
+_class: O
+timezone: Australia/Melbourne

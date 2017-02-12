@@ -1,0 +1,12 @@
+---
+airport_name: Octeville
+city: Le Havre
+country: France
+iata: LEH
+icao: LFOH
+latitude: 49.533889
+longitude: 0.088056
+elevation: 312
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

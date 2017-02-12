@@ -1,0 +1,12 @@
+---
+airport_name: Payerne
+city: Payerne
+country: Switzerland
+iata: 
+icao: LSMP
+latitude: 46.843208
+longitude: 6.915058
+elevation: 1465
+utc_offset: 1
+_class: E
+timezone: Europe/Zurich

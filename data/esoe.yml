@@ -1,0 +1,12 @@
+---
+airport_name: Orebro
+city: Orebro
+country: Sweden
+iata: ORB
+icao: ESOE
+latitude: 59.223733
+longitude: 15.037956
+elevation: 188
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

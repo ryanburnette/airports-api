@@ -1,0 +1,12 @@
+---
+airport_name: Peawanuck Airport
+city: Peawanuck
+country: Canada
+iata: YPO
+icao: CYPO
+latitude: 54.9881
+longitude: -85.4433
+elevation: 173
+utc_offset: -5
+_class: A
+timezone: America/Toronto

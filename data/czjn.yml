@@ -1,0 +1,12 @@
+---
+airport_name: Swan River Airport
+city: Swan River
+country: Canada
+iata: ZJN
+icao: CZJN
+latitude: 52.1206
+longitude: -101.236
+elevation: 1100
+utc_offset: -6
+_class: A
+timezone: America/Winnipeg

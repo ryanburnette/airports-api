@@ -1,0 +1,12 @@
+---
+airport_name: Pittsburgh Amtrak
+city: Pittsburgh
+country: United States
+iata: 
+icao: 
+latitude: 40.4406
+longitude: -79.9961
+elevation: 1370
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Elko Regional Airport
+city: Elko
+country: United States
+iata: EKO
+icao: KEKO
+latitude: 40.8249
+longitude: -115.792
+elevation: 5140
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

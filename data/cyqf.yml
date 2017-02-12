@@ -1,0 +1,12 @@
+---
+airport_name: Red Deer Regional
+city: Red Deer Industrial
+country: Canada
+iata: YQF
+icao: CYQF
+latitude: 52.182222
+longitude: -113.894444
+elevation: 2968
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

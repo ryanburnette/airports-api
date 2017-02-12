@@ -1,0 +1,12 @@
+---
+airport_name: Mirecourt
+city: Epinal
+country: France
+iata: EPL
+icao: LFSG
+latitude: 48.324961
+longitude: 6.069983
+elevation: 1084
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

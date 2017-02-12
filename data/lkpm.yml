@@ -1,0 +1,12 @@
+---
+airport_name: Pribram
+city: Pribram
+country: Czech Republic
+iata: 
+icao: LKPM
+latitude: 49.720078
+longitude: 14.100567
+elevation: 1529
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

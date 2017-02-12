@@ -1,0 +1,12 @@
+---
+airport_name: Cartersville Airport
+city: Cartersville
+country: United States
+iata: VPC
+icao: KVPC
+latitude: 34.1231475
+longitude: -84.8487067
+elevation: 759
+utc_offset: -5
+_class: A
+timezone: America/New_York

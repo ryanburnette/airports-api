@@ -1,0 +1,12 @@
+---
+airport_name: Rotuma Airport
+city: Rotuma
+country: Fiji
+iata: RTA
+icao: NFNR
+latitude: -12.4825
+longitude: 177.071
+elevation: 22
+utc_offset: 12
+_class: U
+timezone: Pacific/Fiji

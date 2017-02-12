@@ -1,0 +1,12 @@
+---
+airport_name: Vancouver Harbour Water Airport
+city: Vancouver
+country: Canada
+iata: YHC
+icao: CYHC
+latitude: 49.2944
+longitude: -123.111
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

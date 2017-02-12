@@ -1,0 +1,12 @@
+---
+airport_name: Hastings
+city: Hastings
+country: New Zealand
+iata: 
+icao: NZHS
+latitude: -39.646667
+longitude: 176.766944
+elevation: 72
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

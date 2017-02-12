@@ -1,0 +1,12 @@
+---
+airport_name: Santa Maria
+city: Aracaju
+country: Brazil
+iata: AJU
+icao: SBAR
+latitude: -10.984
+longitude: -37.070333
+elevation: 23
+utc_offset: -3
+_class: S
+timezone: America/Fortaleza

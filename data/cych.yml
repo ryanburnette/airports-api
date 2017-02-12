@@ -1,0 +1,12 @@
+---
+airport_name: Miramichi
+city: Chatham
+country: Canada
+iata: YCH
+icao: CYCH
+latitude: 47.007778
+longitude: -65.449167
+elevation: 108
+utc_offset: -4
+_class: A
+timezone: America/Halifax

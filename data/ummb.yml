@@ -1,0 +1,12 @@
+---
+airport_name: Borovaya Airfield
+city: Minsk
+country: Belarus
+iata: 
+icao: UMMB
+latitude: 53.57
+longitude: 27.39
+elevation: 0
+utc_offset: 3
+_class: E
+timezone: Europe/Minsk

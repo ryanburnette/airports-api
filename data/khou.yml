@@ -1,0 +1,12 @@
+---
+airport_name: William P Hobby
+city: Houston
+country: United States
+iata: HOU
+icao: KHOU
+latitude: 29.645419
+longitude: -95.278889
+elevation: 46
+utc_offset: -6
+_class: A
+timezone: America/Chicago

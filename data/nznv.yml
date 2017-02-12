@@ -1,0 +1,12 @@
+---
+airport_name: Invercargill
+city: Invercargill
+country: New Zealand
+iata: IVC
+icao: NZNV
+latitude: -46.412408
+longitude: 168.312992
+elevation: 5
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

@@ -1,0 +1,12 @@
+---
+airport_name: Sterling Municipal Airport
+city: Sterling
+country: United States
+iata: STK
+icao: KSTK
+latitude: 40.6153136
+longitude: -103.2648454
+elevation: 4040
+utc_offset: -7
+_class: A
+timezone: America/Denver

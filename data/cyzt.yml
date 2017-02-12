@@ -1,0 +1,12 @@
+---
+airport_name: Port Hardy
+city: Port Hardy
+country: Canada
+iata: YZT
+icao: CYZT
+latitude: 50.680556
+longitude: -127.366667
+elevation: 71
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

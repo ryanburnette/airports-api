@@ -1,0 +1,12 @@
+---
+airport_name: Pardubice
+city: Pardubice
+country: Czech Republic
+iata: PED
+icao: LKPD
+latitude: 50.013419
+longitude: 15.738647
+elevation: 741
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

@@ -1,0 +1,12 @@
+---
+airport_name: Icy Bay Airport
+city: Icy Bay
+country: United States
+iata: ICY
+icao: 
+latitude: 59.968889
+longitude: -141.661667
+elevation: 50
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

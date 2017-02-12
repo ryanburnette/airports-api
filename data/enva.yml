@@ -1,0 +1,12 @@
+---
+airport_name: Vaernes
+city: Trondheim
+country: Norway
+iata: TRD
+icao: ENVA
+latitude: 63.457556
+longitude: 10.92425
+elevation: 56
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

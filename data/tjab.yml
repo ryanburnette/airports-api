@@ -1,0 +1,12 @@
+---
+airport_name: Antonio Juarbe Pol Airport
+city: Arecibo
+country: Puerto Rico
+iata: ARE
+icao: TJAB
+latitude: 18.451111
+longitude: -66.675556
+elevation: 23
+utc_offset: -4
+_class: N
+timezone: America/Puerto_Rico

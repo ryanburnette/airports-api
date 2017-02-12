@@ -1,0 +1,12 @@
+---
+airport_name: Minneapolis St Paul Intl
+city: Minneapolis
+country: United States
+iata: MSP
+icao: KMSP
+latitude: 44.881956
+longitude: -93.221767
+elevation: 841
+utc_offset: -6
+_class: A
+timezone: America/Chicago

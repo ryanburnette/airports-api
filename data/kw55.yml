@@ -1,0 +1,12 @@
+---
+airport_name: Kenmore Air Harbor Seaplane Base
+city: Seattle
+country: United States
+iata: LKE
+icao: KW55
+latitude: 47.629
+longitude: -122.339
+elevation: 14
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

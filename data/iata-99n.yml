@@ -1,0 +1,12 @@
+---
+airport_name: Bamberg County Airport
+city: Bamberg
+country: United States
+iata: 99N
+icao: 
+latitude: 33.3045278
+longitude: -81.1084167
+elevation: 231
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Corvo Airport
+city: Corvo
+country: Portugal
+iata: CVU
+icao: LPCR
+latitude: 39.6715
+longitude: -31.1136
+elevation: 0
+utc_offset: -1
+_class: E
+timezone: Atlantic/Azores

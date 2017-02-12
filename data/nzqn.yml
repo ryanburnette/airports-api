@@ -1,0 +1,12 @@
+---
+airport_name: Queenstown
+city: Queenstown International
+country: New Zealand
+iata: ZQN
+icao: NZQN
+latitude: -45.021111
+longitude: 168.739167
+elevation: 1171
+utc_offset: 12
+_class: Z
+timezone: Pacific/Auckland

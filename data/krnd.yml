@@ -1,0 +1,12 @@
+---
+airport_name: Randolph Afb
+city: San Antonio
+country: United States
+iata: RND
+icao: KRND
+latitude: 29.529675
+longitude: -98.2789
+elevation: 762
+utc_offset: -6
+_class: A
+timezone: America/Chicago

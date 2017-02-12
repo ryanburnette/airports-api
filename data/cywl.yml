@@ -1,0 +1,12 @@
+---
+airport_name: Williams Lake
+city: Williams Lake
+country: Canada
+iata: YWL
+icao: CYWL
+latitude: 52.183056
+longitude: -122.054167
+elevation: 3085
+utc_offset: -8
+_class: A
+timezone: America/Vancouver

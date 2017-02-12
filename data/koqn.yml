@@ -1,0 +1,12 @@
+---
+airport_name: Brandywine Airport
+city: West Goshen Township
+country: United States
+iata: OQN
+icao: KOQN
+latitude: 39.5924
+longitude: -75.3455
+elevation: 466
+utc_offset: -5
+_class: A
+timezone: America/New_York

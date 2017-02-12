@@ -1,0 +1,12 @@
+---
+airport_name: Namest
+city: Namest
+country: Czech Republic
+iata: 
+icao: LKNA
+latitude: 49.165833
+longitude: 16.124925
+elevation: 1548
+utc_offset: 1
+_class: E
+timezone: Europe/Prague

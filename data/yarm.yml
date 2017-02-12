@@ -1,0 +1,12 @@
+---
+airport_name: Armidale
+city: Armidale
+country: Australia
+iata: ARM
+icao: YARM
+latitude: -30.528056
+longitude: 151.617222
+elevation: 3556
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

@@ -1,0 +1,12 @@
+---
+airport_name: Stapleton
+city: Denver
+country: United States
+iata: 
+icao: 
+latitude: 39.779255
+longitude: -104.88184
+elevation: 5333
+utc_offset: -7
+_class: A
+timezone: America/Denver

@@ -1,0 +1,12 @@
+---
+airport_name: La Chinita Intl
+city: Maracaibo
+country: Venezuela
+iata: MAR
+icao: SVMC
+latitude: 10.558208
+longitude: -71.727856
+elevation: 235
+utc_offset: -4.5
+_class: U
+timezone: America/Caracas

@@ -1,0 +1,12 @@
+---
+airport_name: Grand Junction Regional
+city: Grand Junction
+country: United States
+iata: GJT
+icao: KGJT
+latitude: 39.122413
+longitude: -108.526735
+elevation: 4858
+utc_offset: -7
+_class: A
+timezone: America/Denver

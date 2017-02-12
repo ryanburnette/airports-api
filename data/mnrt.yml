@@ -1,0 +1,12 @@
+---
+airport_name: Rosita Airport
+city: Rosita
+country: Nicaragua
+iata: RFS
+icao: MNRT
+latitude: 13.897222
+longitude: -84.404722
+elevation: 207
+utc_offset: -6
+_class: U
+timezone: America/Managua

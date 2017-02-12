@@ -1,0 +1,12 @@
+---
+airport_name: Cotulla Lasalle Co
+city: Cotulla
+country: United States
+iata: COT
+icao: KCOT
+latitude: 28.456694
+longitude: -99.220294
+elevation: 474
+utc_offset: -6
+_class: A
+timezone: America/Chicago

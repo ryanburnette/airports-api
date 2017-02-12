@@ -1,0 +1,12 @@
+---
+airport_name: Glendale Municipal Airport
+city: Glendale
+country: United States
+iata: GEU
+icao: KGEU
+latitude: 33.5269167
+longitude: -112.2951389
+elevation: 1071
+utc_offset: -7
+_class: N
+timezone: America/Phoenix

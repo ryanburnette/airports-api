@@ -1,0 +1,12 @@
+---
+airport_name: Santiago Perez
+city: Arauca
+country: Colombia
+iata: AUC
+icao: SKUC
+latitude: 7.068881
+longitude: -70.736925
+elevation: 420
+utc_offset: -5
+_class: U
+timezone: America/Bogota

@@ -1,0 +1,12 @@
+---
+airport_name: Americana
+city: Americana
+country: Brazil
+iata: 
+icao: SDAI
+latitude: -22.7558
+longitude: -47.269402
+elevation: 2085
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

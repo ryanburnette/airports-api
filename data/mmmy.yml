@@ -1,0 +1,12 @@
+---
+airport_name: General Mariano Escobedo Intl
+city: Monterrey
+country: Mexico
+iata: MTY
+icao: MMMY
+latitude: 25.778489
+longitude: -100.106878
+elevation: 1278
+utc_offset: -6
+_class: S
+timezone: America/Mexico_City

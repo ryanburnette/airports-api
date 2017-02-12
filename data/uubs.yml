@@ -1,0 +1,12 @@
+---
+airport_name: Grabtsevo
+city: Kaluga
+country: Russia
+iata: KLF
+icao: UUBS
+latitude: 54.55
+longitude: 36.367
+elevation: 600
+utc_offset: 4
+_class: E
+timezone: Europe/Moscow

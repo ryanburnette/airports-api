@@ -1,0 +1,12 @@
+---
+airport_name: Idlewild Intl
+city: New York
+country: United States
+iata: IDL
+icao: KIDL
+latitude: 40.639751
+longitude: -73.778924
+elevation: 13
+utc_offset: -5
+_class: A
+timezone: America/New_York

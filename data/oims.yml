@@ -1,0 +1,12 @@
+---
+airport_name: Sabzevar National Airport
+city: Sabzevar
+country: Iran
+iata: AFZ
+icao: OIMS
+latitude: 36.168083
+longitude: 57.595183
+elevation: 3010
+utc_offset: 3.5
+_class: E
+timezone: Asia/Tehran

@@ -1,0 +1,12 @@
+---
+airport_name: Magic Valley Regional Airport
+city: Twin Falls
+country: United States
+iata: TWF
+icao: KTWF
+latitude: 42.481803
+longitude: -114.487733
+elevation: 4151
+utc_offset: -7
+_class: A
+timezone: America/Denver

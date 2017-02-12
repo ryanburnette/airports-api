@@ -1,0 +1,12 @@
+---
+airport_name: Araxa Airport
+city: Araxa
+country: Brazil
+iata: AAX
+icao: SBAX
+latitude: -19.563056
+longitude: -46.960278
+elevation: 3276
+utc_offset: -3
+_class: S
+timezone: America/Sao_Paulo

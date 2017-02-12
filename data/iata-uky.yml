@@ -1,0 +1,12 @@
+---
+airport_name: Kyoto
+city: Kyoto
+country: Japan
+iata: UKY
+icao: 
+latitude: 35.016667
+longitude: 135.766667
+elevation: 262
+utc_offset: 9
+_class: N
+timezone: Asia/Tokyo

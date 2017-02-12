@@ -1,0 +1,12 @@
+---
+airport_name: Kithira
+city: Kithira
+country: Greece
+iata: KIT
+icao: LGKC
+latitude: 36.274258
+longitude: 23.016978
+elevation: 1045
+utc_offset: 2
+_class: E
+timezone: Europe/Athens

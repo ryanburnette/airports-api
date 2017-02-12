@@ -1,0 +1,12 @@
+---
+airport_name: Grider Fld
+city: Pine Bluff
+country: United States
+iata: PBF
+icao: KPBF
+latitude: 34.173142
+longitude: -91.935597
+elevation: 206
+utc_offset: -6
+_class: A
+timezone: America/Chicago

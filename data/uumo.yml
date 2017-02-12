@@ -1,0 +1,12 @@
+---
+airport_name: Ostafyevo International Airport
+city: Moscow
+country: Russia
+iata: 
+icao: UUMO
+latitude: 55.511667
+longitude: 37.507222
+elevation: 568
+utc_offset: 4
+_class: N
+timezone: Europe/Moscow

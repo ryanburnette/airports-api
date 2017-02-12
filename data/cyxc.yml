@@ -1,0 +1,12 @@
+---
+airport_name: Canadian Rockies Intl
+city: Cranbrook
+country: Canada
+iata: YXC
+icao: CYXC
+latitude: 49.612222
+longitude: -115.781944
+elevation: 3084
+utc_offset: -7
+_class: A
+timezone: America/Edmonton

@@ -1,0 +1,12 @@
+---
+airport_name: Amsterdam Centraal
+city: Amsterdam
+country: Netherlands
+iata: ZYA
+icao: 
+latitude: 52.7873
+longitude: 4.90074
+elevation: 0
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

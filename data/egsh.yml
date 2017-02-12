@@ -1,0 +1,12 @@
+---
+airport_name: Norwich
+city: Norwich
+country: United Kingdom
+iata: NWI
+icao: EGSH
+latitude: 52.675833
+longitude: 1.282778
+elevation: 117
+utc_offset: 0
+_class: E
+timezone: Europe/London

@@ -1,0 +1,12 @@
+---
+airport_name: Nueva Loja Airport
+city: Lago Agrio
+country: Ecuador
+iata: LGQ
+icao: SELA
+latitude: 0.093056
+longitude: -76.8675
+elevation: 980
+utc_offset: -5
+_class: U
+timezone: America/Guayaquil

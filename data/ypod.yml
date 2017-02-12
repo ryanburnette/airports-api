@@ -1,0 +1,12 @@
+---
+airport_name: Portland Airport
+city: Portland
+country: Australia
+iata: PTJ
+icao: YPOD
+latitude: -38.3181
+longitude: 141.471
+elevation: 265
+utc_offset: 10
+_class: O
+timezone: Australia/Hobart

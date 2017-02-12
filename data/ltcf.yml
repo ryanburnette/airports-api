@@ -1,0 +1,12 @@
+---
+airport_name: Kars Airport
+city: Kars
+country: Turkey
+iata: KSY
+icao: LTCF
+latitude: 40.562222
+longitude: 43.115002
+elevation: 5889
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

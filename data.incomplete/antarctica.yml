@@ -1,0 +1,12 @@
+---
+airport_name: Antarctica
+city: Antarctica
+country: Antarctica
+iata: 
+icao: 
+latitude: -66
+longitude: 90
+elevation: 8000
+utc_offset: 12
+_class: N
+timezone: Antarctica/South_Pole

@@ -1,0 +1,12 @@
+---
+airport_name: Chile Chico
+city: Chile Chico
+country: Chile
+iata: CCH
+icao: SCCC
+latitude: -46.583341
+longitude: -71.687405
+elevation: 1070
+utc_offset: -4
+_class: S
+timezone: America/Santiago

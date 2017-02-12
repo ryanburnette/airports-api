@@ -1,0 +1,12 @@
+---
+airport_name: La Roche
+city: Brive
+country: France
+iata: BVE
+icao: LFSL
+latitude: 45.150833
+longitude: 1.469167
+elevation: 379
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

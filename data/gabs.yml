@@ -1,0 +1,12 @@
+---
+airport_name: Senou
+city: Bamako
+country: Mali
+iata: BKO
+icao: GABS
+latitude: 12.533544
+longitude: -7.949944
+elevation: 1247
+utc_offset: 0
+_class: N
+timezone: Africa/Bamako

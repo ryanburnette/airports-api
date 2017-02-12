@@ -1,0 +1,12 @@
+---
+airport_name: Luce County Airport
+city: Newberry
+country: United States
+iata: ERY
+icao: KERY
+latitude: 46.311199
+longitude: -85.457298
+elevation: 869
+utc_offset: -5
+_class: A
+timezone: America/New_York

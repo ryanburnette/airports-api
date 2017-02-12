@@ -1,0 +1,12 @@
+---
+airport_name: San Diego Old Town Transit Center
+city: San Diego
+country: United States
+iata: OLT
+icao: 
+latitude: 32.7552
+longitude: -117.1995
+elevation: 0
+utc_offset: -8
+_class: A
+timezone: America/Los_Angeles

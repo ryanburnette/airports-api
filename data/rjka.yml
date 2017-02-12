@@ -1,0 +1,12 @@
+---
+airport_name: Amami
+city: Amami
+country: Japan
+iata: ASJ
+icao: RJKA
+latitude: 28.430633
+longitude: 129.712542
+elevation: 27
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

@@ -1,0 +1,12 @@
+---
+airport_name: Calonne
+city: Merville
+country: France
+iata: 
+icao: LFQT
+latitude: 50.618394
+longitude: 2.642242
+elevation: 61
+utc_offset: 1
+_class: E
+timezone: Europe/Paris

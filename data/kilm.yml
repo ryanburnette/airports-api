@@ -1,0 +1,12 @@
+---
+airport_name: Wilmington Intl
+city: Wilmington
+country: United States
+iata: ILM
+icao: KILM
+latitude: 34.270615
+longitude: -77.902569
+elevation: 32
+utc_offset: -5
+_class: A
+timezone: America/New_York

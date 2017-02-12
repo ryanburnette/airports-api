@@ -1,0 +1,12 @@
+---
+airport_name: Kallax
+city: Lulea
+country: Sweden
+iata: LLA
+icao: ESPA
+latitude: 65.543758
+longitude: 22.121989
+elevation: 65
+utc_offset: 1
+_class: E
+timezone: Europe/Stockholm

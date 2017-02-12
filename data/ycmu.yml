@@ -1,0 +1,12 @@
+---
+airport_name: Cunnamulla Airport
+city: Cunnamulla
+country: Australia
+iata: CMA
+icao: YCMU
+latitude: -28.03
+longitude: 145.622
+elevation: 630
+utc_offset: 10
+_class: O
+timezone: Australia/Brisbane

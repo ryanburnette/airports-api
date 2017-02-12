@@ -1,0 +1,12 @@
+---
+airport_name: Langley Afb
+city: Hampton
+country: United States
+iata: LFI
+icao: KLFI
+latitude: 37.082881
+longitude: -76.360547
+elevation: 11
+utc_offset: -5
+_class: A
+timezone: America/New_York

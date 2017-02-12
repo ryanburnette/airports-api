@@ -1,0 +1,12 @@
+---
+airport_name: Erzurum
+city: Erzurum
+country: Turkey
+iata: ERZ
+icao: LTCE
+latitude: 39.956501
+longitude: 41.170166
+elevation: 5763
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

@@ -1,0 +1,12 @@
+---
+airport_name: Røst Airport
+city: Røst
+country: Norway
+iata: RET
+icao: ENRS
+latitude: 67.5278
+longitude: 12.1033
+elevation: 7
+utc_offset: 1
+_class: E
+timezone: Europe/Oslo

@@ -1,0 +1,12 @@
+---
+airport_name: Tamworth
+city: Tamworth
+country: Australia
+iata: TMW
+icao: YSTW
+latitude: -31.083889
+longitude: 150.846667
+elevation: 1334
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

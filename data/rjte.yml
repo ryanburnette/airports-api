@@ -1,0 +1,12 @@
+---
+airport_name: Tateyama
+city: Tateyama
+country: Japan
+iata: 
+icao: RJTE
+latitude: 34.987053
+longitude: 139.829208
+elevation: 10
+utc_offset: 9
+_class: U
+timezone: Asia/Tokyo

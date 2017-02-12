@@ -1,0 +1,12 @@
+---
+airport_name: Erzincan
+city: Erzincan
+country: Turkey
+iata: ERC
+icao: LTCD
+latitude: 39.710203
+longitude: 39.527003
+elevation: 3783
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

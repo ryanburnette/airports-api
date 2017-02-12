@@ -1,0 +1,12 @@
+---
+airport_name: Carrillo Airport
+city: Carrillo
+country: Costa Rica
+iata: RIK
+icao: MRCR
+latitude: 9.866667
+longitude: -85.483333
+elevation: 10
+utc_offset: -6
+_class: U
+timezone: America/Costa_Rica

@@ -1,0 +1,12 @@
+---
+airport_name: Caldwell Essex County Airport
+city: Caldwell
+country: United States
+iata: CDW
+icao: KCDW
+latitude: 40.8752222
+longitude: -74.2813611
+elevation: 172
+utc_offset: -5
+_class: A
+timezone: America/New_York

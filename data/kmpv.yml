@@ -1,0 +1,12 @@
+---
+airport_name: Edward F Knapp State
+city: Montpelier
+country: United States
+iata: MPV
+icao: KMPV
+latitude: 44.203503
+longitude: -72.562328
+elevation: 1165
+utc_offset: -5
+_class: A
+timezone: America/New_York

@@ -1,0 +1,12 @@
+---
+airport_name: Ventspils International Airport
+city: Ventspils
+country: Latvia
+iata: VTS
+icao: EVVA
+latitude: 57.357778
+longitude: 21.544167
+elevation: 19
+utc_offset: 2
+_class: E
+timezone: Europe/Riga

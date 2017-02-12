@@ -1,0 +1,12 @@
+---
+airport_name: Samandira
+city: Istanbul
+country: Turkey
+iata: 
+icao: LTBX
+latitude: 40.992975
+longitude: 29.216539
+elevation: 400
+utc_offset: 2
+_class: E
+timezone: Europe/Istanbul

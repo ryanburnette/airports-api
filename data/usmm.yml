@@ -1,0 +1,12 @@
+---
+airport_name: Nadym Airport
+city: Nadym
+country: Russia
+iata: NYM
+icao: USMM
+latitude: 65.4809
+longitude: 72.6989
+elevation: 49
+utc_offset: 6
+_class: N
+timezone: Asia/Yekaterinburg

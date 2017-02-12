@@ -1,0 +1,12 @@
+---
+airport_name: Altus Afb
+city: Altus
+country: United States
+iata: LTS
+icao: KLTS
+latitude: 34.667067
+longitude: -99.266681
+elevation: 1382
+utc_offset: -6
+_class: A
+timezone: America/Chicago

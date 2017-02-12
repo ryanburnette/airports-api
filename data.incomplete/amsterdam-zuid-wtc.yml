@@ -1,0 +1,12 @@
+---
+airport_name: Amsterdam Zuid WTC
+city: Amsterdam
+country: Netherlands
+iata: 
+icao: 
+latitude: 52.338841
+longitude: 4.871471
+elevation: 10
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

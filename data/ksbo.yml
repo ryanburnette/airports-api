@@ -1,0 +1,12 @@
+---
+airport_name: Emanuel Co
+city: Santa Barbara
+country: United States
+iata: SBO
+icao: KSBO
+latitude: 32.609139
+longitude: -82.369944
+elevation: 327
+utc_offset: -5
+_class: A
+timezone: America/New_York

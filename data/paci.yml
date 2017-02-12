@@ -1,0 +1,12 @@
+---
+airport_name: Chalkyitsik Airport
+city: Chalkyitsik
+country: United States
+iata: CIK
+icao: PACI
+latitude: 66.645
+longitude: -143.74
+elevation: 544
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

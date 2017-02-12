@@ -1,0 +1,12 @@
+---
+airport_name: Council Airport
+city: Council
+country: United States
+iata: CIL
+icao: 
+latitude: 64.897778
+longitude: -163.703333
+elevation: 85
+utc_offset: -9
+_class: A
+timezone: America/Anchorage

@@ -1,0 +1,12 @@
+---
+airport_name: Soldotna Airport
+city: Soldotna
+country: United States
+iata: SXQ
+icao: 
+latitude: 60.4749583
+longitude: -151.0382389
+elevation: 113
+utc_offset: -9
+_class: U
+timezone: America/Anchorage

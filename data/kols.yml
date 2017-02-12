@@ -1,0 +1,12 @@
+---
+airport_name: Nogales Intl
+city: Nogales
+country: United States
+iata: OLS
+icao: KOLS
+latitude: 31.417722
+longitude: -110.84789
+elevation: 3955
+utc_offset: -7
+_class: A
+timezone: America/Phoenix

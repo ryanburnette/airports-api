@@ -1,0 +1,12 @@
+---
+airport_name: Newcastle Airport
+city: Newcastle
+country: Australia
+iata: NTL
+icao: YWLM
+latitude: -32.78
+longitude: 151.83
+elevation: 31
+utc_offset: 10
+_class: O
+timezone: Australia/Sydney

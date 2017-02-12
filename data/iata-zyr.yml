@@ -1,0 +1,12 @@
+---
+airport_name: Brussels Gare du Midi
+city: Brussels
+country: Belgium
+iata: ZYR
+icao: 
+latitude: 50.8
+longitude: 4.4
+elevation: 180
+utc_offset: 1
+_class: E
+timezone: Europe/Brussels

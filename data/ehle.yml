@@ -1,0 +1,12 @@
+---
+airport_name: Lelystad
+city: Lelystad
+country: Netherlands
+iata: 
+icao: EHLE
+latitude: 52.460278
+longitude: 5.527222
+elevation: -13
+utc_offset: 1
+_class: E
+timezone: Europe/Amsterdam

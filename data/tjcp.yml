@@ -1,0 +1,12 @@
+---
+airport_name: Culebra Airport
+city: Culebra Island
+country: Puerto Rico
+iata: CPX
+icao: TJCP
+latitude: 18.3127
+longitude: -65.3034
+elevation: 12
+utc_offset: -4
+_class: U
+timezone: America/Puerto_Rico

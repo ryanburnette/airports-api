@@ -1,0 +1,12 @@
+---
+airport_name: Port Alsworth Airport
+city: Port alsworth
+country: United States
+iata: PTA
+icao: PALJ
+latitude: 60.208281
+longitude: -154.306586
+elevation: 253
+utc_offset: -9
+_class: A
+timezone: America/Anchorage
