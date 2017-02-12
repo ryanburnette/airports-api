@@ -1,3 +1,5 @@
+load "lib/load_airports.rb"
+
 set :layout, false
 page "*.json", :content_type => "application/json"
 
@@ -8,11 +10,13 @@ configure :build do
 end
 
 helpers do
+  def airports
+    load_airports
+  end
 end
 
 proxy_file = "airport.json"
 ignore proxy_file
-load "lib/load_airports.rb"
 load_airports.each do |a|
   a.delete(:id)
   if a[:icao]
