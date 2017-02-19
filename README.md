@@ -1,4 +1,4 @@
-# Far Almanac Airports API
+# FAR Almanac Airports API
 
 The goal of this API is for some basic data about any airport to be available
 anytime.
