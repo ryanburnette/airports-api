@@ -7,10 +7,10 @@ aviation applications as a central data source with an API wrapper.
 
 Find an airport by ICAO identifier.
 
-Make a request.
+Make a request to the API. Let's say we want some information about [KATL][1].
 
 ```sh
-curl [https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json](https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json)
+curl https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json
 ```
 
 Get a response.
@@ -42,3 +42,5 @@ Please fork and make a pull request to contribute.
 ## License
 
 Apache2
+
+[1]: https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json
