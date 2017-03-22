@@ -10,7 +10,7 @@ Find an airport by ICAO identifier.
 Make a request.
 
 ```sh
-curl https://airports-api.s3-us-west-2.amazonaws.com//icao/katl.json
+curl [https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json](https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json)
 ```
 
 Get a response.
