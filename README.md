@@ -1,10 +1,7 @@
-# FAR Almanac Airports API
+# Airports API
 
-The goal of this API is for some basic data about any airport to be available
-anytime.
-
-The initial goal for this project was to provide a quick way to determine
-the time zone and UTC offset for most airports.
+An API endpoint for getting basic information about airports. Works great in
+aviation applications as a central data source with an API wrapper.
 
 ## Usage
 
@@ -13,7 +10,7 @@ Find an airport by ICAO identifier.
 Make a request.
 
 ```sh
-curl http://airports.api.faralmanac.com/icao/katl.json
+curl https://airports-api.s3-us-west-2.amazonaws.com//icao/katl.json
 ```
 
 Get a response.
