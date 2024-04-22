@@ -17,6 +17,7 @@ Get a response.
 
 ```json
 {
+    "_csv_row": 9,
     "airport_name": "Hartsfield Jackson Atlanta Intl",
     "city": "Atlanta",
     "country": "United States",
@@ -31,9 +32,21 @@ Get a response.
 }
 ```
 
-## Middleman
+## Static Generation
 
-The API is a static resource built on [Middleman](http://middlemanapp.com).
+The JSON files can be generated from the CSV with the included go script:
+
+```sh
+go run bin/airports-csv-to-json.go --csv ./airport-data/airports.csv
+```
+
+```text
+reading ./airport-data/airports.csv
+   wrote icao/.json
+   ...
+wrote errors.log for 1000 airports without an ICAO designation
+wrote icao.json
+```
 
 ## Contribute
 
