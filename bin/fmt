@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+set -u
+
+npx -p prettier@3 -- prettier -w ./README.md

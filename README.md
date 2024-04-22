@@ -16,18 +16,18 @@ curl https://airports-api.s3-us-west-2.amazonaws.com/icao/katl.json
 Get a response.
 
 ```json
-{  
-   "airport_name":"Hartsfield Jackson Atlanta Intl",
-   "city":"Atlanta",
-   "country":"United States",
-   "iata":"ATL",
-   "icao":"KATL",
-   "latitude":33.636719,
-   "longitude":-84.428067,
-   "elevation":1026,
-   "utc_offset":-5,
-   "_class":"A",
-   "timezone":"America/New_York"
+{
+    "airport_name": "Hartsfield Jackson Atlanta Intl",
+    "city": "Atlanta",
+    "country": "United States",
+    "iata": "ATL",
+    "icao": "KATL",
+    "latitude": 33.636719,
+    "longitude": -84.428067,
+    "elevation": 1026,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
 }
 ```
 
