@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8299",
+    "airport_name": "Dalton Municipal Airport",
+    "city": "Dalton",
+    "country": "United States",
+    "iata": "DNN",
+    "icao": "KDNN",
+    "latitude": 34.7229444,
+    "longitude": -84.87025,
+    "elevation": 709,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

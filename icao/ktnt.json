@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3721",
+    "airport_name": "Dade Collier Training And Transition",
+    "city": "Miami",
+    "country": "United States",
+    "iata": "TNT",
+    "icao": "KTNT",
+    "latitude": 25.861806,
+    "longitude": -80.897,
+    "elevation": 13,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

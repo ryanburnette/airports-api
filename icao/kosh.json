@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6909",
+    "airport_name": "Wittman Regional Airport",
+    "city": "Oshkosh",
+    "country": "United States",
+    "iata": "OSH",
+    "icao": "KOSH",
+    "latitude": 44.024983,
+    "longitude": -88.551336,
+    "elevation": 790,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3720",
+    "airport_name": "Portland Intl",
+    "city": "Portland",
+    "country": "United States",
+    "iata": "PDX",
+    "icao": "KPDX",
+    "latitude": 45.588722,
+    "longitude": -122.5975,
+    "elevation": 30,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "363",
+    "airport_name": "Kiel Holtenau",
+    "city": "Kiel",
+    "country": "Germany",
+    "iata": "KEL",
+    "icao": "EDHK",
+    "latitude": 54.3795,
+    "longitude": 10.145167,
+    "elevation": 101,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

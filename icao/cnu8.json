@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9238",
+    "airport_name": "Markham",
+    "city": "Markham",
+    "country": "Canada",
+    "iata": "NU8",
+    "icao": "CNU8",
+    "latitude": 43.935278,
+    "longitude": -79.263333,
+    "elevation": 807,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

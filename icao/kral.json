@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3799",
+    "airport_name": "Riverside Muni",
+    "city": "Riverside",
+    "country": "United States",
+    "iata": "RAL",
+    "icao": "KRAL",
+    "latitude": 33.951875,
+    "longitude": -117.445103,
+    "elevation": 818,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

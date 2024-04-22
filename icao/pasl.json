@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7240",
+    "airport_name": "Sleetmute Airport",
+    "city": "Sleetmute",
+    "country": "United States",
+    "iata": "SLQ",
+    "icao": "PASL",
+    "latitude": 61.700566,
+    "longitude": -157.165833,
+    "elevation": 190,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

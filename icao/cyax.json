@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5483",
+    "airport_name": "Lac Du Bonnet Airport",
+    "city": "Lac Du Bonnet",
+    "country": "Canada",
+    "iata": "",
+    "icao": "CYAX",
+    "latitude": 50.2944,
+    "longitude": -96.01,
+    "elevation": 850,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

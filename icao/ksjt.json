@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3708",
+    "airport_name": "San Angelo Rgnl Mathis Fld",
+    "city": "San Angelo",
+    "country": "United States",
+    "iata": "SJT",
+    "icao": "KSJT",
+    "latitude": 31.35775,
+    "longitude": -100.496306,
+    "elevation": 1919,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

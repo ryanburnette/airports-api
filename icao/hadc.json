@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5678",
+    "airport_name": "Combolcha Airport",
+    "city": "Dessie",
+    "country": "Ethiopia",
+    "iata": "DSE",
+    "icao": "HADC",
+    "latitude": 11.0825,
+    "longitude": 39.7114,
+    "elevation": 6117,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8380",
+    "airport_name": "Mallacoota Airport",
+    "city": "Mallacoota",
+    "country": "Australia",
+    "iata": "XMC",
+    "icao": "YMCO",
+    "latitude": -37.598301,
+    "longitude": 149.720001,
+    "elevation": 31,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Australia/Hobart"
+}

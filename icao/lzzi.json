@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5806",
+    "airport_name": "Žilina Airport",
+    "city": "Žilina",
+    "country": "Slovakia",
+    "iata": "ILZ",
+    "icao": "LZZI",
+    "latitude": 49.231528,
+    "longitude": 18.6135,
+    "elevation": 1020,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Bratislava"
+}

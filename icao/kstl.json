@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3678",
+    "airport_name": "Lambert St Louis Intl",
+    "city": "St. Louis",
+    "country": "United States",
+    "iata": "STL",
+    "icao": "KSTL",
+    "latitude": 38.748697,
+    "longitude": -90.370028,
+    "elevation": 618,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

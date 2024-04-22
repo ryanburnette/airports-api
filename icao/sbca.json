@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2535",
+    "airport_name": "Cascavel",
+    "city": "Cascavel",
+    "country": "Brazil",
+    "iata": "CAC",
+    "icao": "SBCA",
+    "latitude": -25.000339,
+    "longitude": -53.500764,
+    "elevation": 2473,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

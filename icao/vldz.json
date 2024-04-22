@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9514",
+    "airport_name": "Ferry Terminal",
+    "city": "Valdez",
+    "country": "United States",
+    "iata": "",
+    "icao": "VLDZ",
+    "latitude": 61.123976,
+    "longitude": -146.365309,
+    "elevation": 0,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5763",
+    "airport_name": "Pease International Tradeport",
+    "city": "Portsmouth",
+    "country": "United States",
+    "iata": "PSM",
+    "icao": "KPSM",
+    "latitude": 43.0779,
+    "longitude": -70.8233,
+    "elevation": 100,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

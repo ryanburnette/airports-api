@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5967",
+    "airport_name": "Aniak Airport",
+    "city": "Aniak",
+    "country": "United States",
+    "iata": "ANI",
+    "icao": "PANI",
+    "latitude": 61.5816,
+    "longitude": -159.543,
+    "elevation": 88,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

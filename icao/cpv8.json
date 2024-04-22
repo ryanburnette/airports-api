@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8355",
+    "airport_name": "Keewaywin",
+    "city": "Keewaywin",
+    "country": "Canada",
+    "iata": "KEW",
+    "icao": "CPV8",
+    "latitude": 52.991111,
+    "longitude": -92.836389,
+    "elevation": 988,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

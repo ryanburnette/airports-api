@@ -1,0 +1,14 @@
+{
+    "_csv_row": "478",
+    "airport_name": "Manchester",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "iata": "MAN",
+    "icao": "EGCC",
+    "latitude": 53.353744,
+    "longitude": -2.27495,
+    "elevation": 257,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3010",
+    "airport_name": "Jamnagar",
+    "city": "Jamnagar",
+    "country": "India",
+    "iata": "JGA",
+    "icao": "VAJM",
+    "latitude": 22.465522,
+    "longitude": 70.012556,
+    "elevation": 69,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

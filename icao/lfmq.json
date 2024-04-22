@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1357",
+    "airport_name": "Le Castellet",
+    "city": "Le Castellet",
+    "country": "France",
+    "iata": "CTT",
+    "icao": "LFMQ",
+    "latitude": 43.252506,
+    "longitude": 5.785189,
+    "elevation": 1391,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

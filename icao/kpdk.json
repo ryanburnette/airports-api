@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7654",
+    "airport_name": "Dekalb-Peachtree Airport",
+    "city": "Atlanta",
+    "country": "United States",
+    "iata": "PDK",
+    "icao": "KPDK",
+    "latitude": 33.8756111,
+    "longitude": -84.3019722,
+    "elevation": 1003,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

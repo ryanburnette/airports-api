@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8859",
+    "airport_name": "GOETSENHOVEN AB",
+    "city": "GOETSENHOVEN",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBTN",
+    "latitude": 50.7817,
+    "longitude": 4.95778,
+    "elevation": 246,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

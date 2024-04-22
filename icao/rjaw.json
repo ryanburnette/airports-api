@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2283",
+    "airport_name": "Iwo Jima",
+    "city": "Iwojima",
+    "country": "Japan",
+    "iata": "IWO",
+    "icao": "RJAW",
+    "latitude": 24.784,
+    "longitude": 141.322722,
+    "elevation": 384,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "109",
+    "airport_name": "Fort Chipewyan",
+    "city": "Fort Chipewyan",
+    "country": "Canada",
+    "iata": "YPY",
+    "icao": "CYPY",
+    "latitude": 58.767223,
+    "longitude": -111.117222,
+    "elevation": 761,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

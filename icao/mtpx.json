@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5851",
+    "airport_name": "Port-de-Paix Airport",
+    "city": "Port-de-Paix",
+    "country": "Haiti",
+    "iata": "PAX",
+    "icao": "MTPX",
+    "latitude": 19.9336,
+    "longitude": -72.8486,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Port-au-Prince"
+}

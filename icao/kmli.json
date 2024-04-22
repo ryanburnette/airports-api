@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4072",
+    "airport_name": "Quad City Intl",
+    "city": "Moline",
+    "country": "United States",
+    "iata": "MLI",
+    "icao": "KMLI",
+    "latitude": 41.448528,
+    "longitude": -90.507539,
+    "elevation": 590,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

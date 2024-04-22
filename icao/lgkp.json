@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1459",
+    "airport_name": "Karpathos",
+    "city": "Karpathos",
+    "country": "Greece",
+    "iata": "AOK",
+    "icao": "LGKP",
+    "latitude": 35.421408,
+    "longitude": 27.146008,
+    "elevation": 66,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

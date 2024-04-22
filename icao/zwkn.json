@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8233",
+    "airport_name": "Kanas Airport",
+    "city": "Burqin",
+    "country": "China",
+    "iata": "KJI",
+    "icao": "ZWKN",
+    "latitude": 48.221111,
+    "longitude": 86.998056,
+    "elevation": 3900,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

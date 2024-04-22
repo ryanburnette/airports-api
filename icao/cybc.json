@@ -1,0 +1,14 @@
+{
+    "_csv_row": "27",
+    "airport_name": "Baie Comeau",
+    "city": "Baie Comeau",
+    "country": "Canada",
+    "iata": "YBC",
+    "icao": "CYBC",
+    "latitude": 49.1325,
+    "longitude": -68.204444,
+    "elevation": 71,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

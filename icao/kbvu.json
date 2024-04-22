@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6449",
+    "airport_name": "Boulder City Municipal Airport",
+    "city": "Boulder City",
+    "country": "United States",
+    "iata": "BLD",
+    "icao": "KBVU",
+    "latitude": 35.5651,
+    "longitude": -114.514,
+    "elevation": 2201,
+    "utc_offset": -7,
+    "_class": "U",
+    "timezone": "America/Phoenix"
+}

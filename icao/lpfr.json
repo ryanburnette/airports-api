@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1626",
+    "airport_name": "Faro",
+    "city": "Faro",
+    "country": "Portugal",
+    "iata": "FAO",
+    "icao": "LPFR",
+    "latitude": 37.014425,
+    "longitude": -7.965911,
+    "elevation": 24,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Lisbon"
+}

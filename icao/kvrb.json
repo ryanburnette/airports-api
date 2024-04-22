@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3688",
+    "airport_name": "Vero Beach Muni",
+    "city": "Vero Beach",
+    "country": "United States",
+    "iata": "VRB",
+    "icao": "KVRB",
+    "latitude": 27.655556,
+    "longitude": -80.417944,
+    "elevation": 24,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8664",
+    "airport_name": "Poplar Bluff Municipal Airport",
+    "city": "Poplar Bluff",
+    "country": "United States",
+    "iata": "POF",
+    "icao": "KPOF",
+    "latitude": 36.77394444,
+    "longitude": -90.3248611,
+    "elevation": 331,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

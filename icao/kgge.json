@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8792",
+    "airport_name": "Georgetown County Airport",
+    "city": "Georgetown",
+    "country": "United States",
+    "iata": "GGE",
+    "icao": "KGGE",
+    "latitude": 33.3114018,
+    "longitude": -79.3203139,
+    "elevation": 40,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

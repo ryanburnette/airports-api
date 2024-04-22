@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4103",
+    "airport_name": "Roberts Fld",
+    "city": "Redmond-Bend",
+    "country": "United States",
+    "iata": "RDM",
+    "icao": "KRDM",
+    "latitude": 44.254066,
+    "longitude": -121.149964,
+    "elevation": 3077,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

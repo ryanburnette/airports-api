@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6289",
+    "airport_name": "Longreach Airport",
+    "city": "Longreach",
+    "country": "Australia",
+    "iata": "LRE",
+    "icao": "YLRE",
+    "latitude": -23.4342,
+    "longitude": 144.28,
+    "elevation": 627,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

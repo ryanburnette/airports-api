@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8224",
+    "airport_name": "Victoria Airport Water Aerodrome",
+    "city": "Patricia Bay",
+    "country": "Canada",
+    "iata": "",
+    "icao": "CAP5",
+    "latitude": 48.65,
+    "longitude": -123.45,
+    "elevation": 0,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

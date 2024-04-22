@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3659",
+    "airport_name": "Sloulin Fld Intl",
+    "city": "Williston",
+    "country": "United States",
+    "iata": "ISN",
+    "icao": "KISN",
+    "latitude": 48.177939,
+    "longitude": -103.642347,
+    "elevation": 1982,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

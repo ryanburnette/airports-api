@@ -1,0 +1,14 @@
+{
+    "_csv_row": "755",
+    "airport_name": "Celle",
+    "city": "Celle",
+    "country": "Germany",
+    "iata": "ZCN",
+    "icao": "ETHC",
+    "latitude": 52.5912,
+    "longitude": 10.022133,
+    "elevation": 129,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

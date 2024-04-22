@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1770",
+    "airport_name": "San Jose",
+    "city": "San Jose",
+    "country": "Guatemala",
+    "iata": "",
+    "icao": "MGSJ",
+    "latitude": 13.936192,
+    "longitude": -90.835833,
+    "elevation": 29,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Guatemala"
+}

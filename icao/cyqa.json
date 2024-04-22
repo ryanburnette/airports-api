@@ -1,0 +1,14 @@
+{
+    "_csv_row": "110",
+    "airport_name": "Muskoka",
+    "city": "Muskoka",
+    "country": "Canada",
+    "iata": "YQA",
+    "icao": "CYQA",
+    "latitude": 44.974722,
+    "longitude": -79.303333,
+    "elevation": 925,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

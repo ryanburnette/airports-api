@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3543",
+    "airport_name": "Lincoln",
+    "city": "Lincoln",
+    "country": "United States",
+    "iata": "LNK",
+    "icao": "KLNK",
+    "latitude": 40.850971,
+    "longitude": -96.75925,
+    "elevation": 1219,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

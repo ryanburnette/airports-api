@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9447",
+    "airport_name": "Crystal Airport",
+    "city": "Crystal",
+    "country": "United States",
+    "iata": "MIC",
+    "icao": "KMIC",
+    "latitude": 45.0343,
+    "longitude": -93.2114,
+    "elevation": 869,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

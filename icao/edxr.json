@@ -1,0 +1,14 @@
+{
+    "_csv_row": "409",
+    "airport_name": "Rendsburg Schachtholm",
+    "city": "Rendsburg",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDXR",
+    "latitude": 54.220928,
+    "longitude": 9.600803,
+    "elevation": 23,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

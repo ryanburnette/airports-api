@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3781",
+    "airport_name": "North Central State",
+    "city": "Smithfield",
+    "country": "United States",
+    "iata": "SFZ",
+    "icao": "KSFZ",
+    "latitude": 41.920764,
+    "longitude": -71.491381,
+    "elevation": 441,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

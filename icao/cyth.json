@@ -1,0 +1,14 @@
+{
+    "_csv_row": "141",
+    "airport_name": "Thompson",
+    "city": "Thompson",
+    "country": "Canada",
+    "iata": "YTH",
+    "icao": "CYTH",
+    "latitude": 55.801111,
+    "longitude": -97.864166,
+    "elevation": 729,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

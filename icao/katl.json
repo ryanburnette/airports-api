@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3682",
+    "airport_name": "Hartsfield Jackson Atlanta Intl",
+    "city": "Atlanta",
+    "country": "United States",
+    "iata": "ATL",
+    "icao": "KATL",
+    "latitude": 33.636719,
+    "longitude": -84.428067,
+    "elevation": 1026,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

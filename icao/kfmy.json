@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3549",
+    "airport_name": "Page Fld",
+    "city": "Fort Myers",
+    "country": "United States",
+    "iata": "FMY",
+    "icao": "KFMY",
+    "latitude": 26.586611,
+    "longitude": -81.86325,
+    "elevation": 17,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

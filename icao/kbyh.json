@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3523",
+    "airport_name": "Arkansas Intl",
+    "city": "Blytheville",
+    "country": "United States",
+    "iata": "BYH",
+    "icao": "KBYH",
+    "latitude": 35.964347,
+    "longitude": -89.943956,
+    "elevation": 254,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

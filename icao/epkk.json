@@ -1,0 +1,14 @@
+{
+    "_csv_row": "669",
+    "airport_name": "Balice",
+    "city": "Krakow",
+    "country": "Poland",
+    "iata": "KRK",
+    "icao": "EPKK",
+    "latitude": 50.077731,
+    "longitude": 19.784836,
+    "elevation": 791,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

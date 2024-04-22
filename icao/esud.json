@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5598",
+    "airport_name": "Storuman Airport",
+    "city": "Mohed",
+    "country": "Sweden",
+    "iata": "SQO",
+    "icao": "ESUD",
+    "latitude": 64.960894,
+    "longitude": 17.696583,
+    "elevation": 915,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

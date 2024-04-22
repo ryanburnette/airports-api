@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1786",
+    "airport_name": "Bahias De Huatulco Intl",
+    "city": "Huatulco",
+    "country": "Mexico",
+    "iata": "HUX",
+    "icao": "MMBT",
+    "latitude": 15.775317,
+    "longitude": -96.262572,
+    "elevation": 464,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

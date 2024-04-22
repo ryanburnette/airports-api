@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4231",
+    "airport_name": "Ozona Muni",
+    "city": "Ozona",
+    "country": "United States",
+    "iata": "OZA",
+    "icao": "KOZA",
+    "latitude": 30.735281,
+    "longitude": -101.202972,
+    "elevation": 2381,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

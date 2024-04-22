@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8314",
+    "airport_name": "Hilton Head Airport",
+    "city": "Hilton Head Island",
+    "country": "United States",
+    "iata": "HXD",
+    "icao": "KHXD",
+    "latitude": 32.2243611,
+    "longitude": -80.6974722,
+    "elevation": 19,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

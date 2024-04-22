@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7982",
+    "airport_name": "Buckeye Municipal Airport",
+    "city": "Buckeye",
+    "country": "United States",
+    "iata": "BXK",
+    "icao": "KBXK",
+    "latitude": 33.420417,
+    "longitude": -112.68618,
+    "elevation": 1033,
+    "utc_offset": -7,
+    "_class": "U",
+    "timezone": "America/Phoenix"
+}

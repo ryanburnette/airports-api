@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9520",
+    "airport_name": "Gare",
+    "city": "St Andre",
+    "country": "Reunion",
+    "iata": "",
+    "icao": "ANDR",
+    "latitude": -20.963272,
+    "longitude": 55.652508,
+    "elevation": 100,
+    "utc_offset": 4,
+    "_class": "E",
+    "timezone": "Indian/Reunion"
+}

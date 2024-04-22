@@ -1,0 +1,14 @@
+{
+    "_csv_row": "799",
+    "airport_name": "Durban Intl",
+    "city": "Durban",
+    "country": "South Africa",
+    "iata": "DUR",
+    "icao": "FADN",
+    "latitude": -29.970089,
+    "longitude": 30.950519,
+    "elevation": 33,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

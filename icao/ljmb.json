@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1570",
+    "airport_name": "Maribor",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "iata": "MBX",
+    "icao": "LJMB",
+    "latitude": 46.479861,
+    "longitude": 15.686131,
+    "elevation": 876,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Ljubljana"
+}

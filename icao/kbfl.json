@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3558",
+    "airport_name": "Meadows Fld",
+    "city": "Bakersfield",
+    "country": "United States",
+    "iata": "BFL",
+    "icao": "KBFL",
+    "latitude": 35.433598,
+    "longitude": -119.05677,
+    "elevation": 507,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1647",
+    "airport_name": "Arad",
+    "city": "Arad",
+    "country": "Romania",
+    "iata": "ARW",
+    "icao": "LRAR",
+    "latitude": 46.17655,
+    "longitude": 21.262022,
+    "elevation": 352,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1735",
+    "airport_name": "Chisinau Intl",
+    "city": "Chisinau",
+    "country": "Moldova",
+    "iata": "KIV",
+    "icao": "LUKK",
+    "latitude": 46.927744,
+    "longitude": 28.930978,
+    "elevation": 399,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Chisinau"
+}

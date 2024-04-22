@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6251",
+    "airport_name": "Carnarvon Airport",
+    "city": "Carnarvon",
+    "country": "Australia",
+    "iata": "CVQ",
+    "icao": "YCAR",
+    "latitude": -24.8806,
+    "longitude": 113.672,
+    "elevation": 13,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

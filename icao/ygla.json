@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6269",
+    "airport_name": "Gladstone Airport",
+    "city": "Gladstone",
+    "country": "Australia",
+    "iata": "GLT",
+    "icao": "YGLA",
+    "latitude": -23.8697,
+    "longitude": 151.223,
+    "elevation": 64,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

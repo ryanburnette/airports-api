@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8124",
+    "airport_name": "Leverkusen Airport",
+    "city": "Leverkusen",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDKL",
+    "latitude": 51.0153,
+    "longitude": 7.00556,
+    "elevation": 157,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

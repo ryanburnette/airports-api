@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1784",
+    "airport_name": "Del Norte Intl",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "iata": "NTR",
+    "icao": "MMAN",
+    "latitude": 25.865572,
+    "longitude": -100.237239,
+    "elevation": 1476,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2666",
+    "airport_name": "Chaiten",
+    "city": "Chaiten",
+    "country": "Chile",
+    "iata": "WCH",
+    "icao": "SCTN",
+    "latitude": -42.932808,
+    "longitude": -72.699114,
+    "elevation": 13,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

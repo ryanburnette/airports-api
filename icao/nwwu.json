@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2003",
+    "airport_name": "Touho",
+    "city": "Touho",
+    "country": "New Caledonia",
+    "iata": "TOU",
+    "icao": "NWWU",
+    "latitude": -20.790028,
+    "longitude": 165.259486,
+    "elevation": 10,
+    "utc_offset": 11,
+    "_class": "U",
+    "timezone": "Pacific/Noumea"
+}

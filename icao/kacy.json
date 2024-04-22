@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3524",
+    "airport_name": "Atlantic City Intl",
+    "city": "Atlantic City",
+    "country": "United States",
+    "iata": "ACY",
+    "icao": "KACY",
+    "latitude": 39.457583,
+    "longitude": -74.577167,
+    "elevation": 75,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

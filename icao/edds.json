@@ -1,0 +1,14 @@
+{
+    "_csv_row": "350",
+    "airport_name": "Stuttgart",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "iata": "STR",
+    "icao": "EDDS",
+    "latitude": 48.689878,
+    "longitude": 9.221964,
+    "elevation": 1276,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

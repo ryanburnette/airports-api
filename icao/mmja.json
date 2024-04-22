@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5837",
+    "airport_name": "Lencero Airport",
+    "city": "Jalapa",
+    "country": "Mexico",
+    "iata": "JAL",
+    "icao": "MMJA",
+    "latitude": 19.475083,
+    "longitude": -96.797506,
+    "elevation": 3127,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

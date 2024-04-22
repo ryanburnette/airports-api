@@ -1,0 +1,14 @@
+{
+    "_csv_row": "151",
+    "airport_name": "Vermilion",
+    "city": "Vermillion",
+    "country": "Canada",
+    "iata": "YVG",
+    "icao": "CYVG",
+    "latitude": 53.355833,
+    "longitude": -110.82389,
+    "elevation": 2025,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

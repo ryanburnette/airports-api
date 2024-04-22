@@ -1,0 +1,14 @@
+{
+    "_csv_row": "567",
+    "airport_name": "Leeming",
+    "city": "Leeming",
+    "country": "United Kingdom",
+    "iata": "",
+    "icao": "EGXE",
+    "latitude": 54.292383,
+    "longitude": -1.5354,
+    "elevation": 132,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

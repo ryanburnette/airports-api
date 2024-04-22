@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1476",
+    "airport_name": "Samos",
+    "city": "Samos",
+    "country": "Greece",
+    "iata": "SMI",
+    "icao": "LGSM",
+    "latitude": 37.689999,
+    "longitude": 26.911667,
+    "elevation": 19,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4384",
+    "airport_name": "Arcata",
+    "city": "Arcata CA",
+    "country": "United States",
+    "iata": "ACV",
+    "icao": "KACV",
+    "latitude": 40.978111,
+    "longitude": -124.108611,
+    "elevation": 221,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

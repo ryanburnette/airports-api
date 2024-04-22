@@ -1,0 +1,14 @@
+{
+    "_csv_row": "12",
+    "airport_name": "Egilsstadir",
+    "city": "Egilsstadir",
+    "country": "Iceland",
+    "iata": "EGS",
+    "icao": "BIEG",
+    "latitude": 65.283333,
+    "longitude": -14.401389,
+    "elevation": 76,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

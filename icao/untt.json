@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4297",
+    "airport_name": "Tomsk Bogashevo Airport",
+    "city": "Tomsk",
+    "country": "Russia",
+    "iata": "TOF",
+    "icao": "UNTT",
+    "latitude": 56.380278,
+    "longitude": 85.208333,
+    "elevation": 597,
+    "utc_offset": 7,
+    "_class": "N",
+    "timezone": "Asia/Omsk"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1300",
+    "airport_name": "St Agnant",
+    "city": "Rochefort",
+    "country": "France",
+    "iata": "RCO",
+    "icao": "LFDN",
+    "latitude": 45.887779,
+    "longitude": -0.983056,
+    "elevation": 60,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

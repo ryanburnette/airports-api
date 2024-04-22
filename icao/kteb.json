@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3624",
+    "airport_name": "Teterboro",
+    "city": "Teterboro",
+    "country": "United States",
+    "iata": "TEB",
+    "icao": "KTEB",
+    "latitude": 40.850103,
+    "longitude": -74.060837,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

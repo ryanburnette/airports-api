@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1404",
+    "airport_name": "Maupertus",
+    "city": "Cherbourg",
+    "country": "France",
+    "iata": "CER",
+    "icao": "LFRC",
+    "latitude": 49.650106,
+    "longitude": -1.470281,
+    "elevation": 459,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

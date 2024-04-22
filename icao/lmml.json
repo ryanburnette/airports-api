@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1606",
+    "airport_name": "Luqa",
+    "city": "Malta",
+    "country": "Malta",
+    "iata": "MLA",
+    "icao": "LMML",
+    "latitude": 35.857497,
+    "longitude": 14.4775,
+    "elevation": 300,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Malta"
+}

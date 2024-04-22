@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4101",
+    "airport_name": "Rogue Valley Intl Medford",
+    "city": "Medford",
+    "country": "United States",
+    "iata": "MFR",
+    "icao": "KMFR",
+    "latitude": 42.374228,
+    "longitude": -122.8735,
+    "elevation": 1335,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

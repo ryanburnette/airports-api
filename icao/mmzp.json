@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1859",
+    "airport_name": "Zapopan",
+    "city": "Zapopan",
+    "country": "Mexico",
+    "iata": "",
+    "icao": "MMZP",
+    "latitude": 20.755833,
+    "longitude": -103.465278,
+    "elevation": 5333,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

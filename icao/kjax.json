@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3712",
+    "airport_name": "Jacksonville Intl",
+    "city": "Jacksonville",
+    "country": "United States",
+    "iata": "JAX",
+    "icao": "KJAX",
+    "latitude": 30.494056,
+    "longitude": -81.687861,
+    "elevation": 30,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

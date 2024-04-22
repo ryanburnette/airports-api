@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6745",
+    "airport_name": "Romblon Airport",
+    "city": "Romblon",
+    "country": "Philippines",
+    "iata": "TBH",
+    "icao": "RPVU",
+    "latitude": 12.311,
+    "longitude": 122.085,
+    "elevation": 10,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1185",
+    "airport_name": "Tanga",
+    "city": "Tanga",
+    "country": "Tanzania",
+    "iata": "TGT",
+    "icao": "HTTG",
+    "latitude": -5.092358,
+    "longitude": 39.071158,
+    "elevation": 129,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Dar_es_Salaam"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3331",
+    "airport_name": "Weipa",
+    "city": "Weipa",
+    "country": "Australia",
+    "iata": "WEI",
+    "icao": "YBWP",
+    "latitude": -12.678611,
+    "longitude": 141.925278,
+    "elevation": 63,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

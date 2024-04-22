@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2452",
+    "airport_name": "El Plumerillo",
+    "city": "Mendoza",
+    "country": "Argentina",
+    "iata": "MDZ",
+    "icao": "SAME",
+    "latitude": -32.831717,
+    "longitude": -68.792856,
+    "elevation": 2310,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

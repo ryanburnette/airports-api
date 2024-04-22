@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1817",
+    "airport_name": "Loreto Intl",
+    "city": "Loreto",
+    "country": "Mexico",
+    "iata": "LTO",
+    "icao": "MMLT",
+    "latitude": 25.989194,
+    "longitude": -111.348361,
+    "elevation": 34,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Mazatlan"
+}

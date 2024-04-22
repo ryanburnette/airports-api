@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6748",
+    "airport_name": "Ilam Airport",
+    "city": "Ilam",
+    "country": "Iran",
+    "iata": "IIL",
+    "icao": "OICI",
+    "latitude": 33.586606,
+    "longitude": 46.404842,
+    "elevation": 4404,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6297",
+    "airport_name": "McArthur River Mine Airport",
+    "city": "McArthur River Mine",
+    "country": "Australia",
+    "iata": "MCV",
+    "icao": "YMHU",
+    "latitude": -16.4425,
+    "longitude": 136.084,
+    "elevation": 131,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9090",
+    "airport_name": "Brusselton",
+    "city": "Brusselton",
+    "country": "Australia",
+    "iata": "BQB",
+    "icao": "YBLN",
+    "latitude": -33.687222,
+    "longitude": 115.400278,
+    "elevation": 55,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

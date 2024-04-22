@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4325",
+    "airport_name": "Hammerfest Airport",
+    "city": "Hammerfest",
+    "country": "Norway",
+    "iata": "HFT",
+    "icao": "ENHF",
+    "latitude": 70.679722,
+    "longitude": 23.668889,
+    "elevation": 799,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

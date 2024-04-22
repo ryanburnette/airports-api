@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5534",
+    "airport_name": "Whale Cove Airport",
+    "city": "Whale Cove",
+    "country": "Canada",
+    "iata": "YXN",
+    "icao": "CYXN",
+    "latitude": 62.24,
+    "longitude": -92.5981,
+    "elevation": 40,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

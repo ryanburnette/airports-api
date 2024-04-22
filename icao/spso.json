@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2805",
+    "airport_name": "Pisco Intl",
+    "city": "Pisco",
+    "country": "Peru",
+    "iata": "PIO",
+    "icao": "SPSO",
+    "latitude": -13.744864,
+    "longitude": -76.220284,
+    "elevation": 39,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Lima"
+}

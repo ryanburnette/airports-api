@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2446",
+    "airport_name": "Mariano Moreno",
+    "city": "Jose C. Paz",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SADJ",
+    "latitude": -34.56065,
+    "longitude": -58.789564,
+    "elevation": 105,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

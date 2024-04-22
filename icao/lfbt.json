@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1276",
+    "airport_name": "Lourdes",
+    "city": "Tarbes",
+    "country": "France",
+    "iata": "LDE",
+    "icao": "LFBT",
+    "latitude": 43.178675,
+    "longitude": -0.006439,
+    "elevation": 1260,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5890",
+    "airport_name": "Hiva Oa-Atuona Airport",
+    "city": "Hiva-oa",
+    "country": "French Polynesia",
+    "iata": "AUQ",
+    "icao": "NTMN",
+    "latitude": -9.768794,
+    "longitude": -139.011256,
+    "elevation": 1481,
+    "utc_offset": -9.5,
+    "_class": "U",
+    "timezone": "Pacific/Marquesas"
+}

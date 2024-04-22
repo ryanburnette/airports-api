@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8924",
+    "airport_name": "Veliky Ustyug",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "iata": "VUS",
+    "icao": "ULWU",
+    "latitude": 60.788333,
+    "longitude": 46.26,
+    "elevation": 331,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

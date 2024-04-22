@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1440",
+    "airport_name": "Miquelon",
+    "city": "Miquelon",
+    "country": "Saint Pierre and Miquelon",
+    "iata": "MQC",
+    "icao": "LFVM",
+    "latitude": 47.095472,
+    "longitude": -56.380278,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Miquelon"
+}

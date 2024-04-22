@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1707",
+    "airport_name": "Gaziemir",
+    "city": "Izmir",
+    "country": "Turkey",
+    "iata": "",
+    "icao": "LTBK",
+    "latitude": 38.319106,
+    "longitude": 27.159353,
+    "elevation": 433,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

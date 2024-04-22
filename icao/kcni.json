@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8309",
+    "airport_name": "Cherokee County Airport",
+    "city": "Canton",
+    "country": "United States",
+    "iata": "",
+    "icao": "KCNI",
+    "latitude": 34.3122175,
+    "longitude": -84.4221556,
+    "elevation": 1219,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

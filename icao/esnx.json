@@ -1,0 +1,14 @@
+{
+    "_csv_row": "730",
+    "airport_name": "Arvidsjaur",
+    "city": "Arvidsjaur",
+    "country": "Sweden",
+    "iata": "AJR",
+    "icao": "ESNX",
+    "latitude": 65.590278,
+    "longitude": 19.281944,
+    "elevation": 1245,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

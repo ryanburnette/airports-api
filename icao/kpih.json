@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5760",
+    "airport_name": "Pocatello Regional Airport",
+    "city": "Pocatello",
+    "country": "United States",
+    "iata": "PIH",
+    "icao": "KPIH",
+    "latitude": 42.9098,
+    "longitude": -112.596,
+    "elevation": 4452,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

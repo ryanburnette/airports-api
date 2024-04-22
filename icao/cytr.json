@@ -1,0 +1,14 @@
+{
+    "_csv_row": "142",
+    "airport_name": "Trenton",
+    "city": "Trenton",
+    "country": "Canada",
+    "iata": "YTR",
+    "icao": "CYTR",
+    "latitude": 44.118889,
+    "longitude": -77.528056,
+    "elevation": 283,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

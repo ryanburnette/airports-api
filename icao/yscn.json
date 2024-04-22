@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3357",
+    "airport_name": "Camden",
+    "city": "Camden",
+    "country": "Australia",
+    "iata": "CDU",
+    "icao": "YSCN",
+    "latitude": -34.040278,
+    "longitude": 150.687222,
+    "elevation": 230,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

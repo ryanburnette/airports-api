@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2020",
+    "airport_name": "Mount Cook",
+    "city": "Mount Cook",
+    "country": "New Zealand",
+    "iata": "GTN",
+    "icao": "NZMC",
+    "latitude": -43.764999,
+    "longitude": 170.133333,
+    "elevation": 2153,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

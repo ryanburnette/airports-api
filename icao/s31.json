@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6136",
+    "airport_name": "Lopez Island Airport",
+    "city": "Lopez",
+    "country": "United States",
+    "iata": "LPS",
+    "icao": "S31",
+    "latitude": 48.4839,
+    "longitude": -122.938,
+    "elevation": 209,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1914",
+    "airport_name": "Rafael Cabrera",
+    "city": "Nueva Gerona",
+    "country": "Cuba",
+    "iata": "GER",
+    "icao": "MUNG",
+    "latitude": 21.834689,
+    "longitude": -82.783819,
+    "elevation": 79,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

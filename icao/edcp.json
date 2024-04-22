@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8750",
+    "airport_name": "Peenemunde Airfield",
+    "city": "Peenemunde",
+    "country": "Germany",
+    "iata": "PEF",
+    "icao": "EDCP",
+    "latitude": 54.157778,
+    "longitude": 13.772778,
+    "elevation": 7,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

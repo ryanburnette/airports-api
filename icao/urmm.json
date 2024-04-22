@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2962",
+    "airport_name": "Mineralnyye Vody",
+    "city": "Mineralnye Vody",
+    "country": "Russia",
+    "iata": "MRV",
+    "icao": "URMM",
+    "latitude": 44.225072,
+    "longitude": 43.081889,
+    "elevation": 1054,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

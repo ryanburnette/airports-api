@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6113",
+    "airport_name": "Kotlas Airport",
+    "city": "Kotlas",
+    "country": "Russia",
+    "iata": "KSZ",
+    "icao": "ULKK",
+    "latitude": 61.2358,
+    "longitude": 46.6975,
+    "elevation": 184,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

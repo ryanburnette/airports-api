@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8147",
+    "airport_name": "Pembroke Airport",
+    "city": "Pembroke",
+    "country": "Canada",
+    "iata": "YTA",
+    "icao": "CYTA",
+    "latitude": 45.864399,
+    "longitude": -77.251701,
+    "elevation": 529,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

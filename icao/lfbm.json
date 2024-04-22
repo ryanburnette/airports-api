@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1271",
+    "airport_name": "Mont De Marsan",
+    "city": "Mont-de-marsan",
+    "country": "France",
+    "iata": "",
+    "icao": "LFBM",
+    "latitude": 43.911667,
+    "longitude": -0.5075,
+    "elevation": 203,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

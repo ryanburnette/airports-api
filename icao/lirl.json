@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1559",
+    "airport_name": "Latina",
+    "city": "Latina",
+    "country": "Italy",
+    "iata": "QLT",
+    "icao": "LIRL",
+    "latitude": 41.542436,
+    "longitude": 12.909019,
+    "elevation": 93,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

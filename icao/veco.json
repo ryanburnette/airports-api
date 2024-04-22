@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3044",
+    "airport_name": "Cooch Behar",
+    "city": "Cooch-behar",
+    "country": "India",
+    "iata": "COH",
+    "icao": "VECO",
+    "latitude": 26.330508,
+    "longitude": 89.467203,
+    "elevation": 138,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

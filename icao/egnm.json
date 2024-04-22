@@ -1,0 +1,14 @@
+{
+    "_csv_row": "517",
+    "airport_name": "Leeds Bradford",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "iata": "LBA",
+    "icao": "EGNM",
+    "latitude": 53.865897,
+    "longitude": -1.660569,
+    "elevation": 681,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

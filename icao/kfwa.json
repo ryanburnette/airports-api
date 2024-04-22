@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4041",
+    "airport_name": "Fort Wayne",
+    "city": "Fort Wayne",
+    "country": "United States",
+    "iata": "FWA",
+    "icao": "KFWA",
+    "latitude": 40.978472,
+    "longitude": -85.195139,
+    "elevation": 815,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

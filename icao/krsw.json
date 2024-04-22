@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3793",
+    "airport_name": "Southwest Florida Intl",
+    "city": "Fort Myers",
+    "country": "United States",
+    "iata": "RSW",
+    "icao": "KRSW",
+    "latitude": 26.536167,
+    "longitude": -81.755167,
+    "elevation": 30,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

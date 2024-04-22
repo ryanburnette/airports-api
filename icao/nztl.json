@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6511",
+    "airport_name": "Tekapo",
+    "city": "Lake Tekapo",
+    "country": "New Zealand",
+    "iata": "",
+    "icao": "NZTL",
+    "latitude": -44,
+    "longitude": 170.28,
+    "elevation": 2,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

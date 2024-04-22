@@ -1,0 +1,14 @@
+{
+    "_csv_row": "520",
+    "airport_name": "Isle Of Man",
+    "city": "Isle Of Man",
+    "country": "Isle of Man",
+    "iata": "IOM",
+    "icao": "EGNS",
+    "latitude": 54.083333,
+    "longitude": -4.623889,
+    "elevation": 52,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Isle_of_Man"
+}

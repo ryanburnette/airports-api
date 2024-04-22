@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1865",
+    "airport_name": "Bocas Del Toro Intl",
+    "city": "Bocas Del Toro",
+    "country": "Panama",
+    "iata": "BOC",
+    "icao": "MPBO",
+    "latitude": 9.340853,
+    "longitude": -82.250842,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Panama"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "355",
+    "airport_name": "Frankfurt Hahn",
+    "city": "Hahn",
+    "country": "Germany",
+    "iata": "HHN",
+    "icao": "EDFH",
+    "latitude": 49.948672,
+    "longitude": 7.263892,
+    "elevation": 1649,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

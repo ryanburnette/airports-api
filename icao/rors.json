@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2392",
+    "airport_name": "Shimojishima",
+    "city": "Shimojishima",
+    "country": "Japan",
+    "iata": "SHI",
+    "icao": "RORS",
+    "latitude": 24.826667,
+    "longitude": 125.144722,
+    "elevation": 54,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

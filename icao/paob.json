@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7180",
+    "airport_name": "Kobuk Airport",
+    "city": "Kobuk",
+    "country": "United States",
+    "iata": "OBU",
+    "icao": "PAOB",
+    "latitude": 66.912222,
+    "longitude": -156.897222,
+    "elevation": 137,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

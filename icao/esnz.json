@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5593",
+    "airport_name": "Östersund Airport",
+    "city": "Östersund",
+    "country": "Sweden",
+    "iata": "OSD",
+    "icao": "ESNZ",
+    "latitude": 63.1944,
+    "longitude": 14.5003,
+    "elevation": 1233,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

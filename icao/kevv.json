@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4018",
+    "airport_name": "Evansville Regional",
+    "city": "Evansville",
+    "country": "United States",
+    "iata": "EVV",
+    "icao": "KEVV",
+    "latitude": 38.036997,
+    "longitude": -87.532364,
+    "elevation": 418,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

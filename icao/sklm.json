@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2727",
+    "airport_name": "La Mina",
+    "city": "La Mina",
+    "country": "Colombia",
+    "iata": "",
+    "icao": "SKLM",
+    "latitude": 11.232528,
+    "longitude": -72.490139,
+    "elevation": 276,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

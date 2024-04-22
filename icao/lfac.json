@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1254",
+    "airport_name": "Calais Dunkerque",
+    "city": "Calais",
+    "country": "France",
+    "iata": "CQF",
+    "icao": "LFAC",
+    "latitude": 50.962097,
+    "longitude": 1.954764,
+    "elevation": 12,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

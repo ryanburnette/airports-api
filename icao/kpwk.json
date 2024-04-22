@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7936",
+    "airport_name": "Chicago Executive",
+    "city": "Chicago-Wheeling",
+    "country": "United States",
+    "iata": "PWK",
+    "icao": "KPWK",
+    "latitude": 42.1142897,
+    "longitude": -87.9015376,
+    "elevation": 647,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

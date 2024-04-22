@@ -1,0 +1,14 @@
+{
+    "_csv_row": "551",
+    "airport_name": "Cranfield",
+    "city": "Cranfield",
+    "country": "United Kingdom",
+    "iata": "",
+    "icao": "EGTC",
+    "latitude": 52.072222,
+    "longitude": -0.616667,
+    "elevation": 358,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

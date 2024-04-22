@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5530",
+    "airport_name": "St. Theresa Point Airport",
+    "city": "St. Theresa Point",
+    "country": "Canada",
+    "iata": "YST",
+    "icao": "CYST",
+    "latitude": 53.8456,
+    "longitude": -94.8519,
+    "elevation": 773,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

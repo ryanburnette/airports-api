@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3018",
+    "airport_name": "Porbandar",
+    "city": "Porbandar",
+    "country": "India",
+    "iata": "PBD",
+    "icao": "VAPR",
+    "latitude": 21.648675,
+    "longitude": 69.657219,
+    "elevation": 23,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

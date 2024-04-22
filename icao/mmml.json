@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1820",
+    "airport_name": "General Rodolfo Sanchez Taboada Intl",
+    "city": "Mexicali",
+    "country": "Mexico",
+    "iata": "MXL",
+    "icao": "MMML",
+    "latitude": 32.630634,
+    "longitude": -115.241637,
+    "elevation": 74,
+    "utc_offset": -8,
+    "_class": "S",
+    "timezone": "America/Tijuana"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9406",
+    "airport_name": "Fort Bridger",
+    "city": "Fort Bridger",
+    "country": "United States",
+    "iata": "FBR",
+    "icao": "KFBR",
+    "latitude": 41.236,
+    "longitude": -110.2436,
+    "elevation": 7038,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

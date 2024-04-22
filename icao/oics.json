@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2117",
+    "airport_name": "Sanandaj",
+    "city": "Sanandaj",
+    "country": "Iran",
+    "iata": "SDG",
+    "icao": "OICS",
+    "latitude": 35.245856,
+    "longitude": 47.009247,
+    "elevation": 4522,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

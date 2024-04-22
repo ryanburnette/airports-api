@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2072",
+    "airport_name": "King Abdulaziz Intl",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "iata": "JED",
+    "icao": "OEJN",
+    "latitude": 21.679564,
+    "longitude": 39.156536,
+    "elevation": 48,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Riyadh"
+}

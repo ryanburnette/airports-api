@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6456",
+    "airport_name": "Provincetown Muni",
+    "city": "Provincetown",
+    "country": "United States",
+    "iata": "PVC",
+    "icao": "KPVC",
+    "latitude": 42.071945,
+    "longitude": -70.22139,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

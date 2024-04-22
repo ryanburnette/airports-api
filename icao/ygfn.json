@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6792",
+    "airport_name": "Grafton Airport",
+    "city": "Grafton",
+    "country": "Australia",
+    "iata": "GFN",
+    "icao": "YGFN",
+    "latitude": -29.7594,
+    "longitude": 153.03,
+    "elevation": 110,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Australia/Sydney"
+}

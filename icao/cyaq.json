@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5480",
+    "airport_name": "Kasabonika Airport",
+    "city": "Kasabonika",
+    "country": "Canada",
+    "iata": "XKS",
+    "icao": "CYAQ",
+    "latitude": 53.5247,
+    "longitude": -88.6428,
+    "elevation": 672,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

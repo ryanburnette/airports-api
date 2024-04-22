@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6083",
+    "airport_name": "Kokshetau Airport",
+    "city": "Kokshetau",
+    "country": "Kazakhstan",
+    "iata": "KOV",
+    "icao": "UACK",
+    "latitude": 53.3291,
+    "longitude": 69.5946,
+    "elevation": 900,
+    "utc_offset": 6,
+    "_class": "U",
+    "timezone": "Asia/Qyzylorda"
+}

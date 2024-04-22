@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6241",
+    "airport_name": "Broken Hill Airport",
+    "city": "Broken Hill",
+    "country": "Australia",
+    "iata": "BHQ",
+    "icao": "YBHI",
+    "latitude": -32.0014,
+    "longitude": 141.472,
+    "elevation": 958,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

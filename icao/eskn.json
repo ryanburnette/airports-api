@@ -1,0 +1,14 @@
+{
+    "_csv_row": "699",
+    "airport_name": "Skavsta",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iata": "NYO",
+    "icao": "ESKN",
+    "latitude": 58.788636,
+    "longitude": 16.912189,
+    "elevation": 140,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

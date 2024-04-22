@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4027",
+    "airport_name": "Jackson Hole Airport",
+    "city": "Jacksn Hole",
+    "country": "United States",
+    "iata": "JAC",
+    "icao": "KJAC",
+    "latitude": 43.607333333,
+    "longitude": -110.73775,
+    "elevation": 6451,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

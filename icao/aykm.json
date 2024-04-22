@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5427",
+    "airport_name": "Kerema Airport",
+    "city": "Kerema",
+    "country": "Papua New Guinea",
+    "iata": "KMA",
+    "icao": "AYKM",
+    "latitude": -7.96361,
+    "longitude": 145.771,
+    "elevation": 10,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

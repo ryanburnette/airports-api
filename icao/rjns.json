@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6476",
+    "airport_name": "Mt. Fuji Shizuoka Airport",
+    "city": "Shizuoka",
+    "country": "Japan",
+    "iata": "FSZ",
+    "icao": "RJNS",
+    "latitude": 34.796111,
+    "longitude": 138.189444,
+    "elevation": 433,
+    "utc_offset": 9,
+    "_class": "N",
+    "timezone": "Asia/Tokyo"
+}

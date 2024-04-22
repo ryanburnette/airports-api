@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2702",
+    "airport_name": "Itaipu",
+    "city": "Itaipu",
+    "country": "Paraguay",
+    "iata": "",
+    "icao": "SGIB",
+    "latitude": -25.407853,
+    "longitude": -54.619417,
+    "elevation": 762,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Asuncion"
+}

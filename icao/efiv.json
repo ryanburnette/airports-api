@@ -1,0 +1,14 @@
+{
+    "_csv_row": "428",
+    "airport_name": "Ivalo",
+    "city": "Ivalo",
+    "country": "Finland",
+    "iata": "IVL",
+    "icao": "EFIV",
+    "latitude": 68.607269,
+    "longitude": 27.405328,
+    "elevation": 481,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

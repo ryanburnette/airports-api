@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8086",
+    "airport_name": "Wipperfuerth-Neye Airport",
+    "city": "Wipperfuerth",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDKN",
+    "latitude": 51.1242,
+    "longitude": 7.37361,
+    "elevation": 863,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

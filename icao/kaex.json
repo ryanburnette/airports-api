@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3852",
+    "airport_name": "Alexandria Intl",
+    "city": "Alexandria",
+    "country": "United States",
+    "iata": "AEX",
+    "icao": "KAEX",
+    "latitude": 31.3274,
+    "longitude": -92.549833,
+    "elevation": 89,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

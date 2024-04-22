@@ -1,0 +1,14 @@
+{
+    "_csv_row": "413",
+    "airport_name": "Kuressaare",
+    "city": "Kuressaare",
+    "country": "Estonia",
+    "iata": "URE",
+    "icao": "EEKE",
+    "latitude": 58.229883,
+    "longitude": 22.509494,
+    "elevation": 14,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Tallinn"
+}

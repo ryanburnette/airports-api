@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5536",
+    "airport_name": "York Landing Airport",
+    "city": "York Landing",
+    "country": "Canada",
+    "iata": "ZAC",
+    "icao": "CZAC",
+    "latitude": 56.0894,
+    "longitude": -96.0892,
+    "elevation": 621,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

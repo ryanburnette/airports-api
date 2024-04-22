@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8638",
+    "airport_name": "Naval Air Station",
+    "city": "Glenview",
+    "country": "United States",
+    "iata": "NBU",
+    "icao": "KNBU",
+    "latitude": 42.090556,
+    "longitude": -87.8225,
+    "elevation": 653,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

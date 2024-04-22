@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1814",
+    "airport_name": "Valle Del Fuerte Intl",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "iata": "LMM",
+    "icao": "MMLM",
+    "latitude": 25.685194,
+    "longitude": -109.080806,
+    "elevation": 16,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Mazatlan"
+}

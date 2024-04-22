@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1081",
+    "airport_name": "Ziguinchor",
+    "city": "Ziguinchor",
+    "country": "Senegal",
+    "iata": "ZIG",
+    "icao": "GOGG",
+    "latitude": 12.555617,
+    "longitude": -16.281783,
+    "elevation": 75,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Dakar"
+}

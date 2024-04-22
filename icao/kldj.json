@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8550",
+    "airport_name": "Linden Airport",
+    "city": "Linden",
+    "country": "United States",
+    "iata": "LDJ",
+    "icao": "KLDJ",
+    "latitude": 40.6174472,
+    "longitude": -74.2445942,
+    "elevation": 23,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

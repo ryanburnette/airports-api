@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2465",
+    "airport_name": "Marcos Juarez",
+    "city": "Marcos Juarez",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SAOM",
+    "latitude": -32.683639,
+    "longitude": -62.157792,
+    "elevation": 361,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

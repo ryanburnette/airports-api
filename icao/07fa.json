@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7889",
+    "airport_name": "Key Largo",
+    "city": "Ocean Reef Club Airport",
+    "country": "United States",
+    "iata": "OCA",
+    "icao": "07FA",
+    "latitude": 25.325393,
+    "longitude": -80.274775,
+    "elevation": 8,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

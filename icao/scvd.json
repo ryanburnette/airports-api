@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2667",
+    "airport_name": "Pichoy",
+    "city": "Valdivia",
+    "country": "Chile",
+    "iata": "ZAL",
+    "icao": "SCVD",
+    "latitude": -39.649956,
+    "longitude": -73.086111,
+    "elevation": 59,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

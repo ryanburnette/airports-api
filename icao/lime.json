@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1525",
+    "airport_name": "Bergamo Orio Al Serio",
+    "city": "Bergamo",
+    "country": "Italy",
+    "iata": "BGY",
+    "icao": "LIME",
+    "latitude": 45.673889,
+    "longitude": 9.704166,
+    "elevation": 782,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

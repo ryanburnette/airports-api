@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8312",
+    "airport_name": "Harry Clever Field Airport",
+    "city": "New Philadelpha",
+    "country": "United States",
+    "iata": "PHD",
+    "icao": "KPHD",
+    "latitude": 40.4701667,
+    "longitude": -81.4199444,
+    "elevation": 894,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

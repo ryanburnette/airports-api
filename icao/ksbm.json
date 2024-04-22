@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9126",
+    "airport_name": "Sheboygan County Memorial Airport",
+    "city": "Sheboygan",
+    "country": "United States",
+    "iata": "SBM",
+    "icao": "KSBM",
+    "latitude": 43.7696,
+    "longitude": -87.851402,
+    "elevation": 755,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

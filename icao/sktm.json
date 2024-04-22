@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2751",
+    "airport_name": "Tame",
+    "city": "Tame",
+    "country": "Colombia",
+    "iata": "TME",
+    "icao": "SKTM",
+    "latitude": 6.451081,
+    "longitude": -71.760261,
+    "elevation": 1050,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

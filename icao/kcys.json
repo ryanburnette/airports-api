@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3804",
+    "airport_name": "Cheyenne Rgnl Jerry Olson Fld",
+    "city": "Cheyenne",
+    "country": "United States",
+    "iata": "CYS",
+    "icao": "KCYS",
+    "latitude": 41.155722,
+    "longitude": -104.811839,
+    "elevation": 6156,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

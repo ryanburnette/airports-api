@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8110",
+    "airport_name": "Oldenburg Hatten Airport",
+    "city": "Oldenburg",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDWH",
+    "latitude": 53.0689,
+    "longitude": 8.31361,
+    "elevation": 26,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4088",
+    "airport_name": "McClellan-Palomar Airport",
+    "city": "Carlsbad",
+    "country": "United States",
+    "iata": "CLD",
+    "icao": "KCRQ",
+    "latitude": 33.0742,
+    "longitude": -117.1648,
+    "elevation": 328,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

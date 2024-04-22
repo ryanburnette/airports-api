@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7822",
+    "airport_name": "Rocky Mountain Metropolitan Airport",
+    "city": "Broomfield-CO",
+    "country": "United States",
+    "iata": "BJC",
+    "icao": "KBJC",
+    "latitude": 39.90888888,
+    "longitude": -105.11722222,
+    "elevation": 5670,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

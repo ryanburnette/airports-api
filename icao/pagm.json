@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6715",
+    "airport_name": "Gambell Airport",
+    "city": "Gambell",
+    "country": "United States",
+    "iata": "GAM",
+    "icao": "PAGM",
+    "latitude": 63.7668,
+    "longitude": -171.733,
+    "elevation": 27,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

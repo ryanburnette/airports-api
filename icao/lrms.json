@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8153",
+    "airport_name": "Aeroclub Mures",
+    "city": "Targu Mures",
+    "country": "Romania",
+    "iata": "",
+    "icao": "LRMS",
+    "latitude": 46.3201,
+    "longitude": 24.3157,
+    "elevation": 1000,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1500",
+    "airport_name": "Crotone",
+    "city": "Crotone",
+    "country": "Italy",
+    "iata": "CRV",
+    "icao": "LIBC",
+    "latitude": 38.997225,
+    "longitude": 17.080169,
+    "elevation": 521,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

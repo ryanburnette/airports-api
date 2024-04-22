@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6924",
+    "airport_name": "Ust-Kut",
+    "city": "Ust-Kut",
+    "country": "Russia",
+    "iata": "UKX",
+    "icao": "UITT",
+    "latitude": 56.85,
+    "longitude": 105.7167,
+    "elevation": 2033,
+    "utc_offset": 9,
+    "_class": "N",
+    "timezone": "Asia/Irkutsk"
+}

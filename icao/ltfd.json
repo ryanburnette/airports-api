@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5802",
+    "airport_name": "Balikesir Korfez Airport",
+    "city": "Balikesir Korfez",
+    "country": "Turkey",
+    "iata": "EDO",
+    "icao": "LTFD",
+    "latitude": 39.5546,
+    "longitude": 27.0138,
+    "elevation": 50,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

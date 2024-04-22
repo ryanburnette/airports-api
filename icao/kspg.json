@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3548",
+    "airport_name": "Albert Whitted",
+    "city": "St. Petersburg",
+    "country": "United States",
+    "iata": "SPG",
+    "icao": "KSPG",
+    "latitude": 27.765111,
+    "longitude": -82.626972,
+    "elevation": 7,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

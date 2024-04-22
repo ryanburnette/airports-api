@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6985",
+    "airport_name": "Nelspruit Airport",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "iata": "NLP",
+    "icao": "FANS",
+    "latitude": -25.5,
+    "longitude": 30.9138,
+    "elevation": 2875,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

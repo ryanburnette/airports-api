@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2278",
+    "airport_name": "Hualien",
+    "city": "Hualien",
+    "country": "Taiwan",
+    "iata": "HUN",
+    "icao": "RCYU",
+    "latitude": 24.023725,
+    "longitude": 121.616906,
+    "elevation": 52,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Taipei"
+}

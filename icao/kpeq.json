@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8950",
+    "airport_name": "Pecos Municipal Airport",
+    "city": "Pecos",
+    "country": "United States",
+    "iata": "PEQ",
+    "icao": "KPEQ",
+    "latitude": 31.3823889,
+    "longitude": -103.5107222,
+    "elevation": 2613,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

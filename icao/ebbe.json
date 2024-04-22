@@ -1,0 +1,14 @@
+{
+    "_csv_row": "300",
+    "airport_name": "Beauvechain",
+    "city": "Beauvechain",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBBE",
+    "latitude": 50.75861,
+    "longitude": 4.768333,
+    "elevation": 370,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

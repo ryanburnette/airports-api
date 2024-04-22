@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1005",
+    "airport_name": "Harare Intl",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "iata": "HRE",
+    "icao": "FVHA",
+    "latitude": -17.931806,
+    "longitude": 31.092847,
+    "elevation": 4887,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Harare"
+}

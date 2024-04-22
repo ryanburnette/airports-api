@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2605",
+    "airport_name": "Porto Nacional",
+    "city": "Porto Nacional",
+    "country": "Brazil",
+    "iata": "PNB",
+    "icao": "SBPN",
+    "latitude": -10.719417,
+    "longitude": -48.399736,
+    "elevation": 870,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

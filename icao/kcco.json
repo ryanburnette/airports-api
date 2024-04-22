@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8513",
+    "airport_name": "Coweta County Airport",
+    "city": "Newnan",
+    "country": "United States",
+    "iata": "CCO",
+    "icao": "KCCO",
+    "latitude": 33.3115656,
+    "longitude": -84.7697554,
+    "elevation": 970,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

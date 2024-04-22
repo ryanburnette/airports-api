@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1804",
+    "airport_name": "Don Miguel Hidalgo Y Costilla Intl",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "iata": "GDL",
+    "icao": "MMGL",
+    "latitude": 20.5218,
+    "longitude": -103.311167,
+    "elevation": 5016,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

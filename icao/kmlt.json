@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3551",
+    "airport_name": "Millinocket Muni",
+    "city": "Millinocket",
+    "country": "United States",
+    "iata": "MLT",
+    "icao": "KMLT",
+    "latitude": 45.647836,
+    "longitude": -68.685561,
+    "elevation": 408,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

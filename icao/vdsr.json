@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3035",
+    "airport_name": "Siem Reap",
+    "city": "Siem-reap",
+    "country": "Cambodia",
+    "iata": "REP",
+    "icao": "VDSR",
+    "latitude": 13.410666,
+    "longitude": 103.81284,
+    "elevation": 60,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Phnom_Penh"
+}

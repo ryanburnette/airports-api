@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3348",
+    "airport_name": "Learmonth",
+    "city": "Learmonth",
+    "country": "Australia",
+    "iata": "LEA",
+    "icao": "YPLM",
+    "latitude": -22.235556,
+    "longitude": 114.088611,
+    "elevation": 19,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

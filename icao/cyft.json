@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5492",
+    "airport_name": "Makkovik Airport",
+    "city": "Makkovik",
+    "country": "Canada",
+    "iata": "YMN",
+    "icao": "CYFT",
+    "latitude": 55.0769,
+    "longitude": -59.1864,
+    "elevation": 234,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

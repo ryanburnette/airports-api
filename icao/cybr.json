@@ -1,0 +1,14 @@
+{
+    "_csv_row": "31",
+    "airport_name": "Brandon Muni",
+    "city": "Brandon",
+    "country": "Canada",
+    "iata": "YBR",
+    "icao": "CYBR",
+    "latitude": 49.91,
+    "longitude": -99.951944,
+    "elevation": 1343,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2350",
+    "airport_name": "Atsugi Naf",
+    "city": "Atsugi",
+    "country": "Japan",
+    "iata": "",
+    "icao": "RJTA",
+    "latitude": 35.454611,
+    "longitude": 139.450167,
+    "elevation": 205,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7298",
+    "airport_name": "Fussen",
+    "city": "Fussen",
+    "country": "Germany",
+    "iata": "FUS",
+    "icao": "FUSS",
+    "latitude": 47.585,
+    "longitude": 10.6866,
+    "elevation": 800,
+    "utc_offset": 1,
+    "_class": "U",
+    "timezone": "Europe/Berlin"
+}

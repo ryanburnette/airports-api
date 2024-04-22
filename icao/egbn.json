@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5561",
+    "airport_name": "Nottingham Airport",
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "iata": "NQT",
+    "icao": "EGBN",
+    "latitude": 52.92,
+    "longitude": -1.079167,
+    "elevation": 138,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

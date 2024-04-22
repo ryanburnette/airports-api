@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4065",
+    "airport_name": "David Wayne Hooks Field",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "DWH",
+    "icao": "KDWH",
+    "latitude": 30.063746,
+    "longitude": -95.554276,
+    "elevation": 152,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

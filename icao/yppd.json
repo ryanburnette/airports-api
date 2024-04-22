@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3349",
+    "airport_name": "Port Hedland Intl",
+    "city": "Port Hedland",
+    "country": "Australia",
+    "iata": "PHE",
+    "icao": "YPPD",
+    "latitude": -20.377778,
+    "longitude": 118.626389,
+    "elevation": 33,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

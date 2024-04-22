@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3797",
+    "airport_name": "John F Kennedy Intl",
+    "city": "New York",
+    "country": "United States",
+    "iata": "JFK",
+    "icao": "KJFK",
+    "latitude": 40.639751,
+    "longitude": -73.778925,
+    "elevation": 13,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

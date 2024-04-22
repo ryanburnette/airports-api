@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1376",
+    "airport_name": "Val De Loire",
+    "city": "Tours",
+    "country": "France",
+    "iata": "TUF",
+    "icao": "LFOT",
+    "latitude": 47.432222,
+    "longitude": 0.727606,
+    "elevation": 357,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

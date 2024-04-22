@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2632",
+    "airport_name": "Rubem Berta",
+    "city": "Uruguaiana",
+    "country": "Brazil",
+    "iata": "URG",
+    "icao": "SBUG",
+    "latitude": -29.782178,
+    "longitude": -57.038189,
+    "elevation": 256,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

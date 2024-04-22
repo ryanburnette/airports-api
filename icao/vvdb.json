@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6192",
+    "airport_name": "Dien Bien Phu Airport",
+    "city": "Dienbienphu",
+    "country": "Vietnam",
+    "iata": "DIN",
+    "icao": "VVDB",
+    "latitude": 21.397481,
+    "longitude": 103.007831,
+    "elevation": 1611,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

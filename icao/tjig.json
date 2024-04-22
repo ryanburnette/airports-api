@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2887",
+    "airport_name": "Fernando Luis Ribas Dominicci",
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "iata": "SIG",
+    "icao": "TJIG",
+    "latitude": 18.456828,
+    "longitude": -66.098139,
+    "elevation": 10,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Puerto_Rico"
+}

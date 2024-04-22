@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1399",
+    "airport_name": "Lesquin",
+    "city": "Lille",
+    "country": "France",
+    "iata": "LIL",
+    "icao": "LFQQ",
+    "latitude": 50.561942,
+    "longitude": 3.089444,
+    "elevation": 157,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

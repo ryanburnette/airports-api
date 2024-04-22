@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6420",
+    "airport_name": "Gran Roque Airport",
+    "city": "Los Roques",
+    "country": "Venezuela",
+    "iata": "LRV",
+    "icao": "SVRS",
+    "latitude": 11.95,
+    "longitude": -66.67,
+    "elevation": 17,
+    "utc_offset": -4.5,
+    "_class": "S",
+    "timezone": "America/Caracas"
+}

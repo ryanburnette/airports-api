@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6427",
+    "airport_name": "Anqing Airport",
+    "city": "Anqing",
+    "country": "China",
+    "iata": "AQG",
+    "icao": "ZSAQ",
+    "latitude": 30.5822,
+    "longitude": 117.0502,
+    "elevation": 0,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Chongqing"
+}

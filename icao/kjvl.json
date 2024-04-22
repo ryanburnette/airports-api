@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7840",
+    "airport_name": "Southern Wisconsin Regional Airport",
+    "city": "Janesville",
+    "country": "United States",
+    "iata": "JVL",
+    "icao": "KJVL",
+    "latitude": 42.62025,
+    "longitude": -89.0415556,
+    "elevation": 808,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

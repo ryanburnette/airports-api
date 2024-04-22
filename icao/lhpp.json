@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5788",
+    "airport_name": "Pécs-Pogány Airport",
+    "city": "Pécs-Pogány",
+    "country": "Hungary",
+    "iata": "PEV",
+    "icao": "LHPP",
+    "latitude": 45.990928,
+    "longitude": 18.240983,
+    "elevation": 1000,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Europe/Budapest"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6270",
+    "airport_name": "Groote Eylandt Airport",
+    "city": "Groote Eylandt",
+    "country": "Australia",
+    "iata": "GTE",
+    "icao": "YGTE",
+    "latitude": -13.975,
+    "longitude": 136.46,
+    "elevation": 53,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3480",
+    "airport_name": "Redstone Aaf",
+    "city": "Redstone",
+    "country": "United States",
+    "iata": "HUA",
+    "icao": "KHUA",
+    "latitude": 34.678653,
+    "longitude": -86.684781,
+    "elevation": 685,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

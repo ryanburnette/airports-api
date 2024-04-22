@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5766",
+    "airport_name": "Rock Springs Sweetwater County Airport",
+    "city": "Rock Springs",
+    "country": "United States",
+    "iata": "RKS",
+    "icao": "KRKS",
+    "latitude": 41.5942,
+    "longitude": -109.065,
+    "elevation": 6760,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1689",
+    "airport_name": "Oguzeli",
+    "city": "Gaziantep",
+    "country": "Turkey",
+    "iata": "GZT",
+    "icao": "LTAJ",
+    "latitude": 36.947183,
+    "longitude": 37.478683,
+    "elevation": 2315,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

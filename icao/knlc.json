@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3516",
+    "airport_name": "Lemoore Nas",
+    "city": "Lemoore",
+    "country": "United States",
+    "iata": "NLC",
+    "icao": "KNLC",
+    "latitude": 36.333012,
+    "longitude": -119.95208,
+    "elevation": 234,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

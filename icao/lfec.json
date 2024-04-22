@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7461",
+    "airport_name": "Ouessant Airport",
+    "city": "Ouessant",
+    "country": "France",
+    "iata": "",
+    "icao": "LFEC",
+    "latitude": 48.458056,
+    "longitude": -5.095556,
+    "elevation": 25,
+    "utc_offset": 1,
+    "_class": "U",
+    "timezone": "Europe/Paris"
+}

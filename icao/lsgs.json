@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1667",
+    "airport_name": "Sion",
+    "city": "Sion",
+    "country": "Switzerland",
+    "iata": "SIR",
+    "icao": "LSGS",
+    "latitude": 46.219592,
+    "longitude": 7.326764,
+    "elevation": 1585,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

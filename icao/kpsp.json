@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3839",
+    "airport_name": "Palm Springs Intl",
+    "city": "Palm Springs",
+    "country": "United States",
+    "iata": "PSP",
+    "icao": "KPSP",
+    "latitude": 33.829667,
+    "longitude": -116.506694,
+    "elevation": 477,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

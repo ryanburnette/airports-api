@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1102",
+    "airport_name": "Amilcar Cabral Intl",
+    "city": "Amilcar Cabral",
+    "country": "Cape Verde",
+    "iata": "SID",
+    "icao": "GVAC",
+    "latitude": 16.741389,
+    "longitude": -22.949444,
+    "elevation": 177,
+    "utc_offset": -1,
+    "_class": "U",
+    "timezone": "Atlantic/Cape_Verde"
+}

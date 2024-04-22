@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3562",
+    "airport_name": "Davis Monthan Afb",
+    "city": "Tucson",
+    "country": "United States",
+    "iata": "DMA",
+    "icao": "KDMA",
+    "latitude": 32.166467,
+    "longitude": -110.883144,
+    "elevation": 2704,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Phoenix"
+}

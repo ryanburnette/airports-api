@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5486",
+    "airport_name": "Cartwright Airport",
+    "city": "Cartwright",
+    "country": "Canada",
+    "iata": "YRF",
+    "icao": "CYCA",
+    "latitude": 53.6828,
+    "longitude": -57.0419,
+    "elevation": 40,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

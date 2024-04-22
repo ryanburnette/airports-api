@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8606",
+    "airport_name": "Lansing Municipal",
+    "city": "Lansing",
+    "country": "United States",
+    "iata": "IGQ",
+    "icao": "KIGQ",
+    "latitude": 41.5349167,
+    "longitude": -87.5295278,
+    "elevation": 620,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

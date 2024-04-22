@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8655",
+    "airport_name": "Clinton Municipal",
+    "city": "Clinton",
+    "country": "United States",
+    "iata": "CWI",
+    "icao": "KCWI",
+    "latitude": 41.83075,
+    "longitude": -90.3289722,
+    "elevation": 708,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

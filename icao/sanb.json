@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9506",
+    "airport_name": "B Street Cruise Terminal",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "",
+    "icao": "SANB",
+    "latitude": 32.716861,
+    "longitude": -117.174296,
+    "elevation": 0,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9448",
+    "airport_name": "Clarke CO",
+    "city": "Quitman",
+    "country": "United States",
+    "iata": "23M",
+    "icao": "K23M",
+    "latitude": 32.0517,
+    "longitude": -88.4434,
+    "elevation": 320,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

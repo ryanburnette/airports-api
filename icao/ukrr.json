@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6906",
+    "airport_name": "Chernigov",
+    "city": "Chernigov",
+    "country": "Ukraine",
+    "iata": "CEJ",
+    "icao": "UKRR",
+    "latitude": 51.24,
+    "longitude": 31.09,
+    "elevation": 446,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

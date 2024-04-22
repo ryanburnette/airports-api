@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7978",
+    "airport_name": "Wilmington Airborne Airpark",
+    "city": "Wilmington",
+    "country": "United States",
+    "iata": "ILN",
+    "icao": "KILN",
+    "latitude": 39.42792,
+    "longitude": -83.792118,
+    "elevation": 1077,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

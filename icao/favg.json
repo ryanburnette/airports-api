@@ -1,0 +1,14 @@
+{
+    "_csv_row": "868",
+    "airport_name": "Virginia",
+    "city": "Durban",
+    "country": "South Africa",
+    "iata": "VIR",
+    "icao": "FAVG",
+    "latitude": -29.770606,
+    "longitude": 31.058406,
+    "elevation": 20,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

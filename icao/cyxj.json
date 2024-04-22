@@ -1,0 +1,14 @@
+{
+    "_csv_row": "168",
+    "airport_name": "Fort St John",
+    "city": "Fort Saint John",
+    "country": "Canada",
+    "iata": "YXJ",
+    "icao": "CYXJ",
+    "latitude": 56.238056,
+    "longitude": -120.740278,
+    "elevation": 2280,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Dawson_Creek"
+}

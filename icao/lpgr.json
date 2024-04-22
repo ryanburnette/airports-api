@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1627",
+    "airport_name": "Graciosa",
+    "city": "Graciosa Island",
+    "country": "Portugal",
+    "iata": "GRW",
+    "icao": "LPGR",
+    "latitude": 39.092169,
+    "longitude": -28.029847,
+    "elevation": 86,
+    "utc_offset": -1,
+    "_class": "E",
+    "timezone": "Atlantic/Azores"
+}

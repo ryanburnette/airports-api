@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3840",
+    "airport_name": "Rick Husband Amarillo Intl",
+    "city": "Amarillo",
+    "country": "United States",
+    "iata": "AMA",
+    "icao": "KAMA",
+    "latitude": 35.219369,
+    "longitude": -101.705931,
+    "elevation": 3607,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

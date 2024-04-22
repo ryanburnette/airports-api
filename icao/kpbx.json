@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8320",
+    "airport_name": "Pike County Airport - Hatcher Field",
+    "city": "Pikeville",
+    "country": "United States",
+    "iata": "PBX",
+    "icao": "KPBX",
+    "latitude": 37.5617639,
+    "longitude": -82.5663889,
+    "elevation": 1473,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

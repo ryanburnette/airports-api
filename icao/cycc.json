@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8177",
+    "airport_name": "Cornwall Regional Airport",
+    "city": "Cornwall",
+    "country": "Canada",
+    "iata": "YCC",
+    "icao": "CYCC",
+    "latitude": 45.092778,
+    "longitude": -74.567778,
+    "elevation": 175,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

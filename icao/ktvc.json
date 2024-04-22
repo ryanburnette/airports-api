@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4023",
+    "airport_name": "Cherry Capital Airport",
+    "city": "Traverse City",
+    "country": "United States",
+    "iata": "TVC",
+    "icao": "KTVC",
+    "latitude": 44.741445,
+    "longitude": -85.582235,
+    "elevation": 624,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2614",
+    "airport_name": "Santa Cruz",
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "iata": "STU",
+    "icao": "SBSC",
+    "latitude": -22.93235,
+    "longitude": -43.719092,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

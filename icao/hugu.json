@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5710",
+    "airport_name": "Gulu Airport",
+    "city": "Gulu",
+    "country": "Uganda",
+    "iata": "ULU",
+    "icao": "HUGU",
+    "latitude": 2.805556,
+    "longitude": 32.271792,
+    "elevation": 3510,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Kampala"
+}

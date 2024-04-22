@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3751",
+    "airport_name": "Denver Intl",
+    "city": "Denver",
+    "country": "United States",
+    "iata": "DEN",
+    "icao": "KDEN",
+    "latitude": 39.861656,
+    "longitude": -104.673178,
+    "elevation": 5431,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

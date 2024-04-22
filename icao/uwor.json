@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6164",
+    "airport_name": "Orsk Airport",
+    "city": "Orsk",
+    "country": "Russia",
+    "iata": "OSW",
+    "icao": "UWOR",
+    "latitude": 51.0725,
+    "longitude": 58.5956,
+    "elevation": 909,
+    "utc_offset": 6,
+    "_class": "N",
+    "timezone": "Asia/Yekaterinburg"
+}

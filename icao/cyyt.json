@@ -1,0 +1,14 @@
+{
+    "_csv_row": "189",
+    "airport_name": "St Johns Intl",
+    "city": "St. John's",
+    "country": "Canada",
+    "iata": "YYT",
+    "icao": "CYYT",
+    "latitude": 47.61861,
+    "longitude": -52.751945,
+    "elevation": 461,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

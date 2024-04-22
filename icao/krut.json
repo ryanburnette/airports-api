@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5767",
+    "airport_name": "Rutland State Airport",
+    "city": "Rutland",
+    "country": "United States",
+    "iata": "RUT",
+    "icao": "KRUT",
+    "latitude": 43.5294,
+    "longitude": -72.9496,
+    "elevation": 787,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

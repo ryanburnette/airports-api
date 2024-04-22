@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3227",
+    "airport_name": "Mong Hsat",
+    "city": "Mong Hsat",
+    "country": "Burma",
+    "iata": "MOG",
+    "icao": "VYMS",
+    "latitude": 20.516758,
+    "longitude": 99.256825,
+    "elevation": 1875,
+    "utc_offset": 6.5,
+    "_class": "U",
+    "timezone": "Asia/Rangoon"
+}

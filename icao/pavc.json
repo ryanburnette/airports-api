@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6765",
+    "airport_name": "King Cove Airport",
+    "city": "King Cove",
+    "country": "United States",
+    "iata": "KVC",
+    "icao": "PAVC",
+    "latitude": 55.1163,
+    "longitude": -162.266,
+    "elevation": 155,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

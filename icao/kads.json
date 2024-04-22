@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7513",
+    "airport_name": "Addison",
+    "city": "Addison",
+    "country": "United States",
+    "iata": "ADS",
+    "icao": "KADS",
+    "latitude": 32.9685594,
+    "longitude": -96.8364478,
+    "elevation": 644,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

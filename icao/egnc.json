@@ -1,0 +1,14 @@
+{
+    "_csv_row": "512",
+    "airport_name": "Carlisle",
+    "city": "Carlisle",
+    "country": "United Kingdom",
+    "iata": "CAX",
+    "icao": "EGNC",
+    "latitude": 54.9375,
+    "longitude": -2.809167,
+    "elevation": 190,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

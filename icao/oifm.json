@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2121",
+    "airport_name": "Esfahan Shahid Beheshti Intl",
+    "city": "Esfahan",
+    "country": "Iran",
+    "iata": "",
+    "icao": "OIFM",
+    "latitude": 32.750836,
+    "longitude": 51.861267,
+    "elevation": 5059,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

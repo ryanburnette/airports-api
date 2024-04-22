@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3323",
+    "airport_name": "Charleville",
+    "city": "Charlieville",
+    "country": "Australia",
+    "iata": "CTL",
+    "icao": "YBCV",
+    "latitude": -26.413334,
+    "longitude": 146.2625,
+    "elevation": 1003,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

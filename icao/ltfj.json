@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4317",
+    "airport_name": "Sabiha Gokcen",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "latitude": 40.898553,
+    "longitude": 29.309219,
+    "elevation": 312,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

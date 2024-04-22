@@ -1,0 +1,14 @@
+{
+    "_csv_row": "66",
+    "airport_name": "Hudson Bay",
+    "city": "Hudson Bay",
+    "country": "Canada",
+    "iata": "YHB",
+    "icao": "CYHB",
+    "latitude": 52.816666,
+    "longitude": -102.31139,
+    "elevation": 1175,
+    "utc_offset": -6,
+    "_class": "N",
+    "timezone": "America/Regina"
+}

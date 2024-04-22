@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1349",
+    "airport_name": "Mandelieu",
+    "city": "Cannes",
+    "country": "France",
+    "iata": "CEQ",
+    "icao": "LFMD",
+    "latitude": 43.54205,
+    "longitude": 6.953478,
+    "elevation": 13,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5550",
+    "airport_name": "Churchill Falls Airport",
+    "city": "Churchill Falls",
+    "country": "Canada",
+    "iata": "ZUM",
+    "icao": "CZUM",
+    "latitude": 53.5619,
+    "longitude": -64.1064,
+    "elevation": 1442,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

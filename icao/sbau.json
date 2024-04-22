@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2525",
+    "airport_name": "Aracatuba",
+    "city": "Aracatuba",
+    "country": "Brazil",
+    "iata": "ARU",
+    "icao": "SBAU",
+    "latitude": -21.141342,
+    "longitude": -50.424722,
+    "elevation": 1361,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

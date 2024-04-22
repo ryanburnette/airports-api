@@ -1,0 +1,14 @@
+{
+    "_csv_row": "797",
+    "airport_name": "Cape Town Intl",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "iata": "CPT",
+    "icao": "FACT",
+    "latitude": -33.964806,
+    "longitude": 18.601667,
+    "elevation": 151,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

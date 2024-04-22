@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7055",
+    "airport_name": "Hickam Air Force Base",
+    "city": "Honolulu",
+    "country": "United States",
+    "iata": "",
+    "icao": "PHIK",
+    "latitude": 21.318681,
+    "longitude": -157.922427,
+    "elevation": 13,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

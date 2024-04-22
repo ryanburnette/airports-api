@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6415",
+    "airport_name": "Waikoloa Heliport",
+    "city": "Waikoloa Village",
+    "country": "United States",
+    "iata": "WKL",
+    "icao": "HI07",
+    "latitude": 19.9136,
+    "longitude": -155.864,
+    "elevation": 109,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

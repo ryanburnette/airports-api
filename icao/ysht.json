@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8994",
+    "airport_name": "Shepparton",
+    "city": "Shepparton",
+    "country": "Australia",
+    "iata": "SHT",
+    "icao": "YSHT",
+    "latitude": -36.428902,
+    "longitude": 145.393005,
+    "elevation": 374,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

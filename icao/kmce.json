@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7122",
+    "airport_name": "Merced Municipal Airport",
+    "city": "Merced",
+    "country": "United States",
+    "iata": "MCE",
+    "icao": "KMCE",
+    "latitude": 37.284722,
+    "longitude": -120.513889,
+    "elevation": 156,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

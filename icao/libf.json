@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1502",
+    "airport_name": "Gino Lisa",
+    "city": "Foggia",
+    "country": "Italy",
+    "iata": "FOG",
+    "icao": "LIBF",
+    "latitude": 41.432917,
+    "longitude": 15.535028,
+    "elevation": 266,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

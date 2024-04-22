@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3004",
+    "airport_name": "Daman",
+    "city": "Daman",
+    "country": "India",
+    "iata": "NMB",
+    "icao": "VADN",
+    "latitude": 20.434364,
+    "longitude": 72.843206,
+    "elevation": 33,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

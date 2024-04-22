@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1732",
+    "airport_name": "Kaklic",
+    "city": "Izmir",
+    "country": "Turkey",
+    "iata": "",
+    "icao": "LTFA",
+    "latitude": 38.517608,
+    "longitude": 26.977406,
+    "elevation": 13,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

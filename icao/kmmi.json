@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7984",
+    "airport_name": "McMinn Co",
+    "city": "Athens",
+    "country": "United States",
+    "iata": "MMI",
+    "icao": "KMMI",
+    "latitude": 35.39919,
+    "longitude": -84.56177,
+    "elevation": 874,
+    "utc_offset": -5,
+    "_class": "N",
+    "timezone": "America/New_York"
+}

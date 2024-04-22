@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2488",
+    "airport_name": "Esquel",
+    "city": "Esquel",
+    "country": "Argentina",
+    "iata": "EQS",
+    "icao": "SAVE",
+    "latitude": -42.90795,
+    "longitude": -71.139472,
+    "elevation": 2621,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

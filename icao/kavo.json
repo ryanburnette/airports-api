@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8507",
+    "airport_name": "Executive",
+    "city": "Avon Park",
+    "country": "United States",
+    "iata": "AVO",
+    "icao": "KAVO",
+    "latitude": 27.591389,
+    "longitude": -81.528889,
+    "elevation": 160,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

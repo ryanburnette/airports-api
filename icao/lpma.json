@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4091",
+    "airport_name": "Madeira",
+    "city": "Funchal",
+    "country": "Portugal",
+    "iata": "FNC",
+    "icao": "LPMA",
+    "latitude": 32.697889,
+    "longitude": -16.774453,
+    "elevation": 192,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Lisbon"
+}

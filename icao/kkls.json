@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7938",
+    "airport_name": "Kelso Longview",
+    "city": "Kelso",
+    "country": "United States",
+    "iata": "KLS",
+    "icao": "KKLS",
+    "latitude": 46.118,
+    "longitude": -122.898389,
+    "elevation": 20,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

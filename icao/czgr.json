@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7263",
+    "airport_name": "Little Grand Rapids Airport",
+    "city": "Little Grand Rapids",
+    "country": "Canada",
+    "iata": "ZGR",
+    "icao": "CZGR",
+    "latitude": 52.045,
+    "longitude": -95.466111,
+    "elevation": 1008,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

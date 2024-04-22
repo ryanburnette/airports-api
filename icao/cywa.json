@@ -1,0 +1,14 @@
+{
+    "_csv_row": "159",
+    "airport_name": "Petawawa",
+    "city": "Petawawa",
+    "country": "Canada",
+    "iata": "YWA",
+    "icao": "CYWA",
+    "latitude": 45.952221,
+    "longitude": -77.319168,
+    "elevation": 427,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

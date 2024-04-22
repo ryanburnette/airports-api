@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3454",
+    "airport_name": "Eppley Afld",
+    "city": "Omaha",
+    "country": "United States",
+    "iata": "OMA",
+    "icao": "KOMA",
+    "latitude": 41.303167,
+    "longitude": -95.894069,
+    "elevation": 984,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

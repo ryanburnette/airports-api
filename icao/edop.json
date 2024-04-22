@@ -1,0 +1,14 @@
+{
+    "_csv_row": "383",
+    "airport_name": "Schwerin Parchim",
+    "city": "Parchim",
+    "country": "Germany",
+    "iata": "SZW",
+    "icao": "EDOP",
+    "latitude": 53.426997,
+    "longitude": 11.783436,
+    "elevation": 166,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

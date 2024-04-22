@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4037",
+    "airport_name": "Central Illinois Rgnl",
+    "city": "Bloomington",
+    "country": "United States",
+    "iata": "BMI",
+    "icao": "KBMI",
+    "latitude": 40.477111,
+    "longitude": -88.915917,
+    "elevation": 871,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

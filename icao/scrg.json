@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2660",
+    "airport_name": "De La Independencia",
+    "city": "Rancagua",
+    "country": "Chile",
+    "iata": "",
+    "icao": "SCRG",
+    "latitude": -34.173694,
+    "longitude": -70.775694,
+    "elevation": 1446,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9221",
+    "airport_name": "Effingham Memorial Airport",
+    "city": "Effingham",
+    "country": "United States",
+    "iata": "1H2",
+    "icao": "KEFH",
+    "latitude": 39.07,
+    "longitude": -88.534,
+    "elevation": 585,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

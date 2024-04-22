@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9100",
+    "airport_name": "Petersdorf",
+    "city": "Ansbach",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDQF",
+    "latitude": 49.216,
+    "longitude": 10.4026,
+    "elevation": 1370,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

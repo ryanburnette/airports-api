@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1794",
+    "airport_name": "Ciudad Obregon Intl",
+    "city": "Ciudad Obregon",
+    "country": "Mexico",
+    "iata": "CEN",
+    "icao": "MMCN",
+    "latitude": 27.392639,
+    "longitude": -109.833111,
+    "elevation": 205,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Hermosillo"
+}

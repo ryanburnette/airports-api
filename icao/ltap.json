@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1693",
+    "airport_name": "Merzifon",
+    "city": "Merzifon",
+    "country": "Turkey",
+    "iata": "MZH",
+    "icao": "LTAP",
+    "latitude": 40.829375,
+    "longitude": 35.521992,
+    "elevation": 1758,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

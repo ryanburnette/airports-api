@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6121",
+    "airport_name": "Igarka Airport",
+    "city": "Igarka",
+    "country": "Russia",
+    "iata": "IAA",
+    "icao": "UOII",
+    "latitude": 67.4372,
+    "longitude": 86.6219,
+    "elevation": 82,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Krasnoyarsk"
+}

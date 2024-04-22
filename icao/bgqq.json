@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5446",
+    "airport_name": "Qaanaaq Airport",
+    "city": "Qaanaaq",
+    "country": "Greenland",
+    "iata": "NAQ",
+    "icao": "BGQQ",
+    "latitude": 77.4886,
+    "longitude": -69.3887,
+    "elevation": 51,
+    "utc_offset": -4,
+    "_class": "E",
+    "timezone": "America/Thule"
+}

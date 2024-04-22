@@ -1,0 +1,14 @@
+{
+    "_csv_row": "951",
+    "airport_name": "Luanda 4 De Fevereiro",
+    "city": "Luanda",
+    "country": "Angola",
+    "iata": "LAD",
+    "icao": "FNLU",
+    "latitude": -8.858375,
+    "longitude": 13.231178,
+    "elevation": 243,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Luanda"
+}

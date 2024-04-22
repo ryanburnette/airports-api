@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5762",
+    "airport_name": "Pellston Regional Airport of Emmet County Airport",
+    "city": "Pellston",
+    "country": "United States",
+    "iata": "PLN",
+    "icao": "KPLN",
+    "latitude": 45.5709,
+    "longitude": -84.7967,
+    "elevation": 720,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

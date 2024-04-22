@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3491",
+    "airport_name": "Huron Rgnl",
+    "city": "Huron",
+    "country": "United States",
+    "iata": "HON",
+    "icao": "KHON",
+    "latitude": 44.3852,
+    "longitude": -98.228542,
+    "elevation": 1289,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

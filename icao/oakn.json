@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2051",
+    "airport_name": "Kandahar",
+    "city": "Kandahar",
+    "country": "Afghanistan",
+    "iata": "KDH",
+    "icao": "OAKN",
+    "latitude": 31.505756,
+    "longitude": 65.847822,
+    "elevation": 3337,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

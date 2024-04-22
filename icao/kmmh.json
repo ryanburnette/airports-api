@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7081",
+    "airport_name": "Mammoth Yosemite Airport",
+    "city": "Mammoth Lakes",
+    "country": "United States",
+    "iata": "MMH",
+    "icao": "KMMH",
+    "latitude": 37.624049,
+    "longitude": -118.837772,
+    "elevation": 7128,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

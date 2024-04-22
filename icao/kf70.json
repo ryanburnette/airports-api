@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7769",
+    "airport_name": "French Valley Airport",
+    "city": "Murrieta-Temecula",
+    "country": "United States",
+    "iata": "RBK",
+    "icao": "KF70",
+    "latitude": 33.5741791,
+    "longitude": -117.1284732,
+    "elevation": 1350,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8365",
+    "airport_name": "Brantford",
+    "city": "Brantford",
+    "country": "Canada",
+    "iata": "YFD",
+    "icao": "CYFD",
+    "latitude": 43.131389,
+    "longitude": -80.3425,
+    "elevation": 815,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

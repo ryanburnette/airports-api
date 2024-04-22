@@ -1,0 +1,14 @@
+{
+    "_csv_row": "194",
+    "airport_name": "Downsview",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata": "YZD",
+    "icao": "CYZD",
+    "latitude": 43.7425,
+    "longitude": -79.465556,
+    "elevation": 652,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

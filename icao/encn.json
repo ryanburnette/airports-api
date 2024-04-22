@@ -1,0 +1,14 @@
+{
+    "_csv_row": "638",
+    "airport_name": "Kjevik",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "iata": "KRS",
+    "icao": "ENCN",
+    "latitude": 58.204214,
+    "longitude": 8.085369,
+    "elevation": 57,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

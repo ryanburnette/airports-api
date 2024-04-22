@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7070",
+    "airport_name": "Dawson Community Airport",
+    "city": "Glendive",
+    "country": "United States",
+    "iata": "GDV",
+    "icao": "KGDV",
+    "latitude": 47.138611,
+    "longitude": -104.807222,
+    "elevation": 749,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

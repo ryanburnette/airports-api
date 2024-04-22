@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5641",
+    "airport_name": "Luderitz Airport",
+    "city": "Luderitz",
+    "country": "Namibia",
+    "iata": "LUD",
+    "icao": "FYLZ",
+    "latitude": -26.6874,
+    "longitude": 15.2429,
+    "elevation": 457,
+    "utc_offset": 1,
+    "_class": "S",
+    "timezone": "Africa/Windhoek"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1242",
+    "airport_name": "San Sebastian",
+    "city": "San Sebastian",
+    "country": "Spain",
+    "iata": "EAS",
+    "icao": "LESO",
+    "latitude": 43.356519,
+    "longitude": -1.790611,
+    "elevation": 15,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

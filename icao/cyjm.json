@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7272",
+    "airport_name": "Fort St. James - Perison Airport",
+    "city": "Fort St. James",
+    "country": "Canada",
+    "iata": "YJM",
+    "icao": "CYJM",
+    "latitude": 54.397222,
+    "longitude": -124.262778,
+    "elevation": 2364,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

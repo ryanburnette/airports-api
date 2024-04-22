@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2712",
+    "airport_name": "Gerardo Tobar Lopez",
+    "city": "Buenaventura",
+    "country": "Colombia",
+    "iata": "BUN",
+    "icao": "SKBU",
+    "latitude": 3.819628,
+    "longitude": -76.989767,
+    "elevation": 48,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

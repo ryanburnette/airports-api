@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2264",
+    "airport_name": "Kaohsiung Intl",
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "iata": "KHH",
+    "icao": "RCKH",
+    "latitude": 22.577094,
+    "longitude": 120.350006,
+    "elevation": 31,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Taipei"
+}

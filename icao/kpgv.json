@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6959",
+    "airport_name": "Pitt-Greenville Airport",
+    "city": "Greenville",
+    "country": "United States",
+    "iata": "PGV",
+    "icao": "KPGV",
+    "latitude": 35.635278,
+    "longitude": -77.385278,
+    "elevation": 27,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

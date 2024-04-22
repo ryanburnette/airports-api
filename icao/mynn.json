@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1953",
+    "airport_name": "Lynden Pindling Intl",
+    "city": "Nassau",
+    "country": "Bahamas",
+    "iata": "NAS",
+    "icao": "MYNN",
+    "latitude": 25.038958,
+    "longitude": -77.466231,
+    "elevation": 16,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Nassau"
+}

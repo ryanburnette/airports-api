@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9004",
+    "airport_name": "Pooncarie",
+    "city": "Pooncarie",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YPCE",
+    "latitude": -33.366699,
+    "longitude": 142.587977,
+    "elevation": 184,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

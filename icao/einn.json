@@ -1,0 +1,14 @@
+{
+    "_csv_row": "603",
+    "airport_name": "Shannon",
+    "city": "Shannon",
+    "country": "Ireland",
+    "iata": "SNN",
+    "icao": "EINN",
+    "latitude": 52.701978,
+    "longitude": -8.924817,
+    "elevation": 46,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

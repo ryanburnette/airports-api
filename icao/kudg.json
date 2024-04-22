@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8313",
+    "airport_name": "Darlington County Jetport",
+    "city": "Darlington",
+    "country": "United States",
+    "iata": "UDG",
+    "icao": "KUDG",
+    "latitude": 34.4493845,
+    "longitude": -79.8900608,
+    "elevation": 192,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

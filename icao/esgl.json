@@ -1,0 +1,14 @@
+{
+    "_csv_row": "690",
+    "airport_name": "Lidkoping",
+    "city": "Lidkoping",
+    "country": "Sweden",
+    "iata": "LDK",
+    "icao": "ESGL",
+    "latitude": 58.465522,
+    "longitude": 13.174414,
+    "elevation": 200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

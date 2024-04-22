@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6968",
+    "airport_name": "Stratton ANGB - Schenectady County Airpor",
+    "city": "Scotia NY",
+    "country": "United States",
+    "iata": "SCH",
+    "icao": "KSCH",
+    "latitude": 42.85245555,
+    "longitude": -73.928866666,
+    "elevation": 378,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

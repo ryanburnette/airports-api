@@ -1,0 +1,14 @@
+{
+    "_csv_row": "442",
+    "airport_name": "Mariehamn",
+    "city": "Mariehamn",
+    "country": "Finland",
+    "iata": "MHQ",
+    "icao": "EFMA",
+    "latitude": 60.122203,
+    "longitude": 19.898156,
+    "elevation": 17,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Mariehamn"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "601",
+    "airport_name": "Kerry",
+    "city": "Kerry",
+    "country": "Ireland",
+    "iata": "KIR",
+    "icao": "EIKY",
+    "latitude": 52.180878,
+    "longitude": -9.523783,
+    "elevation": 112,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

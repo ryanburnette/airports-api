@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7768",
+    "airport_name": "Cheremshanka",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "iata": "",
+    "icao": "UNKM",
+    "latitude": 56.179,
+    "longitude": 92.54265,
+    "elevation": 1000,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Krasnoyarsk"
+}

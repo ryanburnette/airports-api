@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3646",
+    "airport_name": "Tampa Intl",
+    "city": "Tampa",
+    "country": "United States",
+    "iata": "TPA",
+    "icao": "KTPA",
+    "latitude": 27.975472,
+    "longitude": -82.53325,
+    "elevation": 26,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

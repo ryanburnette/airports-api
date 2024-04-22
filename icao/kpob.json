@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3481",
+    "airport_name": "Pope Field",
+    "city": "Fort Bragg",
+    "country": "United States",
+    "iata": "POB",
+    "icao": "KPOB",
+    "latitude": 35.170883,
+    "longitude": -79.014472,
+    "elevation": 217,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

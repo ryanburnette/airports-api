@@ -1,0 +1,14 @@
+{
+    "_csv_row": "630",
+    "airport_name": "Vigra",
+    "city": "Alesund",
+    "country": "Norway",
+    "iata": "AES",
+    "icao": "ENAL",
+    "latitude": 62.560372,
+    "longitude": 6.110164,
+    "elevation": 69,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

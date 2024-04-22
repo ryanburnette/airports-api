@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5643",
+    "airport_name": "Oranjemund Airport",
+    "city": "Oranjemund",
+    "country": "Namibia",
+    "iata": "OMD",
+    "icao": "FYOG",
+    "latitude": -28.5847,
+    "longitude": 16.4467,
+    "elevation": 14,
+    "utc_offset": 1,
+    "_class": "S",
+    "timezone": "Africa/Windhoek"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3685",
+    "airport_name": "Gerald R Ford Intl",
+    "city": "Grand Rapids",
+    "country": "United States",
+    "iata": "GRR",
+    "icao": "KGRR",
+    "latitude": 42.880833,
+    "longitude": -85.522806,
+    "elevation": 794,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

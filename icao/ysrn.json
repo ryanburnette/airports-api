@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6328",
+    "airport_name": "Strahan Airport",
+    "city": "Strahan",
+    "country": "Australia",
+    "iata": "SRN",
+    "icao": "YSRN",
+    "latitude": -42.155,
+    "longitude": 145.292,
+    "elevation": 20,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Melbourne"
+}

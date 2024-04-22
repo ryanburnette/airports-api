@@ -1,0 +1,14 @@
+{
+    "_csv_row": "105",
+    "airport_name": "Pickle Lake",
+    "city": "Pickle Lake",
+    "country": "Canada",
+    "iata": "YPL",
+    "icao": "CYPL",
+    "latitude": 51.446388,
+    "longitude": -90.214167,
+    "elevation": 1267,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Coral_Harbour"
+}

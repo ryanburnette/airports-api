@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7261",
+    "airport_name": "South Indian Lake Airport",
+    "city": "South Indian Lake",
+    "country": "Canada",
+    "iata": "XSI",
+    "icao": "CZSN",
+    "latitude": 56.792778,
+    "longitude": -98.907222,
+    "elevation": 951,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

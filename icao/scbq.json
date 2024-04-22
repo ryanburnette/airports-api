@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2643",
+    "airport_name": "El Bosque",
+    "city": "Santiago",
+    "country": "Chile",
+    "iata": "",
+    "icao": "SCBQ",
+    "latitude": -33.5618,
+    "longitude": -70.6884,
+    "elevation": 1844,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

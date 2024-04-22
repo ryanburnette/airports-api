@@ -1,0 +1,14 @@
+{
+    "_csv_row": "308",
+    "airport_name": "Wevelgem",
+    "city": "Kortrijk-vevelgem",
+    "country": "Belgium",
+    "iata": "QKT",
+    "icao": "EBKT",
+    "latitude": 50.817222,
+    "longitude": 3.204722,
+    "elevation": 64,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

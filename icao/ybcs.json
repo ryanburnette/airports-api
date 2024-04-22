@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3322",
+    "airport_name": "Cairns Intl",
+    "city": "Cairns",
+    "country": "Australia",
+    "iata": "CNS",
+    "icao": "YBCS",
+    "latitude": -16.885833,
+    "longitude": 145.755278,
+    "elevation": 10,
+    "utc_offset": 10,
+    "_class": "N",
+    "timezone": "Australia/Brisbane"
+}

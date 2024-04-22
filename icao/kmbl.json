@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7054",
+    "airport_name": "Manistee County-Blacker Airport",
+    "city": "Manistee",
+    "country": "United States",
+    "iata": "MBL",
+    "icao": "KMBL",
+    "latitude": 44.2725,
+    "longitude": -86.246944,
+    "elevation": 621,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

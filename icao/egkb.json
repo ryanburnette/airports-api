@@ -1,0 +1,14 @@
+{
+    "_csv_row": "501",
+    "airport_name": "Biggin Hill",
+    "city": "Biggin Hill",
+    "country": "United Kingdom",
+    "iata": "BQH",
+    "icao": "EGKB",
+    "latitude": 51.330833,
+    "longitude": 0.0325,
+    "elevation": 598,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

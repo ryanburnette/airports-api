@@ -1,0 +1,14 @@
+{
+    "_csv_row": "693",
+    "airport_name": "Trollhattan Vanersborg",
+    "city": "Trollhattan",
+    "country": "Sweden",
+    "iata": "THN",
+    "icao": "ESGT",
+    "latitude": 58.318056,
+    "longitude": 12.345,
+    "elevation": 137,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

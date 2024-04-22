@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1994",
+    "airport_name": "Maupiti",
+    "city": "Maupiti",
+    "country": "French Polynesia",
+    "iata": "MAU",
+    "icao": "NTTP",
+    "latitude": -16.426486,
+    "longitude": -152.243669,
+    "elevation": 15,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

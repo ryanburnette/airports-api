@@ -1,0 +1,14 @@
+{
+    "_csv_row": "161",
+    "airport_name": "Wabush",
+    "city": "Wabush",
+    "country": "Canada",
+    "iata": "YWK",
+    "icao": "CYWK",
+    "latitude": 52.921944,
+    "longitude": -66.864444,
+    "elevation": 1808,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

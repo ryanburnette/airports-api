@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7420",
+    "airport_name": "Debre Tabor Airport",
+    "city": "Debre Tabor",
+    "country": "Ethiopia",
+    "iata": "DBT",
+    "icao": "HADT",
+    "latitude": 11.966667,
+    "longitude": 38,
+    "elevation": 7740,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

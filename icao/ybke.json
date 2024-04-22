@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6244",
+    "airport_name": "Bourke Airport",
+    "city": "Bourke",
+    "country": "Australia",
+    "iata": "BRK",
+    "icao": "YBKE",
+    "latitude": -30.0392,
+    "longitude": 145.952,
+    "elevation": 352,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

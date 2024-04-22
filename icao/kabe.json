@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4355",
+    "airport_name": "Lehigh Valley Intl",
+    "city": "Allentown",
+    "country": "United States",
+    "iata": "ABE",
+    "icao": "KABE",
+    "latitude": 40.652083,
+    "longitude": -75.440806,
+    "elevation": 393,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

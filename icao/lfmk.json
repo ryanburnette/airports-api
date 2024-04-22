@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1352",
+    "airport_name": "Salvaza",
+    "city": "Carcassonne",
+    "country": "France",
+    "iata": "CCF",
+    "icao": "LFMK",
+    "latitude": 43.215978,
+    "longitude": 2.306317,
+    "elevation": 433,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

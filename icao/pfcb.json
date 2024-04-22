@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7233",
+    "airport_name": "Chenega Bay Airport",
+    "city": "Chenega",
+    "country": "United States",
+    "iata": "NCN",
+    "icao": "PFCB",
+    "latitude": 60.077222,
+    "longitude": -147.991944,
+    "elevation": 72,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

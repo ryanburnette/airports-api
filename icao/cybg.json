@@ -1,0 +1,14 @@
+{
+    "_csv_row": "28",
+    "airport_name": "Bagotville",
+    "city": "Bagotville",
+    "country": "Canada",
+    "iata": "YBG",
+    "icao": "CYBG",
+    "latitude": 48.330555,
+    "longitude": -70.996391,
+    "elevation": 522,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

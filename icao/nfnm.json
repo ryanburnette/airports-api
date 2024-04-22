@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5875",
+    "airport_name": "Matei Airport",
+    "city": "Matei",
+    "country": "Fiji",
+    "iata": "TVU",
+    "icao": "NFNM",
+    "latitude": -16.6906,
+    "longitude": -179.877,
+    "elevation": 60,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

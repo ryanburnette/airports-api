@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7659",
+    "airport_name": "Brown Field Municipal Airport",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "SDM",
+    "icao": "KSDM",
+    "latitude": 32.5722722,
+    "longitude": -116.9801611,
+    "elevation": 526,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

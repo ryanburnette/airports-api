@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2597",
+    "airport_name": "Augusto Severo",
+    "city": "Natal",
+    "country": "Brazil",
+    "iata": "NAT",
+    "icao": "SBNT",
+    "latitude": -5.911417,
+    "longitude": -35.247717,
+    "elevation": 169,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

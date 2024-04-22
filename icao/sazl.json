@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6032",
+    "airport_name": "Santa Teresita Airport",
+    "city": "Santa Teresita",
+    "country": "Argentina",
+    "iata": "SST",
+    "icao": "SAZL",
+    "latitude": -36.542317,
+    "longitude": -56.721756,
+    "elevation": 9,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

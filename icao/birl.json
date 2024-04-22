@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6867",
+    "airport_name": "Reykjahlid Airport",
+    "city": "Myvatn",
+    "country": "Iceland",
+    "iata": "MVA",
+    "icao": "BIRL",
+    "latitude": 65.6558,
+    "longitude": -16.9181,
+    "elevation": 1030,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

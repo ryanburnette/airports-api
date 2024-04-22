@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2796",
+    "airport_name": "Pedro Canga",
+    "city": "Tumbes",
+    "country": "Peru",
+    "iata": "TBP",
+    "icao": "SPME",
+    "latitude": -3.552528,
+    "longitude": -80.381356,
+    "elevation": 115,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Lima"
+}

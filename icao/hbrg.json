@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9465",
+    "airport_name": "Harrisburg Transportation Center",
+    "city": "Harrisburg",
+    "country": "United States",
+    "iata": "",
+    "icao": "HBRG",
+    "latitude": 40.26223,
+    "longitude": -76.878709,
+    "elevation": 320,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

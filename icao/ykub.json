@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6282",
+    "airport_name": "Kubin Airport",
+    "city": "Kubin",
+    "country": "Australia",
+    "iata": "KUG",
+    "icao": "YKUB",
+    "latitude": -10.225,
+    "longitude": 142.218,
+    "elevation": 15,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

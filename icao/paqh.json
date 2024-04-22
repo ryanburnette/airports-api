@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7206",
+    "airport_name": "Quinhagak Airport",
+    "city": "Quinhagak",
+    "country": "United States",
+    "iata": "KWN",
+    "icao": "PAQH",
+    "latitude": 59.755,
+    "longitude": -161.845278,
+    "elevation": 42,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

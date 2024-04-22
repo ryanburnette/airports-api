@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3770",
+    "airport_name": "Texarkana Rgnl Webb Fld",
+    "city": "Texarkana",
+    "country": "United States",
+    "iata": "TXK",
+    "icao": "KTXK",
+    "latitude": 33.453722,
+    "longitude": -93.991028,
+    "elevation": 390,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

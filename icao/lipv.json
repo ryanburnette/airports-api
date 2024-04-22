@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7723",
+    "airport_name": "San Nicolo Airport",
+    "city": "Venice",
+    "country": "Italy",
+    "iata": "",
+    "icao": "LIPV",
+    "latitude": 45.4283,
+    "longitude": 12.3881,
+    "elevation": 13,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

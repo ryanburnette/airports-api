@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5460",
+    "airport_name": "Port Hope Simpson Airport",
+    "city": "Port Hope Simpson",
+    "country": "Canada",
+    "iata": "YHA",
+    "icao": "CCP4",
+    "latitude": 52.5281,
+    "longitude": -56.2861,
+    "elevation": 347,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

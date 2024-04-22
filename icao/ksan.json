@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3731",
+    "airport_name": "San Diego Intl",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "SAN",
+    "icao": "KSAN",
+    "latitude": 32.733556,
+    "longitude": -117.189667,
+    "elevation": 17,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

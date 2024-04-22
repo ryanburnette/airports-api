@@ -1,0 +1,14 @@
+{
+    "_csv_row": "197",
+    "airport_name": "Slave Lake",
+    "city": "Slave Lake",
+    "country": "Canada",
+    "iata": "YZH",
+    "icao": "CYZH",
+    "latitude": 55.293056,
+    "longitude": -114.777222,
+    "elevation": 1912,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

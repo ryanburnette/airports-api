@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6999",
+    "airport_name": "Brigham City",
+    "city": "Brigham City",
+    "country": "United States",
+    "iata": "BMC",
+    "icao": "KBMC",
+    "latitude": 41.552,
+    "longitude": -112.062,
+    "elevation": 4229,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

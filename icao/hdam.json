@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4119",
+    "airport_name": "Ambouli International Airport",
+    "city": "Djibouti",
+    "country": "Djibouti",
+    "iata": "JIB",
+    "icao": "HDAM",
+    "latitude": 11.5472,
+    "longitude": 43.1594,
+    "elevation": 49,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Djibouti"
+}

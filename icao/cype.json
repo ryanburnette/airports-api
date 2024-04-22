@@ -1,0 +1,14 @@
+{
+    "_csv_row": "102",
+    "airport_name": "Peace River",
+    "city": "Peace River",
+    "country": "Canada",
+    "iata": "YPE",
+    "icao": "CYPE",
+    "latitude": 56.226944,
+    "longitude": -117.447222,
+    "elevation": 1873,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

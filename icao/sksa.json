@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7355",
+    "airport_name": "Los Colonizadores Airport",
+    "city": "Saravena",
+    "country": "Colombia",
+    "iata": "RVE",
+    "icao": "SKSA",
+    "latitude": 6.916667,
+    "longitude": -71.9,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

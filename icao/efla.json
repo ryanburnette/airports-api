@@ -1,0 +1,14 @@
+{
+    "_csv_row": "440",
+    "airport_name": "Lahti Vesivehmaa",
+    "city": "Vesivehmaa",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFLA",
+    "latitude": 61.144158,
+    "longitude": 25.693508,
+    "elevation": 502,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

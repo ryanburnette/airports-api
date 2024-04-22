@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6500",
+    "airport_name": "Mason City Municipal",
+    "city": "Mason City",
+    "country": "United States",
+    "iata": "MCW",
+    "icao": "KMCW",
+    "latitude": 43.2247,
+    "longitude": -93.4067,
+    "elevation": 1243,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

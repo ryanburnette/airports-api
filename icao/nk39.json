@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8123",
+    "airport_name": "One Police Plaza Heliport",
+    "city": "New York",
+    "country": "United States",
+    "iata": "",
+    "icao": "NK39",
+    "latitude": 40.7126,
+    "longitude": -73.9996,
+    "elevation": 244,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

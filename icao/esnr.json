@@ -1,0 +1,14 @@
+{
+    "_csv_row": "725",
+    "airport_name": "Orsa",
+    "city": "Orsa",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESNR",
+    "latitude": 61.190033,
+    "longitude": 14.712567,
+    "elevation": 683,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

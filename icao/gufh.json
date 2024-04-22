@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1100",
+    "airport_name": "Faranah",
+    "city": "Faranah",
+    "country": "Guinea",
+    "iata": "FAA",
+    "icao": "GUFH",
+    "latitude": 10.035467,
+    "longitude": -10.769825,
+    "elevation": 1476,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Conakry"
+}

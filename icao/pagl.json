@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7185",
+    "airport_name": "Golovin Airport",
+    "city": "Golovin",
+    "country": "United States",
+    "iata": "GLV",
+    "icao": "PAGL",
+    "latitude": 64.550556,
+    "longitude": -163.007222,
+    "elevation": 59,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

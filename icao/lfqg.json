@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1394",
+    "airport_name": "Fourchambault",
+    "city": "Nevers",
+    "country": "France",
+    "iata": "NVS",
+    "icao": "LFQG",
+    "latitude": 47.002625,
+    "longitude": 3.113333,
+    "elevation": 602,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

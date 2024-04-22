@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5487",
+    "airport_name": "Chesterfield Inlet Airport",
+    "city": "Chesterfield Inlet",
+    "country": "Canada",
+    "iata": "YCS",
+    "icao": "CYCS",
+    "latitude": 63.3469,
+    "longitude": -90.7311,
+    "elevation": 32,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

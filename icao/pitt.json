@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7914",
+    "airport_name": "Pitt Island Airport",
+    "city": "Pitt Island",
+    "country": "New Zealand",
+    "iata": "",
+    "icao": "PITT",
+    "latitude": -44.300278,
+    "longitude": -176.220556,
+    "elevation": 12,
+    "utc_offset": 12.75,
+    "_class": "U",
+    "timezone": "Pacific/Chatham"
+}

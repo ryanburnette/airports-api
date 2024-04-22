@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8601",
+    "airport_name": "Pickens County Airport",
+    "city": "Jasper",
+    "country": "United States",
+    "iata": "JZP",
+    "icao": "KJZP",
+    "latitude": 34.4534722,
+    "longitude": -84.4572222,
+    "elevation": 1535,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

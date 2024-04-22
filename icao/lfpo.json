@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1386",
+    "airport_name": "Orly",
+    "city": "Paris",
+    "country": "France",
+    "iata": "ORY",
+    "icao": "LFPO",
+    "latitude": 48.725278,
+    "longitude": 2.359444,
+    "elevation": 291,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

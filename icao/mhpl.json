@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5832",
+    "airport_name": "Puerto Lempira Airport",
+    "city": "Puerto Lempira",
+    "country": "Honduras",
+    "iata": "PEU",
+    "icao": "MHPL",
+    "latitude": 15.2622,
+    "longitude": -83.7812,
+    "elevation": 25,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Tegucigalpa"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2370",
+    "airport_name": "Jeju Intl",
+    "city": "Cheju",
+    "country": "South Korea",
+    "iata": "CJU",
+    "icao": "RKPC",
+    "latitude": 33.511306,
+    "longitude": 126.493028,
+    "elevation": 118,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

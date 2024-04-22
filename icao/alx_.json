@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8275",
+    "airport_name": "Alexandria",
+    "city": "Alexandria",
+    "country": "United States",
+    "iata": "ALX",
+    "icao": "ALX_",
+    "latitude": 38.806346,
+    "longitude": -77.0621,
+    "elevation": 1,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

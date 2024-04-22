@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7522",
+    "airport_name": "Kinston Regional Jetport",
+    "city": "Kinston",
+    "country": "United States",
+    "iata": "ISO",
+    "icao": "KISO",
+    "latitude": 35.331389,
+    "longitude": -77.608889,
+    "elevation": 94,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

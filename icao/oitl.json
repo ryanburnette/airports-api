@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5935",
+    "airport_name": "Ardabil Airport",
+    "city": "Ardabil",
+    "country": "Iran",
+    "iata": "ADU",
+    "icao": "OITL",
+    "latitude": 38.325678,
+    "longitude": 48.424356,
+    "elevation": 4315,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

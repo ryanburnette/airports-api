@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3650",
+    "airport_name": "Chisholm Hibbing",
+    "city": "Hibbing",
+    "country": "United States",
+    "iata": "HIB",
+    "icao": "KHIB",
+    "latitude": 47.3866,
+    "longitude": -92.838994,
+    "elevation": 1353,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

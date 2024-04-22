@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1676",
+    "airport_name": "Bern Belp",
+    "city": "Bern",
+    "country": "Switzerland",
+    "iata": "BRN",
+    "icao": "LSZB",
+    "latitude": 46.9141,
+    "longitude": 7.497153,
+    "elevation": 1674,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

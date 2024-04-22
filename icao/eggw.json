@@ -1,0 +1,14 @@
+{
+    "_csv_row": "492",
+    "airport_name": "Luton",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LTN",
+    "icao": "EGGW",
+    "latitude": 51.874722,
+    "longitude": -0.368333,
+    "elevation": 526,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

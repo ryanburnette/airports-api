@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1326",
+    "airport_name": "Solenzara",
+    "city": "Solenzara",
+    "country": "France",
+    "iata": "SOZ",
+    "icao": "LFKS",
+    "latitude": 41.924416,
+    "longitude": 9.406,
+    "elevation": 28,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

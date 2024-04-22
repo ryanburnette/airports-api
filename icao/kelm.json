@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3946",
+    "airport_name": "Elmira Corning Rgnl",
+    "city": "Elmira",
+    "country": "United States",
+    "iata": "ELM",
+    "icao": "KELM",
+    "latitude": 42.159889,
+    "longitude": -76.891611,
+    "elevation": 954,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

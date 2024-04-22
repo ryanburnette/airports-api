@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4338",
+    "airport_name": "Cortez Muni",
+    "city": "Cortez",
+    "country": "United States",
+    "iata": "CEZ",
+    "icao": "KCEZ",
+    "latitude": 37.303,
+    "longitude": -108.628056,
+    "elevation": 5918,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

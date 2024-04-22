@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2172",
+    "airport_name": "Aqaba King Hussein Intl",
+    "city": "Aqaba",
+    "country": "Jordan",
+    "iata": "AQJ",
+    "icao": "OJAQ",
+    "latitude": 29.611619,
+    "longitude": 35.018067,
+    "elevation": 175,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Asia/Amman"
+}

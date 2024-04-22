@@ -1,0 +1,14 @@
+{
+    "_csv_row": "158",
+    "airport_name": "Wiarton",
+    "city": "Wiarton",
+    "country": "Canada",
+    "iata": "YVV",
+    "icao": "CYVV",
+    "latitude": 44.745834,
+    "longitude": -81.107222,
+    "elevation": 729,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1200",
+    "airport_name": "Dubrovnik",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "iata": "DBV",
+    "icao": "LDDU",
+    "latitude": 42.561353,
+    "longitude": 18.268244,
+    "elevation": 527,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zagreb"
+}

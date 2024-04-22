@@ -1,0 +1,14 @@
+{
+    "_csv_row": "294",
+    "airport_name": "El Borma",
+    "city": "El Borma",
+    "country": "Tunisia",
+    "iata": "EBM",
+    "icao": "DTTR",
+    "latitude": 31.704281,
+    "longitude": 9.254619,
+    "elevation": 827,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Africa/Tunis"
+}

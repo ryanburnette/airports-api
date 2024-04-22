@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1612",
+    "airport_name": "Salzburg",
+    "city": "Salzburg",
+    "country": "Austria",
+    "iata": "SZG",
+    "icao": "LOWS",
+    "latitude": 47.793304,
+    "longitude": 13.004333,
+    "elevation": 1411,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Vienna"
+}

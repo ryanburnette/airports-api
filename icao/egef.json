@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5565",
+    "airport_name": "Fair Isle Airport",
+    "city": "Fair Isle",
+    "country": "United Kingdom",
+    "iata": "FIE",
+    "icao": "EGEF",
+    "latitude": 59.5358,
+    "longitude": -1.62806,
+    "elevation": 223,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

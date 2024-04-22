@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7383",
+    "airport_name": "Tancredo Thomaz de Faria Airport",
+    "city": "Guarapuava",
+    "country": "Brazil",
+    "iata": "GPB",
+    "icao": "SBGU",
+    "latitude": -25.383333,
+    "longitude": -51.45,
+    "elevation": 200,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

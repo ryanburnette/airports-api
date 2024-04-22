@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7301",
+    "airport_name": "Constanza Airport",
+    "city": "Constanza",
+    "country": "Dominican Republic",
+    "iata": "COZ",
+    "icao": "MDCZ",
+    "latitude": 18.907626,
+    "longitude": -70.719852,
+    "elevation": 3931,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santo_Domingo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6135",
+    "airport_name": "Grant County Airport",
+    "city": "Silver City",
+    "country": "United States",
+    "iata": "SVC",
+    "icao": "SVC",
+    "latitude": 32.6365,
+    "longitude": -108.156,
+    "elevation": 5446,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

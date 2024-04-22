@@ -1,0 +1,14 @@
+{
+    "_csv_row": "338",
+    "airport_name": "Dresden",
+    "city": "Dresden",
+    "country": "Germany",
+    "iata": "DRS",
+    "icao": "EDDC",
+    "latitude": 51.132767,
+    "longitude": 13.767161,
+    "elevation": 755,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

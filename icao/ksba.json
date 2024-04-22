@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3949",
+    "airport_name": "Santa Barbara Muni",
+    "city": "Santa Barbara",
+    "country": "United States",
+    "iata": "SBA",
+    "icao": "KSBA",
+    "latitude": 34.426211,
+    "longitude": -119.840372,
+    "elevation": 10,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

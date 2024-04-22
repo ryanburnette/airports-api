@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2745",
+    "airport_name": "Jose Maria Cordova",
+    "city": "Rio Negro",
+    "country": "Colombia",
+    "iata": "MDE",
+    "icao": "SKRG",
+    "latitude": 6.164536,
+    "longitude": -75.423119,
+    "elevation": 6955,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

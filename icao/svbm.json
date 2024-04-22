@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2824",
+    "airport_name": "Barquisimeto Intl",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "iata": "BRM",
+    "icao": "SVBM",
+    "latitude": 10.042747,
+    "longitude": -69.358619,
+    "elevation": 2042,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

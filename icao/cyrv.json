@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8033",
+    "airport_name": "Revelstoke Airport",
+    "city": "Revelstoke",
+    "country": "Canada",
+    "iata": "YRV",
+    "icao": "CYRV",
+    "latitude": 50.9667,
+    "longitude": -118.183,
+    "elevation": 1459,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "327",
+    "airport_name": "Strausberg",
+    "city": "Strausberg",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDAY",
+    "latitude": 52.579978,
+    "longitude": 13.915683,
+    "elevation": 263,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

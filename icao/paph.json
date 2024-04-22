@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6766",
+    "airport_name": "Port Heiden Airport",
+    "city": "Port Heiden",
+    "country": "United States",
+    "iata": "PTH",
+    "icao": "PAPH",
+    "latitude": 56.9591,
+    "longitude": -158.633,
+    "elevation": 95,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

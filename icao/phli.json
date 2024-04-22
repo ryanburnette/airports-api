@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3602",
+    "airport_name": "Lihue",
+    "city": "Lihue",
+    "country": "United States",
+    "iata": "LIH",
+    "icao": "PHLI",
+    "latitude": 21.975983,
+    "longitude": -159.338958,
+    "elevation": 153,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

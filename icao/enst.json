@@ -1,0 +1,14 @@
+{
+    "_csv_row": "662",
+    "airport_name": "Stokka",
+    "city": "Sandnessjoen",
+    "country": "Norway",
+    "iata": "SSJ",
+    "icao": "ENST",
+    "latitude": 65.956828,
+    "longitude": 12.468944,
+    "elevation": 56,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

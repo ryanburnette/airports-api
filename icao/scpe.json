@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8968",
+    "airport_name": "San Pedro de Atacama Airport",
+    "city": "San Pedro de Atacama",
+    "country": "Chile",
+    "iata": "",
+    "icao": "SCPE",
+    "latitude": -22.918888,
+    "longitude": -68.162777,
+    "elevation": 7959,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santiago"
+}

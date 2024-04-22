@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7792",
+    "airport_name": "Kempten HBF",
+    "city": "Kempten",
+    "country": "Germany",
+    "iata": "KEX",
+    "icao": "KEMP",
+    "latitude": 47.724,
+    "longitude": 10.311,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

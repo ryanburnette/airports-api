@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4113",
+    "airport_name": "Huntsville International Airport-Carl T Jones Field",
+    "city": "Huntsville",
+    "country": "United States",
+    "iata": "HSV",
+    "icao": "KHSV",
+    "latitude": 34.6371944,
+    "longitude": -86.7750556,
+    "elevation": 629,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

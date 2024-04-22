@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5942",
+    "airport_name": "Dera Ghazi Khan Airport",
+    "city": "Dera Ghazi Khan",
+    "country": "Pakistan",
+    "iata": "DEA",
+    "icao": "OPDG",
+    "latitude": 29.961011,
+    "longitude": 70.485925,
+    "elevation": 492,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

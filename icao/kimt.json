@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6837",
+    "airport_name": "Ford Airport",
+    "city": "Iron Mountain",
+    "country": "United States",
+    "iata": "IMT",
+    "icao": "KIMT",
+    "latitude": 45.8183611,
+    "longitude": -88.1145556,
+    "elevation": 1182,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

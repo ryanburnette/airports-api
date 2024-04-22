@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2983",
+    "airport_name": "Yuzhny",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "iata": "TAS",
+    "icao": "UTTT",
+    "latitude": 41.257861,
+    "longitude": 69.281186,
+    "elevation": 1417,
+    "utc_offset": 5,
+    "_class": "U",
+    "timezone": "Asia/Samarkand"
+}

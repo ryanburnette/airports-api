@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6335",
+    "airport_name": "Wiluna Airport",
+    "city": "Wiluna",
+    "country": "Australia",
+    "iata": "WUN",
+    "icao": "YWLU",
+    "latitude": -26.6292,
+    "longitude": 120.221,
+    "elevation": 1649,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

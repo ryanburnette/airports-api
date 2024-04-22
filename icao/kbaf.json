@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8281",
+    "airport_name": "Barnes Municipal",
+    "city": "Westfield",
+    "country": "United States",
+    "iata": "BAF",
+    "icao": "KBAF",
+    "latitude": 42.1579472,
+    "longitude": -72.715875,
+    "elevation": 270,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

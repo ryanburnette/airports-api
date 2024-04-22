@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5825",
+    "airport_name": "Namorik Atoll Airport",
+    "city": "Namorik Atoll",
+    "country": "Marshall Islands",
+    "iata": "NDK",
+    "icao": "3N0",
+    "latitude": 5.63167,
+    "longitude": 168.125,
+    "elevation": 15,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Majuro"
+}

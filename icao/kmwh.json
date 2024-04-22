@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3605",
+    "airport_name": "Grant Co Intl",
+    "city": "Grant County Airport",
+    "country": "United States",
+    "iata": "MWH",
+    "icao": "KMWH",
+    "latitude": 47.207708,
+    "longitude": -119.32019,
+    "elevation": 1185,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

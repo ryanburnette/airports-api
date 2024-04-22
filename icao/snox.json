@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8259",
+    "airport_name": "Oriximina Airport",
+    "city": "Oriximina",
+    "country": "Brazil",
+    "iata": "ORX",
+    "icao": "SNOX",
+    "latitude": -1.714167,
+    "longitude": -55.836111,
+    "elevation": 262,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Boa_Vista"
+}

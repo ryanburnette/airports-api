@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8303",
+    "airport_name": "Baldwin County Airport",
+    "city": "Milledgeville",
+    "country": "United States",
+    "iata": "MLJ",
+    "icao": "KMLJ",
+    "latitude": 33.154225,
+    "longitude": -83.2414139,
+    "elevation": 385,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2659",
+    "airport_name": "Vallenar",
+    "city": "Vallenar",
+    "country": "Chile",
+    "iata": "",
+    "icao": "SCLL",
+    "latitude": -28.596403,
+    "longitude": -70.755997,
+    "elevation": 1725,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

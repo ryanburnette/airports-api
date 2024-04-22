@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2235",
+    "airport_name": "Aleppo Intl",
+    "city": "Aleppo",
+    "country": "Syria",
+    "iata": "ALP",
+    "icao": "OSAP",
+    "latitude": 36.180675,
+    "longitude": 37.224358,
+    "elevation": 1276,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Asia/Damascus"
+}

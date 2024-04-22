@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8496",
+    "airport_name": "Regional Airport",
+    "city": "Joliet",
+    "country": "United States",
+    "iata": "JOT",
+    "icao": "KJOT",
+    "latitude": 41.517778,
+    "longitude": -88.175556,
+    "elevation": 582,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

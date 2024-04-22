@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2554",
+    "airport_name": "Cataratas Intl",
+    "city": "Foz Do Iguacu",
+    "country": "Brazil",
+    "iata": "IGU",
+    "icao": "SBFI",
+    "latitude": -25.59615,
+    "longitude": -54.487206,
+    "elevation": 787,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

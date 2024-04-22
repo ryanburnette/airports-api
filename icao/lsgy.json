@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6497",
+    "airport_name": "Yverdon-Les-Bains",
+    "city": "Yverdon-Les-Bains",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSGY",
+    "latitude": 46.86667,
+    "longitude": 6.7,
+    "elevation": 1427,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

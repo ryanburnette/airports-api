@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2527",
+    "airport_name": "Comandante Gustavo Kraemer",
+    "city": "Bage",
+    "country": "Brazil",
+    "iata": "BGX",
+    "icao": "SBBG",
+    "latitude": -31.390528,
+    "longitude": -54.112244,
+    "elevation": 600,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

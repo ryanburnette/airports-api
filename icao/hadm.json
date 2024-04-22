@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7419",
+    "airport_name": "Debre Marqos",
+    "city": "Debre Marqos",
+    "country": "Ethiopia",
+    "iata": "DBM",
+    "icao": "HADM",
+    "latitude": 10.316667,
+    "longitude": 37.733333,
+    "elevation": 7440,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

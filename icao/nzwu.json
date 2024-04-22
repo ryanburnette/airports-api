@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2047",
+    "airport_name": "Wanganui",
+    "city": "Wanganui",
+    "country": "New Zealand",
+    "iata": "WAG",
+    "icao": "NZWU",
+    "latitude": -39.962222,
+    "longitude": 175.025278,
+    "elevation": 27,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

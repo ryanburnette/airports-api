@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8070",
+    "airport_name": "Isla San Felix",
+    "city": "Isla San Felix",
+    "country": "Chile",
+    "iata": "",
+    "icao": "SCFX",
+    "latitude": -26.293864,
+    "longitude": -80.096214,
+    "elevation": 165,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santiago"
+}

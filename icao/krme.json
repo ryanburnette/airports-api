@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3450",
+    "airport_name": "Griffiss Afld",
+    "city": "Rome",
+    "country": "United States",
+    "iata": "RME",
+    "icao": "KRME",
+    "latitude": 43.2338,
+    "longitude": -75.407033,
+    "elevation": 504,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

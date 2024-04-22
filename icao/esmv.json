@@ -1,0 +1,14 @@
+{
+    "_csv_row": "710",
+    "airport_name": "Hagshult",
+    "city": "Hagshult",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESMV",
+    "latitude": 57.292222,
+    "longitude": 14.137222,
+    "elevation": 556,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

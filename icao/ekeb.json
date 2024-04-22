@@ -1,0 +1,14 @@
+{
+    "_csv_row": "610",
+    "airport_name": "Esbjerg",
+    "city": "Esbjerg",
+    "country": "Denmark",
+    "iata": "EBJ",
+    "icao": "EKEB",
+    "latitude": 55.525942,
+    "longitude": 8.553403,
+    "elevation": 97,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

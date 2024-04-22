@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2387",
+    "airport_name": "Ishigaki",
+    "city": "Ishigaki",
+    "country": "Japan",
+    "iata": "ISG",
+    "icao": "ROIG",
+    "latitude": 24.344525,
+    "longitude": 124.186983,
+    "elevation": 93,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7523",
+    "airport_name": "First Flight Airport",
+    "city": "Kill Devil Hills",
+    "country": "United States",
+    "iata": "FFA",
+    "icao": "KFFA",
+    "latitude": 36.02,
+    "longitude": -75.67,
+    "elevation": 13,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6506",
+    "airport_name": "Saul Airport",
+    "city": "Saul",
+    "country": "French Guiana",
+    "iata": "XAU",
+    "icao": "SOOS",
+    "latitude": 3.61361,
+    "longitude": -53.2042,
+    "elevation": 656,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Cayenne"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "507",
+    "airport_name": "Heathrow",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LHR",
+    "icao": "EGLL",
+    "latitude": 51.4775,
+    "longitude": -0.461389,
+    "elevation": 83,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6044",
+    "airport_name": "Sorocaba Airport",
+    "city": "Sorocaba",
+    "country": "Brazil",
+    "iata": "SOD",
+    "icao": "SDCO",
+    "latitude": -23.478,
+    "longitude": -47.49,
+    "elevation": 2077,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

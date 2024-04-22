@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2960",
+    "airport_name": "Pashkovskiy",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "iata": "KRR",
+    "icao": "URKK",
+    "latitude": 45.034689,
+    "longitude": 39.170539,
+    "elevation": 118,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

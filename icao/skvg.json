@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7359",
+    "airport_name": "Villa Garzon Airport",
+    "city": "Villa Garzon",
+    "country": "Colombia",
+    "iata": "VGZ",
+    "icao": "SKVG",
+    "latitude": 0.978889,
+    "longitude": -76.605556,
+    "elevation": 1248,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

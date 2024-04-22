@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1265",
+    "airport_name": "Roumaniere",
+    "city": "Bergerac",
+    "country": "France",
+    "iata": "EGC",
+    "icao": "LFBE",
+    "latitude": 44.825279,
+    "longitude": 0.518611,
+    "elevation": 171,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

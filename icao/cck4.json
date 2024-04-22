@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5459",
+    "airport_name": "St. Lewis (Fox Harbour) Airport",
+    "city": "St. Lewis",
+    "country": "Canada",
+    "iata": "YFX",
+    "icao": "CCK4",
+    "latitude": 52.3728,
+    "longitude": -55.6739,
+    "elevation": 74,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "19",
+    "airport_name": "Siglufjordur",
+    "city": "Siglufjordur",
+    "country": "Iceland",
+    "iata": "SIJ",
+    "icao": "BISI",
+    "latitude": 66.133333,
+    "longitude": -18.916667,
+    "elevation": 10,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

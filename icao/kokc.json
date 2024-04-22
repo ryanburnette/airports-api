@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3863",
+    "airport_name": "Will Rogers World",
+    "city": "Oklahoma City",
+    "country": "United States",
+    "iata": "OKC",
+    "icao": "KOKC",
+    "latitude": 35.393089,
+    "longitude": -97.600733,
+    "elevation": 1295,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

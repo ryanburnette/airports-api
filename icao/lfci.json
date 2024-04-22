@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1284",
+    "airport_name": "Le Sequestre",
+    "city": "Albi",
+    "country": "France",
+    "iata": "LBI",
+    "icao": "LFCI",
+    "latitude": 43.913887,
+    "longitude": 2.113056,
+    "elevation": 564,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

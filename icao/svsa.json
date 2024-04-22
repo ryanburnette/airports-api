@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2858",
+    "airport_name": "San Antonio Del Tachira",
+    "city": "San Antonio",
+    "country": "Venezuela",
+    "iata": "SVZ",
+    "icao": "SVSA",
+    "latitude": 7.840831,
+    "longitude": -72.439742,
+    "elevation": 1312,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3497",
+    "airport_name": "Garden City Rgnl",
+    "city": "Garden City",
+    "country": "United States",
+    "iata": "GCK",
+    "icao": "KGCK",
+    "latitude": 37.927528,
+    "longitude": -100.724417,
+    "elevation": 2891,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2039",
+    "airport_name": "Wanaka",
+    "city": "Wanaka",
+    "country": "New Zealand",
+    "iata": "WKA",
+    "icao": "NZWF",
+    "latitude": -44.722222,
+    "longitude": 169.245556,
+    "elevation": 1142,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

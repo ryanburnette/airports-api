@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1209",
+    "airport_name": "Zadar",
+    "city": "Zadar",
+    "country": "Croatia",
+    "iata": "ZAD",
+    "icao": "LDZD",
+    "latitude": 44.108269,
+    "longitude": 15.346697,
+    "elevation": 289,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zagreb"
+}

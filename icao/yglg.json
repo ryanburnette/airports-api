@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7704",
+    "airport_name": "Geelong Airport",
+    "city": "Geelong",
+    "country": "Australia",
+    "iata": "GEX",
+    "icao": "YGLG",
+    "latitude": -38.225,
+    "longitude": 144.333,
+    "elevation": 43,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

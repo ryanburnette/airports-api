@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6849",
+    "airport_name": "Grand Marais Cook County Airport",
+    "city": "Grand Marais",
+    "country": "United States",
+    "iata": "GRM",
+    "icao": "KCKC",
+    "latitude": 47.8383333,
+    "longitude": -90.3829444,
+    "elevation": 1799,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Chicago"
+}

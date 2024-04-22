@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2372",
+    "airport_name": "Gimhae Intl",
+    "city": "Busan",
+    "country": "South Korea",
+    "iata": "PUS",
+    "icao": "RKPK",
+    "latitude": 35.179528,
+    "longitude": 128.938222,
+    "elevation": 6,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

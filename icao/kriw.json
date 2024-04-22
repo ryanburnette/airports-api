@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6881",
+    "airport_name": "Riverton Regional",
+    "city": "Riverton WY",
+    "country": "United States",
+    "iata": "RIW",
+    "icao": "KRIW",
+    "latitude": 43.064167,
+    "longitude": -108.459722,
+    "elevation": 5525,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

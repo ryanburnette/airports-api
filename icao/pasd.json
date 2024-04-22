@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6742",
+    "airport_name": "Sand Point Airport",
+    "city": "Sand Point",
+    "country": "United States",
+    "iata": "SDP",
+    "icao": "PASD",
+    "latitude": 55.315,
+    "longitude": -160.523,
+    "elevation": 21,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

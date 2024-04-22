@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1508",
+    "airport_name": "Lamezia Terme",
+    "city": "Lamezia",
+    "country": "Italy",
+    "iata": "SUF",
+    "icao": "LICA",
+    "latitude": 38.905394,
+    "longitude": 16.242269,
+    "elevation": 39,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

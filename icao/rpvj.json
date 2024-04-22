@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6025",
+    "airport_name": "Masbate Airport",
+    "city": "Masbate",
+    "country": "Philippines",
+    "iata": "MBT",
+    "icao": "RPVJ",
+    "latitude": 12.3694,
+    "longitude": 123.629,
+    "elevation": 26,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

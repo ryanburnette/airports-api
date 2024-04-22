@@ -1,0 +1,14 @@
+{
+    "_csv_row": "92",
+    "airport_name": "Maniwaki",
+    "city": "Maniwaki",
+    "country": "Canada",
+    "iata": "YMW",
+    "icao": "CYMW",
+    "latitude": 46.272778,
+    "longitude": -75.990556,
+    "elevation": 656,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

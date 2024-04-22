@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1328",
+    "airport_name": "Branches",
+    "city": "Auxerre",
+    "country": "France",
+    "iata": "AUF",
+    "icao": "LFLA",
+    "latitude": 47.850193,
+    "longitude": 3.497111,
+    "elevation": 523,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

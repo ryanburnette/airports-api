@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8141",
+    "airport_name": "Ontario Municipal Airport",
+    "city": "Ontario",
+    "country": "United States",
+    "iata": "",
+    "icao": "KONO",
+    "latitude": 44.0193611,
+    "longitude": -117.0130278,
+    "elevation": 2193,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

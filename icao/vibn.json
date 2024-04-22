@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3084",
+    "airport_name": "Varanasi",
+    "city": "Varanasi",
+    "country": "India",
+    "iata": "VNS",
+    "icao": "VIBN",
+    "latitude": 25.452358,
+    "longitude": 82.859342,
+    "elevation": 266,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

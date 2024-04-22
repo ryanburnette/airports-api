@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8234",
+    "airport_name": "Capurgana Airport",
+    "city": "Capurgana",
+    "country": "Colombia",
+    "iata": "CPB",
+    "icao": "SKCA",
+    "latitude": 8.616667,
+    "longitude": -77.333333,
+    "elevation": 100,
+    "utc_offset": -5,
+    "_class": "S",
+    "timezone": "America/Bogota"
+}

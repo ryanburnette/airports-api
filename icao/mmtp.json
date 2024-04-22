@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1851",
+    "airport_name": "Tapachula Intl",
+    "city": "Tapachula",
+    "country": "Mexico",
+    "iata": "TAP",
+    "icao": "MMTP",
+    "latitude": 14.794339,
+    "longitude": -92.370025,
+    "elevation": 97,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

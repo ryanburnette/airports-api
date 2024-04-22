@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6027",
+    "airport_name": "General Enrique Mosconi Airport",
+    "city": "Tartagal",
+    "country": "Argentina",
+    "iata": "TTG",
+    "icao": "SAST",
+    "latitude": -22.619167,
+    "longitude": -63.793189,
+    "elevation": 1472,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

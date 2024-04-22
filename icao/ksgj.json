@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6989",
+    "airport_name": "St. Augustine Airport",
+    "city": "St. Augustine Airport",
+    "country": "United States",
+    "iata": "UST",
+    "icao": "KSGJ",
+    "latitude": 29.959167,
+    "longitude": -81.339722,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

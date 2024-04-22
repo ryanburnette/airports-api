@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1002",
+    "airport_name": "Charles Prince",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "iata": "",
+    "icao": "FVCP",
+    "latitude": -17.751561,
+    "longitude": 30.924706,
+    "elevation": 4845,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Harare"
+}

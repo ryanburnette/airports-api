@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1225",
+    "airport_name": "Ibiza",
+    "city": "Ibiza",
+    "country": "Spain",
+    "iata": "IBZ",
+    "icao": "LEIB",
+    "latitude": 38.872858,
+    "longitude": 1.373117,
+    "elevation": 20,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

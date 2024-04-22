@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5435",
+    "airport_name": "Tokua Airport",
+    "city": "Tokua",
+    "country": "Papua New Guinea",
+    "iata": "RAB",
+    "icao": "AYTK",
+    "latitude": -4.34046,
+    "longitude": 152.38,
+    "elevation": 32,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

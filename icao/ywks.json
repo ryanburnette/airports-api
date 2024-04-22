@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7578",
+    "airport_name": "Wilkins Runway",
+    "city": "Budd Coast",
+    "country": "Antarctica",
+    "iata": "",
+    "icao": "YWKS",
+    "latitude": -66.689444,
+    "longitude": 111.485833,
+    "elevation": 2395,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Antarctica/South_Pole"
+}

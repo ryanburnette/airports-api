@@ -1,0 +1,14 @@
+{
+    "_csv_row": "659",
+    "airport_name": "Geiteryggen",
+    "city": "Skien",
+    "country": "Norway",
+    "iata": "SKE",
+    "icao": "ENSN",
+    "latitude": 59.185,
+    "longitude": 9.566944,
+    "elevation": 463,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

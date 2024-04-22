@@ -1,0 +1,14 @@
+{
+    "_csv_row": "624",
+    "airport_name": "Kolding Vamdrup",
+    "city": "Kolding",
+    "country": "Denmark",
+    "iata": "",
+    "icao": "EKVD",
+    "latitude": 55.436283,
+    "longitude": 9.330925,
+    "elevation": 143,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7875",
+    "airport_name": "Yuba County Airport",
+    "city": "Yuba City",
+    "country": "United States",
+    "iata": "MYV",
+    "icao": "KMYV",
+    "latitude": 39.0553,
+    "longitude": -121.3411,
+    "elevation": 62,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

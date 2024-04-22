@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4012",
+    "airport_name": "Naples Muni",
+    "city": "Naples",
+    "country": "United States",
+    "iata": "APF",
+    "icao": "KAPF",
+    "latitude": 26.152619,
+    "longitude": -81.775294,
+    "elevation": 8,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

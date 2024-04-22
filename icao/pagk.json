@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3837",
+    "airport_name": "Gulkana",
+    "city": "Gulkana",
+    "country": "United States",
+    "iata": "GKN",
+    "icao": "PAGK",
+    "latitude": 62.154888,
+    "longitude": -145.456639,
+    "elevation": 1580,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

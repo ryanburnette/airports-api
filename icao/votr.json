@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3152",
+    "airport_name": "Trichy",
+    "city": "Tiruchirappalli",
+    "country": "India",
+    "iata": "TRZ",
+    "icao": "VOTR",
+    "latitude": 10.765364,
+    "longitude": 78.709722,
+    "elevation": 288,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

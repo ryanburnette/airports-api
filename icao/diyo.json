@@ -1,0 +1,14 @@
+{
+    "_csv_row": "259",
+    "airport_name": "Yamoussoukro",
+    "city": "Yamoussoukro",
+    "country": "Cote d'Ivoire",
+    "iata": "ASK",
+    "icao": "DIYO",
+    "latitude": 6.903167,
+    "longitude": -5.365581,
+    "elevation": 699,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Abidjan"
+}

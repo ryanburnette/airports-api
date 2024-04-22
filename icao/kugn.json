@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3818",
+    "airport_name": "Waukegan Rgnl",
+    "city": "Chicago",
+    "country": "United States",
+    "iata": "UGN",
+    "icao": "KUGN",
+    "latitude": 42.422161,
+    "longitude": -87.867908,
+    "elevation": 727,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

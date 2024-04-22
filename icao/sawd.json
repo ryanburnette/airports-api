@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2494",
+    "airport_name": "Puerto Deseado",
+    "city": "Puerto Deseado",
+    "country": "Argentina",
+    "iata": "PUD",
+    "icao": "SAWD",
+    "latitude": -47.735292,
+    "longitude": -65.904097,
+    "elevation": 266,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

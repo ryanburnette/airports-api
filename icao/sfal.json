@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6048",
+    "airport_name": "Stanley Airport",
+    "city": "Stanley",
+    "country": "Falkland Islands",
+    "iata": "PSY",
+    "icao": "SFAL",
+    "latitude": -51.685672,
+    "longitude": -57.777644,
+    "elevation": 75,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "Atlantic/Stanley"
+}

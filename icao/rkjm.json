@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6004",
+    "airport_name": "Mokpo Airport",
+    "city": "Mokpo",
+    "country": "South Korea",
+    "iata": "MPK",
+    "icao": "RKJM",
+    "latitude": 34.758906,
+    "longitude": 126.379872,
+    "elevation": 23,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

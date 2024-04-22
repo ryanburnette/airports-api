@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9396",
+    "airport_name": "Skyhaven Airport",
+    "city": "Rochester",
+    "country": "United States",
+    "iata": "DAW",
+    "icao": "KDAW",
+    "latitude": 43.2840556,
+    "longitude": -70.9292778,
+    "elevation": 321,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

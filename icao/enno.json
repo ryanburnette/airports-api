@@ -1,0 +1,14 @@
+{
+    "_csv_row": "654",
+    "airport_name": "Notodden",
+    "city": "Notodden",
+    "country": "Norway",
+    "iata": "NTB",
+    "icao": "ENNO",
+    "latitude": 59.565683,
+    "longitude": 9.212222,
+    "elevation": 63,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

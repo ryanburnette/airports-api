@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8796",
+    "airport_name": "Renton",
+    "city": "Renton",
+    "country": "United States",
+    "iata": "RNT",
+    "icao": "KRNT",
+    "latitude": 47.4931389,
+    "longitude": -122.21575,
+    "elevation": 32,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

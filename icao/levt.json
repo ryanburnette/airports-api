@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1249",
+    "airport_name": "Vitoria",
+    "city": "Vitoria",
+    "country": "Spain",
+    "iata": "VIT",
+    "icao": "LEVT",
+    "latitude": 42.882836,
+    "longitude": -2.724469,
+    "elevation": 1682,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4047",
+    "airport_name": "Appleton",
+    "city": "Appleton",
+    "country": "United States",
+    "iata": "ATW",
+    "icao": "KATW",
+    "latitude": 44.257526,
+    "longitude": -88.507576,
+    "elevation": 680,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4194",
+    "airport_name": "Naxos",
+    "city": "Cyclades Islands",
+    "country": "Greece",
+    "iata": "JNX",
+    "icao": "LGNX",
+    "latitude": 37.080556,
+    "longitude": 25.368056,
+    "elevation": 10,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

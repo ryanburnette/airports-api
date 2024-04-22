@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1354",
+    "airport_name": "Cote D\\\\'Azur",
+    "city": "Nice",
+    "country": "France",
+    "iata": "NCE",
+    "icao": "LFMN",
+    "latitude": 43.658411,
+    "longitude": 7.215872,
+    "elevation": 12,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

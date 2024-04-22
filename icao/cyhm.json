@@ -1,0 +1,14 @@
+{
+    "_csv_row": "70",
+    "airport_name": "Hamilton",
+    "city": "Hamilton",
+    "country": "Canada",
+    "iata": "YHM",
+    "icao": "CYHM",
+    "latitude": 43.173611,
+    "longitude": -79.935,
+    "elevation": 780,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

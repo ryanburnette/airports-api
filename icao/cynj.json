@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7274",
+    "airport_name": "Langley Regional Airport",
+    "city": "Langley Township",
+    "country": "Canada",
+    "iata": "",
+    "icao": "CYNJ",
+    "latitude": 49.101111,
+    "longitude": -122.630556,
+    "elevation": 34,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

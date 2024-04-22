@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5531",
+    "airport_name": "Big Trout Lake Airport",
+    "city": "Big Trout Lake",
+    "country": "Canada",
+    "iata": "YTL",
+    "icao": "CYTL",
+    "latitude": 53.8178,
+    "longitude": -89.8969,
+    "elevation": 729,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

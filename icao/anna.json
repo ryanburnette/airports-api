@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8470",
+    "airport_name": "Annapolis",
+    "city": "Annapolis",
+    "country": "United States",
+    "iata": "",
+    "icao": "ANNA",
+    "latitude": 38.972944,
+    "longitude": -76.501158,
+    "elevation": 0,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

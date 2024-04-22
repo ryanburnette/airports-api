@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4198",
+    "airport_name": "Niederrhein",
+    "city": "Weeze",
+    "country": "Germany",
+    "iata": "NRN",
+    "icao": "EDLV",
+    "latitude": 51.602222,
+    "longitude": 6.141944,
+    "elevation": 106,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

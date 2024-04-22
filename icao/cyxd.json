@@ -1,0 +1,14 @@
+{
+    "_csv_row": "165",
+    "airport_name": "Edmonton City Centre",
+    "city": "Edmonton",
+    "country": "Canada",
+    "iata": "YXD",
+    "icao": "CYXD",
+    "latitude": 53.5725,
+    "longitude": -113.520556,
+    "elevation": 2200,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

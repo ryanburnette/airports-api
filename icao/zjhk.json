@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4120",
+    "airport_name": "Meilan",
+    "city": "Haikou",
+    "country": "China",
+    "iata": "HAK",
+    "icao": "ZJHK",
+    "latitude": 19.934856,
+    "longitude": 110.458961,
+    "elevation": 75,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

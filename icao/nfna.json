@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1961",
+    "airport_name": "Nausori Intl",
+    "city": "Nausori",
+    "country": "Fiji",
+    "iata": "SUV",
+    "icao": "NFNA",
+    "latitude": -18.043267,
+    "longitude": 178.559228,
+    "elevation": 17,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7087",
+    "airport_name": "Emmonak Airport",
+    "city": "Emmonak",
+    "country": "United States",
+    "iata": "EMK",
+    "icao": "PAEM",
+    "latitude": 62.786111,
+    "longitude": -164.490833,
+    "elevation": 13,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

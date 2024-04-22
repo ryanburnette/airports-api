@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2304",
+    "airport_name": "Fukue",
+    "city": "Fukue",
+    "country": "Japan",
+    "iata": "FUJ",
+    "icao": "RJFE",
+    "latitude": 32.666269,
+    "longitude": 128.832808,
+    "elevation": 273,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1628",
+    "airport_name": "Horta",
+    "city": "Horta",
+    "country": "Portugal",
+    "iata": "HOR",
+    "icao": "LPHR",
+    "latitude": 38.519894,
+    "longitude": -28.715872,
+    "elevation": 118,
+    "utc_offset": -1,
+    "_class": "E",
+    "timezone": "Atlantic/Azores"
+}

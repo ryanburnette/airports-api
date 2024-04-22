@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1645",
+    "airport_name": "Mostar",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "iata": "OMO",
+    "icao": "LQMO",
+    "latitude": 43.2829,
+    "longitude": 17.845878,
+    "elevation": 156,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Sarajevo"
+}

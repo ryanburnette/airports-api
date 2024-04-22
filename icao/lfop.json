@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1375",
+    "airport_name": "Vallee De Seine",
+    "city": "Rouen",
+    "country": "France",
+    "iata": "URO",
+    "icao": "LFOP",
+    "latitude": 49.384172,
+    "longitude": 1.1748,
+    "elevation": 512,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

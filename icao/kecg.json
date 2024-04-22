@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3526",
+    "airport_name": "Elizabeth City Cgas Rgnl",
+    "city": "Elizabeth City",
+    "country": "United States",
+    "iata": "ECG",
+    "icao": "KECG",
+    "latitude": 36.260581,
+    "longitude": -76.174572,
+    "elevation": 12,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

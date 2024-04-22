@@ -1,0 +1,14 @@
+{
+    "_csv_row": "592",
+    "airport_name": "Soesterberg",
+    "city": "Soesterberg",
+    "country": "Netherlands",
+    "iata": "UTC",
+    "icao": "EHSB",
+    "latitude": 52.1273,
+    "longitude": 5.27619,
+    "elevation": 66,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9246",
+    "airport_name": "Kent",
+    "city": "Chatham",
+    "country": "Canada",
+    "iata": "XCM",
+    "icao": "CNZ3",
+    "latitude": 42.306111,
+    "longitude": -82.081667,
+    "elevation": 645,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

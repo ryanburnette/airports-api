@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4226",
+    "airport_name": "West Houston",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "IWS",
+    "icao": "KIWS",
+    "latitude": 29.818194,
+    "longitude": -95.672611,
+    "elevation": 111,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

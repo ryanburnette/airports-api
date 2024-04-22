@@ -1,0 +1,14 @@
+{
+    "_csv_row": "685",
+    "airport_name": "Ronneby",
+    "city": "Ronneby",
+    "country": "Sweden",
+    "iata": "RNB",
+    "icao": "ESDF",
+    "latitude": 56.266667,
+    "longitude": 15.265,
+    "elevation": 191,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

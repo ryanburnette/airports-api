@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6998",
+    "airport_name": "Logan-Cache",
+    "city": "Logan",
+    "country": "United States",
+    "iata": "LGU",
+    "icao": "KLGU",
+    "latitude": 41.791,
+    "longitude": -111.852,
+    "elevation": 4457,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

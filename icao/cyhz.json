@@ -1,0 +1,14 @@
+{
+    "_csv_row": "73",
+    "airport_name": "Halifax Intl",
+    "city": "Halifax",
+    "country": "Canada",
+    "iata": "YHZ",
+    "icao": "CYHZ",
+    "latitude": 44.880833,
+    "longitude": -63.50861,
+    "elevation": 477,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3547",
+    "airport_name": "Hickory Rgnl",
+    "city": "Hickory",
+    "country": "United States",
+    "iata": "HKY",
+    "icao": "KHKY",
+    "latitude": 35.741147,
+    "longitude": -81.38955,
+    "elevation": 1189,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

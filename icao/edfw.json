@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7538",
+    "airport_name": "Wuerzburg",
+    "city": "Wuerzburg",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDFW",
+    "latitude": 51.93749,
+    "longitude": 8.38257,
+    "elevation": 400,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

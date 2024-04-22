@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2301",
+    "airport_name": "Rishiri",
+    "city": "Rishiri Island",
+    "country": "Japan",
+    "iata": "RIS",
+    "icao": "RJER",
+    "latitude": 45.242006,
+    "longitude": 141.186431,
+    "elevation": 112,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

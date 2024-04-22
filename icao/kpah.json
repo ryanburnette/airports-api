@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4117",
+    "airport_name": "Barkley Regional Airport",
+    "city": "PADUCAH",
+    "country": "United States",
+    "iata": "PAH",
+    "icao": "KPAH",
+    "latitude": 37.0602875,
+    "longitude": -88.7729583,
+    "elevation": 410,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7831",
+    "airport_name": "Lindau HBF",
+    "city": "Lindau",
+    "country": "Germany",
+    "iata": "LND",
+    "icao": "LIND",
+    "latitude": 47.5489,
+    "longitude": 9.688,
+    "elevation": 1000,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

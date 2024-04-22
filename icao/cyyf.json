@@ -1,0 +1,14 @@
+{
+    "_csv_row": "181",
+    "airport_name": "Penticton",
+    "city": "Penticton",
+    "country": "Canada",
+    "iata": "YYF",
+    "icao": "CYYF",
+    "latitude": 49.463056,
+    "longitude": -119.602222,
+    "elevation": 1129,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

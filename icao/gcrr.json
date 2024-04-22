@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1055",
+    "airport_name": "Lanzarote",
+    "city": "Las Palmas",
+    "country": "Spain",
+    "iata": "ACE",
+    "icao": "GCRR",
+    "latitude": 28.945464,
+    "longitude": -13.605225,
+    "elevation": 47,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Atlantic/Canary"
+}

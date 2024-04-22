@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8615",
+    "airport_name": "Lodrino Airport",
+    "city": "Lodrino",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSML",
+    "latitude": 46.29499,
+    "longitude": 8.9916,
+    "elevation": 850,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

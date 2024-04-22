@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3490",
+    "airport_name": "China Lake Naws",
+    "city": "China",
+    "country": "United States",
+    "iata": "NID",
+    "icao": "KNID",
+    "latitude": 35.685422,
+    "longitude": -117.692039,
+    "elevation": 2283,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

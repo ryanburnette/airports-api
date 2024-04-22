@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7194",
+    "airport_name": "Tin City LRRS Airport",
+    "city": "Tin City",
+    "country": "United States",
+    "iata": "TNC",
+    "icao": "PATC",
+    "latitude": 65.563056,
+    "longitude": -167.921667,
+    "elevation": 269,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9002",
+    "airport_name": "Menindee",
+    "city": "Menindee",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YMED",
+    "latitude": -32.22,
+    "longitude": 142.2418,
+    "elevation": 164,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

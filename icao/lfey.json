@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5782",
+    "airport_name": "Île d'Yeu Airport",
+    "city": "Île d'Yeu",
+    "country": "France",
+    "iata": "IDY",
+    "icao": "LFEY",
+    "latitude": 46.718611,
+    "longitude": -2.391111,
+    "elevation": 79,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

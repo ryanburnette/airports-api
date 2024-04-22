@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2376",
+    "airport_name": "Seoul Ab",
+    "city": "Seoul East",
+    "country": "South Korea",
+    "iata": "SSN",
+    "icao": "RKSM",
+    "latitude": 37.445833,
+    "longitude": 127.113889,
+    "elevation": 92,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

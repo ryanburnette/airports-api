@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8",
+    "airport_name": "Nuuk",
+    "city": "Godthaab",
+    "country": "Greenland",
+    "iata": "GOH",
+    "icao": "BGGH",
+    "latitude": 64.190922,
+    "longitude": -51.678064,
+    "elevation": 283,
+    "utc_offset": -3,
+    "_class": "E",
+    "timezone": "America/Godthab"
+}

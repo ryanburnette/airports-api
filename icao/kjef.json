@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6447",
+    "airport_name": "Jefferson City Memorial Airport",
+    "city": "Jefferson City",
+    "country": "United States",
+    "iata": "JEF",
+    "icao": "KJEF",
+    "latitude": 38.5912,
+    "longitude": -92.1561,
+    "elevation": 549,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2673",
+    "airport_name": "Jose Joaquin De Olmedo Intl",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "iata": "GYE",
+    "icao": "SEGU",
+    "latitude": -2.157419,
+    "longitude": -79.883558,
+    "elevation": 19,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

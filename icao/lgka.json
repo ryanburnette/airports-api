@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1453",
+    "airport_name": "Aristotelis",
+    "city": "Kastoria",
+    "country": "Greece",
+    "iata": "KSO",
+    "icao": "LGKA",
+    "latitude": 40.446294,
+    "longitude": 21.282186,
+    "elevation": 2167,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

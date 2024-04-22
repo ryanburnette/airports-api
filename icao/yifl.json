@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8823",
+    "airport_name": "Innisfail",
+    "city": "Innisfail",
+    "country": "Australia",
+    "iata": "IFL",
+    "icao": "YIFL",
+    "latitude": -17.55908,
+    "longitude": 146.01123,
+    "elevation": 46,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Australia/Brisbane"
+}

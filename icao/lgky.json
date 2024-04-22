@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4192",
+    "airport_name": "Kalymnos Island",
+    "city": "Kalymnos",
+    "country": "Greece",
+    "iata": "JKL",
+    "icao": "LGKY",
+    "latitude": 36.963333,
+    "longitude": 26.940556,
+    "elevation": 771,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5586",
+    "airport_name": "Sogndal Airport",
+    "city": "Sogndal",
+    "country": "Norway",
+    "iata": "SOG",
+    "icao": "ENSG",
+    "latitude": 61.1561,
+    "longitude": 7.13778,
+    "elevation": 0,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

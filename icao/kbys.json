@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3435",
+    "airport_name": "Bicycle Lake Aaf",
+    "city": "Fort Irwin",
+    "country": "United States",
+    "iata": "BYS",
+    "icao": "KBYS",
+    "latitude": 35.280531,
+    "longitude": -116.630031,
+    "elevation": 2350,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

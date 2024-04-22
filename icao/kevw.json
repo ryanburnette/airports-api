@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9411",
+    "airport_name": "Evanston-Uinta CO Burns Fld",
+    "city": "Evanston",
+    "country": "United States",
+    "iata": "EVW",
+    "icao": "KEVW",
+    "latitude": 41.1649,
+    "longitude": -111.0208,
+    "elevation": 7143,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

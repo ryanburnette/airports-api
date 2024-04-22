@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7581",
+    "airport_name": "Delta Municipal Airport",
+    "city": "Delta",
+    "country": "United States",
+    "iata": "DTA",
+    "icao": "KDTA",
+    "latitude": 39.3806386,
+    "longitude": -112.5077147,
+    "elevation": 4759,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

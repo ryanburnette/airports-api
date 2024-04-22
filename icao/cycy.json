@@ -1,0 +1,14 @@
+{
+    "_csv_row": "40",
+    "airport_name": "Clyde River",
+    "city": "Clyde River",
+    "country": "Canada",
+    "iata": "YCY",
+    "icao": "CYCY",
+    "latitude": 70.486111,
+    "longitude": -68.516667,
+    "elevation": 87,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

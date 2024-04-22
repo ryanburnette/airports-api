@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3375",
+    "airport_name": "Xinzheng",
+    "city": "Zhengzhou",
+    "country": "China",
+    "iata": "CGO",
+    "icao": "ZHCC",
+    "latitude": 34.519672,
+    "longitude": 113.840889,
+    "elevation": 495,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

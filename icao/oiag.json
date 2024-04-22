@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2099",
+    "airport_name": "Aghajari",
+    "city": "Aghajari",
+    "country": "Iran",
+    "iata": "",
+    "icao": "OIAG",
+    "latitude": 30.74445,
+    "longitude": 49.677183,
+    "elevation": 88,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

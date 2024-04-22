@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1661",
+    "airport_name": "Cataloi",
+    "city": "Tulcea",
+    "country": "Romania",
+    "iata": "TCE",
+    "icao": "LRTC",
+    "latitude": 45.062486,
+    "longitude": 28.714311,
+    "elevation": 200,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

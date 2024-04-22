@@ -1,0 +1,14 @@
+{
+    "_csv_row": "455",
+    "airport_name": "Savonlinna",
+    "city": "Savonlinna",
+    "country": "Finland",
+    "iata": "SVL",
+    "icao": "EFSA",
+    "latitude": 61.943064,
+    "longitude": 28.945136,
+    "elevation": 311,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

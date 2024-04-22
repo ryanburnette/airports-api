@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6838",
+    "airport_name": "Sawyer International Airport",
+    "city": "Marquette",
+    "country": "United States",
+    "iata": "MQT",
+    "icao": "KMQT",
+    "latitude": 46.353611,
+    "longitude": -87.395278,
+    "elevation": 1221,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3482",
+    "airport_name": "Dalhart Muni",
+    "city": "Dalhart",
+    "country": "United States",
+    "iata": "DHT",
+    "icao": "KDHT",
+    "latitude": 36.022586,
+    "longitude": -102.547278,
+    "elevation": 3991,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

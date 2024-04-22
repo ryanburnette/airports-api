@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5993",
+    "airport_name": "Matsu Beigan Airport",
+    "city": "Matsu Islands",
+    "country": "Taiwan",
+    "iata": "MFK",
+    "icao": "RCMT",
+    "latitude": 26.224153,
+    "longitude": 120.00275,
+    "elevation": 41,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Taipei"
+}

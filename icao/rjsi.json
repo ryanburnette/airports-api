@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2344",
+    "airport_name": "Hanamaki",
+    "city": "Hanamaki",
+    "country": "Japan",
+    "iata": "HNA",
+    "icao": "RJSI",
+    "latitude": 39.428611,
+    "longitude": 141.135278,
+    "elevation": 297,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

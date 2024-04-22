@@ -1,0 +1,14 @@
+{
+    "_csv_row": "258",
+    "airport_name": "San Pedro",
+    "city": "San Pedro",
+    "country": "Cote d'Ivoire",
+    "iata": "SPY",
+    "icao": "DISP",
+    "latitude": 4.746717,
+    "longitude": -6.660817,
+    "elevation": 26,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Abidjan"
+}

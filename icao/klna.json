@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3593",
+    "airport_name": "Palm Beach Co Park",
+    "city": "West Palm Beach",
+    "country": "United States",
+    "iata": "LNA",
+    "icao": "KLNA",
+    "latitude": 26.593,
+    "longitude": -80.085056,
+    "elevation": 14,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

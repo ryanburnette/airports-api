@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2401",
+    "airport_name": "Pagadian",
+    "city": "Pagadian",
+    "country": "Philippines",
+    "iata": "PAG",
+    "icao": "RPMP",
+    "latitude": 7.827197,
+    "longitude": 123.458294,
+    "elevation": 5,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1418",
+    "airport_name": "Nantes Atlantique",
+    "city": "Nantes",
+    "country": "France",
+    "iata": "NTE",
+    "icao": "LFRS",
+    "latitude": 47.153189,
+    "longitude": -1.610725,
+    "elevation": 90,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

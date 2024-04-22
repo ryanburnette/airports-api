@@ -1,0 +1,14 @@
+{
+    "_csv_row": "666",
+    "airport_name": "Sola",
+    "city": "Stavanger",
+    "country": "Norway",
+    "iata": "SVG",
+    "icao": "ENZV",
+    "latitude": 58.876778,
+    "longitude": 5.637856,
+    "elevation": 29,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

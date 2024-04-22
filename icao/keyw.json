@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3875",
+    "airport_name": "Key West Intl",
+    "city": "Key West",
+    "country": "United States",
+    "iata": "EYW",
+    "icao": "KEYW",
+    "latitude": 24.556111,
+    "longitude": -81.759556,
+    "elevation": 3,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1215",
+    "airport_name": "Cordoba",
+    "city": "Cordoba",
+    "country": "Spain",
+    "iata": "ODB",
+    "icao": "LEBA",
+    "latitude": 37.842006,
+    "longitude": -4.848878,
+    "elevation": 297,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

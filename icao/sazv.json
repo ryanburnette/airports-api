@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2515",
+    "airport_name": "Villa Gesell",
+    "city": "Villa Gesell",
+    "country": "Argentina",
+    "iata": "VLG",
+    "icao": "SAZV",
+    "latitude": -37.235408,
+    "longitude": -57.029239,
+    "elevation": 32,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

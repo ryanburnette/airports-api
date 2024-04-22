@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9065",
+    "airport_name": "Belmont Airport",
+    "city": "Lake Macquarie",
+    "country": "Australia",
+    "iata": "BEO",
+    "icao": "YPEC",
+    "latitude": -33.066667,
+    "longitude": 151.648333,
+    "elevation": 5,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

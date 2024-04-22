@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8050",
+    "airport_name": "McKinley National Park Airport",
+    "city": "McKinley Park",
+    "country": "United States",
+    "iata": "MCL",
+    "icao": "PAIN",
+    "latitude": 63.732757,
+    "longitude": -148.91129,
+    "elevation": 1720,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

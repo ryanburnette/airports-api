@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5590",
+    "airport_name": "Værøy Heliport",
+    "city": "Værøy",
+    "country": "Norway",
+    "iata": "VRY",
+    "icao": "ENVR",
+    "latitude": 67.6667,
+    "longitude": 12.6833,
+    "elevation": 36,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

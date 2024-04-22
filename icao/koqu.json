@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8278",
+    "airport_name": "Quonset State Airport",
+    "city": "North Kingstown",
+    "country": "United States",
+    "iata": "OQU",
+    "icao": "KOQU",
+    "latitude": 41.5971389,
+    "longitude": -71.4121389,
+    "elevation": 18,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

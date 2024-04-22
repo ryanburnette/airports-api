@@ -1,0 +1,14 @@
+{
+    "_csv_row": "299",
+    "airport_name": "Deurne",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "iata": "ANR",
+    "icao": "EBAW",
+    "latitude": 51.189444,
+    "longitude": 4.460278,
+    "elevation": 39,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

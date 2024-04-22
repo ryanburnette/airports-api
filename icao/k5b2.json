@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9179",
+    "airport_name": "Saratoga County Airport",
+    "city": "Ballston Spa",
+    "country": "United States",
+    "iata": "5B2",
+    "icao": "K5B2",
+    "latitude": 43.050722,
+    "longitude": -73.861638,
+    "elevation": 433,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

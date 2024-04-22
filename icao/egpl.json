@@ -1,0 +1,14 @@
+{
+    "_csv_row": "538",
+    "airport_name": "Benbecula",
+    "city": "Benbecula",
+    "country": "United Kingdom",
+    "iata": "BEB",
+    "icao": "EGPL",
+    "latitude": 57.481111,
+    "longitude": -7.362778,
+    "elevation": 19,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "76",
+    "airport_name": "St Jean",
+    "city": "St. Jean",
+    "country": "Canada",
+    "iata": "YJN",
+    "icao": "CYJN",
+    "latitude": 45.294445,
+    "longitude": -73.281111,
+    "elevation": 136,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6326",
+    "airport_name": "Shark Bay Airport",
+    "city": "Shark Bay",
+    "country": "Australia",
+    "iata": "MJK",
+    "icao": "YSHK",
+    "latitude": -25.8939,
+    "longitude": 113.577,
+    "elevation": 111,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

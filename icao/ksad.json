@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9140",
+    "airport_name": "Safford Regional Airport",
+    "city": "Safford",
+    "country": "United States",
+    "iata": "SAD",
+    "icao": "KSAD",
+    "latitude": 32.8533333,
+    "longitude": -109.6350833,
+    "elevation": 3179,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

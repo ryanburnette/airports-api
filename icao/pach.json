@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7091",
+    "airport_name": "Chuathbaluk Airport",
+    "city": "Chuathbaluk",
+    "country": "United States",
+    "iata": "CHU",
+    "icao": "PACH",
+    "latitude": 61.579167,
+    "longitude": -159.215556,
+    "elevation": 243,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

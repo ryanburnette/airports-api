@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7188",
+    "airport_name": "White Mountain Airport",
+    "city": "White Mountain",
+    "country": "United States",
+    "iata": "WMO",
+    "icao": "PAWM",
+    "latitude": 64.689167,
+    "longitude": -163.412778,
+    "elevation": 267,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

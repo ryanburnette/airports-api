@@ -1,0 +1,14 @@
+{
+    "_csv_row": "733",
+    "airport_name": "Vasteras",
+    "city": "Vasteras",
+    "country": "Sweden",
+    "iata": "VST",
+    "icao": "ESOW",
+    "latitude": 59.589444,
+    "longitude": 16.633611,
+    "elevation": 21,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

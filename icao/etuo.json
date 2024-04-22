@@ -1,0 +1,14 @@
+{
+    "_csv_row": "789",
+    "airport_name": "Gutersloh",
+    "city": "Guetersloh",
+    "country": "Germany",
+    "iata": "GUT",
+    "icao": "ETUO",
+    "latitude": 51.922833,
+    "longitude": 8.306333,
+    "elevation": 236,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

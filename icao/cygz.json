@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5498",
+    "airport_name": "Grise Fiord Airport",
+    "city": "Grise Fiord",
+    "country": "Canada",
+    "iata": "YGZ",
+    "icao": "CYGZ",
+    "latitude": 76.4261,
+    "longitude": -82.9092,
+    "elevation": 146,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

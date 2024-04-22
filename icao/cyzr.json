@@ -1,0 +1,14 @@
+{
+    "_csv_row": "199",
+    "airport_name": "Chris Hadfield",
+    "city": "Sarnia",
+    "country": "Canada",
+    "iata": "YZR",
+    "icao": "CYZR",
+    "latitude": 42.999444,
+    "longitude": -82.308889,
+    "elevation": 594,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

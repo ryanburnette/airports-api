@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4160",
+    "airport_name": "Brac",
+    "city": "Brac",
+    "country": "Croatia",
+    "iata": "BWK",
+    "icao": "LDSB",
+    "latitude": 43.285719,
+    "longitude": 16.679719,
+    "elevation": 1776,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zagreb"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7871",
+    "airport_name": "Stafsberg Airport",
+    "city": "Hamar",
+    "country": "Norway",
+    "iata": "HMR",
+    "icao": "ENHA",
+    "latitude": 60.8181,
+    "longitude": 11.068,
+    "elevation": 713,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

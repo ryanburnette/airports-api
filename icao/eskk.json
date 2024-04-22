@@ -1,0 +1,14 @@
+{
+    "_csv_row": "697",
+    "airport_name": "Karlskoga",
+    "city": "Karlskoga",
+    "country": "Sweden",
+    "iata": "KSK",
+    "icao": "ESKK",
+    "latitude": 59.345867,
+    "longitude": 14.495922,
+    "elevation": 400,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

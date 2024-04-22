@@ -1,0 +1,14 @@
+{
+    "_csv_row": "44",
+    "airport_name": "Princeton",
+    "city": "Princeton",
+    "country": "Canada",
+    "iata": "YDC",
+    "icao": "CYDC",
+    "latitude": 49.468056,
+    "longitude": -120.511389,
+    "elevation": 2298,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

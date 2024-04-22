@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8894",
+    "airport_name": "Rochester Airport",
+    "city": "Rochester",
+    "country": "United Kingdom",
+    "iata": "RCS",
+    "icao": "EGTO",
+    "latitude": 51.351944,
+    "longitude": 0.502778,
+    "elevation": 426,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

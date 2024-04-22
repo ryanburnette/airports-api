@@ -1,0 +1,14 @@
+{
+    "_csv_row": "536",
+    "airport_name": "Islay",
+    "city": "Islay",
+    "country": "United Kingdom",
+    "iata": "ILY",
+    "icao": "EGPI",
+    "latitude": 55.681944,
+    "longitude": -6.256667,
+    "elevation": 56,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

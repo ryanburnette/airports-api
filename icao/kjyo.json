@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8835",
+    "airport_name": "Leesburg Executive Airport",
+    "city": "Leesburg",
+    "country": "United States",
+    "iata": "JYO",
+    "icao": "KJYO",
+    "latitude": 39.078,
+    "longitude": -77.558,
+    "elevation": 389,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

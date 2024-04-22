@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7838",
+    "airport_name": "Saint-Cyr-l-Ecole Airport",
+    "city": "Saint-Cyr",
+    "country": "France",
+    "iata": "",
+    "icao": "LFPZ",
+    "latitude": 48.810278,
+    "longitude": 2.073332,
+    "elevation": 373,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7079",
+    "airport_name": "McCall Municipal Airport",
+    "city": "McCall",
+    "country": "United States",
+    "iata": "MYL",
+    "icao": "KMYL",
+    "latitude": 44.889722,
+    "longitude": -116.101389,
+    "elevation": 5021,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

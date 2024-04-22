@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3950",
+    "airport_name": "Daytona Beach Intl",
+    "city": "Daytona Beach",
+    "country": "United States",
+    "iata": "DAB",
+    "icao": "KDAB",
+    "latitude": 29.179917,
+    "longitude": -81.058056,
+    "elevation": 34,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

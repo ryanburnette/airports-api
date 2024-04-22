@@ -1,0 +1,14 @@
+{
+    "_csv_row": "813",
+    "airport_name": "Johannesburg Intl",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "iata": "JNB",
+    "icao": "FAJS",
+    "latitude": -26.139166,
+    "longitude": 28.246,
+    "elevation": 5558,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

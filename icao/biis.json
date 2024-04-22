@@ -1,0 +1,14 @@
+{
+    "_csv_row": "15",
+    "airport_name": "Isafjordur",
+    "city": "Isafjordur",
+    "country": "Iceland",
+    "iata": "IFJ",
+    "icao": "BIIS",
+    "latitude": 66.058056,
+    "longitude": -23.135278,
+    "elevation": 8,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

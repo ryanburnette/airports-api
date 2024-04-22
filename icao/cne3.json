@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5468",
+    "airport_name": "Bearskin Lake Airport",
+    "city": "Bearskin Lake",
+    "country": "Canada",
+    "iata": "XBE",
+    "icao": "CNE3",
+    "latitude": 53.9656,
+    "longitude": -91.0272,
+    "elevation": 800,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

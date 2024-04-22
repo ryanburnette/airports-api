@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2748",
+    "airport_name": "Simon Bolivar",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "iata": "SMR",
+    "icao": "SKSM",
+    "latitude": 11.11965,
+    "longitude": -74.230647,
+    "elevation": 22,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

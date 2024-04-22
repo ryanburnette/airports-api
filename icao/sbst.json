@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2620",
+    "airport_name": "Base Aerea De Santos",
+    "city": "Santos",
+    "country": "Brazil",
+    "iata": "SSZ",
+    "icao": "SBST",
+    "latitude": -23.925206,
+    "longitude": -46.2875,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

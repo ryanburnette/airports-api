@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2222",
+    "airport_name": "Sheikh Zayed",
+    "city": "Rahim Yar Khan",
+    "country": "Pakistan",
+    "iata": "RYK",
+    "icao": "OPRK",
+    "latitude": 28.3839,
+    "longitude": 70.279572,
+    "elevation": 271,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

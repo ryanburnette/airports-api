@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2234",
+    "airport_name": "Basrah Intl",
+    "city": "Basrah",
+    "country": "Iraq",
+    "iata": "BSR",
+    "icao": "ORMM",
+    "latitude": 30.549069,
+    "longitude": 47.662142,
+    "elevation": 11,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Baghdad"
+}

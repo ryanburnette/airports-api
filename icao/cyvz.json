@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5532",
+    "airport_name": "Deer Lake Airport",
+    "city": "Deer Lake",
+    "country": "Canada",
+    "iata": "YVZ",
+    "icao": "CYVZ",
+    "latitude": 52.6558,
+    "longitude": -94.0614,
+    "elevation": 1092,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

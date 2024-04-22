@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3504",
+    "airport_name": "Helena Rgnl",
+    "city": "Helena",
+    "country": "United States",
+    "iata": "HLN",
+    "icao": "KHLN",
+    "latitude": 46.606806,
+    "longitude": -111.98275,
+    "elevation": 3877,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

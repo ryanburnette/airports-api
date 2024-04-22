@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6252",
+    "airport_name": "Cobar Airport",
+    "city": "Cobar",
+    "country": "Australia",
+    "iata": "CAZ",
+    "icao": "YCBA",
+    "latitude": -31.5383,
+    "longitude": 145.794,
+    "elevation": 724,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

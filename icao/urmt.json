@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2963",
+    "airport_name": "Shpakovskoye",
+    "city": "Stavropol",
+    "country": "Russia",
+    "iata": "STW",
+    "icao": "URMT",
+    "latitude": 45.109165,
+    "longitude": 42.112778,
+    "elevation": 1486,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

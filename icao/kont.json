@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3734",
+    "airport_name": "Ontario Intl",
+    "city": "Ontario",
+    "country": "United States",
+    "iata": "ONT",
+    "icao": "KONT",
+    "latitude": 34.056,
+    "longitude": -117.601194,
+    "elevation": 944,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

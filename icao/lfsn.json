@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1431",
+    "airport_name": "Essey",
+    "city": "Nancy",
+    "country": "France",
+    "iata": "ENC",
+    "icao": "LFSN",
+    "latitude": 48.692069,
+    "longitude": 6.230458,
+    "elevation": 751,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

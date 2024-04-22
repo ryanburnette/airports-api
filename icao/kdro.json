@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3713",
+    "airport_name": "Durango La Plata Co",
+    "city": "Durango",
+    "country": "United States",
+    "iata": "DRO",
+    "icao": "KDRO",
+    "latitude": 37.151516,
+    "longitude": -107.75377,
+    "elevation": 6685,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

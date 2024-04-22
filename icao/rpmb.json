@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6011",
+    "airport_name": "General Santos International Airport",
+    "city": "General Santos City",
+    "country": "Philippines",
+    "iata": "GES",
+    "icao": "RPMB",
+    "latitude": 6.106439,
+    "longitude": 125.2353,
+    "elevation": 28,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

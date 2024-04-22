@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4061",
+    "airport_name": "El Calafate",
+    "city": "El Calafate",
+    "country": "Argentina",
+    "iata": "FTE",
+    "icao": "SAWC",
+    "latitude": -50.280322,
+    "longitude": -72.053103,
+    "elevation": 669,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

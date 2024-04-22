@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3223",
+    "airport_name": "Myeik",
+    "city": "Myeik",
+    "country": "Burma",
+    "iata": "MGZ",
+    "icao": "VYME",
+    "latitude": 12.439797,
+    "longitude": 98.621478,
+    "elevation": 75,
+    "utc_offset": 6.5,
+    "_class": "U",
+    "timezone": "Asia/Rangoon"
+}

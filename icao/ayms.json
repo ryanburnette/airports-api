@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5432",
+    "airport_name": "Misima Island Airport",
+    "city": "Misima Island",
+    "country": "Papua New Guinea",
+    "iata": "MIS",
+    "icao": "AYMS",
+    "latitude": -10.6892,
+    "longitude": 152.838,
+    "elevation": 26,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

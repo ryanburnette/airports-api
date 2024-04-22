@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6945",
+    "airport_name": "Drake Bay Airport",
+    "city": "Puntarenas",
+    "country": "Costa Rica",
+    "iata": "DRK",
+    "icao": "MRDK",
+    "latitude": 8.71889,
+    "longitude": -83.6417,
+    "elevation": 12,
+    "utc_offset": -6,
+    "_class": "N",
+    "timezone": "America/Costa_Rica"
+}

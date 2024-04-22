@@ -1,0 +1,14 @@
+{
+    "_csv_row": "432",
+    "airport_name": "Kemi Tornio",
+    "city": "Kemi",
+    "country": "Finland",
+    "iata": "KEM",
+    "icao": "EFKE",
+    "latitude": 65.781889,
+    "longitude": 24.5991,
+    "elevation": 61,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

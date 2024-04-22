@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1987",
+    "airport_name": "Nuku Hiva",
+    "city": "Nuku Hiva",
+    "country": "French Polynesia",
+    "iata": "NHV",
+    "icao": "NTMD",
+    "latitude": -8.795603,
+    "longitude": -140.228789,
+    "elevation": 220,
+    "utc_offset": -9.5,
+    "_class": "U",
+    "timezone": "Pacific/Marquesas"
+}

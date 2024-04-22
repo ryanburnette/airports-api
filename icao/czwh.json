@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7260",
+    "airport_name": "Lac Brochet Airport",
+    "city": "Lac Brochet",
+    "country": "Canada",
+    "iata": "XLB",
+    "icao": "CZWH",
+    "latitude": 58.614167,
+    "longitude": -101.468889,
+    "elevation": 1212,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

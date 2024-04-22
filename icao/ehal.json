@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7837",
+    "airport_name": "Ameland Airport",
+    "city": "Ameland",
+    "country": "Netherlands",
+    "iata": "",
+    "icao": "EHAL",
+    "latitude": 53.4517,
+    "longitude": 5.67722,
+    "elevation": 11,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

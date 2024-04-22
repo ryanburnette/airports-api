@@ -1,0 +1,14 @@
+{
+    "_csv_row": "441",
+    "airport_name": "Lappeenranta",
+    "city": "Lappeenranta",
+    "country": "Finland",
+    "iata": "LPP",
+    "icao": "EFLP",
+    "latitude": 61.044553,
+    "longitude": 28.144397,
+    "elevation": 349,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

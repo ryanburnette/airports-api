@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1653",
+    "airport_name": "Caransebes",
+    "city": "Caransebes",
+    "country": "Romania",
+    "iata": "CSB",
+    "icao": "LRCS",
+    "latitude": 45.42,
+    "longitude": 22.253333,
+    "elevation": 866,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

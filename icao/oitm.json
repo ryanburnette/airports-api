@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6746",
+    "airport_name": "Sahand Airport",
+    "city": "Maragheh",
+    "country": "Iran",
+    "iata": "ACP",
+    "icao": "OITM",
+    "latitude": 37.348017,
+    "longitude": 46.127903,
+    "elevation": 4396,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2713",
+    "airport_name": "Camilo Daza",
+    "city": "Cucuta",
+    "country": "Colombia",
+    "iata": "CUC",
+    "icao": "SKCC",
+    "latitude": 7.927567,
+    "longitude": -72.511547,
+    "elevation": 1096,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

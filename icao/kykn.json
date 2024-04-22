@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8958",
+    "airport_name": "Chan Gurney",
+    "city": "Yankton",
+    "country": "United States",
+    "iata": "YKN",
+    "icao": "KYKN",
+    "latitude": 42.8711,
+    "longitude": -97.3969,
+    "elevation": 1200,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

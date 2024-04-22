@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2045",
+    "airport_name": "Whangarei",
+    "city": "Whangarei",
+    "country": "New Zealand",
+    "iata": "WRE",
+    "icao": "NZWR",
+    "latitude": -35.768333,
+    "longitude": 174.365,
+    "elevation": 133,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

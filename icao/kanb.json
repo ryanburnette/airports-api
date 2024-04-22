@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3485",
+    "airport_name": "Anniston Metro",
+    "city": "Anniston",
+    "country": "United States",
+    "iata": "ANB",
+    "icao": "KANB",
+    "latitude": 33.588167,
+    "longitude": -85.858111,
+    "elevation": 612,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

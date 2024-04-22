@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8043",
+    "airport_name": "Zhongwei Xiangshan Airport",
+    "city": "Zhongwei",
+    "country": "China",
+    "iata": "ZHY",
+    "icao": "ZLZW",
+    "latitude": 37.5728,
+    "longitude": 105.1544,
+    "elevation": 4305,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Chongqing"
+}

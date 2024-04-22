@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9463",
+    "airport_name": "Madison NJT Station",
+    "city": "Madison",
+    "country": "United States",
+    "iata": "",
+    "icao": "MDSN",
+    "latitude": 40.757028,
+    "longitude": -74.415194,
+    "elevation": 266,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

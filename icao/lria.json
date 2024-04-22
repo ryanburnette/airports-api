@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1655",
+    "airport_name": "Iasi",
+    "city": "Iasi",
+    "country": "Romania",
+    "iata": "IAS",
+    "icao": "LRIA",
+    "latitude": 47.178492,
+    "longitude": 27.620631,
+    "elevation": 397,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

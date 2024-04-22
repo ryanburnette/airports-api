@@ -1,0 +1,14 @@
+{
+    "_csv_row": "537",
+    "airport_name": "Prestwick",
+    "city": "Prestwick",
+    "country": "United Kingdom",
+    "iata": "PIK",
+    "icao": "EGPK",
+    "latitude": 55.509444,
+    "longitude": -4.586667,
+    "elevation": 65,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

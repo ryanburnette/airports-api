@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2936",
+    "airport_name": "Bratsk",
+    "city": "Bratsk",
+    "country": "Russia",
+    "iata": "BTK",
+    "icao": "UIBB",
+    "latitude": 56.370556,
+    "longitude": 101.698331,
+    "elevation": 1610,
+    "utc_offset": 9,
+    "_class": "N",
+    "timezone": "Asia/Irkutsk"
+}

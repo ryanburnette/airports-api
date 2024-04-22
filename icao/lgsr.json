@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1479",
+    "airport_name": "Santorini",
+    "city": "Thira",
+    "country": "Greece",
+    "iata": "JTR",
+    "icao": "LGSR",
+    "latitude": 36.399169,
+    "longitude": 25.479333,
+    "elevation": 127,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

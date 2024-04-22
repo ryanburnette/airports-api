@@ -1,0 +1,14 @@
+{
+    "_csv_row": "529",
+    "airport_name": "Kirkwall",
+    "city": "Kirkwall",
+    "country": "United Kingdom",
+    "iata": "KOI",
+    "icao": "EGPA",
+    "latitude": 58.957778,
+    "longitude": -2.905,
+    "elevation": 50,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

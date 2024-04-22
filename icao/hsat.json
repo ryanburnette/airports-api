@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5700",
+    "airport_name": "Atbara Airport",
+    "city": "Atbara",
+    "country": "Sudan",
+    "iata": "ATB",
+    "icao": "HSAT",
+    "latitude": 17.7,
+    "longitude": 33.967,
+    "elevation": 1181,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Khartoum"
+}

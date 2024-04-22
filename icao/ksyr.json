@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3745",
+    "airport_name": "Syracuse Hancock Intl",
+    "city": "Syracuse",
+    "country": "United States",
+    "iata": "SYR",
+    "icao": "KSYR",
+    "latitude": 43.111187,
+    "longitude": -76.106311,
+    "elevation": 421,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

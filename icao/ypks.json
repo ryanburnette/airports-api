@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6317",
+    "airport_name": "Parkes Airport",
+    "city": "Parkes",
+    "country": "Australia",
+    "iata": "PKE",
+    "icao": "YPKS",
+    "latitude": -33.1314,
+    "longitude": 148.239,
+    "elevation": 1069,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

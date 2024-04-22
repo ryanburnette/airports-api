@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7997",
+    "airport_name": "Ingolstadt BF",
+    "city": "Ingolstadt",
+    "country": "Germany",
+    "iata": "IGS",
+    "icao": "INGS",
+    "latitude": 48.7777,
+    "longitude": 11.422,
+    "elevation": 888,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

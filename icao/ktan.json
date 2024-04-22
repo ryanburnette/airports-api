@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8276",
+    "airport_name": "Taunton Municipal Airport - King Field",
+    "city": "Taunton",
+    "country": "United States",
+    "iata": "TAN",
+    "icao": "KTAN",
+    "latitude": 41.8744017,
+    "longitude": -71.0166453,
+    "elevation": 43,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

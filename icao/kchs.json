@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3806",
+    "airport_name": "Charleston Afb Intl",
+    "city": "Charleston",
+    "country": "United States",
+    "iata": "CHS",
+    "icao": "KCHS",
+    "latitude": 32.898647,
+    "longitude": -80.040528,
+    "elevation": 45,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

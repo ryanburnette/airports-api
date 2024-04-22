@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5690",
+    "airport_name": "El Arish International Airport",
+    "city": "El Arish",
+    "country": "Egypt",
+    "iata": "AAC",
+    "icao": "HEAR",
+    "latitude": 31.073333,
+    "longitude": 33.835833,
+    "elevation": 121,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

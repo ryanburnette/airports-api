@@ -1,0 +1,14 @@
+{
+    "_csv_row": "632",
+    "airport_name": "Alta",
+    "city": "Alta",
+    "country": "Norway",
+    "iata": "ALF",
+    "icao": "ENAT",
+    "latitude": 69.976111,
+    "longitude": 23.371667,
+    "elevation": 9,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

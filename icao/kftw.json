@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3723",
+    "airport_name": "Fort Worth Meacham Intl",
+    "city": "Fort Worth",
+    "country": "United States",
+    "iata": "FTW",
+    "icao": "KFTW",
+    "latitude": 32.819778,
+    "longitude": -97.362444,
+    "elevation": 710,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

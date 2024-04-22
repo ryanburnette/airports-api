@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6141",
+    "airport_name": "Izhevsk Airport",
+    "city": "Izhevsk",
+    "country": "Russia",
+    "iata": "IJK",
+    "icao": "USII",
+    "latitude": 56.8281,
+    "longitude": 53.4575,
+    "elevation": 531,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6734",
+    "airport_name": "Kirovsk-Apatity Airport",
+    "city": "Apatity",
+    "country": "Russia",
+    "iata": "KVK",
+    "icao": "ULMK",
+    "latitude": 67.4633,
+    "longitude": 33.5883,
+    "elevation": 515,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

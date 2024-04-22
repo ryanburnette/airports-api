@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2305",
+    "airport_name": "Fukuoka",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "iata": "FUK",
+    "icao": "RJFF",
+    "latitude": 33.585942,
+    "longitude": 130.450686,
+    "elevation": 32,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

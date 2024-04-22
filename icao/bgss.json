@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5447",
+    "airport_name": "Sisimiut Airport",
+    "city": "Sisimiut",
+    "country": "Greenland",
+    "iata": "JHS",
+    "icao": "BGSS",
+    "latitude": 66.9513,
+    "longitude": -53.7293,
+    "elevation": 33,
+    "utc_offset": -3,
+    "_class": "E",
+    "timezone": "America/Godthab"
+}

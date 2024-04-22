@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8559",
+    "airport_name": "Brooks Field Airport",
+    "city": "Marshall",
+    "country": "United States",
+    "iata": "RMY",
+    "icao": "KRMY",
+    "latitude": 42.2511932,
+    "longitude": -84.9554443,
+    "elevation": 941,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

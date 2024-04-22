@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8793",
+    "airport_name": "Hardwick Field Airport",
+    "city": "Cleveland",
+    "country": "United States",
+    "iata": "HDI",
+    "icao": "KHDI",
+    "latitude": 35.2199994,
+    "longitude": -84.832369,
+    "elevation": 874,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

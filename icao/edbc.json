@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7933",
+    "airport_name": "Magdeburg-Cochstedt",
+    "city": "Cochstedt",
+    "country": "Germany",
+    "iata": "CSO",
+    "icao": "EDBC",
+    "latitude": 51.855833,
+    "longitude": 11.418333,
+    "elevation": 596,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

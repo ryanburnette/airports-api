@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1408",
+    "airport_name": "St Gatien",
+    "city": "Deauville",
+    "country": "France",
+    "iata": "DOL",
+    "icao": "LFRG",
+    "latitude": 49.365339,
+    "longitude": 0.154306,
+    "elevation": 479,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

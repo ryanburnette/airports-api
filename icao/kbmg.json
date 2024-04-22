@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7655",
+    "airport_name": "Monroe County Airport",
+    "city": "Bloomington",
+    "country": "United States",
+    "iata": "BMG",
+    "icao": "KBMG",
+    "latitude": 39.1460208,
+    "longitude": -86.6166805,
+    "elevation": 846,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

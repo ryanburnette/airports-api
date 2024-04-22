@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1333",
+    "airport_name": "Champforgeuil",
+    "city": "Chalon",
+    "country": "France",
+    "iata": "XCD",
+    "icao": "LFLH",
+    "latitude": 46.826108,
+    "longitude": 4.817633,
+    "elevation": 623,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

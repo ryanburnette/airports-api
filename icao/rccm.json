@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7564",
+    "airport_name": "Cimei Airport",
+    "city": "Cimei",
+    "country": "Taiwan",
+    "iata": "CMJ",
+    "icao": "RCCM",
+    "latitude": 23.266667,
+    "longitude": 119.666667,
+    "elevation": 63,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Taipei"
+}

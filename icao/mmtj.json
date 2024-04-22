@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1847",
+    "airport_name": "General Abelardo L Rodriguez Intl",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "iata": "TIJ",
+    "icao": "MMTJ",
+    "latitude": 32.541064,
+    "longitude": -116.970158,
+    "elevation": 489,
+    "utc_offset": -8,
+    "_class": "S",
+    "timezone": "America/Tijuana"
+}

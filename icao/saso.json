@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2478",
+    "airport_name": "Oran",
+    "city": "Oran",
+    "country": "Argentina",
+    "iata": "ORA",
+    "icao": "SASO",
+    "latitude": -23.152779,
+    "longitude": -64.32917,
+    "elevation": 1168,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

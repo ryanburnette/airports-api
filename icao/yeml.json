@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3990",
+    "airport_name": "Emerald",
+    "city": "Emerald",
+    "country": "Australia",
+    "iata": "EMD",
+    "icao": "YEML",
+    "latitude": -23.5675,
+    "longitude": 148.179167,
+    "elevation": 624,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

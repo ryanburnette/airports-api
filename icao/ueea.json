@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9377",
+    "airport_name": "Aldan Airport",
+    "city": "Aldan",
+    "country": "Russia",
+    "iata": "ADH",
+    "icao": "UEEA",
+    "latitude": 58.603056,
+    "longitude": 125.407222,
+    "elevation": 2241,
+    "utc_offset": 10,
+    "_class": "E",
+    "timezone": "Asia/Yakutsk"
+}

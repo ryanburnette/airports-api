@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6127",
+    "airport_name": "Brookings Regional Airport",
+    "city": "Brookings",
+    "country": "United States",
+    "iata": "BKX",
+    "icao": "BKX",
+    "latitude": 44.3048,
+    "longitude": -96.8169,
+    "elevation": 1648,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5707",
+    "airport_name": "Shinyanga Airport",
+    "city": "Shinyanga",
+    "country": "Tanzania",
+    "iata": "SHY",
+    "icao": "HTSY",
+    "latitude": -3.667,
+    "longitude": 33.417,
+    "elevation": 3800,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Dar_es_Salaam"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8088",
+    "airport_name": "Ballenstedt Airport",
+    "city": "Ballenstedt",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDCB",
+    "latitude": 51.7458,
+    "longitude": 11.2297,
+    "elevation": 535,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

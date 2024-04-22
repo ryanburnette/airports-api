@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7586",
+    "airport_name": "Lake Havasu City Airport",
+    "city": "Lake Havasu City",
+    "country": "United States",
+    "iata": "HII",
+    "icao": "KHII",
+    "latitude": 34.5711111,
+    "longitude": -114.3582778,
+    "elevation": 783,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

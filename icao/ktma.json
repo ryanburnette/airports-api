@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8005",
+    "airport_name": "Henry Tift Myers Airport",
+    "city": "Tifton",
+    "country": "United States",
+    "iata": "TMA",
+    "icao": "KTMA",
+    "latitude": 31.4289814,
+    "longitude": -83.488545,
+    "elevation": 355,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

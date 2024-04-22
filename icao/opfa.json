@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2202",
+    "airport_name": "Faisalabad Intl",
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "iata": "LYP",
+    "icao": "OPFA",
+    "latitude": 31.365014,
+    "longitude": 72.994842,
+    "elevation": 591,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

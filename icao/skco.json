@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2716",
+    "airport_name": "La Florida",
+    "city": "Tumaco",
+    "country": "Colombia",
+    "iata": "TCO",
+    "icao": "SKCO",
+    "latitude": 1.814417,
+    "longitude": -78.749228,
+    "elevation": 8,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

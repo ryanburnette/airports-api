@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1069",
+    "airport_name": "Bassatine",
+    "city": "Meknes",
+    "country": "Morocco",
+    "iata": "MEK",
+    "icao": "GMFM",
+    "latitude": 33.879067,
+    "longitude": -5.515125,
+    "elevation": 1890,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Casablanca"
+}

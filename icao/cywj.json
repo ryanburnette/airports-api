@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4237",
+    "airport_name": "Deline",
+    "city": "Deline",
+    "country": "Canada",
+    "iata": "YWJ",
+    "icao": "CYWJ",
+    "latitude": 65.1833333,
+    "longitude": -125.41666667,
+    "elevation": 550,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

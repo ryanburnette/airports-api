@@ -1,0 +1,14 @@
+{
+    "_csv_row": "138",
+    "airport_name": "Summerside",
+    "city": "Summerside",
+    "country": "Canada",
+    "iata": "YSU",
+    "icao": "CYSU",
+    "latitude": 46.440556,
+    "longitude": -63.833611,
+    "elevation": 56,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

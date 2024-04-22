@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5946",
+    "airport_name": "Khuzdar Airport",
+    "city": "Khuzdar",
+    "country": "Pakistan",
+    "iata": "KDD",
+    "icao": "OPKH",
+    "latitude": 27.7906,
+    "longitude": 66.6473,
+    "elevation": 4012,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

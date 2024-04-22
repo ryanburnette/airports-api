@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4202",
+    "airport_name": "Laoag Intl",
+    "city": "Laoag",
+    "country": "Philippines",
+    "iata": "LAO",
+    "icao": "RPLI",
+    "latitude": 18.178092,
+    "longitude": 120.531522,
+    "elevation": 25,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

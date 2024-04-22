@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6021",
+    "airport_name": "Tuguegarao Airport",
+    "city": "Tuguegarao",
+    "country": "Philippines",
+    "iata": "TUG",
+    "icao": "RPUT",
+    "latitude": 17.638311,
+    "longitude": 121.730614,
+    "elevation": 70,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3801",
+    "airport_name": "Wallops Flight Facility",
+    "city": "Wallops Island",
+    "country": "United States",
+    "iata": "WAL",
+    "icao": "KWAL",
+    "latitude": 37.940194,
+    "longitude": -75.466389,
+    "elevation": 40,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

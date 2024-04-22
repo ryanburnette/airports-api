@@ -1,0 +1,14 @@
+{
+    "_csv_row": "637",
+    "airport_name": "Batsfjord",
+    "city": "Batsfjord",
+    "country": "Norway",
+    "iata": "BJF",
+    "icao": "ENBS",
+    "latitude": 70.600278,
+    "longitude": 29.6925,
+    "elevation": 490,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

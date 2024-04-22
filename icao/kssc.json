@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3733",
+    "airport_name": "Shaw Afb",
+    "city": "Sumter",
+    "country": "United States",
+    "iata": "SSC",
+    "icao": "KSSC",
+    "latitude": 33.972719,
+    "longitude": -80.470564,
+    "elevation": 242,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

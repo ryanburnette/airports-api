@@ -1,0 +1,14 @@
+{
+    "_csv_row": "667",
+    "airport_name": "Babice",
+    "city": "Warsaw",
+    "country": "Poland",
+    "iata": "",
+    "icao": "EPBC",
+    "latitude": 52.268494,
+    "longitude": 20.911047,
+    "elevation": 352,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "545",
+    "airport_name": "Cambridge",
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "iata": "CBG",
+    "icao": "EGSC",
+    "latitude": 52.205,
+    "longitude": 0.175,
+    "elevation": 47,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2556",
+    "airport_name": "Fernando De Noronha",
+    "city": "Fernando Do Noronha",
+    "country": "Brazil",
+    "iata": "FEN",
+    "icao": "SBFN",
+    "latitude": -3.854928,
+    "longitude": -32.423336,
+    "elevation": 193,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

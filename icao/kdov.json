@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3487",
+    "airport_name": "Dover Afb",
+    "city": "Dover",
+    "country": "United States",
+    "iata": "DOV",
+    "icao": "KDOV",
+    "latitude": 39.129539,
+    "longitude": -75.465958,
+    "elevation": 28,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

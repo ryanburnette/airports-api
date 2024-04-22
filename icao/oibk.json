@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2109",
+    "airport_name": "Kish Island",
+    "city": "Kish Island",
+    "country": "Iran",
+    "iata": "KIH",
+    "icao": "OIBK",
+    "latitude": 26.526156,
+    "longitude": 53.980211,
+    "elevation": 101,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

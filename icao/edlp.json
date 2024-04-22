@@ -1,0 +1,14 @@
+{
+    "_csv_row": "371",
+    "airport_name": "Paderborn Lippstadt",
+    "city": "Paderborn",
+    "country": "Germany",
+    "iata": "PAD",
+    "icao": "EDLP",
+    "latitude": 51.614089,
+    "longitude": 8.616317,
+    "elevation": 699,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

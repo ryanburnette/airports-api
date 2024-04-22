@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7108",
+    "airport_name": "Huslia Airport",
+    "city": "Huslia",
+    "country": "United States",
+    "iata": "HSL",
+    "icao": "PAHL",
+    "latitude": 65.697778,
+    "longitude": -156.351389,
+    "elevation": 213,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

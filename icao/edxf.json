@@ -1,0 +1,14 @@
+{
+    "_csv_row": "408",
+    "airport_name": "Flensburg Schaferhaus",
+    "city": "Flensburg",
+    "country": "Germany",
+    "iata": "FLF",
+    "icao": "EDXF",
+    "latitude": 54.771772,
+    "longitude": 9.378214,
+    "elevation": 130,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

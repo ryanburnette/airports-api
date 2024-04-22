@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7821",
+    "airport_name": "Zonguldak",
+    "city": "Zonguldak",
+    "country": "Turkey",
+    "iata": "ONQ",
+    "icao": "LTAS",
+    "latitude": 41.506111,
+    "longitude": 32.088611,
+    "elevation": 44,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

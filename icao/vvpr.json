@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7700",
+    "airport_name": "Phan Rang Airport",
+    "city": "Phan Rang",
+    "country": "Vietnam",
+    "iata": "PHA",
+    "icao": "VVPR",
+    "latitude": 11.6335,
+    "longitude": 108.952,
+    "elevation": 101,
+    "utc_offset": 7,
+    "_class": "N",
+    "timezone": "Asia/Saigon"
+}

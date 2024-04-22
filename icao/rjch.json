@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2288",
+    "airport_name": "Hakodate",
+    "city": "Hakodate",
+    "country": "Japan",
+    "iata": "HKD",
+    "icao": "RJCH",
+    "latitude": 41.77,
+    "longitude": 140.821944,
+    "elevation": 151,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

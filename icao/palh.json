@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8051",
+    "airport_name": "Lake Hood Seaplane Base",
+    "city": "Anchorage",
+    "country": "United States",
+    "iata": "LHD",
+    "icao": "PALH",
+    "latitude": 61.1866382,
+    "longitude": -149.9653918,
+    "elevation": 71,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1434",
+    "airport_name": "Champagne",
+    "city": "Reims",
+    "country": "France",
+    "iata": "RHE",
+    "icao": "LFSR",
+    "latitude": 49.31,
+    "longitude": 4.05,
+    "elevation": 312,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

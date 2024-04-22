@@ -1,0 +1,14 @@
+{
+    "_csv_row": "439",
+    "airport_name": "Kuopio",
+    "city": "Kuopio",
+    "country": "Finland",
+    "iata": "KUO",
+    "icao": "EFKU",
+    "latitude": 63.00715,
+    "longitude": 27.797756,
+    "elevation": 323,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

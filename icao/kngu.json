@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3827",
+    "airport_name": "Norfolk Ns",
+    "city": "Norfolk",
+    "country": "United States",
+    "iata": "NGU",
+    "icao": "KNGU",
+    "latitude": 36.937644,
+    "longitude": -76.289289,
+    "elevation": 15,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

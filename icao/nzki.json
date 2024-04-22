@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4102",
+    "airport_name": "Kaikoura",
+    "city": "Kaikoura",
+    "country": "New Zealand",
+    "iata": "KBZ",
+    "icao": "NZKI",
+    "latitude": -42.416668,
+    "longitude": 173.68333,
+    "elevation": 19,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

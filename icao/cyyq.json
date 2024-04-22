@@ -1,0 +1,14 @@
+{
+    "_csv_row": "187",
+    "airport_name": "Churchill",
+    "city": "Churchill",
+    "country": "Canada",
+    "iata": "YYQ",
+    "icao": "CYYQ",
+    "latitude": 58.739167,
+    "longitude": -94.065,
+    "elevation": 94,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

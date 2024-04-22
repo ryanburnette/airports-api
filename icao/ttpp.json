@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2902",
+    "airport_name": "Piarco",
+    "city": "Port-of-spain",
+    "country": "Trinidad and Tobago",
+    "iata": "POS",
+    "icao": "TTPP",
+    "latitude": 10.595369,
+    "longitude": -61.337242,
+    "elevation": 58,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Port_of_Spain"
+}

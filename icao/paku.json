@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7089",
+    "airport_name": "Ugnu-Kuparuk Airport",
+    "city": "Kuparuk",
+    "country": "United States",
+    "iata": "UUK",
+    "icao": "PAKU",
+    "latitude": 70.330833,
+    "longitude": -149.5975,
+    "elevation": 67,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

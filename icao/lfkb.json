@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1321",
+    "airport_name": "Poretta",
+    "city": "Bastia",
+    "country": "France",
+    "iata": "BIA",
+    "icao": "LFKB",
+    "latitude": 42.552664,
+    "longitude": 9.483731,
+    "elevation": 26,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

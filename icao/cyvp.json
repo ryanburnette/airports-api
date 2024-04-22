@@ -1,0 +1,14 @@
+{
+    "_csv_row": "154",
+    "airport_name": "Kuujjuaq",
+    "city": "Quujjuaq",
+    "country": "Canada",
+    "iata": "YVP",
+    "icao": "CYVP",
+    "latitude": 58.096111,
+    "longitude": -68.426944,
+    "elevation": 129,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

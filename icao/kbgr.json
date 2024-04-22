@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3463",
+    "airport_name": "Bangor Intl",
+    "city": "Bangor",
+    "country": "United States",
+    "iata": "BGR",
+    "icao": "KBGR",
+    "latitude": 44.807444,
+    "longitude": -68.828139,
+    "elevation": 192,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

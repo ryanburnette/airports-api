@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4385",
+    "airport_name": "Camp Mabry Austin City",
+    "city": "Austin TX",
+    "country": "United States",
+    "iata": "ATT",
+    "icao": "KATT",
+    "latitude": 30.31666,
+    "longitude": -97.7666,
+    "elevation": 0,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

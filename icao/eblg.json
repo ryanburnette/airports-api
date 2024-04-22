@@ -1,0 +1,14 @@
+{
+    "_csv_row": "309",
+    "airport_name": "Liege",
+    "city": "Liege",
+    "country": "Belgium",
+    "iata": "LGG",
+    "icao": "EBLG",
+    "latitude": 50.637417,
+    "longitude": 5.443222,
+    "elevation": 659,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

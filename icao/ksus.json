@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7015",
+    "airport_name": "Spirit Of St Louis",
+    "city": "Null",
+    "country": "United States",
+    "iata": "SUS",
+    "icao": "KSUS",
+    "latitude": 38.662119,
+    "longitude": -90.652044,
+    "elevation": 463,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

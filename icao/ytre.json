@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6794",
+    "airport_name": "Taree Airport",
+    "city": "Taree",
+    "country": "Australia",
+    "iata": "TRO",
+    "icao": "YTRE",
+    "latitude": -31.8886,
+    "longitude": 152.514,
+    "elevation": 38,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Australia/Sydney"
+}

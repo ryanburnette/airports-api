@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5737",
+    "airport_name": "New Bedford Regional Airport",
+    "city": "New Bedford",
+    "country": "United States",
+    "iata": "EWB",
+    "icao": "KEWB",
+    "latitude": 41.6761,
+    "longitude": -70.9569,
+    "elevation": 80,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

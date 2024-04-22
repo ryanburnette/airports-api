@@ -1,0 +1,14 @@
+{
+    "_csv_row": "163",
+    "airport_name": "Wrigley",
+    "city": "Wrigley",
+    "country": "Canada",
+    "iata": "YWY",
+    "icao": "CYWY",
+    "latitude": 63.209444,
+    "longitude": -123.436667,
+    "elevation": 489,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3572",
+    "airport_name": "Ellington Fld",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "EFD",
+    "icao": "KEFD",
+    "latitude": 29.607333,
+    "longitude": -95.15875,
+    "elevation": 32,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

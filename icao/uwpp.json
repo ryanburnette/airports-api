@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6165",
+    "airport_name": "Penza Airport",
+    "city": "Penza",
+    "country": "Russia",
+    "iata": "PEZ",
+    "icao": "UWPP",
+    "latitude": 53.1106,
+    "longitude": 45.0211,
+    "elevation": 614,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

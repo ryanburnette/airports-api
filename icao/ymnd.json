@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6809",
+    "airport_name": "Maitland Airport",
+    "city": "Maitland",
+    "country": "Australia",
+    "iata": "MTL",
+    "icao": "YMND",
+    "latitude": -32.7033,
+    "longitude": 151.488,
+    "elevation": 75,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

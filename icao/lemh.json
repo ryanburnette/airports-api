@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1231",
+    "airport_name": "Menorca",
+    "city": "Menorca",
+    "country": "Spain",
+    "iata": "MAH",
+    "icao": "LEMH",
+    "latitude": 39.862597,
+    "longitude": 4.218647,
+    "elevation": 298,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2024",
+    "airport_name": "Nelson",
+    "city": "Nelson",
+    "country": "New Zealand",
+    "iata": "NSN",
+    "icao": "NZNS",
+    "latitude": -41.298333,
+    "longitude": 173.221111,
+    "elevation": 17,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

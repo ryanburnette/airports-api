@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8995",
+    "airport_name": "Temora",
+    "city": "Temora",
+    "country": "Australia",
+    "iata": "TEM",
+    "icao": "YTEM",
+    "latitude": -34.4248,
+    "longitude": 147.5104,
+    "elevation": 921,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

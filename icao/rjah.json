@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2281",
+    "airport_name": "Hyakuri",
+    "city": "Ibaraki",
+    "country": "Japan",
+    "iata": "IBR",
+    "icao": "RJAH",
+    "latitude": 36.181083,
+    "longitude": 140.415444,
+    "elevation": 105,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

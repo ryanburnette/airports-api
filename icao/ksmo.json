@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7647",
+    "airport_name": "Santa Monica Municipal Airport",
+    "city": "Santa Monica",
+    "country": "United States",
+    "iata": "SMO",
+    "icao": "KSMO",
+    "latitude": 34.0158333,
+    "longitude": -118.4513056,
+    "elevation": 177,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

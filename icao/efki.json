@@ -1,0 +1,14 @@
+{
+    "_csv_row": "433",
+    "airport_name": "Kajaani",
+    "city": "Kajaani",
+    "country": "Finland",
+    "iata": "KAJ",
+    "icao": "EFKI",
+    "latitude": 64.285472,
+    "longitude": 27.692414,
+    "elevation": 483,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

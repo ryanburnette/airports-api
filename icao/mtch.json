@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1895",
+    "airport_name": "Cap Haitien Intl",
+    "city": "Cap Haitien",
+    "country": "Haiti",
+    "iata": "CAP",
+    "icao": "MTCH",
+    "latitude": 19.732989,
+    "longitude": -72.194739,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Port-au-Prince"
+}

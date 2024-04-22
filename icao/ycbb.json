@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9193",
+    "airport_name": "Coonabarabran",
+    "city": "Coonabarabran",
+    "country": "Australia",
+    "iata": "COJ",
+    "icao": "YCBB",
+    "latitude": -31.337221,
+    "longitude": 149.27194,
+    "elevation": 2117,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

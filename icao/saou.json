@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2467",
+    "airport_name": "San Luis",
+    "city": "San Luis",
+    "country": "Argentina",
+    "iata": "LUQ",
+    "icao": "SAOU",
+    "latitude": -33.273192,
+    "longitude": -66.356422,
+    "elevation": 2329,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

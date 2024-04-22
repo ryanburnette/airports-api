@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1718",
+    "airport_name": "Imsik",
+    "city": "Bodrum",
+    "country": "Turkey",
+    "iata": "BXN",
+    "icao": "LTBV",
+    "latitude": 37.140144,
+    "longitude": 27.669717,
+    "elevation": 202,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "134",
+    "airport_name": "Sherbrooke",
+    "city": "Sherbrooke",
+    "country": "Canada",
+    "iata": "YSC",
+    "icao": "CYSC",
+    "latitude": 45.438611,
+    "longitude": -71.691389,
+    "elevation": 792,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

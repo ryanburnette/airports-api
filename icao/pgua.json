@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2245",
+    "airport_name": "Andersen Afb",
+    "city": "Andersen",
+    "country": "Guam",
+    "iata": "UAM",
+    "icao": "PGUA",
+    "latitude": 13.583953,
+    "longitude": 144.930025,
+    "elevation": 627,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Guam"
+}

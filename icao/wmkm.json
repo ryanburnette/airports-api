@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3306",
+    "airport_name": "Malacca",
+    "city": "Malacca",
+    "country": "Malaysia",
+    "iata": "MKZ",
+    "icao": "WMKM",
+    "latitude": 2.263361,
+    "longitude": 102.251553,
+    "elevation": 35,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Kuala_Lumpur"
+}

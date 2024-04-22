@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3498",
+    "airport_name": "Minot Intl",
+    "city": "Minot",
+    "country": "United States",
+    "iata": "MOT",
+    "icao": "KMOT",
+    "latitude": 48.259378,
+    "longitude": -101.280333,
+    "elevation": 1716,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

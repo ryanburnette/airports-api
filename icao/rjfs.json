@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5996",
+    "airport_name": "Saga Airport",
+    "city": "Saga",
+    "country": "Japan",
+    "iata": "HSG",
+    "icao": "RJFS",
+    "latitude": 33.1497,
+    "longitude": 130.302,
+    "elevation": 6,
+    "utc_offset": 9,
+    "_class": "N",
+    "timezone": "Asia/Tokyo"
+}

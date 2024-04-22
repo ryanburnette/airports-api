@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1837",
+    "airport_name": "Puerto Escondido Intl",
+    "city": "Puerto Escondido",
+    "country": "Mexico",
+    "iata": "PXM",
+    "icao": "MMPS",
+    "latitude": 15.876861,
+    "longitude": -97.089117,
+    "elevation": 294,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

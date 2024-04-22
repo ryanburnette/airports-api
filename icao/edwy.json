@@ -1,0 +1,14 @@
+{
+    "_csv_row": "407",
+    "airport_name": "Norderney",
+    "city": "Norderney",
+    "country": "Germany",
+    "iata": "NRD",
+    "icao": "EDWY",
+    "latitude": 53.706822,
+    "longitude": 7.230247,
+    "elevation": 6,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

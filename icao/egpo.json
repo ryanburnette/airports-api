@@ -1,0 +1,14 @@
+{
+    "_csv_row": "541",
+    "airport_name": "Stornoway",
+    "city": "Stornoway",
+    "country": "United Kingdom",
+    "iata": "SYY",
+    "icao": "EGPO",
+    "latitude": 58.215556,
+    "longitude": -6.331111,
+    "elevation": 26,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5538",
+    "airport_name": "Bathurst Airport",
+    "city": "Bathurst",
+    "country": "Canada",
+    "iata": "ZBF",
+    "icao": "CZBF",
+    "latitude": 47.6297,
+    "longitude": -65.7389,
+    "elevation": 193,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

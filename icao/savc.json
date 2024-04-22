@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2487",
+    "airport_name": "Comodoro Rivadavia",
+    "city": "Comodoro Rivadavia",
+    "country": "Argentina",
+    "iata": "CRD",
+    "icao": "SAVC",
+    "latitude": -45.785347,
+    "longitude": -67.465508,
+    "elevation": 190,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

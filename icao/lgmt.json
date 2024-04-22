@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1469",
+    "airport_name": "Mitilini",
+    "city": "Mytilini",
+    "country": "Greece",
+    "iata": "MJT",
+    "icao": "LGMT",
+    "latitude": 39.056667,
+    "longitude": 26.598333,
+    "elevation": 60,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

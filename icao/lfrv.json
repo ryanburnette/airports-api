@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1421",
+    "airport_name": "Meucon",
+    "city": "Vannes",
+    "country": "France",
+    "iata": "VNE",
+    "icao": "LFRV",
+    "latitude": 47.723303,
+    "longitude": -2.718561,
+    "elevation": 440,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

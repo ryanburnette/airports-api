@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1798",
+    "airport_name": "General Pedro Jose Mendez Intl",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "iata": "CVM",
+    "icao": "MMCV",
+    "latitude": 23.703336,
+    "longitude": -98.956486,
+    "elevation": 761,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

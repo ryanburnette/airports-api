@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9497",
+    "airport_name": "Passeig de Gracia",
+    "city": "Barcelona",
+    "country": "Spain",
+    "iata": "",
+    "icao": "PGRC",
+    "latitude": 41.392186,
+    "longitude": 2.16482,
+    "elevation": 39,
+    "utc_offset": 1,
+    "_class": "U",
+    "timezone": "Europe/Madrid"
+}

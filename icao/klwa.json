@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8648",
+    "airport_name": "South Haven Area Regional Airport",
+    "city": "South Haven",
+    "country": "United States",
+    "iata": "LWA",
+    "icao": "KLWA",
+    "latitude": 42.3511944,
+    "longitude": -86.2556389,
+    "elevation": 666,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

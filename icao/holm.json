@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9503",
+    "airport_name": "Holmesburg Jct Station",
+    "city": "Philadelphia",
+    "country": "United States",
+    "iata": "",
+    "icao": "HOLM",
+    "latitude": 40.032679,
+    "longitude": -75.023718,
+    "elevation": 39,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

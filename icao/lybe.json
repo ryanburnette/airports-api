@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1739",
+    "airport_name": "Beograd",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "iata": "BEG",
+    "icao": "LYBE",
+    "latitude": 44.818444,
+    "longitude": 20.309139,
+    "elevation": 335,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Belgrade"
+}

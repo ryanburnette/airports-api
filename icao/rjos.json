@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2336",
+    "airport_name": "Tokushima",
+    "city": "Tokushima",
+    "country": "Japan",
+    "iata": "TKS",
+    "icao": "RJOS",
+    "latitude": 34.132808,
+    "longitude": 134.606639,
+    "elevation": 26,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

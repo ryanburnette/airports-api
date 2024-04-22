@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2657",
+    "airport_name": "Mataveri Intl",
+    "city": "Easter Island",
+    "country": "Chile",
+    "iata": "IPC",
+    "icao": "SCIP",
+    "latitude": -27.164792,
+    "longitude": -109.421831,
+    "elevation": 227,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "Pacific/Easter"
+}

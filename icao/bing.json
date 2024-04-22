@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9453",
+    "airport_name": "Binghamton Bus Terminal",
+    "city": "Binghamton",
+    "country": "United States",
+    "iata": "",
+    "icao": "BING",
+    "latitude": 42.101438,
+    "longitude": -75.910431,
+    "elevation": 850,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

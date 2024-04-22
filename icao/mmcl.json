@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1792",
+    "airport_name": "Culiacan Intl",
+    "city": "Culiacan",
+    "country": "Mexico",
+    "iata": "CUL",
+    "icao": "MMCL",
+    "latitude": 24.764547,
+    "longitude": -107.474717,
+    "elevation": 108,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Mazatlan"
+}

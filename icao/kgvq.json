@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8560",
+    "airport_name": "Genesee County Airport",
+    "city": "Batavia",
+    "country": "United States",
+    "iata": "GVQ",
+    "icao": "KGVQ",
+    "latitude": 43.03175,
+    "longitude": -78.1696667,
+    "elevation": 914,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

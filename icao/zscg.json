@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4109",
+    "airport_name": "Changzhou",
+    "city": "Changzhou",
+    "country": "China",
+    "iata": "CZX",
+    "icao": "ZSCG",
+    "latitude": 31.941667,
+    "longitude": 119.711667,
+    "elevation": 39,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

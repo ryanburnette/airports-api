@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1680",
+    "airport_name": "Samedan",
+    "city": "Samedan",
+    "country": "Switzerland",
+    "iata": "SMV",
+    "icao": "LSZS",
+    "latitude": 46.534075,
+    "longitude": 9.884106,
+    "elevation": 5600,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

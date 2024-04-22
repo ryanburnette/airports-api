@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1313",
+    "airport_name": "Loudes",
+    "city": "Le Puy",
+    "country": "France",
+    "iata": "LPY",
+    "icao": "LFHP",
+    "latitude": 45.080689,
+    "longitude": 3.762889,
+    "elevation": 2731,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

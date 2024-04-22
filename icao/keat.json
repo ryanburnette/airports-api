@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6916",
+    "airport_name": "Pangborn Field",
+    "city": "Wenatchee",
+    "country": "United States",
+    "iata": "EAT",
+    "icao": "KEAT",
+    "latitude": 47.398,
+    "longitude": -120.206,
+    "elevation": 1249,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

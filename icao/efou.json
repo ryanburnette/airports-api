@@ -1,0 +1,14 @@
+{
+    "_csv_row": "446",
+    "airport_name": "Oulu",
+    "city": "Oulu",
+    "country": "Finland",
+    "iata": "OUL",
+    "icao": "EFOU",
+    "latitude": 64.930061,
+    "longitude": 25.354564,
+    "elevation": 47,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

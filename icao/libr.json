@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1506",
+    "airport_name": "Casale",
+    "city": "Brindisi",
+    "country": "Italy",
+    "iata": "BDS",
+    "icao": "LIBR",
+    "latitude": 40.657633,
+    "longitude": 17.947033,
+    "elevation": 47,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2878",
+    "airport_name": "Le Lamentin",
+    "city": "Fort-de-france",
+    "country": "Martinique",
+    "iata": "FDF",
+    "icao": "TFFF",
+    "latitude": 14.591033,
+    "longitude": -61.003175,
+    "elevation": 16,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Martinique"
+}

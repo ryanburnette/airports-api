@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7023",
+    "airport_name": "Corpus Christi NAS",
+    "city": "Corpus Christi",
+    "country": "United States",
+    "iata": "NGP",
+    "icao": "KNGP",
+    "latitude": 27.692701,
+    "longitude": -97.290376,
+    "elevation": 18,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7501",
+    "airport_name": "Chaghcharan Airport",
+    "city": "Chaghcharan",
+    "country": "Afghanistan",
+    "iata": "CCN",
+    "icao": "OACC",
+    "latitude": 34.526667,
+    "longitude": 65.271667,
+    "elevation": 7383,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

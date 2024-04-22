@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6753",
+    "airport_name": "Mardin Airport",
+    "city": "Mardin",
+    "country": "Turkey",
+    "iata": "MQM",
+    "icao": "LTCR",
+    "latitude": 37.2233,
+    "longitude": 40.6317,
+    "elevation": 1729,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

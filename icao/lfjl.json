@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1320",
+    "airport_name": "Metz Nancy Lorraine",
+    "city": "Metz",
+    "country": "France",
+    "iata": "ETZ",
+    "icao": "LFJL",
+    "latitude": 48.982142,
+    "longitude": 6.251319,
+    "elevation": 870,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

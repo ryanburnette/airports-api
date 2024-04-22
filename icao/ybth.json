@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6249",
+    "airport_name": "Bathurst Airport",
+    "city": "Bathurst",
+    "country": "Australia",
+    "iata": "BHS",
+    "icao": "YBTH",
+    "latitude": -33.4094,
+    "longitude": 149.652,
+    "elevation": 2435,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

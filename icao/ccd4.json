@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7252",
+    "airport_name": "Postville Airport",
+    "city": "Postville",
+    "country": "Canada",
+    "iata": "YSO",
+    "icao": "CCD4",
+    "latitude": 54.910278,
+    "longitude": -59.785278,
+    "elevation": 223,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

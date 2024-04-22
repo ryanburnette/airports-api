@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1126",
+    "airport_name": "Alexandria Intl",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "iata": "ALY",
+    "icao": "HEAX",
+    "latitude": 31.183903,
+    "longitude": 29.948889,
+    "elevation": -6,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

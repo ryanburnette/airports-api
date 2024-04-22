@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9487",
+    "airport_name": "Atocha",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata": "",
+    "icao": "MDAT",
+    "latitude": 40.4075,
+    "longitude": -3.691667,
+    "elevation": 2188,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

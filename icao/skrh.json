@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2746",
+    "airport_name": "Almirante Padilla",
+    "city": "Rio Hacha",
+    "country": "Colombia",
+    "iata": "RCH",
+    "icao": "SKRH",
+    "latitude": 11.526222,
+    "longitude": -72.925958,
+    "elevation": 43,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

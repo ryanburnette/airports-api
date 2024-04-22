@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9272",
+    "airport_name": "Bingol",
+    "city": "Bingol",
+    "country": "Turkey",
+    "iata": "BGG",
+    "icao": "LTCU",
+    "latitude": 38.86111,
+    "longitude": 40.5925,
+    "elevation": 3490,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

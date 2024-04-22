@@ -1,0 +1,14 @@
+{
+    "_csv_row": "784",
+    "airport_name": "Furstenfeldbruck",
+    "city": "Fuerstenfeldbruck",
+    "country": "Germany",
+    "iata": "FEL",
+    "icao": "ETSF",
+    "latitude": 48.205667,
+    "longitude": 11.267,
+    "elevation": 1703,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

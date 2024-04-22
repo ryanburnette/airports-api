@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3941",
+    "airport_name": "Eleftherios Venizelos Intl",
+    "city": "Athens",
+    "country": "Greece",
+    "iata": "ATH",
+    "icao": "LGAV",
+    "latitude": 37.936358,
+    "longitude": 23.944467,
+    "elevation": 308,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

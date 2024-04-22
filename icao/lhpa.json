@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7046",
+    "airport_name": "Papa Airport",
+    "city": "Papa",
+    "country": "Hungary",
+    "iata": "",
+    "icao": "LHPA",
+    "latitude": 47.3636,
+    "longitude": 17.5008,
+    "elevation": 466,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Budapest"
+}

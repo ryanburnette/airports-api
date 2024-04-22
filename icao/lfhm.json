@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8079",
+    "airport_name": "Megeve Airport",
+    "city": "Verdun",
+    "country": "France",
+    "iata": "MVV",
+    "icao": "LFHM",
+    "latitude": 45.8208,
+    "longitude": 6.65222,
+    "elevation": 4823,
+    "utc_offset": 1,
+    "_class": "U",
+    "timezone": "Europe/Paris"
+}

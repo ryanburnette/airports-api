@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4165",
+    "airport_name": "Flugplatz Merzbrueck",
+    "city": "Aachen",
+    "country": "Germany",
+    "iata": "AAH",
+    "icao": "EDKA",
+    "latitude": 50.823194,
+    "longitude": 6.186389,
+    "elevation": 570,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

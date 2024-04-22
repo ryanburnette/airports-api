@@ -1,0 +1,14 @@
+{
+    "_csv_row": "341",
+    "airport_name": "Munster Osnabruck",
+    "city": "Munster",
+    "country": "Germany",
+    "iata": "FMO",
+    "icao": "EDDG",
+    "latitude": 52.134642,
+    "longitude": 7.684831,
+    "elevation": 160,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

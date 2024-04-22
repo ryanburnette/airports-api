@@ -1,0 +1,14 @@
+{
+    "_csv_row": "45",
+    "airport_name": "Deer Lake",
+    "city": "Deer Lake",
+    "country": "Canada",
+    "iata": "YDF",
+    "icao": "CYDF",
+    "latitude": 49.210833,
+    "longitude": -57.391388,
+    "elevation": 72,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

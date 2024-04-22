@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7077",
+    "airport_name": "Sierra Blanca Regional Airport",
+    "city": "Ruidoso",
+    "country": "United States",
+    "iata": "SRR",
+    "icao": "KSRR",
+    "latitude": 33.46285,
+    "longitude": -105.534751,
+    "elevation": 6814,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8319",
+    "airport_name": "Foothills Regional Airport",
+    "city": "Morganton",
+    "country": "United States",
+    "iata": "MRN",
+    "icao": "KMRN",
+    "latitude": 35.8202336,
+    "longitude": -81.6115119,
+    "elevation": 1270,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

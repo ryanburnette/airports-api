@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8285",
+    "airport_name": "Marshfield Municipal Airport",
+    "city": "Marshfield",
+    "country": "United States",
+    "iata": "GHG",
+    "icao": "KGHG",
+    "latitude": 42.09825,
+    "longitude": -70.6721389,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

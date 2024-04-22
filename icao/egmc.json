@@ -1,0 +1,14 @@
+{
+    "_csv_row": "508",
+    "airport_name": "Southend",
+    "city": "Southend",
+    "country": "United Kingdom",
+    "iata": "SEN",
+    "icao": "EGMC",
+    "latitude": 51.571389,
+    "longitude": 0.695556,
+    "elevation": 49,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

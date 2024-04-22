@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7198",
+    "airport_name": "Yakataga Airport",
+    "city": "Yakataga",
+    "country": "United States",
+    "iata": "CYT",
+    "icao": "PACY",
+    "latitude": 60.081901,
+    "longitude": -142.493611,
+    "elevation": 12,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

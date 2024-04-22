@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6951",
+    "airport_name": "Jan Mayensfield",
+    "city": "Jan Mayen",
+    "country": "Norway",
+    "iata": "ZXB",
+    "icao": "ENJA",
+    "latitude": 70.961111,
+    "longitude": -8.575833,
+    "elevation": 33,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Arctic/Longyearbyen"
+}

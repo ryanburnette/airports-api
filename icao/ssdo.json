@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7380",
+    "airport_name": "Dourados Airport",
+    "city": "Dourados",
+    "country": "Brazil",
+    "iata": "DOU",
+    "icao": "SSDO",
+    "latitude": -22.220833,
+    "longitude": -54.805833,
+    "elevation": 1433,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Campo_Grande"
+}

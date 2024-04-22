@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7873",
+    "airport_name": "Starmoen",
+    "city": "Elverum",
+    "country": "Norway",
+    "iata": "",
+    "icao": "ENSM",
+    "latitude": 60.88,
+    "longitude": 11.6731,
+    "elevation": 659,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

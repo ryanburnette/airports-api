@@ -1,0 +1,14 @@
+{
+    "_csv_row": "597",
+    "airport_name": "Galway",
+    "city": "Galway",
+    "country": "Ireland",
+    "iata": "GWY",
+    "icao": "EICM",
+    "latitude": 53.300175,
+    "longitude": -8.941592,
+    "elevation": 81,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

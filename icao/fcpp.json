@@ -1,0 +1,14 @@
+{
+    "_csv_row": "886",
+    "airport_name": "Pointe Noire",
+    "city": "Pointe-noire",
+    "country": "Congo (Brazzaville)",
+    "iata": "PNR",
+    "icao": "FCPP",
+    "latitude": -4.816028,
+    "longitude": 11.886597,
+    "elevation": 55,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Brazzaville"
+}

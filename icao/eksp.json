@@ -1,0 +1,14 @@
+{
+    "_csv_row": "621",
+    "airport_name": "Skrydstrup",
+    "city": "Skrydstrup",
+    "country": "Denmark",
+    "iata": "SKS",
+    "icao": "EKSP",
+    "latitude": 55.225553,
+    "longitude": 9.263931,
+    "elevation": 141,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

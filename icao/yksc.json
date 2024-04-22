@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4051",
+    "airport_name": "Kingscote Airport",
+    "city": "Kingscote",
+    "country": "Australia",
+    "iata": "KGC",
+    "icao": "YKSC",
+    "latitude": -35.713889,
+    "longitude": 137.521389,
+    "elevation": 24,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

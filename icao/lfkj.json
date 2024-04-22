@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1324",
+    "airport_name": "Campo Dell Oro",
+    "city": "Ajaccio",
+    "country": "France",
+    "iata": "AJA",
+    "icao": "LFKJ",
+    "latitude": 41.923637,
+    "longitude": 8.802917,
+    "elevation": 18,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

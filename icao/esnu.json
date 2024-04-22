@@ -1,0 +1,14 @@
+{
+    "_csv_row": "728",
+    "airport_name": "Umea",
+    "city": "Umea",
+    "country": "Sweden",
+    "iata": "UME",
+    "icao": "ESNU",
+    "latitude": 63.791828,
+    "longitude": 20.282758,
+    "elevation": 24,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

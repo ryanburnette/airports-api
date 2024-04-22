@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2253",
+    "airport_name": "Midway Atoll",
+    "city": "Midway",
+    "country": "Midway Islands",
+    "iata": "MDY",
+    "icao": "PMDY",
+    "latitude": 28.201725,
+    "longitude": -177.380636,
+    "elevation": 13,
+    "utc_offset": -11,
+    "_class": "U",
+    "timezone": "Pacific/Midway"
+}

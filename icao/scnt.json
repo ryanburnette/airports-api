@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7226",
+    "airport_name": "Puerto Natales",
+    "city": "Puerto Natales",
+    "country": "Chile",
+    "iata": "PNT",
+    "icao": "SCNT",
+    "latitude": -51.733333,
+    "longitude": -72.516667,
+    "elevation": 9,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

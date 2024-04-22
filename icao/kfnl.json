@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4257",
+    "airport_name": "Fort Collins Loveland Muni",
+    "city": "Fort Collins",
+    "country": "United States",
+    "iata": "FNL",
+    "icao": "KFNL",
+    "latitude": 40.451828,
+    "longitude": -105.011336,
+    "elevation": 5016,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

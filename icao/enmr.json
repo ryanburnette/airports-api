@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4327",
+    "airport_name": "Mehamn",
+    "city": "Mehamn",
+    "country": "Norway",
+    "iata": "MEH",
+    "icao": "ENMR",
+    "latitude": 71.029722,
+    "longitude": 27.826667,
+    "elevation": 41,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3395",
+    "airport_name": "Shuangliu",
+    "city": "Chengdu",
+    "country": "China",
+    "iata": "CTU",
+    "icao": "ZUUU",
+    "latitude": 30.578528,
+    "longitude": 103.947086,
+    "elevation": 1625,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

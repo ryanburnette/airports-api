@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7060",
+    "airport_name": "Riviere Rouge - Mont-Tremblant International Inc. Airport",
+    "city": "Mont-Tremblant",
+    "country": "Canada",
+    "iata": "YTM",
+    "icao": "CYFJ",
+    "latitude": 46.409444,
+    "longitude": -74.78,
+    "elevation": 827,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

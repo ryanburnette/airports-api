@@ -1,0 +1,14 @@
+{
+    "_csv_row": "172",
+    "airport_name": "Prince George",
+    "city": "Prince George",
+    "country": "Canada",
+    "iata": "YXS",
+    "icao": "CYXS",
+    "latitude": 53.889444,
+    "longitude": -122.678889,
+    "elevation": 2267,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

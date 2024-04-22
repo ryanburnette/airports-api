@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5594",
+    "airport_name": "Hagfors Airport",
+    "city": "Hagfors",
+    "country": "Sweden",
+    "iata": "HFS",
+    "icao": "ESOH",
+    "latitude": 60.020064,
+    "longitude": 13.578908,
+    "elevation": 474,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7360",
+    "airport_name": "El Bagre Airport",
+    "city": "El Bagre",
+    "country": "Colombia",
+    "iata": "EBG",
+    "icao": "SKEB",
+    "latitude": 7.596389,
+    "longitude": -74.808889,
+    "elevation": 180,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

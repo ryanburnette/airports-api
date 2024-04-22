@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3101",
+    "airport_name": "Kanpur",
+    "city": "Kanpur",
+    "country": "India",
+    "iata": "KNU",
+    "icao": "VIKA",
+    "latitude": 26.441444,
+    "longitude": 80.364864,
+    "elevation": 411,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

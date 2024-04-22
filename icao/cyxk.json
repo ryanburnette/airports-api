@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7256",
+    "airport_name": "Rimouski Airport",
+    "city": "Rimouski",
+    "country": "Canada",
+    "iata": "YXK",
+    "icao": "CYXK",
+    "latitude": 48.478056,
+    "longitude": -68.496944,
+    "elevation": 82,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

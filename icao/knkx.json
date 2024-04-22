@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3505",
+    "airport_name": "Miramar Mcas",
+    "city": "Miramar",
+    "country": "United States",
+    "iata": "NKX",
+    "icao": "KNKX",
+    "latitude": 32.867694,
+    "longitude": -117.14175,
+    "elevation": 478,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

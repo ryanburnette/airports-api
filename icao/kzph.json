@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8509",
+    "airport_name": "Municipal Airport",
+    "city": "Zephyrhills",
+    "country": "United States",
+    "iata": "ZPH",
+    "icao": "KZPH",
+    "latitude": 28.228056,
+    "longitude": -82.155833,
+    "elevation": 90,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

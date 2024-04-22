@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1531",
+    "airport_name": "Parma",
+    "city": "Parma",
+    "country": "Italy",
+    "iata": "PMF",
+    "icao": "LIMP",
+    "latitude": 44.824483,
+    "longitude": 10.296367,
+    "elevation": 161,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5857",
+    "airport_name": "Arthurs Town Airport",
+    "city": "Arthur's Town",
+    "country": "Bahamas",
+    "iata": "ATC",
+    "icao": "MYCA",
+    "latitude": 24.629417,
+    "longitude": -75.673775,
+    "elevation": 18,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Nassau"
+}

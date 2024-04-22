@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1331",
+    "airport_name": "Bourges",
+    "city": "Bourges",
+    "country": "France",
+    "iata": "BOU",
+    "icao": "LFLD",
+    "latitude": 47.058056,
+    "longitude": 2.370278,
+    "elevation": 529,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

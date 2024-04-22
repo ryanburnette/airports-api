@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8403",
+    "airport_name": "One Hundred Mile House Airport",
+    "city": "One Hundred Mile House",
+    "country": "Canada",
+    "iata": "",
+    "icao": "CAV3",
+    "latitude": 51.3833,
+    "longitude": -121.1825,
+    "elevation": 3055,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

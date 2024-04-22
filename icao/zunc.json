@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6401",
+    "airport_name": "Nanchong Airport",
+    "city": "Nanchong",
+    "country": "China",
+    "iata": "NAO",
+    "icao": "ZUNC",
+    "latitude": 30.754,
+    "longitude": 106.062,
+    "elevation": 0,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

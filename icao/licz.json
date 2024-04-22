@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1516",
+    "airport_name": "Sigonella",
+    "city": "Sigonella",
+    "country": "Italy",
+    "iata": "NSY",
+    "icao": "LICZ",
+    "latitude": 37.401664,
+    "longitude": 14.922358,
+    "elevation": 79,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

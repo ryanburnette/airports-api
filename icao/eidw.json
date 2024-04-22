@@ -1,0 +1,14 @@
+{
+    "_csv_row": "599",
+    "airport_name": "Dublin",
+    "city": "Dublin",
+    "country": "Ireland",
+    "iata": "DUB",
+    "icao": "EIDW",
+    "latitude": 53.421333,
+    "longitude": -6.270075,
+    "elevation": 242,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

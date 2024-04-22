@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3325",
+    "airport_name": "Sunshine Coast",
+    "city": "Maroochydore",
+    "country": "Australia",
+    "iata": "MCY",
+    "icao": "YBMC",
+    "latitude": -26.603333,
+    "longitude": 153.091111,
+    "elevation": 15,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

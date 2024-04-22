@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3493",
+    "airport_name": "Lafayette Rgnl",
+    "city": "Lafayette",
+    "country": "United States",
+    "iata": "LFT",
+    "icao": "KLFT",
+    "latitude": 30.205278,
+    "longitude": -91.987611,
+    "elevation": 43,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1668",
+    "airport_name": "Alpnach",
+    "city": "Alpnach",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSMA",
+    "latitude": 46.943889,
+    "longitude": 8.284167,
+    "elevation": 1460,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

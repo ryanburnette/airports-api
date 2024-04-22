@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2009",
+    "airport_name": "Christchurch Intl",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "iata": "CHC",
+    "icao": "NZCH",
+    "latitude": -43.489358,
+    "longitude": 172.532225,
+    "elevation": 123,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

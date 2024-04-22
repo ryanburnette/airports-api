@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6049",
+    "airport_name": "Santa Ana Airport",
+    "city": "Cartago",
+    "country": "Colombia",
+    "iata": "CRC",
+    "icao": "SKGO",
+    "latitude": 4.758181,
+    "longitude": -75.955753,
+    "elevation": 2979,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "20",
+    "airport_name": "Vestmannaeyjar",
+    "city": "Vestmannaeyjar",
+    "country": "Iceland",
+    "iata": "VEY",
+    "icao": "BIVM",
+    "latitude": 63.424303,
+    "longitude": -20.278875,
+    "elevation": 326,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

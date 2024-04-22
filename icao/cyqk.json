@@ -1,0 +1,14 @@
+{
+    "_csv_row": "115",
+    "airport_name": "Kenora",
+    "city": "Kenora",
+    "country": "Canada",
+    "iata": "YQK",
+    "icao": "CYQK",
+    "latitude": 49.788334,
+    "longitude": -94.363056,
+    "elevation": 1332,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

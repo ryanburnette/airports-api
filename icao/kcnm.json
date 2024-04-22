@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3597",
+    "airport_name": "Cavern City Air Terminal",
+    "city": "Carlsbad",
+    "country": "United States",
+    "iata": "CNM",
+    "icao": "KCNM",
+    "latitude": 32.337472,
+    "longitude": -104.263278,
+    "elevation": 3295,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

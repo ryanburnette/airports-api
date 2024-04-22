@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7784",
+    "airport_name": "Kaufbeuren BF",
+    "city": "Kaufbeuren",
+    "country": "Germany",
+    "iata": "KFX",
+    "icao": "KAUF",
+    "latitude": 47.885,
+    "longitude": 10.6294,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

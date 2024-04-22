@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6005",
+    "airport_name": "Wonju Airport",
+    "city": "Wonju",
+    "country": "South Korea",
+    "iata": "WJU",
+    "icao": "RKNW",
+    "latitude": 37.438081,
+    "longitude": 127.960383,
+    "elevation": 329,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

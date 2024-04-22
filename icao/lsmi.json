@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7027",
+    "airport_name": "Air Base",
+    "city": "Interlaken",
+    "country": "Switzerland",
+    "iata": "ZIN",
+    "icao": "LSMI",
+    "latitude": 46.6766,
+    "longitude": 7.87908,
+    "elevation": 1893,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

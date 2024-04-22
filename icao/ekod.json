@@ -1,0 +1,14 @@
+{
+    "_csv_row": "615",
+    "airport_name": "Odense",
+    "city": "Odense",
+    "country": "Denmark",
+    "iata": "ODE",
+    "icao": "EKOD",
+    "latitude": 55.476664,
+    "longitude": 10.330933,
+    "elevation": 56,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

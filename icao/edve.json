@@ -1,0 +1,14 @@
+{
+    "_csv_row": "399",
+    "airport_name": "Braunschweig Wolfsburg",
+    "city": "Braunschweig",
+    "country": "Germany",
+    "iata": "BWE",
+    "icao": "EDVE",
+    "latitude": 52.319167,
+    "longitude": 10.556111,
+    "elevation": 295,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

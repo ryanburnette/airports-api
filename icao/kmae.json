@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8221",
+    "airport_name": "Madera Municipal Airport",
+    "city": "Madera",
+    "country": "United States",
+    "iata": "MAE",
+    "icao": "KMAE",
+    "latitude": 36.9886111,
+    "longitude": -120.1124444,
+    "elevation": 255,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

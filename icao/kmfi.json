@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8653",
+    "airport_name": "Marshfield Municipal Airport",
+    "city": "Marshfield",
+    "country": "United States",
+    "iata": "MFI",
+    "icao": "KMFI",
+    "latitude": 44.6368797,
+    "longitude": -90.1893267,
+    "elevation": 1278,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

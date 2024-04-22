@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1860",
+    "airport_name": "Bluefields",
+    "city": "Bluefields",
+    "country": "Nicaragua",
+    "iata": "BEF",
+    "icao": "MNBL",
+    "latitude": 11.990961,
+    "longitude": -83.774086,
+    "elevation": 41,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Managua"
+}

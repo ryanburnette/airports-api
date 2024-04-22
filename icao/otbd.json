@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2241",
+    "airport_name": "Doha Intl",
+    "city": "Doha",
+    "country": "Qatar",
+    "iata": "DOH",
+    "icao": "OTBD",
+    "latitude": 25.261125,
+    "longitude": 51.565056,
+    "elevation": 35,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Qatar"
+}

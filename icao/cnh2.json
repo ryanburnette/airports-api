@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7251",
+    "airport_name": "Natuashish Airport",
+    "city": "Natuashish",
+    "country": "Canada",
+    "iata": "",
+    "icao": "CNH2",
+    "latitude": 55.913889,
+    "longitude": -61.184444,
+    "elevation": 33,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

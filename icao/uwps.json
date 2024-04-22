@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6166",
+    "airport_name": "Saransk Airport",
+    "city": "Saransk",
+    "country": "Russia",
+    "iata": "SKX",
+    "icao": "UWPS",
+    "latitude": 54.1251,
+    "longitude": 45.2123,
+    "elevation": 676,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

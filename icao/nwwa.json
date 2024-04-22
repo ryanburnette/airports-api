@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5919",
+    "airport_name": "Tiga Airport",
+    "city": "Tiga",
+    "country": "New Caledonia",
+    "iata": "TGJ",
+    "icao": "NWWA",
+    "latitude": -21.0961,
+    "longitude": 167.804,
+    "elevation": 128,
+    "utc_offset": 11,
+    "_class": "U",
+    "timezone": "Pacific/Noumea"
+}

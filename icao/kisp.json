@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3857",
+    "airport_name": "Long Island Mac Arthur",
+    "city": "Islip",
+    "country": "United States",
+    "iata": "ISP",
+    "icao": "KISP",
+    "latitude": 40.79525,
+    "longitude": -73.100222,
+    "elevation": 99,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "33",
+    "airport_name": "Nanaimo",
+    "city": "Nanaimo",
+    "country": "Canada",
+    "iata": "YCD",
+    "icao": "CYCD",
+    "latitude": 49.052333,
+    "longitude": -123.870167,
+    "elevation": 93,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

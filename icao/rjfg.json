@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2306",
+    "airport_name": "New Tanegashima",
+    "city": "Tanegashima",
+    "country": "Japan",
+    "iata": "TNE",
+    "icao": "RJFG",
+    "latitude": 30.605067,
+    "longitude": 130.991231,
+    "elevation": 768,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

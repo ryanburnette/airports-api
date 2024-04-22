@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3358",
+    "airport_name": "Dubbo",
+    "city": "Dubbo",
+    "country": "Australia",
+    "iata": "DBO",
+    "icao": "YSDU",
+    "latitude": -32.216667,
+    "longitude": 148.574722,
+    "elevation": 935,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

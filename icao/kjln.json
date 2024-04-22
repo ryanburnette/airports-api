@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4354",
+    "airport_name": "Joplin Rgnl",
+    "city": "Joplin",
+    "country": "United States",
+    "iata": "JLN",
+    "icao": "KJLN",
+    "latitude": 37.151814,
+    "longitude": -94.498269,
+    "elevation": 981,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

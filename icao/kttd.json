@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8121",
+    "airport_name": "Portland Troutdale",
+    "city": "Troutdale",
+    "country": "United States",
+    "iata": "TTD",
+    "icao": "KTTD",
+    "latitude": 45.54937,
+    "longitude": -122.401253,
+    "elevation": 39,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

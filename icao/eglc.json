@@ -1,0 +1,14 @@
+{
+    "_csv_row": "503",
+    "airport_name": "City",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata": "LCY",
+    "icao": "EGLC",
+    "latitude": 51.505278,
+    "longitude": 0.055278,
+    "elevation": 19,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

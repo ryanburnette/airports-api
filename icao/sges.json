@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4305",
+    "airport_name": "Ciudad del Este",
+    "city": "Ciudad del Este",
+    "country": "Paraguay",
+    "iata": "AGT",
+    "icao": "SGES",
+    "latitude": -25.4555,
+    "longitude": -54.843592,
+    "elevation": 846,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Asuncion"
+}

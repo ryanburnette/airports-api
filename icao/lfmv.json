@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1361",
+    "airport_name": "Caumont",
+    "city": "Avignon",
+    "country": "France",
+    "iata": "AVN",
+    "icao": "LFMV",
+    "latitude": 43.9073,
+    "longitude": 4.901831,
+    "elevation": 124,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

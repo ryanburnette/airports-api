@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5419",
+    "airport_name": "Buka Airport",
+    "city": "Buka Island",
+    "country": "Papua New Guinea",
+    "iata": "BUA",
+    "icao": "AYBK",
+    "latitude": -5.42232,
+    "longitude": 154.673,
+    "elevation": 11,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

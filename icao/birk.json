@@ -1,0 +1,14 @@
+{
+    "_csv_row": "18",
+    "airport_name": "Reykjavik",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "iata": "RKV",
+    "icao": "BIRK",
+    "latitude": 64.13,
+    "longitude": -21.940556,
+    "elevation": 48,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

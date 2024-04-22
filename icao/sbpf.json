@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2602",
+    "airport_name": "Lauro Kurtz",
+    "city": "Passo Fundo",
+    "country": "Brazil",
+    "iata": "PFB",
+    "icao": "SBPF",
+    "latitude": -28.243989,
+    "longitude": -52.326558,
+    "elevation": 2376,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

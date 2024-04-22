@@ -1,0 +1,14 @@
+{
+    "_csv_row": "653",
+    "airport_name": "Banak",
+    "city": "Lakselv",
+    "country": "Norway",
+    "iata": "LKL",
+    "icao": "ENNA",
+    "latitude": 70.068814,
+    "longitude": 24.973489,
+    "elevation": 25,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

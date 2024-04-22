@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9395",
+    "airport_name": "Bursa Airport",
+    "city": "Bursa",
+    "country": "Turkey",
+    "iata": "BTZ",
+    "icao": "LTBE",
+    "latitude": 40.2332993,
+    "longitude": 29.0091991,
+    "elevation": 772,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Europe/Istanbul"
+}

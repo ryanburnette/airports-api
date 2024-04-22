@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7192",
+    "airport_name": "Shaktoolik Airport",
+    "city": "Shaktoolik",
+    "country": "United States",
+    "iata": "SKK",
+    "icao": "PFSH",
+    "latitude": 64.371111,
+    "longitude": -161.223889,
+    "elevation": 24,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

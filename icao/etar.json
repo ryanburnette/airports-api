@@ -1,0 +1,14 @@
+{
+    "_csv_row": "751",
+    "airport_name": "Ramstein Ab",
+    "city": "Ramstein",
+    "country": "Germany",
+    "iata": "RMS",
+    "icao": "ETAR",
+    "latitude": 49.436911,
+    "longitude": 7.600283,
+    "elevation": 776,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

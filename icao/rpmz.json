@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2404",
+    "airport_name": "Zamboanga Intl",
+    "city": "Zamboanga",
+    "country": "Philippines",
+    "iata": "ZAM",
+    "icao": "RPMZ",
+    "latitude": 6.922419,
+    "longitude": 122.059633,
+    "elevation": 33,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

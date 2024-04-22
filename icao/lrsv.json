@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1660",
+    "airport_name": "Stefan Cel Mare",
+    "city": "Suceava",
+    "country": "Romania",
+    "iata": "SCV",
+    "icao": "LRSV",
+    "latitude": 47.6875,
+    "longitude": 26.354056,
+    "elevation": 1375,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

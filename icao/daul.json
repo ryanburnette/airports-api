@@ -1,0 +1,14 @@
+{
+    "_csv_row": "241",
+    "airport_name": "Laghouat",
+    "city": "Laghouat",
+    "country": "Algeria",
+    "iata": "LOO",
+    "icao": "DAUL",
+    "latitude": 33.764383,
+    "longitude": 2.928344,
+    "elevation": 2510,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Algiers"
+}

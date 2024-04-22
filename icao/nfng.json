@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5872",
+    "airport_name": "Ngau Airport",
+    "city": "Ngau",
+    "country": "Fiji",
+    "iata": "NGI",
+    "icao": "NFNG",
+    "latitude": -18.1156,
+    "longitude": 179.34,
+    "elevation": 50,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

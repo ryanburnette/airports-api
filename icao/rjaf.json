@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2280",
+    "airport_name": "Matsumoto",
+    "city": "Matsumoto",
+    "country": "Japan",
+    "iata": "MMJ",
+    "icao": "RJAF",
+    "latitude": 36.166758,
+    "longitude": 137.922669,
+    "elevation": 2182,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

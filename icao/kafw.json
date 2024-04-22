@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8342",
+    "airport_name": "Fort Worth Alliance Airport",
+    "city": "Fort Worth",
+    "country": "United States",
+    "iata": "AFW",
+    "icao": "KAFW",
+    "latitude": 32.987778,
+    "longitude": -97.318889,
+    "elevation": 722,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

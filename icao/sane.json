@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2456",
+    "airport_name": "Santiago Del Estero",
+    "city": "Santiago Del Estero",
+    "country": "Argentina",
+    "iata": "SDE",
+    "icao": "SANE",
+    "latitude": -27.765617,
+    "longitude": -64.310122,
+    "elevation": 656,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

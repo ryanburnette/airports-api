@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9456",
+    "airport_name": "Clinton Bus Stop",
+    "city": "Clinton",
+    "country": "United States",
+    "iata": "",
+    "icao": "CLTN",
+    "latitude": 43.048889,
+    "longitude": -75.380278,
+    "elevation": 604,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

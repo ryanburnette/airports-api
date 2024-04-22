@@ -1,0 +1,14 @@
+{
+    "_csv_row": "553",
+    "airport_name": "Bristol Filton",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "iata": "FZO",
+    "icao": "EGTG",
+    "latitude": 51.519444,
+    "longitude": -2.590833,
+    "elevation": 226,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2013",
+    "airport_name": "Glentanner",
+    "city": "Glentanner",
+    "country": "New Zealand",
+    "iata": "MON",
+    "icao": "NZGT",
+    "latitude": -43.906666,
+    "longitude": 170.128333,
+    "elevation": 1824,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

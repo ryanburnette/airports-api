@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1772",
+    "airport_name": "La Mesa Intl",
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "iata": "SAP",
+    "icao": "MHLM",
+    "latitude": 15.452639,
+    "longitude": -87.923556,
+    "elevation": 91,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Tegucigalpa"
+}

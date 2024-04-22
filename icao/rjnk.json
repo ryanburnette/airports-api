@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2322",
+    "airport_name": "Komatsu",
+    "city": "Kanazawa",
+    "country": "Japan",
+    "iata": "KMQ",
+    "icao": "RJNK",
+    "latitude": 36.394611,
+    "longitude": 136.406544,
+    "elevation": 36,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

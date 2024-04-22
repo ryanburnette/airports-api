@@ -1,0 +1,14 @@
+{
+    "_csv_row": "390",
+    "airport_name": "Koblenz Winningen",
+    "city": "Koblenz",
+    "country": "Germany",
+    "iata": "ZNV",
+    "icao": "EDRK",
+    "latitude": 50.3255,
+    "longitude": 7.528667,
+    "elevation": 640,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

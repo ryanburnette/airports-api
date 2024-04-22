@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1190",
+    "airport_name": "Tirana Rinas",
+    "city": "Tirana",
+    "country": "Albania",
+    "iata": "TIA",
+    "icao": "LATI",
+    "latitude": 41.414742,
+    "longitude": 19.720561,
+    "elevation": 126,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Tirane"
+}

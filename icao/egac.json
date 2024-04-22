@@ -1,0 +1,14 @@
+{
+    "_csv_row": "467",
+    "airport_name": "Belfast City",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "iata": "BHD",
+    "icao": "EGAC",
+    "latitude": 54.618056,
+    "longitude": -5.8725,
+    "elevation": 15,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

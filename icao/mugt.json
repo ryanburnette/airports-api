@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1908",
+    "airport_name": "Mariana Grajales",
+    "city": "Guantanamo",
+    "country": "Cuba",
+    "iata": "GAO",
+    "icao": "MUGT",
+    "latitude": 20.085419,
+    "longitude": -75.158328,
+    "elevation": 56,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

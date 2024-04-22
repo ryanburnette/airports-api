@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3368",
+    "airport_name": "Binhai",
+    "city": "Tianjin",
+    "country": "China",
+    "iata": "TSN",
+    "icao": "ZBTJ",
+    "latitude": 39.124353,
+    "longitude": 117.346183,
+    "elevation": 10,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

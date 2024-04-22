@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2923",
+    "airport_name": "Yakutsk",
+    "city": "Yakutsk",
+    "country": "Russia",
+    "iata": "YKS",
+    "icao": "UEEE",
+    "latitude": 62.09325,
+    "longitude": 129.770672,
+    "elevation": 325,
+    "utc_offset": 10,
+    "_class": "N",
+    "timezone": "Asia/Yakutsk"
+}

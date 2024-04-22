@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2444",
+    "airport_name": "Chamical",
+    "city": "Gobernador Gordillo",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SACT",
+    "latitude": -30.345278,
+    "longitude": -66.29361,
+    "elevation": 1503,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

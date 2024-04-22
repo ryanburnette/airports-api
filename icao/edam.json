@@ -1,0 +1,14 @@
+{
+    "_csv_row": "323",
+    "airport_name": "Merseburg",
+    "city": "Muehlhausen",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDAM",
+    "latitude": 51.363,
+    "longitude": 11.940833,
+    "elevation": 340,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8663",
+    "airport_name": "Trois Rivieres Airport",
+    "city": "Trois Rivieres",
+    "country": "Canada",
+    "iata": "YRQ",
+    "icao": "CYRQ",
+    "latitude": 46.351667,
+    "longitude": -72.680556,
+    "elevation": 199,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

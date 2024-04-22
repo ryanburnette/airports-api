@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2980",
+    "airport_name": "Bukhara",
+    "city": "Bukhara",
+    "country": "Uzbekistan",
+    "iata": "BHK",
+    "icao": "UTSB",
+    "latitude": 39.775,
+    "longitude": 64.483333,
+    "elevation": 751,
+    "utc_offset": 5,
+    "_class": "U",
+    "timezone": "Asia/Samarkand"
+}

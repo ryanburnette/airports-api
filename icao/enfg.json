@@ -1,0 +1,14 @@
+{
+    "_csv_row": "642",
+    "airport_name": "Leirin",
+    "city": "Fagernes",
+    "country": "Norway",
+    "iata": "VDB",
+    "icao": "ENFG",
+    "latitude": 61.015556,
+    "longitude": 9.288056,
+    "elevation": 2697,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

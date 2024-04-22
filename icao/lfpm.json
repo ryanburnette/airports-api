@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1384",
+    "airport_name": "Villaroche",
+    "city": "Melun",
+    "country": "France",
+    "iata": "",
+    "icao": "LFPM",
+    "latitude": 48.604725,
+    "longitude": 2.671119,
+    "elevation": 302,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

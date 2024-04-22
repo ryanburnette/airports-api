@@ -1,0 +1,14 @@
+{
+    "_csv_row": "116",
+    "airport_name": "Lethbridge",
+    "city": "Lethbridge",
+    "country": "Canada",
+    "iata": "YQL",
+    "icao": "CYQL",
+    "latitude": 49.630278,
+    "longitude": -112.799722,
+    "elevation": 3047,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

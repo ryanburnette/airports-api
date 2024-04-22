@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1990",
+    "airport_name": "Rangiroa",
+    "city": "Rangiroa",
+    "country": "French Polynesia",
+    "iata": "RGI",
+    "icao": "NTTG",
+    "latitude": -14.954283,
+    "longitude": -147.6608,
+    "elevation": 10,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1975",
+    "airport_name": "Tikehau",
+    "city": "Tikehau",
+    "country": "French Polynesia",
+    "iata": "TIH",
+    "icao": "NTGC",
+    "latitude": -15.119617,
+    "longitude": -148.230697,
+    "elevation": 6,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

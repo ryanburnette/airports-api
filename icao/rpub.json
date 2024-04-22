@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2405",
+    "airport_name": "Baguio",
+    "city": "Baguio",
+    "country": "Philippines",
+    "iata": "BAG",
+    "icao": "RPUB",
+    "latitude": 16.375103,
+    "longitude": 120.619636,
+    "elevation": 4251,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

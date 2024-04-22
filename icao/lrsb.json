@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1658",
+    "airport_name": "Sibiu",
+    "city": "Sibiu",
+    "country": "Romania",
+    "iata": "SBZ",
+    "icao": "LRSB",
+    "latitude": 45.785597,
+    "longitude": 24.091342,
+    "elevation": 1496,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

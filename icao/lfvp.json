@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1441",
+    "airport_name": "St Pierre",
+    "city": "St.-pierre",
+    "country": "Saint Pierre and Miquelon",
+    "iata": "FSP",
+    "icao": "LFVP",
+    "latitude": 46.762904,
+    "longitude": -56.173088,
+    "elevation": 27,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Miquelon"
+}

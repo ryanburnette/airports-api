@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3430",
+    "airport_name": "Platinum",
+    "city": "Port Moller",
+    "country": "United States",
+    "iata": "PTU",
+    "icao": "PAPM",
+    "latitude": 59.011356,
+    "longitude": -161.819664,
+    "elevation": 15,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

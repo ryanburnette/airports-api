@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5769",
+    "airport_name": "Sheridan County Airport",
+    "city": "Sheridan",
+    "country": "United States",
+    "iata": "SHR",
+    "icao": "KSHR",
+    "latitude": 44.7692,
+    "longitude": -106.98,
+    "elevation": 4021,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

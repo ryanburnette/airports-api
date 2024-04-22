@@ -1,0 +1,14 @@
+{
+    "_csv_row": "90",
+    "airport_name": "Fort Mcmurray",
+    "city": "Fort Mcmurray",
+    "country": "Canada",
+    "iata": "YMM",
+    "icao": "CYMM",
+    "latitude": 56.653333,
+    "longitude": -111.221944,
+    "elevation": 1211,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

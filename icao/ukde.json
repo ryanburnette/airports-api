@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6103",
+    "airport_name": "Zaporizhzhia International Airport",
+    "city": "Zaporozhye",
+    "country": "Ukraine",
+    "iata": "OZH",
+    "icao": "UKDE",
+    "latitude": 47.867,
+    "longitude": 35.3157,
+    "elevation": 373,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

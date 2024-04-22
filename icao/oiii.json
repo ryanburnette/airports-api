@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2131",
+    "airport_name": "Mehrabad Intl",
+    "city": "Teheran",
+    "country": "Iran",
+    "iata": "THR",
+    "icao": "OIII",
+    "latitude": 35.689167,
+    "longitude": 51.313416,
+    "elevation": 3962,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5422",
+    "airport_name": "Gurney Airport",
+    "city": "Gurney",
+    "country": "Papua New Guinea",
+    "iata": "GUR",
+    "icao": "AYGN",
+    "latitude": -10.3115,
+    "longitude": 150.334,
+    "elevation": 88,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

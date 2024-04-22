@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6755",
+    "airport_name": "Deering Airport",
+    "city": "Deering",
+    "country": "United States",
+    "iata": "DRG",
+    "icao": "PADE",
+    "latitude": 66.0696,
+    "longitude": -162.766,
+    "elevation": 21,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

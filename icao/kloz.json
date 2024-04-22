@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8410",
+    "airport_name": "London-Corbin Airport-MaGee Field",
+    "city": "London",
+    "country": "United States",
+    "iata": "LOZ",
+    "icao": "KLOZ",
+    "latitude": 37.0868889,
+    "longitude": -84.0773889,
+    "elevation": 1212,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

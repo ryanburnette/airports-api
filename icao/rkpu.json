@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2374",
+    "airport_name": "Ulsan",
+    "city": "Ulsan",
+    "country": "South Korea",
+    "iata": "USN",
+    "icao": "RKPU",
+    "latitude": 35.593494,
+    "longitude": 129.351722,
+    "elevation": 45,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

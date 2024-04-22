@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1903",
+    "airport_name": "Vilo Acuna Intl",
+    "city": "Cayo Largo del Sur",
+    "country": "Cuba",
+    "iata": "CYO",
+    "icao": "MUCL",
+    "latitude": 21.616453,
+    "longitude": -81.545989,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

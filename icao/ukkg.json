@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7854",
+    "airport_name": "Kirovograd",
+    "city": "Kirovograd",
+    "country": "Ukraine",
+    "iata": "KGO",
+    "icao": "UKKG",
+    "latitude": 48.54,
+    "longitude": 32.29,
+    "elevation": 510,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8076",
+    "airport_name": "Dubai Al Maktoum",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata": "DWC",
+    "icao": "OMDW",
+    "latitude": 24.55056,
+    "longitude": 55.103174,
+    "elevation": 170,
+    "utc_offset": 4,
+    "_class": "U",
+    "timezone": "Asia/Dubai"
+}

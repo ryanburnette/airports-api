@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1885",
+    "airport_name": "Juan Santamaria Intl",
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "iata": "SJO",
+    "icao": "MROC",
+    "latitude": 9.993861,
+    "longitude": -84.208806,
+    "elevation": 3021,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Costa_Rica"
+}

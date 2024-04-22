@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8517",
+    "airport_name": "Municipal Airport",
+    "city": "Lumberton",
+    "country": "United States",
+    "iata": "LBT",
+    "icao": "KLBT",
+    "latitude": 34.6098056,
+    "longitude": -79.0595556,
+    "elevation": 125,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

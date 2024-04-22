@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6108",
+    "airport_name": "Rivne International Airport",
+    "city": "Rivne",
+    "country": "Ukraine",
+    "iata": "RWN",
+    "icao": "UKLR",
+    "latitude": 50.6071,
+    "longitude": 26.1416,
+    "elevation": 755,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

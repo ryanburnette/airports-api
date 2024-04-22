@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3001",
+    "airport_name": "Vadodara",
+    "city": "Baroda",
+    "country": "India",
+    "iata": "BDQ",
+    "icao": "VABO",
+    "latitude": 22.336164,
+    "longitude": 73.226289,
+    "elevation": 129,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

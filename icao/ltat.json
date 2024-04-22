@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1695",
+    "airport_name": "Erhac",
+    "city": "Malatya",
+    "country": "Turkey",
+    "iata": "MLX",
+    "icao": "LTAT",
+    "latitude": 38.435347,
+    "longitude": 38.091006,
+    "elevation": 2828,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

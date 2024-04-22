@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7629",
+    "airport_name": "Livermore Municipal",
+    "city": "Livermore",
+    "country": "United States",
+    "iata": "LVK",
+    "icao": "KLVK",
+    "latitude": 37.41362,
+    "longitude": -121.49133,
+    "elevation": 400,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

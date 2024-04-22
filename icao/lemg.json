@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1230",
+    "airport_name": "Malaga",
+    "city": "Malaga",
+    "country": "Spain",
+    "iata": "AGP",
+    "icao": "LEMG",
+    "latitude": 36.6749,
+    "longitude": -4.499106,
+    "elevation": 52,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

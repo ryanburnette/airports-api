@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2005",
+    "airport_name": "La Tontouta",
+    "city": "Noumea",
+    "country": "New Caledonia",
+    "iata": "NOU",
+    "icao": "NWWW",
+    "latitude": -22.014553,
+    "longitude": 166.212972,
+    "elevation": 52,
+    "utc_offset": 11,
+    "_class": "U",
+    "timezone": "Pacific/Noumea"
+}

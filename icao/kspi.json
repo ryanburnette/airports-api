@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4336",
+    "airport_name": "Abraham Lincoln Capital",
+    "city": "Springfield",
+    "country": "United States",
+    "iata": "SPI",
+    "icao": "KSPI",
+    "latitude": 39.8441,
+    "longitude": -89.677889,
+    "elevation": 597,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "167",
+    "airport_name": "Medicine Hat",
+    "city": "Medicine Hat",
+    "country": "Canada",
+    "iata": "YXH",
+    "icao": "CYXH",
+    "latitude": 50.01889,
+    "longitude": -110.720833,
+    "elevation": 2352,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

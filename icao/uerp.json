@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6092",
+    "airport_name": "Poliarny Airport",
+    "city": "Yakutia",
+    "country": "Russia",
+    "iata": "PYJ",
+    "icao": "UERP",
+    "latitude": 66.400431,
+    "longitude": 112.030325,
+    "elevation": 1660,
+    "utc_offset": 10,
+    "_class": "N",
+    "timezone": "Asia/Yakutsk"
+}

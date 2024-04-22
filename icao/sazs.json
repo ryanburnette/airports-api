@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2513",
+    "airport_name": "San Carlos De Bariloche",
+    "city": "San Carlos De Bariloche",
+    "country": "Argentina",
+    "iata": "BRC",
+    "icao": "SAZS",
+    "latitude": -41.151172,
+    "longitude": -71.157542,
+    "elevation": 2776,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

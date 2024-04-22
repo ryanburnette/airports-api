@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8254",
+    "airport_name": "Diamantina Airport",
+    "city": "Diamantina",
+    "country": "Brazil",
+    "iata": "DTI",
+    "icao": "SNDT",
+    "latitude": -18.231944,
+    "longitude": -43.650278,
+    "elevation": 4446,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

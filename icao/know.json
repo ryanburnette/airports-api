@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3455",
+    "airport_name": "Port Angeles Cgas",
+    "city": "Port Angeles",
+    "country": "United States",
+    "iata": "NOW",
+    "icao": "KNOW",
+    "latitude": 48.141481,
+    "longitude": -123.414075,
+    "elevation": 13,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7516",
+    "airport_name": "Chernobayevka Airport",
+    "city": "Kherson",
+    "country": "Ukraine",
+    "iata": "KHE",
+    "icao": "UKOH",
+    "latitude": 46.6758,
+    "longitude": 32.5064,
+    "elevation": 148,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

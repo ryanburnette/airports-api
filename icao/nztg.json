@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2034",
+    "airport_name": "Tauranga",
+    "city": "Tauranga",
+    "country": "New Zealand",
+    "iata": "TRG",
+    "icao": "NZTG",
+    "latitude": -37.671944,
+    "longitude": 176.19611,
+    "elevation": 13,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

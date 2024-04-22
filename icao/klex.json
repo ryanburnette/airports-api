@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4017",
+    "airport_name": "Blue Grass",
+    "city": "Lexington KY",
+    "country": "United States",
+    "iata": "LEX",
+    "icao": "KLEX",
+    "latitude": 38.0365,
+    "longitude": -84.605889,
+    "elevation": 979,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

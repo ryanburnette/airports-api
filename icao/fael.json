@@ -1,0 +1,14 @@
+{
+    "_csv_row": "800",
+    "airport_name": "East London",
+    "city": "East London",
+    "country": "South Africa",
+    "iata": "ELS",
+    "icao": "FAEL",
+    "latitude": -33.035569,
+    "longitude": 27.825939,
+    "elevation": 435,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

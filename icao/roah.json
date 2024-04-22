@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2384",
+    "airport_name": "Naha",
+    "city": "Okinawa",
+    "country": "Japan",
+    "iata": "OKA",
+    "icao": "ROAH",
+    "latitude": 26.195814,
+    "longitude": 127.645869,
+    "elevation": 12,
+    "utc_offset": 9,
+    "_class": "N",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1026",
+    "airport_name": "Mbandaka",
+    "city": "Mbandaka",
+    "country": "Congo (Kinshasa)",
+    "iata": "MDK",
+    "icao": "FZEA",
+    "latitude": 0.0226,
+    "longitude": 18.288744,
+    "elevation": 1040,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Kinshasa"
+}

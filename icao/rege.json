@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7919",
+    "airport_name": "Regensburg HBF",
+    "city": "Regensburg",
+    "country": "Germany",
+    "iata": "RGB",
+    "icao": "REGE",
+    "latitude": 49.022,
+    "longitude": 12.1111,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

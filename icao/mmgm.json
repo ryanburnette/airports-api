@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1805",
+    "airport_name": "General Jose Maria Yanez Intl",
+    "city": "Guaymas",
+    "country": "Mexico",
+    "iata": "GYM",
+    "icao": "MMGM",
+    "latitude": 27.968983,
+    "longitude": -110.925169,
+    "elevation": 59,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Hermosillo"
+}

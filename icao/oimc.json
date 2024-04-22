@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2143",
+    "airport_name": "Sarakhs",
+    "city": "Sarakhs",
+    "country": "Iran",
+    "iata": "",
+    "icao": "OIMC",
+    "latitude": 36.501178,
+    "longitude": 61.064903,
+    "elevation": 945,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "491",
+    "airport_name": "Liverpool",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "iata": "LPL",
+    "icao": "EGGP",
+    "latitude": 53.333611,
+    "longitude": -2.849722,
+    "elevation": 80,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

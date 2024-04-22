@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7229",
+    "airport_name": "Sierra Grande",
+    "city": "Sierra Grande",
+    "country": "Argentina",
+    "iata": "SGV",
+    "icao": "SAVS",
+    "latitude": -41.592,
+    "longitude": -65.341,
+    "elevation": 820,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

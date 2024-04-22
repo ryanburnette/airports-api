@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8773",
+    "airport_name": "Bost Airport",
+    "city": "Lashkar Gah",
+    "country": "Afghanistan",
+    "iata": "BST",
+    "icao": "OABT",
+    "latitude": 31.558889,
+    "longitude": 64.364167,
+    "elevation": 2464,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

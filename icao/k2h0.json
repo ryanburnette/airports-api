@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9305",
+    "airport_name": "Shelby County Airport",
+    "city": "Shelbyville",
+    "country": "United States",
+    "iata": "2H0",
+    "icao": "K2H0",
+    "latitude": 39.410556,
+    "longitude": -88.845556,
+    "elevation": 550,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

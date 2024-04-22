@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3340",
+    "airport_name": "Point Cook",
+    "city": "Point Cook",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YMPC",
+    "latitude": -37.932222,
+    "longitude": 144.753333,
+    "elevation": 14,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

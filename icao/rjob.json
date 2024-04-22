@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2327",
+    "airport_name": "Okayama",
+    "city": "Okayama",
+    "country": "Japan",
+    "iata": "OKJ",
+    "icao": "RJOB",
+    "latitude": 34.756944,
+    "longitude": 133.855278,
+    "elevation": 806,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

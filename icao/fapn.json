@@ -1,0 +1,14 @@
+{
+    "_csv_row": "844",
+    "airport_name": "Pilanesberg Intl",
+    "city": "Pilanesberg",
+    "country": "South Africa",
+    "iata": "NTY",
+    "icao": "FAPN",
+    "latitude": -25.333822,
+    "longitude": 27.173358,
+    "elevation": 3412,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6962",
+    "airport_name": "Branson LLC",
+    "city": "Branson",
+    "country": "United States",
+    "iata": "BKG",
+    "icao": "KBBG",
+    "latitude": 36.531994,
+    "longitude": -93.200556,
+    "elevation": 1302,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

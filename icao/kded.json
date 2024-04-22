@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6995",
+    "airport_name": "DeLand Municipal Airport",
+    "city": "DeLand",
+    "country": "United States",
+    "iata": "",
+    "icao": "KDED",
+    "latitude": 29.066944,
+    "longitude": -81.283889,
+    "elevation": 79,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

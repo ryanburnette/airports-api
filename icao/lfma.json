@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1347",
+    "airport_name": "Aix Les Milles",
+    "city": "Aix-les-milles",
+    "country": "France",
+    "iata": "QXB",
+    "icao": "LFMA",
+    "latitude": 43.505554,
+    "longitude": 5.367778,
+    "elevation": 367,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

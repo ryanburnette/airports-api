@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5501",
+    "airport_name": "Nemiscau Airport",
+    "city": "Nemiscau",
+    "country": "Canada",
+    "iata": "YNS",
+    "icao": "CYHH",
+    "latitude": 51.6911,
+    "longitude": -76.1356,
+    "elevation": 802,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

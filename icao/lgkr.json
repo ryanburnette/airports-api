@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1460",
+    "airport_name": "Ioannis Kapodistrias Intl",
+    "city": "Kerkyra/corfu",
+    "country": "Greece",
+    "iata": "CFU",
+    "icao": "LGKR",
+    "latitude": 39.601944,
+    "longitude": 19.911667,
+    "elevation": 6,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

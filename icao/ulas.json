@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6110",
+    "airport_name": "Solovki Airport",
+    "city": "Solovetsky Islands",
+    "country": "Russia",
+    "iata": "CSH",
+    "icao": "ULAS",
+    "latitude": 65.03,
+    "longitude": 35.7333,
+    "elevation": 0,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

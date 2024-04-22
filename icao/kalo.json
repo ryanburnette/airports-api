@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5718",
+    "airport_name": "Waterloo Regional Airport",
+    "city": "Waterloo",
+    "country": "United States",
+    "iata": "ALO",
+    "icao": "KALO",
+    "latitude": 42.5571,
+    "longitude": -92.4003,
+    "elevation": 873,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

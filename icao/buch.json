@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7790",
+    "airport_name": "Buchloe BF",
+    "city": "Buchloe",
+    "country": "Germany",
+    "iata": "BUH",
+    "icao": "BUCH",
+    "latitude": 48.0411,
+    "longitude": 10.715,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1796",
+    "airport_name": "Abraham Gonzalez Intl",
+    "city": "Ciudad Juarez",
+    "country": "Mexico",
+    "iata": "CJS",
+    "icao": "MMCS",
+    "latitude": 31.636133,
+    "longitude": -106.428667,
+    "elevation": 3904,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Mazatlan"
+}

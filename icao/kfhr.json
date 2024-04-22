@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7082",
+    "airport_name": "Friday Harbor Airport",
+    "city": "Friday Harbor",
+    "country": "United States",
+    "iata": "FRD",
+    "icao": "KFHR",
+    "latitude": 48.521944,
+    "longitude": -123.024444,
+    "elevation": 113,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

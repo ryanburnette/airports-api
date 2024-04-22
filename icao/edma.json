@@ -1,0 +1,14 @@
+{
+    "_csv_row": "374",
+    "airport_name": "Augsburg",
+    "city": "Augsburg",
+    "country": "Germany",
+    "iata": "AGB",
+    "icao": "EDMA",
+    "latitude": 48.425158,
+    "longitude": 10.931764,
+    "elevation": 1515,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

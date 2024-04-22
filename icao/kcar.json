@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3478",
+    "airport_name": "Caribou Muni",
+    "city": "Caribou",
+    "country": "United States",
+    "iata": "CAR",
+    "icao": "KCAR",
+    "latitude": 46.8715,
+    "longitude": -68.017917,
+    "elevation": 626,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

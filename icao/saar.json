@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2440",
+    "airport_name": "Rosario",
+    "city": "Rosario",
+    "country": "Argentina",
+    "iata": "ROS",
+    "icao": "SAAR",
+    "latitude": -32.903611,
+    "longitude": -60.785,
+    "elevation": 85,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

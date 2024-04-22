@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8548",
+    "airport_name": "South Jersey Regional Airport",
+    "city": "Mount Holly",
+    "country": "United States",
+    "iata": "VAY",
+    "icao": "KVAY",
+    "latitude": 39.9428889,
+    "longitude": -74.84575,
+    "elevation": 53,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

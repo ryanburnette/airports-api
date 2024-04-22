@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5786",
+    "airport_name": "La Môle Airport",
+    "city": "La Môle",
+    "country": "France",
+    "iata": "LTT",
+    "icao": "LFTZ",
+    "latitude": 43.2054,
+    "longitude": 6.482,
+    "elevation": 59,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

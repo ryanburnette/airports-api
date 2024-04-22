@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9125",
+    "airport_name": "Klatovy",
+    "city": "Klatovy",
+    "country": "Czech Republic",
+    "iata": "",
+    "icao": "LKKT",
+    "latitude": 49.418327,
+    "longitude": 13.321944,
+    "elevation": 1299,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Prague"
+}

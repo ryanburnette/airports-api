@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6806",
+    "airport_name": "Cessnock Airport",
+    "city": "Cessnock",
+    "country": "Australia",
+    "iata": "CES",
+    "icao": "YCNK",
+    "latitude": -32.7875,
+    "longitude": 151.342,
+    "elevation": 211,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

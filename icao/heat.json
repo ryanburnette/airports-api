@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5691",
+    "airport_name": "Asyut International Airport",
+    "city": "Asyut",
+    "country": "Egypt",
+    "iata": "ATZ",
+    "icao": "HEAT",
+    "latitude": 27.046508,
+    "longitude": 31.011983,
+    "elevation": 772,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

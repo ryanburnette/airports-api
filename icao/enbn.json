@@ -1,0 +1,14 @@
+{
+    "_csv_row": "634",
+    "airport_name": "Bronnoy",
+    "city": "Bronnoysund",
+    "country": "Norway",
+    "iata": "BNN",
+    "icao": "ENBN",
+    "latitude": 65.461111,
+    "longitude": 12.2175,
+    "elevation": 25,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

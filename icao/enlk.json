@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5580",
+    "airport_name": "Leknes Airport",
+    "city": "Leknes",
+    "country": "Norway",
+    "iata": "LKN",
+    "icao": "ENLK",
+    "latitude": 68.1525,
+    "longitude": 13.6094,
+    "elevation": 78,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

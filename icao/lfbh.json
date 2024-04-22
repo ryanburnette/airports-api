@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6493",
+    "airport_name": "La Rochelle-Ile de Re",
+    "city": "La Rochelle",
+    "country": "France",
+    "iata": "LRH",
+    "icao": "LFBH",
+    "latitude": 46.1792,
+    "longitude": -1.19528,
+    "elevation": 74,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

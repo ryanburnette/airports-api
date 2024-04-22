@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1785",
+    "airport_name": "Jesus Teran Intl",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "iata": "AGU",
+    "icao": "MMAS",
+    "latitude": 21.705558,
+    "longitude": -102.317858,
+    "elevation": 6112,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

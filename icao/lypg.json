@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1741",
+    "airport_name": "Podgorica",
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "iata": "TGD",
+    "icao": "LYPG",
+    "latitude": 42.359392,
+    "longitude": 19.251894,
+    "elevation": 141,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Podgorica"
+}

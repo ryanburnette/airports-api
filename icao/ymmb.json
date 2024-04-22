@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3338",
+    "airport_name": "Melbourne Moorabbin",
+    "city": "Melbourne",
+    "country": "Australia",
+    "iata": "MBW",
+    "icao": "YMMB",
+    "latitude": -37.975833,
+    "longitude": 145.102222,
+    "elevation": 50,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

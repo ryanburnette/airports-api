@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7826",
+    "airport_name": "McNary Field",
+    "city": "Salem",
+    "country": "United States",
+    "iata": "SLE",
+    "icao": "KSLE",
+    "latitude": 44.9095,
+    "longitude": -123.003,
+    "elevation": 214,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

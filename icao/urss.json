@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2965",
+    "airport_name": "Sochi",
+    "city": "Sochi",
+    "country": "Russia",
+    "iata": "AER",
+    "icao": "URSS",
+    "latitude": 43.449928,
+    "longitude": 39.956589,
+    "elevation": 89,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

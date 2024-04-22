@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1455",
+    "airport_name": "Kefallinia",
+    "city": "Keffallinia",
+    "country": "Greece",
+    "iata": "EFL",
+    "icao": "LGKF",
+    "latitude": 38.120069,
+    "longitude": 20.500481,
+    "elevation": 59,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8516",
+    "airport_name": "Woodward Field",
+    "city": "Camden",
+    "country": "United States",
+    "iata": "CDN",
+    "icao": "KCDN",
+    "latitude": 34.2835833,
+    "longitude": -80.5648611,
+    "elevation": 302,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

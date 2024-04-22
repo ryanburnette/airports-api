@@ -1,0 +1,14 @@
+{
+    "_csv_row": "65",
+    "airport_name": "Iles De La Madeleine",
+    "city": "Iles De La Madeleine",
+    "country": "Canada",
+    "iata": "YGR",
+    "icao": "CYGR",
+    "latitude": 47.424721,
+    "longitude": -61.778056,
+    "elevation": 35,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

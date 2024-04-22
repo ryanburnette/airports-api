@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3431",
+    "airport_name": "Big Mountain Afs",
+    "city": "Big Mountain",
+    "country": "United States",
+    "iata": "BMX",
+    "icao": "PABM",
+    "latitude": 59.361247,
+    "longitude": -155.258822,
+    "elevation": 663,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

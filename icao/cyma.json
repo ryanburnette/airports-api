@@ -1,0 +1,14 @@
+{
+    "_csv_row": "88",
+    "airport_name": "Mayo",
+    "city": "Mayo",
+    "country": "Canada",
+    "iata": "YMA",
+    "icao": "CYMA",
+    "latitude": 63.616389,
+    "longitude": -135.868333,
+    "elevation": 1653,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

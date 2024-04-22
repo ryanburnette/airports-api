@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3199",
+    "airport_name": "Noibai Intl",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "iata": "HAN",
+    "icao": "VVNB",
+    "latitude": 21.221192,
+    "longitude": 105.807178,
+    "elevation": 39,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

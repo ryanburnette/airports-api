@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4292",
+    "airport_name": "Hector International Airport",
+    "city": "Fargo",
+    "country": "United States",
+    "iata": "FAR",
+    "icao": "KFAR",
+    "latitude": 46.92065,
+    "longitude": -96.8157639,
+    "elevation": 902,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

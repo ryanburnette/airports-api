@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1565",
+    "airport_name": "Urbe",
+    "city": "Rome",
+    "country": "Italy",
+    "iata": "",
+    "icao": "LIRU",
+    "latitude": 41.951946,
+    "longitude": 12.498889,
+    "elevation": 55,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

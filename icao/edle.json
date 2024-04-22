@@ -1,0 +1,14 @@
+{
+    "_csv_row": "368",
+    "airport_name": "Essen Mulheim",
+    "city": "Essen",
+    "country": "Germany",
+    "iata": "ESS",
+    "icao": "EDLE",
+    "latitude": 51.402333,
+    "longitude": 6.937333,
+    "elevation": 424,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

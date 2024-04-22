@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4207",
+    "airport_name": "Sonderlandeplatz Norden-Norddeich",
+    "city": "Norden",
+    "country": "Germany",
+    "iata": "NOE",
+    "icao": "EDWS",
+    "latitude": 53.632221,
+    "longitude": 7.191389,
+    "elevation": 3,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

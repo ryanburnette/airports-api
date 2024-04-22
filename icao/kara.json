@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3471",
+    "airport_name": "Acadiana Rgnl",
+    "city": "Louisiana",
+    "country": "United States",
+    "iata": "ARA",
+    "icao": "KARA",
+    "latitude": 30.037758,
+    "longitude": -91.883896,
+    "elevation": 24,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

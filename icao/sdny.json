@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7675",
+    "airport_name": "Aeroclube de Nova Iguacu",
+    "city": "Nova Iguacu",
+    "country": "Brazil",
+    "iata": "QNV",
+    "icao": "SDNY",
+    "latitude": -22.7453,
+    "longitude": -43.4603,
+    "elevation": 164,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

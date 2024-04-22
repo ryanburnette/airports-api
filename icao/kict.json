@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3457",
+    "airport_name": "Wichita Mid Continent",
+    "city": "Wichita",
+    "country": "United States",
+    "iata": "ICT",
+    "icao": "KICT",
+    "latitude": 37.649944,
+    "longitude": -97.433056,
+    "elevation": 1333,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

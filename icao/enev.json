@@ -1,0 +1,14 @@
+{
+    "_csv_row": "641",
+    "airport_name": "Evenes",
+    "city": "Harstad/Narvik",
+    "country": "Norway",
+    "iata": "EVE",
+    "icao": "ENEV",
+    "latitude": 68.4913,
+    "longitude": 16.678108,
+    "elevation": 84,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

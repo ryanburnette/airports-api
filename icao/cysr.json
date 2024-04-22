@@ -1,0 +1,14 @@
+{
+    "_csv_row": "137",
+    "airport_name": "Nanisivik",
+    "city": "Nanisivik",
+    "country": "Canada",
+    "iata": "YSR",
+    "icao": "CYSR",
+    "latitude": 72.982222,
+    "longitude": -84.613611,
+    "elevation": 2106,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

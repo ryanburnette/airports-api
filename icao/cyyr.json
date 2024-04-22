@@ -1,0 +1,14 @@
+{
+    "_csv_row": "188",
+    "airport_name": "Goose Bay",
+    "city": "Goose Bay",
+    "country": "Canada",
+    "iata": "YYR",
+    "icao": "CYYR",
+    "latitude": 53.319168,
+    "longitude": -60.425833,
+    "elevation": 160,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

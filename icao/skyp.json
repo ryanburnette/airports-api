@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6055",
+    "airport_name": "El Alcaraván Airport",
+    "city": "Yopal",
+    "country": "Colombia",
+    "iata": "EYP",
+    "icao": "SKYP",
+    "latitude": 5.319114,
+    "longitude": -72.383975,
+    "elevation": 1028,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

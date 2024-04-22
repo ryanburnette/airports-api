@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8345",
+    "airport_name": "Montgomery Field",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "MYF",
+    "icao": "NULL",
+    "latitude": 32.4759,
+    "longitude": 117.759,
+    "elevation": 17,
+    "utc_offset": 8,
+    "_class": "A",
+    "timezone": "Asia/Chongqing"
+}

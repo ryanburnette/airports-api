@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6151",
+    "airport_name": "Nukus Airport",
+    "city": "Nukus",
+    "country": "Uzbekistan",
+    "iata": "NCU",
+    "icao": "UTNN",
+    "latitude": 42.4884,
+    "longitude": 59.6233,
+    "elevation": 246,
+    "utc_offset": 5,
+    "_class": "U",
+    "timezone": "Asia/Samarkand"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7014",
+    "airport_name": "Hays Regional Airport",
+    "city": "Hays",
+    "country": "United States",
+    "iata": "HYS",
+    "icao": "KHYS",
+    "latitude": 38.8422,
+    "longitude": -99.2732,
+    "elevation": 1998,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

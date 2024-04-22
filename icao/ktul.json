@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3855",
+    "airport_name": "Tulsa Intl",
+    "city": "Tulsa",
+    "country": "United States",
+    "iata": "TUL",
+    "icao": "KTUL",
+    "latitude": 36.198389,
+    "longitude": -95.888111,
+    "elevation": 677,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

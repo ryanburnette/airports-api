@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3802",
+    "airport_name": "Holloman Afb",
+    "city": "Alamogordo",
+    "country": "United States",
+    "iata": "HMN",
+    "icao": "KHMN",
+    "latitude": 32.852519,
+    "longitude": -106.106525,
+    "elevation": 4093,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

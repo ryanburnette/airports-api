@@ -1,0 +1,14 @@
+{
+    "_csv_row": "184",
+    "airport_name": "Victoria Intl",
+    "city": "Victoria",
+    "country": "Canada",
+    "iata": "YYJ",
+    "icao": "CYYJ",
+    "latitude": 48.646944,
+    "longitude": -123.425833,
+    "elevation": 63,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

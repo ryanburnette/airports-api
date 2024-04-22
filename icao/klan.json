@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3544",
+    "airport_name": "Capital City",
+    "city": "Lansing",
+    "country": "United States",
+    "iata": "LAN",
+    "icao": "KLAN",
+    "latitude": 42.7787,
+    "longitude": -84.587357,
+    "elevation": 861,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

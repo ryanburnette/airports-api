@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1127",
+    "airport_name": "Abu Simbel",
+    "city": "Abu Simbel",
+    "country": "Egypt",
+    "iata": "ABS",
+    "icao": "HEBL",
+    "latitude": 22.375953,
+    "longitude": 31.611722,
+    "elevation": 616,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

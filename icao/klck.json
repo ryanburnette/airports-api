@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3674",
+    "airport_name": "Rickenbacker Intl",
+    "city": "Columbus",
+    "country": "United States",
+    "iata": "LCK",
+    "icao": "KLCK",
+    "latitude": 39.813786,
+    "longitude": -82.927822,
+    "elevation": 744,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9450",
+    "airport_name": "W H Barron Field",
+    "city": "Dublin",
+    "country": "United States",
+    "iata": "DBN",
+    "icao": "KDBN",
+    "latitude": 32.3388,
+    "longitude": -82.591,
+    "elevation": 311,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

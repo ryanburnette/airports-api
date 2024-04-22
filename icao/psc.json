@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6133",
+    "airport_name": "Tri Cities Airport",
+    "city": "Pasco",
+    "country": "United States",
+    "iata": "PSC",
+    "icao": "PSC",
+    "latitude": 46.2647,
+    "longitude": -119.119,
+    "elevation": 410,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1677",
+    "airport_name": "Grenchen",
+    "city": "Grenchen",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSZG",
+    "latitude": 47.181628,
+    "longitude": 7.417189,
+    "elevation": 1411,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

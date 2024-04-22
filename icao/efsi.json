@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5560",
+    "airport_name": "Seinäjoki Airport",
+    "city": "Seinäjoki / Ilmajoki",
+    "country": "Finland",
+    "iata": "SJY",
+    "icao": "EFSI",
+    "latitude": 62.6921,
+    "longitude": 22.8323,
+    "elevation": 302,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

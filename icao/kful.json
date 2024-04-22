@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6481",
+    "airport_name": "Fullerton Municipal Airport",
+    "city": "Fullerton",
+    "country": "United States",
+    "iata": "FUL",
+    "icao": "KFUL",
+    "latitude": 33.521925,
+    "longitude": -117.584722,
+    "elevation": 96,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

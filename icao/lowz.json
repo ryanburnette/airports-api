@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6894",
+    "airport_name": "Zell am See",
+    "city": "Zell am See",
+    "country": "Austria",
+    "iata": "",
+    "icao": "LOWZ",
+    "latitude": 47.2933,
+    "longitude": 12.7883,
+    "elevation": 2470,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Vienna"
+}

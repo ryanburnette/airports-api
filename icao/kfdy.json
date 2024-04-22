@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7778",
+    "airport_name": "Findlay Airport",
+    "city": "Findley",
+    "country": "United States",
+    "iata": "FDY",
+    "icao": "KFDY",
+    "latitude": 41.0120278,
+    "longitude": -83.6686111,
+    "elevation": 819,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

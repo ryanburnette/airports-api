@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3015",
+    "airport_name": "Dr Ambedkar Intl",
+    "city": "Nagpur",
+    "country": "India",
+    "iata": "NAG",
+    "icao": "VANP",
+    "latitude": 21.092192,
+    "longitude": 79.047183,
+    "elevation": 1033,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

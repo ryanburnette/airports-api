@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3494",
+    "airport_name": "Newark Liberty Intl",
+    "city": "Newark",
+    "country": "United States",
+    "iata": "EWR",
+    "icao": "KEWR",
+    "latitude": 40.6925,
+    "longitude": -74.168667,
+    "elevation": 18,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

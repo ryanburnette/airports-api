@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6128",
+    "airport_name": "Mercer County Airport",
+    "city": "Bluefield",
+    "country": "United States",
+    "iata": "BLF",
+    "icao": "BLF",
+    "latitude": 37.2958,
+    "longitude": -81.2077,
+    "elevation": 2857,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

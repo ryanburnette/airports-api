@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2437",
+    "airport_name": "Gualeguaychu",
+    "city": "Gualeguaychu",
+    "country": "Argentina",
+    "iata": "GHU",
+    "icao": "SAAG",
+    "latitude": -33.010278,
+    "longitude": -58.613056,
+    "elevation": 75,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

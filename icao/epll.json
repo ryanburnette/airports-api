@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5592",
+    "airport_name": "Łódź Władysław Reymont Airport",
+    "city": "Lodz",
+    "country": "Poland",
+    "iata": "LCJ",
+    "icao": "EPLL",
+    "latitude": 51.721881,
+    "longitude": 19.398133,
+    "elevation": 604,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

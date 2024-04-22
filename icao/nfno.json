@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5876",
+    "airport_name": "Koro Island Airport",
+    "city": "Koro Island",
+    "country": "Fiji",
+    "iata": "KXF",
+    "icao": "NFNO",
+    "latitude": -17.3458,
+    "longitude": 179.422,
+    "elevation": 358,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

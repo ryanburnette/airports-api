@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3461",
+    "airport_name": "Boone Co",
+    "city": "Harrison",
+    "country": "United States",
+    "iata": "HRO",
+    "icao": "KHRO",
+    "latitude": 36.261519,
+    "longitude": -93.154728,
+    "elevation": 1365,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

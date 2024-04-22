@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2651",
+    "airport_name": "Cerro Moreno Intl",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "iata": "ANF",
+    "icao": "SCFA",
+    "latitude": -23.444478,
+    "longitude": -70.4451,
+    "elevation": 455,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

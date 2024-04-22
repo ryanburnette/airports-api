@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8343",
+    "airport_name": "East Troy Municipal Airport",
+    "city": "East Troy",
+    "country": "United States",
+    "iata": "57C",
+    "icao": "K57C",
+    "latitude": 42.7971667,
+    "longitude": -88.3726111,
+    "elevation": 860,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

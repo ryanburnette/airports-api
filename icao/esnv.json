@@ -1,0 +1,14 @@
+{
+    "_csv_row": "729",
+    "airport_name": "Vilhelmina",
+    "city": "Vilhelmina",
+    "country": "Sweden",
+    "iata": "VHM",
+    "icao": "ESNV",
+    "latitude": 64.579083,
+    "longitude": 16.833575,
+    "elevation": 1140,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

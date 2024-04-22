@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3647",
+    "airport_name": "Pembina Muni",
+    "city": "Pembina",
+    "country": "United States",
+    "iata": "PMB",
+    "icao": "KPMB",
+    "latitude": 48.942501,
+    "longitude": -97.240833,
+    "elevation": 795,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

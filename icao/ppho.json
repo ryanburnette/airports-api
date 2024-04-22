@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6721",
+    "airport_name": "Point Hope Airport",
+    "city": "Point Hope",
+    "country": "United States",
+    "iata": "PHO",
+    "icao": "PPHO",
+    "latitude": 68.3488,
+    "longitude": -166.799,
+    "elevation": 12,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

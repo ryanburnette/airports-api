@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7115",
+    "airport_name": "Beaver Airport",
+    "city": "Beaver",
+    "country": "United States",
+    "iata": "WBQ",
+    "icao": "PAWB",
+    "latitude": 66.362222,
+    "longitude": -147.406667,
+    "elevation": 359,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

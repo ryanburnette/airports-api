@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3024",
+    "airport_name": "Bandaranaike Intl Colombo",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "iata": "CMB",
+    "icao": "VCBI",
+    "latitude": 7.180756,
+    "longitude": 79.884117,
+    "elevation": 30,
+    "utc_offset": 5.5,
+    "_class": "U",
+    "timezone": "Asia/Colombo"
+}

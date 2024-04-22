@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6899",
+    "airport_name": "Nowra Airport",
+    "city": "Nowra",
+    "country": "Australia",
+    "iata": "NOA",
+    "icao": "YSNW",
+    "latitude": -34.9489,
+    "longitude": 150.537,
+    "elevation": 400,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

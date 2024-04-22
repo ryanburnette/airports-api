@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1923",
+    "airport_name": "Juan Gualberto Gomez Intl",
+    "city": "Varadero",
+    "country": "Cuba",
+    "iata": "VRA",
+    "icao": "MUVR",
+    "latitude": 23.034445,
+    "longitude": -81.435278,
+    "elevation": 210,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

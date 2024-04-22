@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9464",
+    "airport_name": "Maplewood NJT Station",
+    "city": "Maplewood",
+    "country": "United States",
+    "iata": "",
+    "icao": "MPLD",
+    "latitude": 40.731111,
+    "longitude": -74.275556,
+    "elevation": 115,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

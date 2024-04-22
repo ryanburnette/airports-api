@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7083",
+    "airport_name": "Orcas Island Airport",
+    "city": "Eastsound",
+    "country": "United States",
+    "iata": "ESD",
+    "icao": "KORS",
+    "latitude": 48.708056,
+    "longitude": -122.910556,
+    "elevation": 31,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

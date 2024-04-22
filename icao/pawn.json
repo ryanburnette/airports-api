@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6725",
+    "airport_name": "Noatak Airport",
+    "city": "Noatak",
+    "country": "United States",
+    "iata": "WTK",
+    "icao": "PAWN",
+    "latitude": 67.5661,
+    "longitude": -162.975,
+    "elevation": 88,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

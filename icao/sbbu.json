@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2532",
+    "airport_name": "Bauru",
+    "city": "Bauru",
+    "country": "Brazil",
+    "iata": "BAU",
+    "icao": "SBBU",
+    "latitude": -22.345042,
+    "longitude": -49.0538,
+    "elevation": 2025,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

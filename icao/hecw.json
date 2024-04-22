@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1129",
+    "airport_name": "Cairo West",
+    "city": "Cairo",
+    "country": "Egypt",
+    "iata": "",
+    "icao": "HECW",
+    "latitude": 30.116362,
+    "longitude": 30.915445,
+    "elevation": 550,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

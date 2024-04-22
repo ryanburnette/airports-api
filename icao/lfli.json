@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1334",
+    "airport_name": "Annemasse",
+    "city": "Annemasse",
+    "country": "France",
+    "iata": "QNJ",
+    "icao": "LFLI",
+    "latitude": 46.191972,
+    "longitude": 6.268386,
+    "elevation": 1620,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

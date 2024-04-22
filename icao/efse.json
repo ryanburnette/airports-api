@@ -1,0 +1,14 @@
+{
+    "_csv_row": "456",
+    "airport_name": "Selanpaa",
+    "city": "Selanpaa",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFSE",
+    "latitude": 61.062389,
+    "longitude": 26.798861,
+    "elevation": 417,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

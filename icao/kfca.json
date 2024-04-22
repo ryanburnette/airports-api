@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4127",
+    "airport_name": "Glacier Park Intl",
+    "city": "Kalispell",
+    "country": "United States",
+    "iata": "FCA",
+    "icao": "KFCA",
+    "latitude": 48.310472,
+    "longitude": -114.256,
+    "elevation": 2977,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

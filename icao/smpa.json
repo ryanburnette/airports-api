@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7336",
+    "airport_name": "Vincent Fayks Airport",
+    "city": "Paloemeu",
+    "country": "Suriname",
+    "iata": "OEM",
+    "icao": "SMPA",
+    "latitude": 5.811111,
+    "longitude": -55.190833,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Paramaribo"
+}

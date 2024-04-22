@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5840",
+    "airport_name": "Jaqué Airport",
+    "city": "Jaqué",
+    "country": "Panama",
+    "iata": "JQE",
+    "icao": "MPJE",
+    "latitude": 7.51778,
+    "longitude": -78.1572,
+    "elevation": 29,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Panama"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1274",
+    "airport_name": "Pau Pyrenees",
+    "city": "Pau",
+    "country": "France",
+    "iata": "PUF",
+    "icao": "LFBP",
+    "latitude": 43.38,
+    "longitude": -0.418611,
+    "elevation": 616,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3518",
+    "airport_name": "Felker Aaf",
+    "city": "Fort Eustis",
+    "country": "United States",
+    "iata": "FAF",
+    "icao": "KFAF",
+    "latitude": 37.1325,
+    "longitude": -76.608841,
+    "elevation": 12,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

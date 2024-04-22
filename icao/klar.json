@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5746",
+    "airport_name": "Laramie Regional Airport",
+    "city": "Laramie",
+    "country": "United States",
+    "iata": "LAR",
+    "icao": "KLAR",
+    "latitude": 41.3121,
+    "longitude": -105.675,
+    "elevation": 7284,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

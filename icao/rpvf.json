@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6024",
+    "airport_name": "Catarman National Airport",
+    "city": "Catarman",
+    "country": "Philippines",
+    "iata": "CRM",
+    "icao": "RPVF",
+    "latitude": 12.502417,
+    "longitude": 124.635778,
+    "elevation": 6,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2545",
+    "airport_name": "Afonso Pena",
+    "city": "Curitiba",
+    "country": "Brazil",
+    "iata": "CWB",
+    "icao": "SBCT",
+    "latitude": -25.528475,
+    "longitude": -49.175775,
+    "elevation": 2988,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

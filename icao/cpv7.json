@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5471",
+    "airport_name": "Poplar Hill Airport",
+    "city": "Poplar Hill",
+    "country": "Canada",
+    "iata": "YHP",
+    "icao": "CPV7",
+    "latitude": 52.1133,
+    "longitude": -94.2556,
+    "elevation": 1095,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

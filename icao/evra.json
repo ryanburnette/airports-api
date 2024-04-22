@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3953",
+    "airport_name": "Riga Intl",
+    "city": "Riga",
+    "country": "Latvia",
+    "iata": "RIX",
+    "icao": "EVRA",
+    "latitude": 56.923611,
+    "longitude": 23.971111,
+    "elevation": 34,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Riga"
+}

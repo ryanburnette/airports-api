@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2286",
+    "airport_name": "Obihiro",
+    "city": "Obihiro",
+    "country": "Japan",
+    "iata": "OBO",
+    "icao": "RJCB",
+    "latitude": 42.733333,
+    "longitude": 143.217222,
+    "elevation": 505,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

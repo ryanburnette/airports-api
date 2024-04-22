@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8225",
+    "airport_name": "Arctic Bay Airport",
+    "city": "Arctic Bay",
+    "country": "Canada",
+    "iata": "YAB",
+    "icao": "CJX7",
+    "latitude": 73.006389,
+    "longitude": -85.047222,
+    "elevation": 72,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

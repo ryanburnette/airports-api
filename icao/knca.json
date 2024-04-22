@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3707",
+    "airport_name": "New River Mcas",
+    "city": "Jacksonville",
+    "country": "United States",
+    "iata": "",
+    "icao": "KNCA",
+    "latitude": 34.708417,
+    "longitude": -77.439667,
+    "elevation": 26,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

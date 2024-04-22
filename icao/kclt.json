@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3876",
+    "airport_name": "Charlotte Douglas Intl",
+    "city": "Charlotte",
+    "country": "United States",
+    "iata": "CLT",
+    "icao": "KCLT",
+    "latitude": 35.214,
+    "longitude": -80.943139,
+    "elevation": 748,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

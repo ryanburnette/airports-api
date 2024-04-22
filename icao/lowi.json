@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1610",
+    "airport_name": "Innsbruck",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "iata": "INN",
+    "icao": "LOWI",
+    "latitude": 47.260219,
+    "longitude": 11.343964,
+    "elevation": 1906,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Vienna"
+}

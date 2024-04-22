@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8877",
+    "airport_name": "Oakland Co. Intl",
+    "city": "Pontiac",
+    "country": "United States",
+    "iata": "PTK",
+    "icao": "KPTK",
+    "latitude": 42.667,
+    "longitude": -83.35,
+    "elevation": 980,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2813",
+    "airport_name": "Angel S Adami",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "iata": "",
+    "icao": "SUAA",
+    "latitude": -34.789208,
+    "longitude": -56.264703,
+    "elevation": 174,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Montevideo"
+}

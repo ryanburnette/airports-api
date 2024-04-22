@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2049",
+    "airport_name": "Jalalabad",
+    "city": "Jalalabad",
+    "country": "Afghanistan",
+    "iata": "JAA",
+    "icao": "OAJL",
+    "latitude": 34.399842,
+    "longitude": 70.498625,
+    "elevation": 1814,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4312",
+    "airport_name": "Copiapo",
+    "city": "Copiapo",
+    "country": "Chile",
+    "iata": "CPO",
+    "icao": "SCHA",
+    "latitude": -27,
+    "longitude": -70,
+    "elevation": 1000,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

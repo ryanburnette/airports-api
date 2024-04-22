@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3339",
+    "airport_name": "Melbourne Intl",
+    "city": "Melbourne",
+    "country": "Australia",
+    "iata": "MEL",
+    "icao": "YMML",
+    "latitude": -37.673333,
+    "longitude": 144.843333,
+    "elevation": 434,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

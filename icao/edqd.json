@@ -1,0 +1,14 @@
+{
+    "_csv_row": "386",
+    "airport_name": "Bayreuth",
+    "city": "Bayreuth",
+    "country": "Germany",
+    "iata": "BYU",
+    "icao": "EDQD",
+    "latitude": 49.984428,
+    "longitude": 11.638569,
+    "elevation": 1601,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

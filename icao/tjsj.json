@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2890",
+    "airport_name": "Luis Munoz Marin Intl",
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "iata": "SJU",
+    "icao": "TJSJ",
+    "latitude": 18.439417,
+    "longitude": -66.001833,
+    "elevation": 9,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Puerto_Rico"
+}

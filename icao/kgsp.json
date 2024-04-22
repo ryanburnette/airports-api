@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4034",
+    "airport_name": "Greenville-Spartanburg International",
+    "city": "Greenville",
+    "country": "United States",
+    "iata": "GSP",
+    "icao": "KGSP",
+    "latitude": 34.895556,
+    "longitude": -82.218889,
+    "elevation": 964,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

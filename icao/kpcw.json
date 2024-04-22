@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7775",
+    "airport_name": "Erie-Ottawa Regional Airport",
+    "city": "Port Clinton",
+    "country": "United States",
+    "iata": "PCW",
+    "icao": "KPCW",
+    "latitude": 41.5162703,
+    "longitude": -82.8694868,
+    "elevation": 590,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

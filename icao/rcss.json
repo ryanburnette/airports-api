@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2275",
+    "airport_name": "Sungshan",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "iata": "TSA",
+    "icao": "RCSS",
+    "latitude": 25.069722,
+    "longitude": 121.5525,
+    "elevation": 18,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Taipei"
+}

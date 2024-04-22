@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3439",
+    "airport_name": "Grants Milan Muni",
+    "city": "Grants",
+    "country": "United States",
+    "iata": "GNT",
+    "icao": "KGNT",
+    "latitude": 35.167286,
+    "longitude": -107.901989,
+    "elevation": 6537,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

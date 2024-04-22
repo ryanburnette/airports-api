@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8366",
+    "airport_name": "Lawrence Municipal",
+    "city": "Lawrence",
+    "country": "United States",
+    "iata": "LWC",
+    "icao": "KLWC",
+    "latitude": 39.009167,
+    "longitude": -95.2175,
+    "elevation": 833,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

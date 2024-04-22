@@ -1,0 +1,14 @@
+{
+    "_csv_row": "375",
+    "airport_name": "Biberach An Der Riss",
+    "city": "Biberach",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDMB",
+    "latitude": 48.111,
+    "longitude": 9.762833,
+    "elevation": 1903,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

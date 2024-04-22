@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2023",
+    "airport_name": "New Plymouth",
+    "city": "New Plymouth",
+    "country": "New Zealand",
+    "iata": "NPL",
+    "icao": "NZNP",
+    "latitude": -39.008611,
+    "longitude": 174.179167,
+    "elevation": 97,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

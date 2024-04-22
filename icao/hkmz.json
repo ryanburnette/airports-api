@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8760",
+    "airport_name": "Musiara Airstrip",
+    "city": "Musiara",
+    "country": "Kenya",
+    "iata": "",
+    "icao": "HKMZ",
+    "latitude": -1.29861,
+    "longitude": 35.063611,
+    "elevation": 5200,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Nairobi"
+}

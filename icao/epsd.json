@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6425",
+    "airport_name": "Szczecin-Dabie",
+    "city": "Szczecin",
+    "country": "Poland",
+    "iata": "",
+    "icao": "EPSD",
+    "latitude": 53.471138,
+    "longitude": 14.63775,
+    "elevation": 3,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

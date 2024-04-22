@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6307",
+    "airport_name": "Narrandera Airport",
+    "city": "Narrandera",
+    "country": "Australia",
+    "iata": "NRA",
+    "icao": "YNAR",
+    "latitude": -34.7022,
+    "longitude": 146.512,
+    "elevation": 474,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

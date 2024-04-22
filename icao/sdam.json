@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7125",
+    "airport_name": "Amarais Airport",
+    "city": "Campinas",
+    "country": "Brazil",
+    "iata": "CPQ",
+    "icao": "SDAM",
+    "latitude": -22.8592,
+    "longitude": -47.1082,
+    "elevation": 2008,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

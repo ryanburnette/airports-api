@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8825",
+    "airport_name": "Bamyan Airport",
+    "city": "Bamyan",
+    "country": "Afghanistan",
+    "iata": "BIN",
+    "icao": "OABN",
+    "latitude": 34.816667,
+    "longitude": 67.816667,
+    "elevation": 2550,
+    "utc_offset": 4.5,
+    "_class": "N",
+    "timezone": "Asia/Kabul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9095",
+    "airport_name": "Inverell",
+    "city": "Inverell",
+    "country": "Australia",
+    "iata": "IVR",
+    "icao": "YIVL",
+    "latitude": -29.888333,
+    "longitude": 151.144167,
+    "elevation": 2667,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

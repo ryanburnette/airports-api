@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1911",
+    "airport_name": "La Coloma",
+    "city": "La Coloma",
+    "country": "Cuba",
+    "iata": "LCL",
+    "icao": "MULM",
+    "latitude": 22.336261,
+    "longitude": -83.642111,
+    "elevation": 131,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

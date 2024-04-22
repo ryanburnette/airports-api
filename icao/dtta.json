@@ -1,0 +1,14 @@
+{
+    "_csv_row": "287",
+    "airport_name": "Carthage",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "iata": "TUN",
+    "icao": "DTTA",
+    "latitude": 36.851033,
+    "longitude": 10.227217,
+    "elevation": 22,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Africa/Tunis"
+}

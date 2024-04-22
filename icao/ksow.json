@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7078",
+    "airport_name": "Show Low Regional Airport",
+    "city": "Show Low",
+    "country": "United States",
+    "iata": "SOW",
+    "icao": "KSOW",
+    "latitude": 34.265556,
+    "longitude": -110.005556,
+    "elevation": 6415,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "129",
+    "airport_name": "Riviere Du Loup",
+    "city": "Riviere Du Loup",
+    "country": "Canada",
+    "iata": "YRI",
+    "icao": "CYRI",
+    "latitude": 47.764444,
+    "longitude": -69.584722,
+    "elevation": 427,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

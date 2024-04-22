@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8667",
+    "airport_name": "Keokuk Municipal Airport",
+    "city": "Keokuk",
+    "country": "United States",
+    "iata": "EOK",
+    "icao": "KEOK",
+    "latitude": 40.4599078,
+    "longitude": -91.4285011,
+    "elevation": 671,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

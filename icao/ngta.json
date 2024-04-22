@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1965",
+    "airport_name": "Bonriki Intl",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "iata": "TRW",
+    "icao": "NGTA",
+    "latitude": 1.381636,
+    "longitude": 173.147036,
+    "elevation": 9,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Tarawa"
+}

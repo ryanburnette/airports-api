@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3872",
+    "airport_name": "Natrona Co Intl",
+    "city": "Casper",
+    "country": "United States",
+    "iata": "CPR",
+    "icao": "KCPR",
+    "latitude": 42.908,
+    "longitude": -106.464417,
+    "elevation": 5347,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

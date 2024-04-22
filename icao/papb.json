@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3428",
+    "airport_name": "St George",
+    "city": "Point Barrow",
+    "country": "United States",
+    "iata": "PBV",
+    "icao": "PAPB",
+    "latitude": 56.578344,
+    "longitude": -169.661611,
+    "elevation": 125,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

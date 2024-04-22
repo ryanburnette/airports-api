@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7839",
+    "airport_name": "Lawrence J Timmerman Airport",
+    "city": "Milwaukee",
+    "country": "United States",
+    "iata": "MWC",
+    "icao": "KMWC",
+    "latitude": 43.1103889,
+    "longitude": -88.0344167,
+    "elevation": 745,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2400",
+    "airport_name": "Cagayan De Oro",
+    "city": "Ladag",
+    "country": "Philippines",
+    "iata": "CGY",
+    "icao": "RPML",
+    "latitude": 8.415619,
+    "longitude": 124.611219,
+    "elevation": 601,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

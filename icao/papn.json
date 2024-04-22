@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7158",
+    "airport_name": "Pilot Point Airport",
+    "city": "Pilot Point",
+    "country": "United States",
+    "iata": "PIP",
+    "icao": "PAPN",
+    "latitude": 57.585393,
+    "longitude": -157.571944,
+    "elevation": 57,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

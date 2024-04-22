@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5445",
+    "airport_name": "Narsaq Heliport",
+    "city": "Narsaq",
+    "country": "Greenland",
+    "iata": "JNS",
+    "icao": "BGNS",
+    "latitude": 60.9167,
+    "longitude": -46.0586,
+    "elevation": 0,
+    "utc_offset": -3,
+    "_class": "E",
+    "timezone": "America/Godthab"
+}

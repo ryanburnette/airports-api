@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8520",
+    "airport_name": "Richmond County Airport",
+    "city": "Rockingham",
+    "country": "United States",
+    "iata": "RCZ",
+    "icao": "KRCZ",
+    "latitude": 34.8913056,
+    "longitude": -79.7596111,
+    "elevation": 358,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

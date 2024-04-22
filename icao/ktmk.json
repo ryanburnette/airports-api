@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8140",
+    "airport_name": "Tillamook Airport",
+    "city": "Tillamook",
+    "country": "United States",
+    "iata": "",
+    "icao": "KTMK",
+    "latitude": 45.4182419,
+    "longitude": -123.8143839,
+    "elevation": 36,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

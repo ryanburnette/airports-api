@@ -1,0 +1,14 @@
+{
+    "_csv_row": "582",
+    "airport_name": "Maastricht",
+    "city": "Maastricht",
+    "country": "Netherlands",
+    "iata": "MST",
+    "icao": "EHBK",
+    "latitude": 50.911658,
+    "longitude": 5.770144,
+    "elevation": 375,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

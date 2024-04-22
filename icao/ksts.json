@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6992",
+    "airport_name": "Charles M Schulz Sonoma Co",
+    "city": "Santa Rosa",
+    "country": "United States",
+    "iata": "STS",
+    "icao": "KSTS",
+    "latitude": 38.508978,
+    "longitude": -122.81288,
+    "elevation": 125,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5692",
+    "airport_name": "Amboseli Airport",
+    "city": "Amboseli National Park",
+    "country": "Kenya",
+    "iata": "ASV",
+    "icao": "HKAM",
+    "latitude": -2.64505,
+    "longitude": 37.2531,
+    "elevation": 3755,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Nairobi"
+}

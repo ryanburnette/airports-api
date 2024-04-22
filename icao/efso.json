@@ -1,0 +1,14 @@
+{
+    "_csv_row": "457",
+    "airport_name": "Sodankyla",
+    "city": "Sodankyla",
+    "country": "Finland",
+    "iata": "SOT",
+    "icao": "EFSO",
+    "latitude": 67.395033,
+    "longitude": 26.619133,
+    "elevation": 602,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "403",
+    "airport_name": "Emden",
+    "city": "Emden",
+    "country": "Germany",
+    "iata": "EME",
+    "icao": "EDWE",
+    "latitude": 53.391186,
+    "longitude": 7.227408,
+    "elevation": 2,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5497",
+    "airport_name": "Gillam Airport",
+    "city": "Gillam",
+    "country": "Canada",
+    "iata": "YGX",
+    "icao": "CYGX",
+    "latitude": 56.3575,
+    "longitude": -94.7106,
+    "elevation": 476,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

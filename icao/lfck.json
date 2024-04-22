@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1285",
+    "airport_name": "Mazamet",
+    "city": "Castres",
+    "country": "France",
+    "iata": "DCM",
+    "icao": "LFCK",
+    "latitude": 43.55625,
+    "longitude": 2.289183,
+    "elevation": 788,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

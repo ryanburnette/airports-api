@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2029",
+    "airport_name": "Paraparaumu",
+    "city": "Paraparaumu",
+    "country": "New Zealand",
+    "iata": "PPQ",
+    "icao": "NZPP",
+    "latitude": -40.904722,
+    "longitude": 174.989167,
+    "elevation": 22,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

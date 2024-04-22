@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5654",
+    "airport_name": "Ilebo Airport",
+    "city": "Ilebo",
+    "country": "Congo (Kinshasa)",
+    "iata": "PFR",
+    "icao": "FZVS",
+    "latitude": -4.333,
+    "longitude": 20.583,
+    "elevation": 1450,
+    "utc_offset": 2,
+    "_class": "N",
+    "timezone": "Africa/Lubumbashi"
+}

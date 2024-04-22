@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3744",
+    "airport_name": "Corpus Christi Intl",
+    "city": "Corpus Christi",
+    "country": "United States",
+    "iata": "CRP",
+    "icao": "KCRP",
+    "latitude": 27.770361,
+    "longitude": -97.501222,
+    "elevation": 44,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

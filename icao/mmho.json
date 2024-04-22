@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1807",
+    "airport_name": "General Ignacio P Garcia Intl",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "iata": "HMO",
+    "icao": "MMHO",
+    "latitude": 29.095858,
+    "longitude": -111.047858,
+    "elevation": 627,
+    "utc_offset": -7,
+    "_class": "S",
+    "timezone": "America/Hermosillo"
+}

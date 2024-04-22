@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1108",
+    "airport_name": "Lideta",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "iata": "",
+    "icao": "HAAL",
+    "latitude": 9.003681,
+    "longitude": 38.726019,
+    "elevation": 7749,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

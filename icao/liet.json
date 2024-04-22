@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1521",
+    "airport_name": "Tortoli",
+    "city": "Tortoli",
+    "country": "Italy",
+    "iata": "TTB",
+    "icao": "LIET",
+    "latitude": 39.918761,
+    "longitude": 9.682981,
+    "elevation": 23,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

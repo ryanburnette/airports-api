@@ -1,0 +1,14 @@
+{
+    "_csv_row": "647",
+    "airport_name": "Kvernberget",
+    "city": "Kristiansund",
+    "country": "Norway",
+    "iata": "KSU",
+    "icao": "ENKB",
+    "latitude": 63.111781,
+    "longitude": 7.824522,
+    "elevation": 204,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

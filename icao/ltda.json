@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7453",
+    "airport_name": "Hatay Airport",
+    "city": "Hatay",
+    "country": "Turkey",
+    "iata": "HTY",
+    "icao": "LTDA",
+    "latitude": 36.362778,
+    "longitude": 36.282222,
+    "elevation": 25,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Europe/Istanbul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2618",
+    "airport_name": "Congonhas",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "iata": "CGH",
+    "icao": "SBSP",
+    "latitude": -23.626692,
+    "longitude": -46.655375,
+    "elevation": 2631,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

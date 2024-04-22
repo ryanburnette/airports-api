@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9096",
+    "airport_name": "Glen Innes",
+    "city": "Glen Innes",
+    "country": "Australia",
+    "iata": "GLI",
+    "icao": "YGLI",
+    "latitude": -29.675,
+    "longitude": 151.69,
+    "elevation": 3433,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

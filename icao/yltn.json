@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6291",
+    "airport_name": "Laverton Airport",
+    "city": "Laverton",
+    "country": "Australia",
+    "iata": "LVO",
+    "icao": "YLTN",
+    "latitude": -28.6136,
+    "longitude": 122.424,
+    "elevation": 1530,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2014",
+    "airport_name": "Hokitika",
+    "city": "Hokitika",
+    "country": "New Zealand",
+    "iata": "HKK",
+    "icao": "NZHK",
+    "latitude": -42.713611,
+    "longitude": 170.985278,
+    "elevation": 146,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

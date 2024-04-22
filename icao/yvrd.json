@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6331",
+    "airport_name": "Victoria River Downs Airport",
+    "city": "Victoria River Downs",
+    "country": "Australia",
+    "iata": "VCD",
+    "icao": "YVRD",
+    "latitude": -16.4033,
+    "longitude": 131.002,
+    "elevation": 89,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

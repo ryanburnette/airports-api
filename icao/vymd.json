@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3222",
+    "airport_name": "Mandalay Intl",
+    "city": "Mandalay",
+    "country": "Burma",
+    "iata": "MDL",
+    "icao": "VYMD",
+    "latitude": 21.702156,
+    "longitude": 95.977928,
+    "elevation": 300,
+    "utc_offset": 6.5,
+    "_class": "U",
+    "timezone": "Asia/Rangoon"
+}

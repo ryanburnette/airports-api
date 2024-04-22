@@ -1,0 +1,14 @@
+{
+    "_csv_row": "591",
+    "airport_name": "Rotterdam",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "iata": "RTM",
+    "icao": "EHRD",
+    "latitude": 51.956944,
+    "longitude": 4.437222,
+    "elevation": -15,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

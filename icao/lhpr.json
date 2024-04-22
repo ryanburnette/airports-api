@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5789",
+    "airport_name": "Győr-Pér International Airport",
+    "city": "Győr",
+    "country": "Hungary",
+    "iata": "QGY",
+    "icao": "LHPR",
+    "latitude": 47.627097,
+    "longitude": 17.808347,
+    "elevation": 424,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Europe/Budapest"
+}

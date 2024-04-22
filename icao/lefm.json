@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8690",
+    "airport_name": "Fuentemilanos Airport",
+    "city": "Segovia",
+    "country": "Spain",
+    "iata": "",
+    "icao": "LEFM",
+    "latitude": 40.889233,
+    "longitude": -4.239478,
+    "elevation": 3284,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

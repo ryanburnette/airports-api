@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7848",
+    "airport_name": "Bowling Green-Warren County Regional Airport",
+    "city": "Bowling Green",
+    "country": "United States",
+    "iata": "BWG",
+    "icao": "KBWG",
+    "latitude": 36.9645278,
+    "longitude": -86.4196667,
+    "elevation": 547,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

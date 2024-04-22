@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6298",
+    "airport_name": "Mildura Airport",
+    "city": "Mildura",
+    "country": "Australia",
+    "iata": "MQL",
+    "icao": "YMIA",
+    "latitude": -34.2292,
+    "longitude": 142.086,
+    "elevation": 167,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

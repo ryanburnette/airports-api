@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2490",
+    "airport_name": "Almirante Zar",
+    "city": "Trelew",
+    "country": "Argentina",
+    "iata": "REL",
+    "icao": "SAVT",
+    "latitude": -43.2105,
+    "longitude": -65.270319,
+    "elevation": 141,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

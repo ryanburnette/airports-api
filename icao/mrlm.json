@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1883",
+    "airport_name": "Limon Intl",
+    "city": "Limon",
+    "country": "Costa Rica",
+    "iata": "LIO",
+    "icao": "MRLM",
+    "latitude": 9.957961,
+    "longitude": -83.022006,
+    "elevation": 7,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Costa_Rica"
+}

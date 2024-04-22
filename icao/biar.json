@@ -1,0 +1,14 @@
+{
+    "_csv_row": "11",
+    "airport_name": "Akureyri",
+    "city": "Akureyri",
+    "country": "Iceland",
+    "iata": "AEY",
+    "icao": "BIAR",
+    "latitude": 65.659994,
+    "longitude": -18.072703,
+    "elevation": 6,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

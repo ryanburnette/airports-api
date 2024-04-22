@@ -1,0 +1,14 @@
+{
+    "_csv_row": "555",
+    "airport_name": "Benson",
+    "city": "Benson",
+    "country": "United Kingdom",
+    "iata": "",
+    "icao": "EGUB",
+    "latitude": 51.616389,
+    "longitude": -1.095833,
+    "elevation": 226,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "917",
+    "airport_name": "St Pierre Pierrefonds",
+    "city": "St.-pierre",
+    "country": "Reunion",
+    "iata": "ZSE",
+    "icao": "FMEP",
+    "latitude": -21.320039,
+    "longitude": 55.423581,
+    "elevation": 56,
+    "utc_offset": 4,
+    "_class": "U",
+    "timezone": "Indian/Reunion"
+}

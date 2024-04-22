@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4169",
+    "airport_name": "John Murtha Johnstown-Cambria County Airport",
+    "city": "Johnstown",
+    "country": "United States",
+    "iata": "JST",
+    "icao": "KJST",
+    "latitude": 40.316111,
+    "longitude": -78.833889,
+    "elevation": 2284,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

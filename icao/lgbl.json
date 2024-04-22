@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1448",
+    "airport_name": "Nea Anchialos",
+    "city": "Nea Anghialos",
+    "country": "Greece",
+    "iata": "VOL",
+    "icao": "LGBL",
+    "latitude": 39.219619,
+    "longitude": 22.794339,
+    "elevation": 83,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

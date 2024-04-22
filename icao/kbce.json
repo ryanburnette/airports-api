@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7857",
+    "airport_name": "Bryce Canyon",
+    "city": "Bryce Canyon",
+    "country": "United States",
+    "iata": "BCE",
+    "icao": "KBCE",
+    "latitude": 37.706444,
+    "longitude": -112.145806,
+    "elevation": 7590,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

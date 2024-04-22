@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9232",
+    "airport_name": "Neumuenster",
+    "city": "Neumuenster",
+    "country": "Germany",
+    "iata": "EUM",
+    "icao": "EDHN",
+    "latitude": 54.079069,
+    "longitude": 9.941719,
+    "elevation": 69,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

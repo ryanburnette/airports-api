@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2642",
+    "airport_name": "Balmaceda",
+    "city": "Balmaceda",
+    "country": "Chile",
+    "iata": "BBA",
+    "icao": "SCBA",
+    "latitude": -45.916058,
+    "longitude": -71.689475,
+    "elevation": 1722,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

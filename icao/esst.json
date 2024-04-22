@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5596",
+    "airport_name": "Torsby Airport",
+    "city": "Torsby",
+    "country": "Sweden",
+    "iata": "TYF",
+    "icao": "ESST",
+    "latitude": 60.157622,
+    "longitude": 12.991269,
+    "elevation": 393,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

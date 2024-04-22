@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5443",
+    "airport_name": "Maniitsoq Airport",
+    "city": "Maniitsoq",
+    "country": "Greenland",
+    "iata": "JSU",
+    "icao": "BGMQ",
+    "latitude": 65.4125,
+    "longitude": -52.9394,
+    "elevation": 91,
+    "utc_offset": -3,
+    "_class": "E",
+    "timezone": "America/Godthab"
+}

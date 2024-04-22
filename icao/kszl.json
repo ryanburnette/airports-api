@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3586",
+    "airport_name": "Whiteman Afb",
+    "city": "Knobnoster",
+    "country": "United States",
+    "iata": "SZL",
+    "icao": "KSZL",
+    "latitude": 38.730306,
+    "longitude": -93.547864,
+    "elevation": 870,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

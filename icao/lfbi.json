@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1268",
+    "airport_name": "Biard",
+    "city": "Poitiers",
+    "country": "France",
+    "iata": "PIS",
+    "icao": "LFBI",
+    "latitude": 46.587745,
+    "longitude": 0.306666,
+    "elevation": 423,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

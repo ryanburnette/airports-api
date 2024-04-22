@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5730",
+    "airport_name": "Harrison Marion Regional Airport",
+    "city": "Clarksburg",
+    "country": "United States",
+    "iata": "CKB",
+    "icao": "KCKB",
+    "latitude": 39.2966,
+    "longitude": -80.2281,
+    "elevation": 1217,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

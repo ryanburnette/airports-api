@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4087",
+    "airport_name": "Rapid City Regional Airport",
+    "city": "Rapid City",
+    "country": "United States",
+    "iata": "RAP",
+    "icao": "KRAP",
+    "latitude": 44.045278,
+    "longitude": -103.057222,
+    "elevation": 3204,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3446",
+    "airport_name": "Ernest A Love Fld",
+    "city": "Prescott",
+    "country": "United States",
+    "iata": "PRC",
+    "icao": "KPRC",
+    "latitude": 34.654472,
+    "longitude": -112.419583,
+    "elevation": 5045,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Phoenix"
+}

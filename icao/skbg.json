@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2708",
+    "airport_name": "Palonegro",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "iata": "BGA",
+    "icao": "SKBG",
+    "latitude": 7.1265,
+    "longitude": -73.184778,
+    "elevation": 3897,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

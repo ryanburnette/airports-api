@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2314",
+    "airport_name": "Kanoya",
+    "city": "Kanoya",
+    "country": "Japan",
+    "iata": "",
+    "icao": "RJFY",
+    "latitude": 31.367608,
+    "longitude": 130.845456,
+    "elevation": 214,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

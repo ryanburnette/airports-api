@@ -1,0 +1,14 @@
+{
+    "_csv_row": "175",
+    "airport_name": "Abbotsford",
+    "city": "Abbotsford",
+    "country": "Canada",
+    "iata": "YXX",
+    "icao": "CYXX",
+    "latitude": 49.025278,
+    "longitude": -122.360556,
+    "elevation": 195,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

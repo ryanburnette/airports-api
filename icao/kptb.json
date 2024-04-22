@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9120",
+    "airport_name": "Dinwiddie County Airport",
+    "city": "Petersburg",
+    "country": "United States",
+    "iata": "PTB",
+    "icao": "KPTB",
+    "latitude": 37.18375,
+    "longitude": -77.507388,
+    "elevation": 193,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

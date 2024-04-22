@@ -1,0 +1,14 @@
+{
+    "_csv_row": "111",
+    "airport_name": "Quebec Jean Lesage Intl",
+    "city": "Quebec",
+    "country": "Canada",
+    "iata": "YQB",
+    "icao": "CYQB",
+    "latitude": 46.791111,
+    "longitude": -71.393333,
+    "elevation": 244,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

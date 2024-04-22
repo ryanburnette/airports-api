@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4073",
+    "airport_name": "Panama City Bay Co Intl",
+    "city": "Panama City",
+    "country": "United States",
+    "iata": "PFN",
+    "icao": "KPFN",
+    "latitude": 30.212083,
+    "longitude": -85.682806,
+    "elevation": 20,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

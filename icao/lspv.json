@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7660",
+    "airport_name": "Wangen-Lachen",
+    "city": "Wangen-Lachen",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSPV",
+    "latitude": 47.204805,
+    "longitude": 8.866834,
+    "elevation": 1335,
+    "utc_offset": 1,
+    "_class": "U",
+    "timezone": "Europe/Zurich"
+}

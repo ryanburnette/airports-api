@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3473",
+    "airport_name": "Memphis Intl",
+    "city": "Memphis",
+    "country": "United States",
+    "iata": "MEM",
+    "icao": "KMEM",
+    "latitude": 35.042417,
+    "longitude": -89.976667,
+    "elevation": 341,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

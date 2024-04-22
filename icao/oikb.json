@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2134",
+    "airport_name": "Bandar Abbass Intl",
+    "city": "Bandar Abbas",
+    "country": "Iran",
+    "iata": "BND",
+    "icao": "OIKB",
+    "latitude": 27.218317,
+    "longitude": 56.37785,
+    "elevation": 22,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

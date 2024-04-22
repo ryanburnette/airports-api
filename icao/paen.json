@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3628",
+    "airport_name": "Kenai Muni",
+    "city": "Kenai",
+    "country": "United States",
+    "iata": "ENA",
+    "icao": "PAEN",
+    "latitude": 60.573111,
+    "longitude": -151.245,
+    "elevation": 99,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

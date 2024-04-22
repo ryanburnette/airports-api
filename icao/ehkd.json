@@ -1,0 +1,14 @@
+{
+    "_csv_row": "588",
+    "airport_name": "De Kooy",
+    "city": "De Kooy",
+    "country": "Netherlands",
+    "iata": "DHR",
+    "icao": "EHKD",
+    "latitude": 52.923353,
+    "longitude": 4.780625,
+    "elevation": 3,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

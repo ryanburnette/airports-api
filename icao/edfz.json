@@ -1,0 +1,14 @@
+{
+    "_csv_row": "359",
+    "airport_name": "Mainz Finthen",
+    "city": "Mainz",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDFZ",
+    "latitude": 49.968931,
+    "longitude": 8.148336,
+    "elevation": 760,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

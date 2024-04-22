@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7446",
+    "airport_name": "Wadi Halfa Airport",
+    "city": "Wadi Halfa",
+    "country": "Sudan",
+    "iata": "WHF",
+    "icao": "HSSW",
+    "latitude": 21.800278,
+    "longitude": 31.516389,
+    "elevation": 1500,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Khartoum"
+}

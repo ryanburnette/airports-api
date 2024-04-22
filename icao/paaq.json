@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3569",
+    "airport_name": "Palmer Muni",
+    "city": "Palmer",
+    "country": "United States",
+    "iata": "PAQ",
+    "icao": "PAAQ",
+    "latitude": 61.594914,
+    "longitude": -149.088711,
+    "elevation": 242,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2599",
+    "airport_name": "Salgado Filho",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "iata": "POA",
+    "icao": "SBPA",
+    "latitude": -29.994428,
+    "longitude": -51.171428,
+    "elevation": 11,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

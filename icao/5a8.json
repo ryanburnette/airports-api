@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6126",
+    "airport_name": "Aleknagik Airport",
+    "city": "Aleknagik",
+    "country": "United States",
+    "iata": "WKK",
+    "icao": "5A8",
+    "latitude": 59.2826,
+    "longitude": -158.618,
+    "elevation": 66,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

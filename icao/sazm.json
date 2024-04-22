@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2508",
+    "airport_name": "Mar Del Plata",
+    "city": "Mar Del Plata",
+    "country": "Argentina",
+    "iata": "MDQ",
+    "icao": "SAZM",
+    "latitude": -37.934167,
+    "longitude": -57.573333,
+    "elevation": 71,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9001",
+    "airport_name": "Ivanhoe",
+    "city": "Ivanhoe",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YIVO",
+    "latitude": -32.883301,
+    "longitude": 144.309998,
+    "elevation": 331,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

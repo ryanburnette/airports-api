@@ -1,0 +1,14 @@
+{
+    "_csv_row": "447",
+    "airport_name": "Piikajarvi",
+    "city": "Piikajarvi",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFPI",
+    "latitude": 61.245558,
+    "longitude": 22.193356,
+    "elevation": 148,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

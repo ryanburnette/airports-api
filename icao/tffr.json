@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2881",
+    "airport_name": "Le Raizet",
+    "city": "Pointe-a-pitre",
+    "country": "Guadeloupe",
+    "iata": "PTP",
+    "icao": "TFFR",
+    "latitude": 16.265306,
+    "longitude": -61.531806,
+    "elevation": 36,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Guadeloupe"
+}

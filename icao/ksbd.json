@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7670",
+    "airport_name": "San Bernardino International Airport",
+    "city": "San Bernardino",
+    "country": "United States",
+    "iata": "SBD",
+    "icao": "KSBD",
+    "latitude": 34.0953521,
+    "longitude": -117.2348722,
+    "elevation": 1159,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

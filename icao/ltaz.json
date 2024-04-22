@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3987",
+    "airport_name": "Kapadokya",
+    "city": "Nevsehir",
+    "country": "Turkey",
+    "iata": "NAV",
+    "icao": "LTAZ",
+    "latitude": 38.771867,
+    "longitude": 34.53455,
+    "elevation": 3100,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

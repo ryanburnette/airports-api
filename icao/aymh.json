@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3",
+    "airport_name": "Mount Hagen",
+    "city": "Mount Hagen",
+    "country": "Papua New Guinea",
+    "iata": "HGU",
+    "icao": "AYMH",
+    "latitude": -5.826789,
+    "longitude": 144.295861,
+    "elevation": 5388,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

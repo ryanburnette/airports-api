@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3825",
+    "airport_name": "Bradley Intl",
+    "city": "Windsor Locks",
+    "country": "United States",
+    "iata": "BDL",
+    "icao": "KBDL",
+    "latitude": 41.938889,
+    "longitude": -72.683222,
+    "elevation": 173,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

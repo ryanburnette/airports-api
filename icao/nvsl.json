@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5901",
+    "airport_name": "Lamap Airport",
+    "city": "Lamap",
+    "country": "Vanuatu",
+    "iata": "LPM",
+    "icao": "NVSL",
+    "latitude": -16.454,
+    "longitude": 167.823,
+    "elevation": 7,
+    "utc_offset": 11,
+    "_class": "U",
+    "timezone": "Pacific/Efate"
+}

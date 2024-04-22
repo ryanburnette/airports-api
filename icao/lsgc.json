@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1664",
+    "airport_name": "Les Eplatures",
+    "city": "Les Eplatures",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSGC",
+    "latitude": 47.08385,
+    "longitude": 6.792836,
+    "elevation": 3368,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

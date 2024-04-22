@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3506",
+    "airport_name": "Luke Afb",
+    "city": "Phoenix",
+    "country": "United States",
+    "iata": "LUF",
+    "icao": "KLUF",
+    "latitude": 33.535,
+    "longitude": -112.38306,
+    "elevation": 1085,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Phoenix"
+}

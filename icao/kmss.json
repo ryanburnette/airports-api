@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3546",
+    "airport_name": "Massena Intl Richards Fld",
+    "city": "Massena",
+    "country": "United States",
+    "iata": "MSS",
+    "icao": "KMSS",
+    "latitude": 44.935833,
+    "longitude": -74.845547,
+    "elevation": 215,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

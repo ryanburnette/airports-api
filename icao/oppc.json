@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5948",
+    "airport_name": "Parachinar Airport",
+    "city": "Parachinar",
+    "country": "Pakistan",
+    "iata": "PAJ",
+    "icao": "OPPC",
+    "latitude": 33.9021,
+    "longitude": 70.0716,
+    "elevation": 5800,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

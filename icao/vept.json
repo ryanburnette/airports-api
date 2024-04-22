@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3061",
+    "airport_name": "Patna",
+    "city": "Patina",
+    "country": "India",
+    "iata": "PAT",
+    "icao": "VEPT",
+    "latitude": 25.591317,
+    "longitude": 85.087992,
+    "elevation": 170,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

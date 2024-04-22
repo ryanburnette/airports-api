@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3653",
+    "airport_name": "Austin Straubel Intl",
+    "city": "Green Bay",
+    "country": "United States",
+    "iata": "GRB",
+    "icao": "KGRB",
+    "latitude": 44.485072,
+    "longitude": -88.129589,
+    "elevation": 695,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

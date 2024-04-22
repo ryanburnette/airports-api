@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7717",
+    "airport_name": "Mission Field Airport",
+    "city": "Livingston-Montana",
+    "country": "United States",
+    "iata": "LVM",
+    "icao": "KLVM",
+    "latitude": 45.6993889,
+    "longitude": -110.4483056,
+    "elevation": 4660,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

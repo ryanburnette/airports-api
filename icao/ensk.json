@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4252",
+    "airport_name": "Skagen",
+    "city": "Stokmarknes",
+    "country": "Norway",
+    "iata": "SKN",
+    "icao": "ENSK",
+    "latitude": 68.580833,
+    "longitude": 15.026111,
+    "elevation": 11,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

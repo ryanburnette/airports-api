@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7053",
+    "airport_name": "Zamperini Field Airport",
+    "city": "Torrance",
+    "country": "United States",
+    "iata": "TOA",
+    "icao": "KTOA",
+    "latitude": 33.803392,
+    "longitude": -118.339611,
+    "elevation": 101,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7569",
+    "airport_name": "Derby Airport",
+    "city": "Derby",
+    "country": "Australia",
+    "iata": "DRB",
+    "icao": "YDBY",
+    "latitude": -17.39,
+    "longitude": 123.68,
+    "elevation": 26,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Australia/Perth"
+}

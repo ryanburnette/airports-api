@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2461",
+    "airport_name": "San Juan",
+    "city": "San Julian",
+    "country": "Argentina",
+    "iata": "UAQ",
+    "icao": "SANU",
+    "latitude": -31.571472,
+    "longitude": -68.418194,
+    "elevation": 1959,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

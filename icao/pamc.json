@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5965",
+    "airport_name": "McGrath Airport",
+    "city": "Mcgrath",
+    "country": "United States",
+    "iata": "MCG",
+    "icao": "PAMC",
+    "latitude": 62.9529,
+    "longitude": -155.606,
+    "elevation": 338,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

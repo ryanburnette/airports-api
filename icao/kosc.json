@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3432",
+    "airport_name": "Oscoda Wurtsmith",
+    "city": "Oscoda",
+    "country": "United States",
+    "iata": "OSC",
+    "icao": "KOSC",
+    "latitude": 44.451558,
+    "longitude": -83.394053,
+    "elevation": 634,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3651",
+    "airport_name": "Angelina Co",
+    "city": "Lufkin",
+    "country": "United States",
+    "iata": "LFK",
+    "icao": "KLFK",
+    "latitude": 31.234014,
+    "longitude": -94.75,
+    "elevation": 296,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

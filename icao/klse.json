@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4044",
+    "airport_name": "La Crosse Municipal",
+    "city": "La Crosse",
+    "country": "United States",
+    "iata": "LSE",
+    "icao": "KLSE",
+    "latitude": 43.878986,
+    "longitude": -91.256711,
+    "elevation": 654,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

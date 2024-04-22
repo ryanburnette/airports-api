@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4129",
+    "airport_name": "Greater Binghamton Edwin A Link Fld",
+    "city": "Binghamton",
+    "country": "United States",
+    "iata": "BGM",
+    "icao": "KBGM",
+    "latitude": 42.208689,
+    "longitude": -75.979839,
+    "elevation": 1636,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

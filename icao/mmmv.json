@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1823",
+    "airport_name": "Monclova Intl",
+    "city": "Monclova",
+    "country": "Mexico",
+    "iata": "LOV",
+    "icao": "MMMV",
+    "latitude": 26.955733,
+    "longitude": -101.470136,
+    "elevation": 1864,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

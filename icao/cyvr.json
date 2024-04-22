@@ -1,0 +1,14 @@
+{
+    "_csv_row": "156",
+    "airport_name": "Vancouver Intl",
+    "city": "Vancouver",
+    "country": "Canada",
+    "iata": "YVR",
+    "icao": "CYVR",
+    "latitude": 49.193889,
+    "longitude": -123.184444,
+    "elevation": 14,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

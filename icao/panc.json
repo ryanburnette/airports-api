@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3774",
+    "airport_name": "Ted Stevens Anchorage Intl",
+    "city": "Anchorage",
+    "country": "United States",
+    "iata": "ANC",
+    "icao": "PANC",
+    "latitude": 61.174361,
+    "longitude": -149.996361,
+    "elevation": 152,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

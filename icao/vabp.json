@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3002",
+    "airport_name": "Bhopal",
+    "city": "Bhopal",
+    "country": "India",
+    "iata": "BHO",
+    "icao": "VABP",
+    "latitude": 23.287467,
+    "longitude": 77.337375,
+    "elevation": 1719,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

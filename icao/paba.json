@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3411",
+    "airport_name": "Barter Island Lrrs",
+    "city": "Barter Island",
+    "country": "United States",
+    "iata": "BTI",
+    "icao": "PABA",
+    "latitude": 70.133989,
+    "longitude": -143.581867,
+    "elevation": 2,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

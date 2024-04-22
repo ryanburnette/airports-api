@@ -1,0 +1,14 @@
+{
+    "_csv_row": "335",
+    "airport_name": "Cottbus Drewitz",
+    "city": "Cottbus",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDCD",
+    "latitude": 51.889475,
+    "longitude": 14.531986,
+    "elevation": 274,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3462",
+    "airport_name": "Phoenix Sky Harbor Intl",
+    "city": "Phoenix",
+    "country": "United States",
+    "iata": "PHX",
+    "icao": "KPHX",
+    "latitude": 33.434278,
+    "longitude": -112.011583,
+    "elevation": 1135,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

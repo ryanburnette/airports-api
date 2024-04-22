@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3604",
+    "airport_name": "Havre City Co",
+    "city": "Havre",
+    "country": "United States",
+    "iata": "HVR",
+    "icao": "KHVR",
+    "latitude": 48.542983,
+    "longitude": -109.762342,
+    "elevation": 2590,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

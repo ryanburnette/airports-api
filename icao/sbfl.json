@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2555",
+    "airport_name": "Hercilio Luz",
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "iata": "FLN",
+    "icao": "SBFL",
+    "latitude": -27.670489,
+    "longitude": -48.547181,
+    "elevation": 20,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "708",
+    "airport_name": "Sturup",
+    "city": "Malmoe",
+    "country": "Sweden",
+    "iata": "MMX",
+    "icao": "ESMS",
+    "latitude": 55.530193,
+    "longitude": 13.371639,
+    "elevation": 236,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

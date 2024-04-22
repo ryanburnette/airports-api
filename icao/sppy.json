@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2800",
+    "airport_name": "Chachapoyas",
+    "city": "Chachapoyas",
+    "country": "Peru",
+    "iata": "CHH",
+    "icao": "SPPY",
+    "latitude": -6.201806,
+    "longitude": -77.856064,
+    "elevation": 8333,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Lima"
+}

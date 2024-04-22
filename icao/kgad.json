@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8295",
+    "airport_name": "Northeast Alabama Regional Airport",
+    "city": "Gadsden",
+    "country": "United States",
+    "iata": "GAD",
+    "icao": "KGAD",
+    "latitude": 33.9726489,
+    "longitude": -86.0890834,
+    "elevation": 569,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

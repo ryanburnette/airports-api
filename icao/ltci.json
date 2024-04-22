@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1728",
+    "airport_name": "Van",
+    "city": "Van",
+    "country": "Turkey",
+    "iata": "VAN",
+    "icao": "LTCI",
+    "latitude": 38.468219,
+    "longitude": 43.3323,
+    "elevation": 5480,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

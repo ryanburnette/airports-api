@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7160",
+    "airport_name": "Akhiok Airport",
+    "city": "Akhiok",
+    "country": "United States",
+    "iata": "AKK",
+    "icao": "PAKH",
+    "latitude": 56.938611,
+    "longitude": -154.1825,
+    "elevation": 44,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

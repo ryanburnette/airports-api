@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5527",
+    "airport_name": "Red Lake Airport",
+    "city": "Red Lake",
+    "country": "Canada",
+    "iata": "YRL",
+    "icao": "CYRL",
+    "latitude": 51.0669,
+    "longitude": -93.7931,
+    "elevation": 1265,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

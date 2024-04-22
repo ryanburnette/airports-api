@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8621",
+    "airport_name": "Bergstrasse Airport",
+    "city": "Weinheim",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDGZ",
+    "latitude": 49.567222,
+    "longitude": 8.611389,
+    "elevation": 319,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1989",
+    "airport_name": "Bora Bora",
+    "city": "Bora Bora",
+    "country": "French Polynesia",
+    "iata": "BOB",
+    "icao": "NTTB",
+    "latitude": -16.444378,
+    "longitude": -151.751286,
+    "elevation": 10,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

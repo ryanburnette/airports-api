@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2930",
+    "airport_name": "Sokol",
+    "city": "Magadan",
+    "country": "Russia",
+    "iata": "GDX",
+    "icao": "UHMM",
+    "latitude": 59.910989,
+    "longitude": 150.720439,
+    "elevation": 574,
+    "utc_offset": 12,
+    "_class": "N",
+    "timezone": "Asia/Magadan"
+}

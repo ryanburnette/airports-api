@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6001",
+    "airport_name": "Shonai Airport",
+    "city": "Shonai",
+    "country": "Japan",
+    "iata": "SYO",
+    "icao": "RJSY",
+    "latitude": 38.812222,
+    "longitude": 139.787222,
+    "elevation": 86,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

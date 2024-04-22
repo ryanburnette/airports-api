@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3947",
+    "airport_name": "Ithaca Tompkins Rgnl",
+    "city": "Ithaca",
+    "country": "United States",
+    "iata": "ITH",
+    "icao": "KITH",
+    "latitude": 42.491028,
+    "longitude": -76.458444,
+    "elevation": 1099,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

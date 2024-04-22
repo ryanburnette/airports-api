@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7998",
+    "airport_name": "Thomasville Regional Airport",
+    "city": "Thomasville",
+    "country": "United States",
+    "iata": "TVI",
+    "icao": "KTVI",
+    "latitude": 30.9017921,
+    "longitude": -83.8811285,
+    "elevation": 264,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

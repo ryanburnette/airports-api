@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5738",
+    "airport_name": "Fayetteville Regional Grannis Field",
+    "city": "Fayetteville",
+    "country": "United States",
+    "iata": "FAY",
+    "icao": "KFAY",
+    "latitude": 34.9912,
+    "longitude": -78.8803,
+    "elevation": 189,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

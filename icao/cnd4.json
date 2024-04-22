@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9239",
+    "airport_name": "Stanhope",
+    "city": "Haliburton",
+    "country": "Canada",
+    "iata": "ND4",
+    "icao": "CND4",
+    "latitude": 45.110833,
+    "longitude": -78.64,
+    "elevation": 1066,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

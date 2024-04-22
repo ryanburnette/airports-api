@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2681",
+    "airport_name": "General Manuel Serrano",
+    "city": "Machala",
+    "country": "Ecuador",
+    "iata": "MCH",
+    "icao": "SEMH",
+    "latitude": -3.268903,
+    "longitude": -79.961572,
+    "elevation": 11,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

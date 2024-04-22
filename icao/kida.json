@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4100",
+    "airport_name": "Idaho Falls Rgnl",
+    "city": "Idaho Falls",
+    "country": "United States",
+    "iata": "IDA",
+    "icao": "KIDA",
+    "latitude": 43.514556,
+    "longitude": -112.07075,
+    "elevation": 4744,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

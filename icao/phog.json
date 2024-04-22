@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3456",
+    "airport_name": "Kahului",
+    "city": "Kahului",
+    "country": "United States",
+    "iata": "OGG",
+    "icao": "PHOG",
+    "latitude": 20.89865,
+    "longitude": -156.430458,
+    "elevation": 54,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

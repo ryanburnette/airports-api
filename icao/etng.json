@@ -1,0 +1,14 @@
+{
+    "_csv_row": "769",
+    "airport_name": "Geilenkirchen",
+    "city": "Geilenkirchen",
+    "country": "Germany",
+    "iata": "GKE",
+    "icao": "ETNG",
+    "latitude": 50.960817,
+    "longitude": 6.042422,
+    "elevation": 296,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

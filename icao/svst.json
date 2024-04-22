@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2864",
+    "airport_name": "San Tome",
+    "city": "San Tome",
+    "country": "Venezuela",
+    "iata": "SOM",
+    "icao": "SVST",
+    "latitude": 8.945147,
+    "longitude": -64.151083,
+    "elevation": 837,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

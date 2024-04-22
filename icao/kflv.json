@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3800",
+    "airport_name": "Sherman Aaf",
+    "city": "Fort Leavenworth",
+    "country": "United States",
+    "iata": "FLV",
+    "icao": "KFLV",
+    "latitude": 39.368332,
+    "longitude": -94.914686,
+    "elevation": 772,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

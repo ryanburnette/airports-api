@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2505",
+    "airport_name": "Tres Arroyos",
+    "city": "Tres Arroyos",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SAZH",
+    "latitude": -38.386911,
+    "longitude": -60.329711,
+    "elevation": 400,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

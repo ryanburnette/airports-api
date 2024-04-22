@@ -1,0 +1,14 @@
+{
+    "_csv_row": "153",
+    "airport_name": "Val D Or",
+    "city": "Val D'or",
+    "country": "Canada",
+    "iata": "YVO",
+    "icao": "CYVO",
+    "latitude": 48.053333,
+    "longitude": -77.782778,
+    "elevation": 1107,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

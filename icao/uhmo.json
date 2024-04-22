@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9371",
+    "airport_name": "Markovo Airport",
+    "city": "Markovo",
+    "country": "Russia",
+    "iata": "KVM",
+    "icao": "UHMO",
+    "latitude": 64.665278,
+    "longitude": 170.414167,
+    "elevation": 89,
+    "utc_offset": 12,
+    "_class": "E",
+    "timezone": "Asia/Magadan"
+}

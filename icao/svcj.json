@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2828",
+    "airport_name": "San Carlos",
+    "city": "San Carlos",
+    "country": "Venezuela",
+    "iata": "",
+    "icao": "SVCJ",
+    "latitude": 9.647722,
+    "longitude": -68.574656,
+    "elevation": 512,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

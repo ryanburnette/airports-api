@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1843",
+    "airport_name": "Tlaxcala",
+    "city": "Tlaxcala",
+    "country": "Mexico",
+    "iata": "TXA",
+    "icao": "MMTA",
+    "latitude": 19.537964,
+    "longitude": -98.173467,
+    "elevation": 8229,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6914",
+    "airport_name": "RAAF Pearce",
+    "city": "Perth",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YPEA",
+    "latitude": -31.66778,
+    "longitude": 116.015,
+    "elevation": 149,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

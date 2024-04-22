@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3144",
+    "airport_name": "Chennai Intl",
+    "city": "Madras",
+    "country": "India",
+    "iata": "MAA",
+    "icao": "VOMM",
+    "latitude": 12.994414,
+    "longitude": 80.180517,
+    "elevation": 52,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

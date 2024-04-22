@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5854",
+    "airport_name": "Salina Cruz Naval Air Station",
+    "city": "Salina Cruz",
+    "country": "Mexico",
+    "iata": "SCX",
+    "icao": "MM57",
+    "latitude": 16.2126,
+    "longitude": -95.2016,
+    "elevation": 75,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

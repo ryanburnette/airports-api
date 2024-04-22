@@ -1,0 +1,14 @@
+{
+    "_csv_row": "96",
+    "airport_name": "Matagami",
+    "city": "Matagami",
+    "country": "Canada",
+    "iata": "YNM",
+    "icao": "CYNM",
+    "latitude": 49.761667,
+    "longitude": -77.802778,
+    "elevation": 918,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

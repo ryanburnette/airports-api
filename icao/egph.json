@@ -1,0 +1,14 @@
+{
+    "_csv_row": "535",
+    "airport_name": "Edinburgh",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "iata": "EDI",
+    "icao": "EGPH",
+    "latitude": 55.95,
+    "longitude": -3.3725,
+    "elevation": 135,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

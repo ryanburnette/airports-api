@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2650",
+    "airport_name": "Arturo Merino Benitez Intl",
+    "city": "Santiago",
+    "country": "Chile",
+    "iata": "SCL",
+    "icao": "SCEL",
+    "latitude": -33.392975,
+    "longitude": -70.785803,
+    "elevation": 1555,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

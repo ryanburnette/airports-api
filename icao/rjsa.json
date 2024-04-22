@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2340",
+    "airport_name": "Aomori",
+    "city": "Aomori",
+    "country": "Japan",
+    "iata": "AOJ",
+    "icao": "RJSA",
+    "latitude": 40.734722,
+    "longitude": 140.690833,
+    "elevation": 664,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

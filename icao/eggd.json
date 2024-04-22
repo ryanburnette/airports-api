@@ -1,0 +1,14 @@
+{
+    "_csv_row": "490",
+    "airport_name": "Bristol",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "iata": "BRS",
+    "icao": "EGGD",
+    "latitude": 51.382669,
+    "longitude": -2.719089,
+    "elevation": 622,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

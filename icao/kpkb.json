@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4114",
+    "airport_name": "Mid-Ohio Valley Regional Airport",
+    "city": "PARKERSBURG",
+    "country": "United States",
+    "iata": "PKB",
+    "icao": "KPKB",
+    "latitude": 39.3451039,
+    "longitude": -81.4392031,
+    "elevation": 858,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

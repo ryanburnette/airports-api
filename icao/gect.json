@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5661",
+    "airport_name": "Ceuta Heliport",
+    "city": "Ceuta",
+    "country": "Spain",
+    "iata": "JCU",
+    "icao": "GECT",
+    "latitude": 35.8969,
+    "longitude": -5.29908,
+    "elevation": 0,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

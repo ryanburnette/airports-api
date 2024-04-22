@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2447",
+    "airport_name": "La Plata",
+    "city": "La Plata",
+    "country": "Argentina",
+    "iata": "LPG",
+    "icao": "SADL",
+    "latitude": -34.972222,
+    "longitude": -57.894694,
+    "elevation": 72,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

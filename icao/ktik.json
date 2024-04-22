@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3525",
+    "airport_name": "Tinker Afb",
+    "city": "Oklahoma City",
+    "country": "United States",
+    "iata": "TIK",
+    "icao": "KTIK",
+    "latitude": 35.414739,
+    "longitude": -97.386633,
+    "elevation": 1291,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

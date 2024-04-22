@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7364",
+    "airport_name": "Cabo Frio International Airport",
+    "city": "Cabo Frio",
+    "country": "Brazil",
+    "iata": "CFB",
+    "icao": "SBCB",
+    "latitude": -22.921667,
+    "longitude": -42.074167,
+    "elevation": 14,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

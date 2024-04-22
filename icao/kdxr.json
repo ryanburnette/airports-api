@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8286",
+    "airport_name": "Danbury Municipal Airport",
+    "city": "Danbury",
+    "country": "United States",
+    "iata": "DXR",
+    "icao": "KDXR",
+    "latitude": 41.3715353,
+    "longitude": -73.4821906,
+    "elevation": 458,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

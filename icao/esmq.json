@@ -1,0 +1,14 @@
+{
+    "_csv_row": "707",
+    "airport_name": "Kalmar",
+    "city": "Kalkmar",
+    "country": "Sweden",
+    "iata": "KLR",
+    "icao": "ESMQ",
+    "latitude": 56.685531,
+    "longitude": 16.287578,
+    "elevation": 17,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

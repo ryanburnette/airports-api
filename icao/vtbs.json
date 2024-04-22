@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3885",
+    "airport_name": "Suvarnabhumi Intl",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "iata": "BKK",
+    "icao": "VTBS",
+    "latitude": 13.681108,
+    "longitude": 100.747283,
+    "elevation": 5,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Bangkok"
+}

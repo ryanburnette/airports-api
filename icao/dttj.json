@@ -1,0 +1,14 @@
+{
+    "_csv_row": "293",
+    "airport_name": "Zarzis",
+    "city": "Djerba",
+    "country": "Tunisia",
+    "iata": "DJE",
+    "icao": "DTTJ",
+    "latitude": 33.875031,
+    "longitude": 10.775461,
+    "elevation": 19,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Africa/Tunis"
+}

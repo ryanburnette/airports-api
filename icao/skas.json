@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2706",
+    "airport_name": "Tres De Mayo",
+    "city": "Puerto Asis",
+    "country": "Colombia",
+    "iata": "PUU",
+    "icao": "SKAS",
+    "latitude": 0.505228,
+    "longitude": -76.500836,
+    "elevation": 815,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

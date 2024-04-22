@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1670",
+    "airport_name": "Emmen",
+    "city": "Emmen",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSME",
+    "latitude": 47.092369,
+    "longitude": 8.305117,
+    "elevation": 1400,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

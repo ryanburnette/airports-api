@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3467",
+    "airport_name": "Spokane Intl",
+    "city": "Spokane",
+    "country": "United States",
+    "iata": "GEG",
+    "icao": "KGEG",
+    "latitude": 47.619861,
+    "longitude": -117.533833,
+    "elevation": 2376,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

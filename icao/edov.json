@@ -1,0 +1,14 @@
+{
+    "_csv_row": "384",
+    "airport_name": "Stendal Borstel",
+    "city": "Stendal",
+    "country": "Germany",
+    "iata": "ZSN",
+    "icao": "EDOV",
+    "latitude": 52.627778,
+    "longitude": 11.818333,
+    "elevation": 184,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

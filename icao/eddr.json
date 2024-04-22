@@ -1,0 +1,14 @@
+{
+    "_csv_row": "349",
+    "airport_name": "Saarbrucken",
+    "city": "Saarbruecken",
+    "country": "Germany",
+    "iata": "SCN",
+    "icao": "EDDR",
+    "latitude": 49.214553,
+    "longitude": 7.109508,
+    "elevation": 1058,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

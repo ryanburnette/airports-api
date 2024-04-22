@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3622",
+    "airport_name": "Greater Rochester Intl",
+    "city": "Rochester",
+    "country": "United States",
+    "iata": "ROC",
+    "icao": "KROC",
+    "latitude": 43.118866,
+    "longitude": -77.672389,
+    "elevation": 559,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

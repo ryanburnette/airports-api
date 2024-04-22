@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2665",
+    "airport_name": "El Tepual Intl",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "iata": "PMC",
+    "icao": "SCTE",
+    "latitude": -41.438886,
+    "longitude": -73.093953,
+    "elevation": 294,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

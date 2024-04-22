@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1931",
+    "airport_name": "San Andros",
+    "city": "San Andros",
+    "country": "Bahamas",
+    "iata": "SAQ",
+    "icao": "MYAN",
+    "latitude": 25.053814,
+    "longitude": -78.048997,
+    "elevation": 5,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Nassau"
+}

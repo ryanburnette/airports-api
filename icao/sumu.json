@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2816",
+    "airport_name": "Carrasco Intl",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "iata": "MVD",
+    "icao": "SUMU",
+    "latitude": -34.838417,
+    "longitude": -56.030806,
+    "elevation": 105,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Montevideo"
+}

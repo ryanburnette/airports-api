@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7683",
+    "airport_name": "San Carlos Airport",
+    "city": "San Carlos",
+    "country": "United States",
+    "iata": "SQL",
+    "icao": "KSQL",
+    "latitude": 37.511944,
+    "longitude": -122.249444,
+    "elevation": 5,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

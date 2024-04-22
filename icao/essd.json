@@ -1,0 +1,14 @@
+{
+    "_csv_row": "739",
+    "airport_name": "Borlange",
+    "city": "Borlange",
+    "country": "Sweden",
+    "iata": "BLE",
+    "icao": "ESSD",
+    "latitude": 60.422017,
+    "longitude": 15.515211,
+    "elevation": 503,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

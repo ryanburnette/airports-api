@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3469",
+    "airport_name": "San Francisco Intl",
+    "city": "San Francisco",
+    "country": "United States",
+    "iata": "SFO",
+    "icao": "KSFO",
+    "latitude": 37.618972,
+    "longitude": -122.374889,
+    "elevation": 13,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

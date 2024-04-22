@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1536",
+    "airport_name": "Bolzano",
+    "city": "Bolzano",
+    "country": "Italy",
+    "iata": "BZO",
+    "icao": "LIPB",
+    "latitude": 46.460194,
+    "longitude": 11.326383,
+    "elevation": 789,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

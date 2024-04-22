@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1751",
+    "airport_name": "Tatry",
+    "city": "Poprad",
+    "country": "Slovakia",
+    "iata": "TAT",
+    "icao": "LZTT",
+    "latitude": 49.073594,
+    "longitude": 20.241142,
+    "elevation": 2356,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Bratislava"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3575",
+    "airport_name": "Moody Afb",
+    "city": "Valdosta",
+    "country": "United States",
+    "iata": "VAD",
+    "icao": "KVAD",
+    "latitude": 30.967833,
+    "longitude": -83.193,
+    "elevation": 233,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

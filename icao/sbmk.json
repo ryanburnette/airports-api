@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2587",
+    "airport_name": "Mario Ribeiro",
+    "city": "Montes Claros",
+    "country": "Brazil",
+    "iata": "MOC",
+    "icao": "SBMK",
+    "latitude": -16.706925,
+    "longitude": -43.8189,
+    "elevation": 2191,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

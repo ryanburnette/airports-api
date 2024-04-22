@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9376",
+    "airport_name": "Ust-Maya Airport",
+    "city": "Ust-Maya",
+    "country": "Russia",
+    "iata": "UMS",
+    "icao": "UEMU",
+    "latitude": 60.358056,
+    "longitude": 134.437778,
+    "elevation": 561,
+    "utc_offset": 10,
+    "_class": "E",
+    "timezone": "Asia/Yakutsk"
+}

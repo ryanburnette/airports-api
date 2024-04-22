@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8321",
+    "airport_name": "Mallards Landing Airport",
+    "city": "Locust Grove",
+    "country": "United States",
+    "iata": "",
+    "icao": "GA04",
+    "latitude": 33.3656703,
+    "longitude": -84.1651964,
+    "elevation": 837,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

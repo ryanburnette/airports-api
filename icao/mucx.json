@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4329",
+    "airport_name": "Riem",
+    "city": "Munich",
+    "country": "Germany",
+    "iata": "",
+    "icao": "MUCX",
+    "latitude": 48.137778,
+    "longitude": 11.690278,
+    "elevation": 1487,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

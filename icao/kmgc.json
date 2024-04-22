@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6844",
+    "airport_name": "Michigan City Municipal Airport",
+    "city": "Michigan City",
+    "country": "United States",
+    "iata": "MGC",
+    "icao": "KMGC",
+    "latitude": 41.7033,
+    "longitude": -86.8211,
+    "elevation": 500,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

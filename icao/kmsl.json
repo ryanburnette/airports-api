@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5756",
+    "airport_name": "Northwest Alabama Regional Airport",
+    "city": "Muscle Shoals",
+    "country": "United States",
+    "iata": "MSL",
+    "icao": "KMSL",
+    "latitude": 34.7453,
+    "longitude": -87.6102,
+    "elevation": 550,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

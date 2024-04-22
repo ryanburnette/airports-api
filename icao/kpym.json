@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8277",
+    "airport_name": "Plymouth Municipal Airport",
+    "city": "Plymouth",
+    "country": "United States",
+    "iata": "PYM",
+    "icao": "KPYM",
+    "latitude": 41.9090278,
+    "longitude": -70.7287778,
+    "elevation": 148,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

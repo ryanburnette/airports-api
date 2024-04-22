@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1858",
+    "airport_name": "Playa De Oro Intl",
+    "city": "Manzanillo",
+    "country": "Mexico",
+    "iata": "ZLO",
+    "icao": "MMZO",
+    "latitude": 19.144778,
+    "longitude": -104.558631,
+    "elevation": 30,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3778",
+    "airport_name": "Millington Rgnl Jetport",
+    "city": "Millington",
+    "country": "United States",
+    "iata": "NQA",
+    "icao": "KNQA",
+    "latitude": 35.356667,
+    "longitude": -89.870278,
+    "elevation": 320,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

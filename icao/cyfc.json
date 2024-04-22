@@ -1,0 +1,14 @@
+{
+    "_csv_row": "56",
+    "airport_name": "Fredericton",
+    "city": "Fredericton",
+    "country": "Canada",
+    "iata": "YFC",
+    "icao": "CYFC",
+    "latitude": 45.868889,
+    "longitude": -66.537222,
+    "elevation": 68,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

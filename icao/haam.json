@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1109",
+    "airport_name": "Arba Minch",
+    "city": "Arba Minch",
+    "country": "Ethiopia",
+    "iata": "AMH",
+    "icao": "HAAM",
+    "latitude": 6.039389,
+    "longitude": 37.590453,
+    "elevation": 3895,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

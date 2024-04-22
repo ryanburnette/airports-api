@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1409",
+    "airport_name": "Lann Bihoue",
+    "city": "Lorient",
+    "country": "France",
+    "iata": "LRT",
+    "icao": "LFRH",
+    "latitude": 47.760555,
+    "longitude": -3.44,
+    "elevation": 160,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

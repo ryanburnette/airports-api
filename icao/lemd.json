@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1229",
+    "airport_name": "Barajas",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata": "MAD",
+    "icao": "LEMD",
+    "latitude": 40.493556,
+    "longitude": -3.566764,
+    "elevation": 2000,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

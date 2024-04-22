@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4038",
+    "airport_name": "Gulfport-Biloxi",
+    "city": "Gulfport",
+    "country": "United States",
+    "iata": "GPT",
+    "icao": "KGPT",
+    "latitude": 30.407278,
+    "longitude": -89.070111,
+    "elevation": 28,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

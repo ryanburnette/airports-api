@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1553",
+    "airport_name": "Ciampino",
+    "city": "Rome",
+    "country": "Italy",
+    "iata": "CIA",
+    "icao": "LIRA",
+    "latitude": 41.799361,
+    "longitude": 12.594936,
+    "elevation": 427,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1244",
+    "airport_name": "Seo De Urgel",
+    "city": "Seo De Urgel",
+    "country": "Spain",
+    "iata": "LEU",
+    "icao": "LESU",
+    "latitude": 42.338611,
+    "longitude": 1.409167,
+    "elevation": 2625,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

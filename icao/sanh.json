@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8914",
+    "airport_name": "Termal",
+    "city": "Rio Hondo",
+    "country": "Argentina",
+    "iata": "RHD",
+    "icao": "SANH",
+    "latitude": -27.509946,
+    "longitude": -64.936666,
+    "elevation": 1181,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1611",
+    "airport_name": "Linz",
+    "city": "Linz",
+    "country": "Austria",
+    "iata": "LNZ",
+    "icao": "LOWL",
+    "latitude": 48.233219,
+    "longitude": 14.187511,
+    "elevation": 978,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Vienna"
+}

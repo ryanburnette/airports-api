@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2551",
+    "airport_name": "Eduardo Gomes Intl",
+    "city": "Manaus",
+    "country": "Brazil",
+    "iata": "MAO",
+    "icao": "SBEG",
+    "latitude": -3.038611,
+    "longitude": -60.049721,
+    "elevation": 264,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Boa_Vista"
+}

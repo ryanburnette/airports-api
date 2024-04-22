@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5579",
+    "airport_name": "Sindal Airport",
+    "city": "Sindal",
+    "country": "Denmark",
+    "iata": "CNL",
+    "icao": "EKSN",
+    "latitude": 57.503525,
+    "longitude": 10.229372,
+    "elevation": 92,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Europe/Copenhagen"
+}

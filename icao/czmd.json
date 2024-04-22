@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5544",
+    "airport_name": "Muskrat Dam Airport",
+    "city": "Muskrat Dam",
+    "country": "Canada",
+    "iata": "MSA",
+    "icao": "CZMD",
+    "latitude": 53.4414,
+    "longitude": -91.7628,
+    "elevation": 911,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

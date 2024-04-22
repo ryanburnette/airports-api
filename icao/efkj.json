@@ -1,0 +1,14 @@
+{
+    "_csv_row": "434",
+    "airport_name": "Kauhajoki",
+    "city": "Kauhajoki",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFKJ",
+    "latitude": 62.462502,
+    "longitude": 22.393055,
+    "elevation": 407,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3376",
+    "airport_name": "Tianhe",
+    "city": "Wuhan",
+    "country": "China",
+    "iata": "WUH",
+    "icao": "ZHHH",
+    "latitude": 30.783758,
+    "longitude": 114.2081,
+    "elevation": 113,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

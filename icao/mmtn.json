@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1849",
+    "airport_name": "Tamuin",
+    "city": "Tamuin",
+    "country": "Mexico",
+    "iata": "TSL",
+    "icao": "MMTN",
+    "latitude": 22.038292,
+    "longitude": -98.806503,
+    "elevation": 164,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

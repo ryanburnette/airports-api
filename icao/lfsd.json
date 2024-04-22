@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1425",
+    "airport_name": "Longvic",
+    "city": "Dijon",
+    "country": "France",
+    "iata": "DIJ",
+    "icao": "LFSD",
+    "latitude": 47.26889,
+    "longitude": 5.09,
+    "elevation": 726,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

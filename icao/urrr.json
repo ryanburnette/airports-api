@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2964",
+    "airport_name": "Rostov Na Donu",
+    "city": "Rostov",
+    "country": "Russia",
+    "iata": "ROV",
+    "icao": "URRR",
+    "latitude": 47.258208,
+    "longitude": 39.818089,
+    "elevation": 280,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

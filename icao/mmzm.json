@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1857",
+    "airport_name": "Zamora",
+    "city": "Zamora",
+    "country": "Mexico",
+    "iata": "ZMM",
+    "icao": "MMZM",
+    "latitude": 20.045036,
+    "longitude": -102.275955,
+    "elevation": 5141,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

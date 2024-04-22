@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2981",
+    "airport_name": "Samarkand",
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "iata": "SKD",
+    "icao": "UTSS",
+    "latitude": 39.700547,
+    "longitude": 66.983829,
+    "elevation": 2224,
+    "utc_offset": 5,
+    "_class": "U",
+    "timezone": "Asia/Samarkand"
+}

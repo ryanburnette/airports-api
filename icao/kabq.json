@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4019",
+    "airport_name": "Albuquerque International Sunport",
+    "city": "Albuquerque",
+    "country": "United States",
+    "iata": "ABQ",
+    "icao": "KABQ",
+    "latitude": 35.0402222,
+    "longitude": -106.6091944,
+    "elevation": 5355,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3440",
+    "airport_name": "Ponca City Rgnl",
+    "city": "Ponca City",
+    "country": "United States",
+    "iata": "PNC",
+    "icao": "KPNC",
+    "latitude": 36.731958,
+    "longitude": -97.099781,
+    "elevation": 1007,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2012",
+    "airport_name": "Gisborne",
+    "city": "Gisborne",
+    "country": "New Zealand",
+    "iata": "GIS",
+    "icao": "NZGS",
+    "latitude": -38.663333,
+    "longitude": 177.978333,
+    "elevation": 15,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

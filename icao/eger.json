@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5568",
+    "airport_name": "Stronsay Airport",
+    "city": "Stronsay",
+    "country": "United Kingdom",
+    "iata": "SOY",
+    "icao": "EGER",
+    "latitude": 59.1553,
+    "longitude": -2.64139,
+    "elevation": 39,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

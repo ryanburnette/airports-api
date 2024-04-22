@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3418",
+    "airport_name": "Clear",
+    "city": "Clear Mews",
+    "country": "United States",
+    "iata": "Z84",
+    "icao": "PACL",
+    "latitude": 64.301203,
+    "longitude": -149.120144,
+    "elevation": 552,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

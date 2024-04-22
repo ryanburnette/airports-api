@@ -1,0 +1,14 @@
+{
+    "_csv_row": "13",
+    "airport_name": "Hornafjordur",
+    "city": "Hofn",
+    "country": "Iceland",
+    "iata": "HFN",
+    "icao": "BIHN",
+    "latitude": 64.295556,
+    "longitude": -15.227222,
+    "elevation": 24,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

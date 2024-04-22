@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7979",
+    "airport_name": "Marana Regional",
+    "city": "Tucson",
+    "country": "United States",
+    "iata": "AVW",
+    "icao": "KAVQ",
+    "latitude": 32.409556,
+    "longitude": -111.218388,
+    "elevation": 2031,
+    "utc_offset": -7,
+    "_class": "U",
+    "timezone": "America/Phoenix"
+}

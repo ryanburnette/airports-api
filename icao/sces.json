@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6042",
+    "airport_name": "Ricardo García Posada Airport",
+    "city": "El Salvador",
+    "country": "Chile",
+    "iata": "ESR",
+    "icao": "SCES",
+    "latitude": -26.3111,
+    "longitude": -69.7652,
+    "elevation": 5240,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

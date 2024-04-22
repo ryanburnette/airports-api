@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8505",
+    "airport_name": "County",
+    "city": "Okeechobee",
+    "country": "United States",
+    "iata": "OBE",
+    "icao": "KOBE",
+    "latitude": 27.265833,
+    "longitude": -80.851111,
+    "elevation": 34,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8743",
+    "airport_name": "Waupaca Municipal Airport",
+    "city": "Waupaca",
+    "country": "United States",
+    "iata": "PCZ",
+    "icao": "KPCZ",
+    "latitude": 44.33325,
+    "longitude": -89.0197778,
+    "elevation": 840,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3533",
+    "airport_name": "Fort Lauderdale Hollywood Intl",
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "iata": "FLL",
+    "icao": "KFLL",
+    "latitude": 26.072583,
+    "longitude": -80.15275,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

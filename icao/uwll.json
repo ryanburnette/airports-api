@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7003",
+    "airport_name": "Barataevka",
+    "city": "Ulyanovsk",
+    "country": "Russia",
+    "iata": "ULV",
+    "icao": "UWLL",
+    "latitude": 54.268299,
+    "longitude": 48.2267,
+    "elevation": 463,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

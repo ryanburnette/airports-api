@@ -1,0 +1,14 @@
+{
+    "_csv_row": "123",
+    "airport_name": "Yorkton Muni",
+    "city": "Yorkton",
+    "country": "Canada",
+    "iata": "YQV",
+    "icao": "CYQV",
+    "latitude": 51.264721,
+    "longitude": -102.461667,
+    "elevation": 1635,
+    "utc_offset": -6,
+    "_class": "N",
+    "timezone": "America/Regina"
+}

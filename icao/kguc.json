@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7051",
+    "airport_name": "Gunnison - Crested Butte",
+    "city": "Gunnison",
+    "country": "United States",
+    "iata": "GUC",
+    "icao": "KGUC",
+    "latitude": 38.533889,
+    "longitude": -106.933056,
+    "elevation": 7678,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

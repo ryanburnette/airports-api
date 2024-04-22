@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1905",
+    "airport_name": "Antonio Maceo Intl",
+    "city": "Santiago De Cuba",
+    "country": "Cuba",
+    "iata": "SCU",
+    "icao": "MUCU",
+    "latitude": 19.969769,
+    "longitude": -75.835414,
+    "elevation": 249,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

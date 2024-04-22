@@ -1,0 +1,14 @@
+{
+    "_csv_row": "30",
+    "airport_name": "Campbell River",
+    "city": "Campbell River",
+    "country": "Canada",
+    "iata": "YBL",
+    "icao": "CYBL",
+    "latitude": 49.950832,
+    "longitude": -125.270833,
+    "elevation": 346,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

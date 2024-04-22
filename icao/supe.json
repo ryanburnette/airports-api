@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6070",
+    "airport_name": "El Jaguel / Punta del Este Airport",
+    "city": "Maldonado",
+    "country": "Uruguay",
+    "iata": "MDO",
+    "icao": "SUPE",
+    "latitude": -34.917,
+    "longitude": -54.917,
+    "elevation": 66,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Montevideo"
+}

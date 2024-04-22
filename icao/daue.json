@@ -1,0 +1,14 @@
+{
+    "_csv_row": "236",
+    "airport_name": "El Golea",
+    "city": "El Golea",
+    "country": "Algeria",
+    "iata": "ELG",
+    "icao": "DAUE",
+    "latitude": 30.571294,
+    "longitude": 2.859586,
+    "elevation": 1306,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Algiers"
+}

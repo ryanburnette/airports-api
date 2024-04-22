@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3831",
+    "airport_name": "Boca Raton",
+    "city": "Boca Raton",
+    "country": "United States",
+    "iata": "BCT",
+    "icao": "KBCT",
+    "latitude": 26.3785,
+    "longitude": -80.107694,
+    "elevation": 13,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

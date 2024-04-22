@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3538",
+    "airport_name": "Keesler Afb",
+    "city": "Biloxi",
+    "country": "United States",
+    "iata": "BIX",
+    "icao": "KBIX",
+    "latitude": 30.410425,
+    "longitude": -88.924433,
+    "elevation": 33,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

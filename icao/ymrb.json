@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6301",
+    "airport_name": "Moranbah Airport",
+    "city": "Moranbah",
+    "country": "Australia",
+    "iata": "MOV",
+    "icao": "YMRB",
+    "latitude": -22.0578,
+    "longitude": 148.077,
+    "elevation": 770,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

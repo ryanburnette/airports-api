@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4344",
+    "airport_name": "Yellowstone Rgnl",
+    "city": "Cody",
+    "country": "United States",
+    "iata": "COD",
+    "icao": "KCOD",
+    "latitude": 44.520194,
+    "longitude": -109.023806,
+    "elevation": 5102,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

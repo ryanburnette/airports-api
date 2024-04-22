@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7036",
+    "airport_name": "Bagram AFB",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "iata": "BPM",
+    "icao": "OAIX",
+    "latitude": 34.5646,
+    "longitude": 69.1554,
+    "elevation": 4895,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

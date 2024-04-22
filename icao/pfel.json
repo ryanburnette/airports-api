@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7184",
+    "airport_name": "Elim Airport",
+    "city": "Elim",
+    "country": "United States",
+    "iata": "ELI",
+    "icao": "PFEL",
+    "latitude": 64.615,
+    "longitude": -162.270556,
+    "elevation": 162,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

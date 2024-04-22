@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3541",
+    "airport_name": "Marshall Aaf",
+    "city": "Fort Riley",
+    "country": "United States",
+    "iata": "FRI",
+    "icao": "KFRI",
+    "latitude": 39.055275,
+    "longitude": -96.764453,
+    "elevation": 1063,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

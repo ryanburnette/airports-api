@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3555",
+    "airport_name": "Bob Sikes",
+    "city": "Crestview",
+    "country": "United States",
+    "iata": "CEW",
+    "icao": "KCEW",
+    "latitude": 30.778833,
+    "longitude": -86.522111,
+    "elevation": 213,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

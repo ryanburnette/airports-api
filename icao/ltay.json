@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1699",
+    "airport_name": "Cardak",
+    "city": "Denizli",
+    "country": "Turkey",
+    "iata": "DNZ",
+    "icao": "LTAY",
+    "latitude": 37.785567,
+    "longitude": 29.701297,
+    "elevation": 2795,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

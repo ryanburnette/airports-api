@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3704",
+    "airport_name": "Mc Kellar Sipes Rgnl",
+    "city": "Jackson",
+    "country": "United States",
+    "iata": "MKL",
+    "icao": "KMKL",
+    "latitude": 35.599889,
+    "longitude": -88.915611,
+    "elevation": 434,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

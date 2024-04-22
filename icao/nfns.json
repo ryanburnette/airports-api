@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5878",
+    "airport_name": "Savusavu Airport",
+    "city": "Savusavu",
+    "country": "Fiji",
+    "iata": "SVU",
+    "icao": "NFNS",
+    "latitude": -16.8028,
+    "longitude": 179.341,
+    "elevation": 17,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

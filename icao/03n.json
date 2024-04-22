@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5814",
+    "airport_name": "Utirik Airport",
+    "city": "Utirik Island",
+    "country": "Marshall Islands",
+    "iata": "UTK",
+    "icao": "03N",
+    "latitude": 11.222,
+    "longitude": 169.852,
+    "elevation": 4,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Majuro"
+}

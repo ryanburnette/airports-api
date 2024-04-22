@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5723",
+    "airport_name": "Western Nebraska Regional Airport",
+    "city": "Scottsbluff",
+    "country": "United States",
+    "iata": "BFF",
+    "icao": "KBFF",
+    "latitude": 41.874,
+    "longitude": -103.596,
+    "elevation": 3967,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

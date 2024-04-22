@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7363",
+    "airport_name": "Golfo de Morrosquillo Airport",
+    "city": "Tolu",
+    "country": "Colombia",
+    "iata": "TLU",
+    "icao": "SKTL",
+    "latitude": 9.511944,
+    "longitude": -75.586389,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

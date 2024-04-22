@@ -1,0 +1,14 @@
+{
+    "_csv_row": "850",
+    "airport_name": "Rustenburg",
+    "city": "Rustenburg",
+    "country": "South Africa",
+    "iata": "",
+    "icao": "FARG",
+    "latitude": -25.6443,
+    "longitude": 27.271119,
+    "elevation": 3700,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

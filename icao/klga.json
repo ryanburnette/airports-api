@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3697",
+    "airport_name": "La Guardia",
+    "city": "New York",
+    "country": "United States",
+    "iata": "LGA",
+    "icao": "KLGA",
+    "latitude": 40.777245,
+    "longitude": -73.872608,
+    "elevation": 22,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

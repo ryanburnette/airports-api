@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6832",
+    "airport_name": "Kirkuk AB",
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "iata": "KIK",
+    "icao": "ORKK",
+    "latitude": 35.17,
+    "longitude": 44.3483,
+    "elevation": 1061,
+    "utc_offset": 3,
+    "_class": "N",
+    "timezone": "Asia/Baghdad"
+}

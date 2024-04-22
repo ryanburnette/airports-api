@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6193",
+    "airport_name": "Phu Cat Airport",
+    "city": "Phucat",
+    "country": "Vietnam",
+    "iata": "UIH",
+    "icao": "VVPC",
+    "latitude": 13.954986,
+    "longitude": 109.042267,
+    "elevation": 80,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

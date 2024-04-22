@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4342",
+    "airport_name": "Lamar Muni",
+    "city": "Lamar",
+    "country": "United States",
+    "iata": "LAA",
+    "icao": "KLAA",
+    "latitude": 38.069694,
+    "longitude": -102.6885,
+    "elevation": 3706,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

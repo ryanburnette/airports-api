@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3676",
+    "airport_name": "Mc Ghee Tyson",
+    "city": "Knoxville",
+    "country": "United States",
+    "iata": "TYS",
+    "icao": "KTYS",
+    "latitude": 35.810972,
+    "longitude": -83.994028,
+    "elevation": 981,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

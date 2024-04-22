@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1416",
+    "airport_name": "Lannion",
+    "city": "Lannion",
+    "country": "France",
+    "iata": "LAI",
+    "icao": "LFRO",
+    "latitude": 48.754378,
+    "longitude": -3.471656,
+    "elevation": 290,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6288",
+    "airport_name": "Lightning Ridge Airport",
+    "city": "Lightning Ridge",
+    "country": "Australia",
+    "iata": "LHG",
+    "icao": "YLRD",
+    "latitude": -29.4567,
+    "longitude": 147.984,
+    "elevation": 540,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

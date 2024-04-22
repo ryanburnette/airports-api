@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7262",
+    "airport_name": "Brochet Airport",
+    "city": "Brochet",
+    "country": "Canada",
+    "iata": "YBT",
+    "icao": "CYBT",
+    "latitude": 57.889444,
+    "longitude": -101.679167,
+    "elevation": 1131,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

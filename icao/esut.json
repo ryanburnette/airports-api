@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5599",
+    "airport_name": "Hemavan Airport",
+    "city": "Hemavan",
+    "country": "Sweden",
+    "iata": "HMV",
+    "icao": "ESUT",
+    "latitude": 65.806111,
+    "longitude": 15.082778,
+    "elevation": 1503,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

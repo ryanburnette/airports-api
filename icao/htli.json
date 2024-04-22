@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5705",
+    "airport_name": "Kikwetu Airport",
+    "city": "Lindi",
+    "country": "Tanzania",
+    "iata": "LDI",
+    "icao": "HTLI",
+    "latitude": -9.85111,
+    "longitude": 39.7578,
+    "elevation": 100,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Dar_es_Salaam"
+}

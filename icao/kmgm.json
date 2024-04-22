@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4115",
+    "airport_name": "Montgomery Regional Airport ",
+    "city": "MONTGOMERY",
+    "country": "United States",
+    "iata": "MGM",
+    "icao": "KMGM",
+    "latitude": 32.3006389,
+    "longitude": -86.3939722,
+    "elevation": 221,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

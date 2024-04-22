@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7088",
+    "airport_name": "Unalakleet Airport",
+    "city": "Unalakleet",
+    "country": "United States",
+    "iata": "UNK",
+    "icao": "PAUN",
+    "latitude": 63.888333,
+    "longitude": -160.798889,
+    "elevation": 21,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

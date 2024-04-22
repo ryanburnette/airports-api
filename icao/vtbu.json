@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3161",
+    "airport_name": "U Taphao Intl",
+    "city": "Pattaya",
+    "country": "Thailand",
+    "iata": "UTP",
+    "icao": "VTBU",
+    "latitude": 12.679944,
+    "longitude": 101.005028,
+    "elevation": 42,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Bangkok"
+}

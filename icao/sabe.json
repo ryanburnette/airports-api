@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2442",
+    "airport_name": "Aeroparque Jorge Newbery",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "iata": "AEP",
+    "icao": "SABE",
+    "latitude": -34.559175,
+    "longitude": -58.415606,
+    "elevation": 18,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

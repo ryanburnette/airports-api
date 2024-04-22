@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4220",
+    "airport_name": "Sugar Land Regional Airport",
+    "city": "Sugar Land",
+    "country": "United States",
+    "iata": "SGR",
+    "icao": "KSGR",
+    "latitude": 29.62225,
+    "longitude": -95.6565278,
+    "elevation": 82,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "617",
+    "airport_name": "Roskilde",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "iata": "RKE",
+    "icao": "EKRK",
+    "latitude": 55.585567,
+    "longitude": 12.131428,
+    "elevation": 146,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

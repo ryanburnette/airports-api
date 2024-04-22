@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4026",
+    "airport_name": "Knox County Regional Airport",
+    "city": "Rockland",
+    "country": "United States",
+    "iata": "RKD",
+    "icao": "KRKD",
+    "latitude": 44.0601111,
+    "longitude": -69.0992303,
+    "elevation": 56,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

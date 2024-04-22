@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5721",
+    "airport_name": "Watertown Regional Airport",
+    "city": "Watertown",
+    "country": "United States",
+    "iata": "ATY",
+    "icao": "KATY",
+    "latitude": 44.914,
+    "longitude": -97.1547,
+    "elevation": 1748,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5932",
+    "airport_name": "Noshahr Airport",
+    "city": "Noshahr",
+    "country": "Iran",
+    "iata": "NSH",
+    "icao": "OINN",
+    "latitude": 36.663333,
+    "longitude": 51.464722,
+    "elevation": -61,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

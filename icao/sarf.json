@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2470",
+    "airport_name": "Formosa",
+    "city": "Formosa",
+    "country": "Argentina",
+    "iata": "FMA",
+    "icao": "SARF",
+    "latitude": -26.212722,
+    "longitude": -58.228111,
+    "elevation": 194,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

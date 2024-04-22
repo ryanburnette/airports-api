@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7159",
+    "airport_name": "South Naknek Airport",
+    "city": "South Naknek",
+    "country": "United States",
+    "iata": "WSN",
+    "icao": "PFWS",
+    "latitude": 58.702222,
+    "longitude": -157.0025,
+    "elevation": 162,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

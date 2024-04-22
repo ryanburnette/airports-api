@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2725",
+    "airport_name": "San Luis",
+    "city": "Ipiales",
+    "country": "Colombia",
+    "iata": "IPI",
+    "icao": "SKIP",
+    "latitude": 0.861925,
+    "longitude": -77.671764,
+    "elevation": 9765,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5697",
+    "airport_name": "Gamal Abdel Nasser Airport",
+    "city": "Tobruk",
+    "country": "Libya",
+    "iata": "TOB",
+    "icao": "HLGN",
+    "latitude": 31.861,
+    "longitude": 23.907,
+    "elevation": 519,
+    "utc_offset": 2,
+    "_class": "N",
+    "timezone": "Africa/Tripoli"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2492",
+    "airport_name": "El Tehuelche",
+    "city": "Puerto Madryn",
+    "country": "Argentina",
+    "iata": "PMY",
+    "icao": "SAVY",
+    "latitude": -42.759161,
+    "longitude": -65.102725,
+    "elevation": 426,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

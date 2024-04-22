@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7203",
+    "airport_name": "Nelson Lagoon",
+    "city": "Nelson Lagoon",
+    "country": "United States",
+    "iata": "NLG",
+    "icao": "PAOU",
+    "latitude": 56.0075,
+    "longitude": -161.160278,
+    "elevation": 14,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

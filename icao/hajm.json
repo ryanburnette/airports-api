@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1116",
+    "airport_name": "Jimma",
+    "city": "Jimma",
+    "country": "Ethiopia",
+    "iata": "JIM",
+    "icao": "HAJM",
+    "latitude": 7.666094,
+    "longitude": 36.816639,
+    "elevation": 5587,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

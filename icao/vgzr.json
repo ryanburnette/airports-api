@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3076",
+    "airport_name": "Zia Intl",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "iata": "DAC",
+    "icao": "VGZR",
+    "latitude": 23.843333,
+    "longitude": 90.397781,
+    "elevation": 30,
+    "utc_offset": 6,
+    "_class": "U",
+    "timezone": "Asia/Dhaka"
+}

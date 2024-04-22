@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3486",
+    "airport_name": "Cleveland Hopkins Intl",
+    "city": "Cleveland",
+    "country": "United States",
+    "iata": "CLE",
+    "icao": "KCLE",
+    "latitude": 41.411689,
+    "longitude": -81.849794,
+    "elevation": 791,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

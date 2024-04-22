@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3448",
+    "airport_name": "General Edward Lawrence Logan Intl",
+    "city": "Boston",
+    "country": "United States",
+    "iata": "BOS",
+    "icao": "KBOS",
+    "latitude": 42.364347,
+    "longitude": -71.005181,
+    "elevation": 19,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

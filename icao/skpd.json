@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6054",
+    "airport_name": "Obando Airport",
+    "city": "Puerto Inírida",
+    "country": "Colombia",
+    "iata": "PDA",
+    "icao": "SKPD",
+    "latitude": 3.85,
+    "longitude": -67.91,
+    "elevation": 460,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

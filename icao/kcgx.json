@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8593",
+    "airport_name": "Meigs Field",
+    "city": "Chicago",
+    "country": "United States",
+    "iata": "CGX",
+    "icao": "KCGX",
+    "latitude": 41.860278,
+    "longitude": -87.609722,
+    "elevation": 585,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

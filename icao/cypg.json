@@ -1,0 +1,14 @@
+{
+    "_csv_row": "103",
+    "airport_name": "Southport",
+    "city": "Portage-la-prairie",
+    "country": "Canada",
+    "iata": "YPG",
+    "icao": "CYPG",
+    "latitude": 49.903056,
+    "longitude": -98.273889,
+    "elevation": 885,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1426",
+    "airport_name": "Frescaty",
+    "city": "Metz",
+    "country": "France",
+    "iata": "MZM",
+    "icao": "LFSF",
+    "latitude": 49.071667,
+    "longitude": 6.131667,
+    "elevation": 629,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

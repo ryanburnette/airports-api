@@ -1,0 +1,14 @@
+{
+    "_csv_row": "742",
+    "airport_name": "Saab",
+    "city": "Linkoeping",
+    "country": "Sweden",
+    "iata": "LPI",
+    "icao": "ESSL",
+    "latitude": 58.40615,
+    "longitude": 15.680508,
+    "elevation": 172,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

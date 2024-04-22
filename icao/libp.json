@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1505",
+    "airport_name": "Pescara",
+    "city": "Pescara",
+    "country": "Italy",
+    "iata": "PSR",
+    "icao": "LIBP",
+    "latitude": 42.431656,
+    "longitude": 14.181067,
+    "elevation": 48,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

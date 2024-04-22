@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6163",
+    "airport_name": "Ulyanovsk East Airport",
+    "city": "Ulyanovsk",
+    "country": "Russia",
+    "iata": "ULY",
+    "icao": "UWLW",
+    "latitude": 54.401,
+    "longitude": 48.8027,
+    "elevation": 252,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

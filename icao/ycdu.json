@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6256",
+    "airport_name": "Ceduna Airport",
+    "city": "Ceduna",
+    "country": "Australia",
+    "iata": "CED",
+    "icao": "YCDU",
+    "latitude": -32.1306,
+    "longitude": 133.71,
+    "elevation": 77,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

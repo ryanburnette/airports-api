@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7177",
+    "airport_name": "Ambler Airport",
+    "city": "Ambler",
+    "country": "United States",
+    "iata": "ABL",
+    "icao": "PAFM",
+    "latitude": 67.106389,
+    "longitude": -157.8575,
+    "elevation": 334,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

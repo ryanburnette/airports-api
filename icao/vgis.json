@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3070",
+    "airport_name": "Ishurdi",
+    "city": "Ishurdi",
+    "country": "Bangladesh",
+    "iata": "IRD",
+    "icao": "VGIS",
+    "latitude": 24.1525,
+    "longitude": 89.049446,
+    "elevation": 45,
+    "utc_offset": 6,
+    "_class": "U",
+    "timezone": "Asia/Dhaka"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3671",
+    "airport_name": "Melbourne Intl",
+    "city": "Melbourne",
+    "country": "United States",
+    "iata": "MLB",
+    "icao": "KMLB",
+    "latitude": 28.102753,
+    "longitude": -80.645258,
+    "elevation": 33,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

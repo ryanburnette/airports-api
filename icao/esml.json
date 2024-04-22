@@ -1,0 +1,14 @@
+{
+    "_csv_row": "704",
+    "airport_name": "Landskrona",
+    "city": "Landskrona",
+    "country": "Sweden",
+    "iata": "JLD",
+    "icao": "ESML",
+    "latitude": 55.944444,
+    "longitude": 12.869444,
+    "elevation": 194,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

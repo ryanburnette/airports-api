@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1272",
+    "airport_name": "Souche",
+    "city": "Niort",
+    "country": "France",
+    "iata": "NIT",
+    "icao": "LFBN",
+    "latitude": 46.311303,
+    "longitude": -0.401503,
+    "elevation": 203,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8282",
+    "airport_name": "Windham Airport",
+    "city": "Willimantic",
+    "country": "United States",
+    "iata": "IJD",
+    "icao": "KIJD",
+    "latitude": 41.7440278,
+    "longitude": -72.1802222,
+    "elevation": 246,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

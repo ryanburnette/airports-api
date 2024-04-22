@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2759",
+    "airport_name": "Jorge Wilsterman",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "iata": "CBB",
+    "icao": "SLCB",
+    "latitude": -17.421058,
+    "longitude": -66.177114,
+    "elevation": 8360,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/La_Paz"
+}

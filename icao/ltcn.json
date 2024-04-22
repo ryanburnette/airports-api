@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5798",
+    "airport_name": "Kahramanmaras Airport",
+    "city": "Kahramanmaras",
+    "country": "Turkey",
+    "iata": "KCM",
+    "icao": "LTCN",
+    "latitude": 37.539,
+    "longitude": 36.9534,
+    "elevation": 1723,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

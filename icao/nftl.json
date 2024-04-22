@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5880",
+    "airport_name": "Lifuka Island Airport",
+    "city": "Lifuka",
+    "country": "Tonga",
+    "iata": "HPA",
+    "icao": "NFTL",
+    "latitude": -19.777,
+    "longitude": -174.341,
+    "elevation": 31,
+    "utc_offset": 13,
+    "_class": "U",
+    "timezone": "Pacific/Tongatapu"
+}

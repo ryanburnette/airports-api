@@ -1,0 +1,14 @@
+{
+    "_csv_row": "331",
+    "airport_name": "Kyritz",
+    "city": "Kyritz",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDBK",
+    "latitude": 52.918833,
+    "longitude": 12.425333,
+    "elevation": 130,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

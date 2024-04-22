@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7205",
+    "airport_name": "Klawock Airport",
+    "city": "Klawock",
+    "country": "United States",
+    "iata": "KLW",
+    "icao": "PAKW",
+    "latitude": 55.579167,
+    "longitude": -133.076111,
+    "elevation": 80,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

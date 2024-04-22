@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1387",
+    "airport_name": "Cormeilles En Vexin",
+    "city": "Pontoise",
+    "country": "France",
+    "iata": "POX",
+    "icao": "LFPT",
+    "latitude": 49.096647,
+    "longitude": 2.040833,
+    "elevation": 325,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9185",
+    "airport_name": "Fostoria Metropolitan Airport",
+    "city": "Fostoria",
+    "country": "United States",
+    "iata": "FZI",
+    "icao": "KFZI",
+    "latitude": 41.1908333,
+    "longitude": -83.3930833,
+    "elevation": 752,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

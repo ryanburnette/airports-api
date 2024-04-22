@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9408",
+    "airport_name": "Chehalis-Centralia",
+    "city": "Chehalis",
+    "country": "United States",
+    "iata": "CLS",
+    "icao": "KCLS",
+    "latitude": 46.4062,
+    "longitude": -122.5897,
+    "elevation": 177,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

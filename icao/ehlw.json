@@ -1,0 +1,14 @@
+{
+    "_csv_row": "590",
+    "airport_name": "Leeuwarden",
+    "city": "Leeuwarden",
+    "country": "Netherlands",
+    "iata": "LWR",
+    "icao": "EHLW",
+    "latitude": 53.228611,
+    "longitude": 5.760556,
+    "elevation": 3,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

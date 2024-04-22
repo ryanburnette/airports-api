@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1972",
+    "airport_name": "Tubuai",
+    "city": "Tubuai",
+    "country": "French Polynesia",
+    "iata": "TUB",
+    "icao": "NTAT",
+    "latitude": -23.365353,
+    "longitude": -149.524072,
+    "elevation": 7,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

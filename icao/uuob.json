@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6156",
+    "airport_name": "Belgorod International Airport",
+    "city": "Belgorod",
+    "country": "Russia",
+    "iata": "EGO",
+    "icao": "UUOB",
+    "latitude": 50.6438,
+    "longitude": 36.5901,
+    "elevation": 735,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

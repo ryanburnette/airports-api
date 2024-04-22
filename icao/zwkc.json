@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6406",
+    "airport_name": "Kuqa Airport",
+    "city": "Kuqa",
+    "country": "China",
+    "iata": "KCA",
+    "icao": "ZWKC",
+    "latitude": 41.7181,
+    "longitude": 82.9869,
+    "elevation": 3524,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

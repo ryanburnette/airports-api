@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8291",
+    "airport_name": "Stockmar Airport",
+    "city": "Villa Rica",
+    "country": "United States",
+    "iata": "",
+    "icao": "20GA",
+    "latitude": 33.7565556,
+    "longitude": -84.8850625,
+    "elevation": 1110,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

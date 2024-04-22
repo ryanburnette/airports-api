@@ -1,0 +1,14 @@
+{
+    "_csv_row": "437",
+    "airport_name": "Kuusamo",
+    "city": "Kuusamo",
+    "country": "Finland",
+    "iata": "KAO",
+    "icao": "EFKS",
+    "latitude": 65.987575,
+    "longitude": 29.239381,
+    "elevation": 866,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

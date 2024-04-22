@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2476",
+    "airport_name": "Salta",
+    "city": "Salta",
+    "country": "Argentina",
+    "iata": "SLA",
+    "icao": "SASA",
+    "latitude": -24.855978,
+    "longitude": -65.486169,
+    "elevation": 4088,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

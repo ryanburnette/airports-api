@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1057",
+    "airport_name": "Tenerife Norte",
+    "city": "Tenerife",
+    "country": "Spain",
+    "iata": "TFN",
+    "icao": "GCXO",
+    "latitude": 28.482653,
+    "longitude": -16.341536,
+    "elevation": 2073,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Atlantic/Canary"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6990",
+    "airport_name": "Mykolaiv International Airport",
+    "city": "Nikolayev",
+    "country": "Ukraine",
+    "iata": "NLV",
+    "icao": "UKON",
+    "latitude": 47.0579,
+    "longitude": 31.9198,
+    "elevation": 184,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

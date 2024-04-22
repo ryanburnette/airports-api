@@ -1,0 +1,14 @@
+{
+    "_csv_row": "82",
+    "airport_name": "Buttonville Muni",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata": "YKZ",
+    "icao": "CYKZ",
+    "latitude": 43.862221,
+    "longitude": -79.37,
+    "elevation": 650,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

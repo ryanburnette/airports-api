@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6824",
+    "airport_name": "Lommis Airport",
+    "city": "Lommis",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSZT",
+    "latitude": 47.5244,
+    "longitude": 9.00306,
+    "elevation": 1539,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3565",
+    "airport_name": "Grand Forks Afb",
+    "city": "Red River",
+    "country": "United States",
+    "iata": "RDR",
+    "icao": "KRDR",
+    "latitude": 47.961098,
+    "longitude": -97.401194,
+    "elevation": 913,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

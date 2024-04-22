@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3534",
+    "airport_name": "Davis Fld",
+    "city": "Muskogee",
+    "country": "United States",
+    "iata": "MKO",
+    "icao": "KMKO",
+    "latitude": 35.656489,
+    "longitude": -95.366656,
+    "elevation": 612,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1114",
+    "airport_name": "Gondar",
+    "city": "Gondar",
+    "country": "Ethiopia",
+    "iata": "GDQ",
+    "icao": "HAGN",
+    "latitude": 12.5199,
+    "longitude": 37.434047,
+    "elevation": 6541,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

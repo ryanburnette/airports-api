@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7001",
+    "airport_name": "Aspen Pitkin County Sardy Field",
+    "city": "Aspen",
+    "country": "United States",
+    "iata": "ASE",
+    "icao": "KASE",
+    "latitude": 39.2232,
+    "longitude": -106.869,
+    "elevation": 7820,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9225",
+    "airport_name": "Andrau Airport",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "AAP",
+    "icao": "KAAP",
+    "latitude": 29.43,
+    "longitude": -95.35,
+    "elevation": 80,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

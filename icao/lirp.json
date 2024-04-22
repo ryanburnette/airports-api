@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1562",
+    "airport_name": "Pisa",
+    "city": "Pisa",
+    "country": "Italy",
+    "iata": "PSA",
+    "icao": "LIRP",
+    "latitude": 43.683917,
+    "longitude": 10.39275,
+    "elevation": 6,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

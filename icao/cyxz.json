@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8361",
+    "airport_name": "Wawa",
+    "city": "Wawa",
+    "country": "Canada",
+    "iata": "YXZ",
+    "icao": "CYXZ",
+    "latitude": 47.966944,
+    "longitude": -84.786389,
+    "elevation": 944,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

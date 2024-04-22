@@ -1,0 +1,14 @@
+{
+    "_csv_row": "585",
+    "airport_name": "Eindhoven",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "iata": "EIN",
+    "icao": "EHEH",
+    "latitude": 51.450139,
+    "longitude": 5.374528,
+    "elevation": 74,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

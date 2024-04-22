@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2501",
+    "airport_name": "Comandante Espora",
+    "city": "Bahia Blanca",
+    "country": "Argentina",
+    "iata": "BHI",
+    "icao": "SAZB",
+    "latitude": -38.724967,
+    "longitude": -62.169317,
+    "elevation": 246,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

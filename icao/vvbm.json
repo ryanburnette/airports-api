@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6187",
+    "airport_name": "Buon Ma Thuot Airport",
+    "city": "Buonmethuot",
+    "country": "Vietnam",
+    "iata": "BMV",
+    "icao": "VVBM",
+    "latitude": 12.668311,
+    "longitude": 108.120272,
+    "elevation": 1729,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

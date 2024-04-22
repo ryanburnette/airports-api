@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2435",
+    "airport_name": "Antique",
+    "city": "San Jose",
+    "country": "Philippines",
+    "iata": "SJI",
+    "icao": "RPVS",
+    "latitude": 10.766044,
+    "longitude": 121.933439,
+    "elevation": 23,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

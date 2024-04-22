@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7703",
+    "airport_name": "Frejus Saint Raphael",
+    "city": "Frejus",
+    "country": "France",
+    "iata": "FRJ",
+    "icao": "LFTU",
+    "latitude": 43.416667,
+    "longitude": 6.733333,
+    "elevation": 7,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

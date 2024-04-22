@@ -1,0 +1,14 @@
+{
+    "_csv_row": "533",
+    "airport_name": "Inverness",
+    "city": "Inverness",
+    "country": "United Kingdom",
+    "iata": "INV",
+    "icao": "EGPE",
+    "latitude": 57.5425,
+    "longitude": -4.0475,
+    "elevation": 31,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

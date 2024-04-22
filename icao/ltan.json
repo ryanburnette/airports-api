@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1691",
+    "airport_name": "Konya",
+    "city": "Konya",
+    "country": "Turkey",
+    "iata": "KYA",
+    "icao": "LTAN",
+    "latitude": 37.979,
+    "longitude": 32.561861,
+    "elevation": 3381,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

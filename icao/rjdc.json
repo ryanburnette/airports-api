@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2296",
+    "airport_name": "Yamaguchi Ube",
+    "city": "Yamaguchi",
+    "country": "Japan",
+    "iata": "UBJ",
+    "icao": "RJDC",
+    "latitude": 33.93,
+    "longitude": 131.278611,
+    "elevation": 23,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5575",
+    "airport_name": "Barra Airport",
+    "city": "Barra",
+    "country": "United Kingdom",
+    "iata": "BRR",
+    "icao": "EGPR",
+    "latitude": 57.0228,
+    "longitude": -7.44306,
+    "elevation": 5,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

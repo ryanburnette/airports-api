@@ -1,0 +1,14 @@
+{
+    "_csv_row": "655",
+    "airport_name": "Orland",
+    "city": "Orland",
+    "country": "Norway",
+    "iata": "OLA",
+    "icao": "ENOL",
+    "latitude": 63.698908,
+    "longitude": 9.604003,
+    "elevation": 28,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

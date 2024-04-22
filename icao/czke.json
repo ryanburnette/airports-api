@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5543",
+    "airport_name": "Kashechewan Airport",
+    "city": "Kashechewan",
+    "country": "Canada",
+    "iata": "ZKE",
+    "icao": "CZKE",
+    "latitude": 52.2825,
+    "longitude": -81.6778,
+    "elevation": 35,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

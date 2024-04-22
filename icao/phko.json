@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3514",
+    "airport_name": "Kona Intl At Keahole",
+    "city": "Kona",
+    "country": "United States",
+    "iata": "KOA",
+    "icao": "PHKO",
+    "latitude": 19.738767,
+    "longitude": -156.045631,
+    "elevation": 47,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

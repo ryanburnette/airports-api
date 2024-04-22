@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3948",
+    "airport_name": "Monterey Peninsula",
+    "city": "Monterey",
+    "country": "United States",
+    "iata": "MRY",
+    "icao": "KMRY",
+    "latitude": 36.587,
+    "longitude": -121.842944,
+    "elevation": 257,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

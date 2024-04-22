@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5589",
+    "airport_name": "Svartnes Airport",
+    "city": "Vardø",
+    "country": "Norway",
+    "iata": "VAW",
+    "icao": "ENSS",
+    "latitude": 70.355392,
+    "longitude": 31.044889,
+    "elevation": 42,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

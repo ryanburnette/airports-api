@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7064",
+    "airport_name": "Dickinson Theodore Roosevelt Regional Airport",
+    "city": "Dickinson",
+    "country": "United States",
+    "iata": "DIK",
+    "icao": "KDIK",
+    "latitude": 46.7975,
+    "longitude": -102.801944,
+    "elevation": 2592,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

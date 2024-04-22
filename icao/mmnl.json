@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1828",
+    "airport_name": "Quetzalcoatl Intl",
+    "city": "Nuevo Laredo",
+    "country": "Mexico",
+    "iata": "NLD",
+    "icao": "MMNL",
+    "latitude": 27.443918,
+    "longitude": -99.57046,
+    "elevation": 484,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

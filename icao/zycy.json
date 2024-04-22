@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6772",
+    "airport_name": "Chaoyang Airport",
+    "city": "Chaoyang",
+    "country": "China",
+    "iata": "CHG",
+    "icao": "ZYCY",
+    "latitude": 41.5381,
+    "longitude": 120.435,
+    "elevation": 0,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

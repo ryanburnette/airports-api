@@ -1,0 +1,14 @@
+{
+    "_csv_row": "523",
+    "airport_name": "Nottingham East Midlands",
+    "city": "East Midlands",
+    "country": "United Kingdom",
+    "iata": "EMA",
+    "icao": "EGNX",
+    "latitude": 52.831111,
+    "longitude": -1.328056,
+    "elevation": 306,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

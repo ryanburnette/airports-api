@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6271",
+    "airport_name": "Griffith Airport",
+    "city": "Griffith",
+    "country": "Australia",
+    "iata": "GFF",
+    "icao": "YGTH",
+    "latitude": -34.2508,
+    "longitude": 146.067,
+    "elevation": 439,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

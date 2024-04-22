@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6299",
+    "airport_name": "Mount Magnet Airport",
+    "city": "Mount Magnet",
+    "country": "Australia",
+    "iata": "MMG",
+    "icao": "YMOG",
+    "latitude": -28.1161,
+    "longitude": 117.842,
+    "elevation": 1354,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

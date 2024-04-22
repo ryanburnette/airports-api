@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3500",
+    "airport_name": "Maxwell Afb",
+    "city": "Montgomery",
+    "country": "United States",
+    "iata": "MXF",
+    "icao": "KMXF",
+    "latitude": 32.382944,
+    "longitude": -86.365778,
+    "elevation": 171,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

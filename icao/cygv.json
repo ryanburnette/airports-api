@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7255",
+    "airport_name": "Havre Saint-Pierre Airport",
+    "city": "Havre-Saint-Pierre",
+    "country": "Canada",
+    "iata": "YGV",
+    "icao": "CYGV",
+    "latitude": 50.281944,
+    "longitude": -63.611389,
+    "elevation": 124,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

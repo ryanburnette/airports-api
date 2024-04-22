@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4236",
+    "airport_name": "Aklavik",
+    "city": "Aklavik",
+    "country": "Canada",
+    "iata": "LAK",
+    "icao": "CYKD",
+    "latitude": 68.223333,
+    "longitude": -135.005833,
+    "elevation": 23,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

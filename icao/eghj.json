@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7805",
+    "airport_name": "Bembridge",
+    "city": "Bembridge",
+    "country": "United Kingdom",
+    "iata": "BBP",
+    "icao": "EGHJ",
+    "latitude": 50.677778,
+    "longitude": -1.109444,
+    "elevation": 53,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

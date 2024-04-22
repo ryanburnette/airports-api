@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8300",
+    "airport_name": "West Georgia Regional Airport - O V Gray Field",
+    "city": "Carrollton",
+    "country": "United States",
+    "iata": "CTJ",
+    "icao": "KCTJ",
+    "latitude": 33.6316964,
+    "longitude": -85.1522641,
+    "elevation": 1165,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

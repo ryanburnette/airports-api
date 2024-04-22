@@ -1,0 +1,14 @@
+{
+    "_csv_row": "719",
+    "airport_name": "Lycksele",
+    "city": "Lycksele",
+    "country": "Sweden",
+    "iata": "LYC",
+    "icao": "ESNL",
+    "latitude": 64.548322,
+    "longitude": 18.716219,
+    "elevation": 705,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

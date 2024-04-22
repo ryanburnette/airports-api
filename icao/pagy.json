@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5961",
+    "airport_name": "Skagway Airport",
+    "city": "Skagway",
+    "country": "United States",
+    "iata": "SGY",
+    "icao": "PAGY",
+    "latitude": 59.4601,
+    "longitude": -135.316,
+    "elevation": 44,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

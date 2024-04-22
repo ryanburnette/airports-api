@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6238",
+    "airport_name": "Barcaldine Airport",
+    "city": "Barcaldine",
+    "country": "Australia",
+    "iata": "BCI",
+    "icao": "YBAR",
+    "latitude": -23.5653,
+    "longitude": 145.307,
+    "elevation": 878,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

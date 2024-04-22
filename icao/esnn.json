@@ -1,0 +1,14 @@
+{
+    "_csv_row": "721",
+    "airport_name": "Sundsvall Harnosand",
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "iata": "SDL",
+    "icao": "ESNN",
+    "latitude": 62.528125,
+    "longitude": 17.443928,
+    "elevation": 16,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2479",
+    "airport_name": "La Quiaca",
+    "city": "La Quiaca",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SASQ",
+    "latitude": -22.150556,
+    "longitude": -65.5775,
+    "elevation": 11414,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

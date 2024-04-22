@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6280",
+    "airport_name": "Karumba Airport",
+    "city": "Karumba",
+    "country": "Australia",
+    "iata": "KRB",
+    "icao": "YKMB",
+    "latitude": -17.4567,
+    "longitude": 140.83,
+    "elevation": 5,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

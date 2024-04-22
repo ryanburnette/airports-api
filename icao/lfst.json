@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1435",
+    "airport_name": "Entzheim",
+    "city": "Strasbourg",
+    "country": "France",
+    "iata": "SXB",
+    "icao": "LFST",
+    "latitude": 48.538319,
+    "longitude": 7.628233,
+    "elevation": 505,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1657",
+    "airport_name": "Henri Coanda",
+    "city": "Bucharest",
+    "country": "Romania",
+    "iata": "OTP",
+    "icao": "LROP",
+    "latitude": 44.572161,
+    "longitude": 26.102178,
+    "elevation": 314,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

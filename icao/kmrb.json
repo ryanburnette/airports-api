@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7415",
+    "airport_name": "Eastern WV Regional Airport",
+    "city": "Martinsburg",
+    "country": "United States",
+    "iata": "MRB",
+    "icao": "KMRB",
+    "latitude": 39.2407,
+    "longitude": -77.591,
+    "elevation": 554,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

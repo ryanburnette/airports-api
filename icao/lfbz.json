@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1280",
+    "airport_name": "Anglet",
+    "city": "Biarritz-bayonne",
+    "country": "France",
+    "iata": "BIQ",
+    "icao": "LFBZ",
+    "latitude": 43.468419,
+    "longitude": -1.523325,
+    "elevation": 245,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

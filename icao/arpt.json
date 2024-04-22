@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9496",
+    "airport_name": "Aeroport",
+    "city": "Barcelona",
+    "country": "Spain",
+    "iata": "",
+    "icao": "ARPT",
+    "latitude": 41.288436,
+    "longitude": 2.072409,
+    "elevation": 39,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

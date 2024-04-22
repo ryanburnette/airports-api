@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8832",
+    "airport_name": "Lublin",
+    "city": "Lublin",
+    "country": "Poland",
+    "iata": "LUZ",
+    "icao": "EPLB",
+    "latitude": 51.239333,
+    "longitude": 22.714083,
+    "elevation": 203,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

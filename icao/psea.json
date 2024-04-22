@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9512",
+    "airport_name": "Port of Seattle",
+    "city": "Seattle",
+    "country": "United States",
+    "iata": "",
+    "icao": "PSEA",
+    "latitude": 47.609178,
+    "longitude": -122.350605,
+    "elevation": 0,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

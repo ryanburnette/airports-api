@@ -1,0 +1,14 @@
+{
+    "_csv_row": "394",
+    "airport_name": "Donaueschingen Villingen",
+    "city": "Donaueschingen",
+    "country": "Germany",
+    "iata": "ZQL",
+    "icao": "EDTD",
+    "latitude": 47.973331,
+    "longitude": 8.522223,
+    "elevation": 2231,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

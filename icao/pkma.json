@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5990",
+    "airport_name": "Eniwetok Airport",
+    "city": "Eniwetok Atoll",
+    "country": "Marshall Islands",
+    "iata": "ENT",
+    "icao": "PKMA",
+    "latitude": 11.34075,
+    "longitude": 162.327861,
+    "elevation": 13,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Majuro"
+}

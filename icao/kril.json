@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7652",
+    "airport_name": "Garfield County Regional Airport",
+    "city": "Rifle",
+    "country": "United States",
+    "iata": "RIL",
+    "icao": "KRIL",
+    "latitude": 39.5263056,
+    "longitude": -107.7269444,
+    "elevation": 5548,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

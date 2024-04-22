@@ -1,0 +1,14 @@
+{
+    "_csv_row": "711",
+    "airport_name": "Kronoberg",
+    "city": "Vaxjo",
+    "country": "Sweden",
+    "iata": "VXO",
+    "icao": "ESMX",
+    "latitude": 56.929144,
+    "longitude": 14.727994,
+    "elevation": 610,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

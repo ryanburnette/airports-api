@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7025",
+    "airport_name": "Avalon",
+    "city": "Catalina Island",
+    "country": "United States",
+    "iata": "AVX",
+    "icao": "KAVX",
+    "latitude": 33.405,
+    "longitude": -118.415833,
+    "elevation": 1602,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5768",
+    "airport_name": "San Luis County Regional Airport",
+    "city": "San Luis Obispo",
+    "country": "United States",
+    "iata": "SBP",
+    "icao": "KSBP",
+    "latitude": 35.2368,
+    "longitude": -120.642,
+    "elevation": 212,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

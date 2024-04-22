@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1793",
+    "airport_name": "Chetumal Intl",
+    "city": "Chetumal",
+    "country": "Mexico",
+    "iata": "CTM",
+    "icao": "MMCM",
+    "latitude": 18.504667,
+    "longitude": -88.326847,
+    "elevation": 39,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

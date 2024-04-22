@@ -1,0 +1,14 @@
+{
+    "_csv_row": "144",
+    "airport_name": "City Centre",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata": "YTZ",
+    "icao": "CYTZ",
+    "latitude": 43.627499,
+    "longitude": -79.396167,
+    "elevation": 251,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "332",
+    "airport_name": "Magdeburg",
+    "city": "Magdeburg",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDBM",
+    "latitude": 52.073658,
+    "longitude": 11.626467,
+    "elevation": 268,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

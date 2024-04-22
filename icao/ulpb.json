@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6114",
+    "airport_name": "Petrozavodsk Airport",
+    "city": "Petrozavodsk",
+    "country": "Russia",
+    "iata": "PES",
+    "icao": "ULPB",
+    "latitude": 61.8852,
+    "longitude": 34.1547,
+    "elevation": 151,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3780",
+    "airport_name": "Hartford Brainard",
+    "city": "Hartford",
+    "country": "United States",
+    "iata": "HFD",
+    "icao": "KHFD",
+    "latitude": 41.736722,
+    "longitude": -72.649444,
+    "elevation": 18,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1133",
+    "airport_name": "Mersa Matruh",
+    "city": "Mersa-matruh",
+    "country": "Egypt",
+    "iata": "MUH",
+    "icao": "HEMM",
+    "latitude": 31.325356,
+    "longitude": 27.221689,
+    "elevation": 94,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

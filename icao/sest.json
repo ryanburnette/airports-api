@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6045",
+    "airport_name": "San Cristóbal Airport",
+    "city": "San Cristóbal",
+    "country": "Ecuador",
+    "iata": "SCY",
+    "icao": "SEST",
+    "latitude": -0.910206,
+    "longitude": -89.61745,
+    "elevation": 62,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "Pacific/Galapagos"
+}

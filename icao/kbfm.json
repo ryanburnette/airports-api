@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3452",
+    "airport_name": "Mobile Downtown",
+    "city": "Mobile",
+    "country": "United States",
+    "iata": "BFM",
+    "icao": "KBFM",
+    "latitude": 30.626783,
+    "longitude": -88.068092,
+    "elevation": 26,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

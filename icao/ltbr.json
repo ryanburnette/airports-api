@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6785",
+    "airport_name": "Yenisehir Airport",
+    "city": "Yenisehir",
+    "country": "Turkey",
+    "iata": "YEI",
+    "icao": "LTBR",
+    "latitude": 40.255208,
+    "longitude": 29.562569,
+    "elevation": 764,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

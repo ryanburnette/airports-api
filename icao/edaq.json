@@ -1,0 +1,14 @@
+{
+    "_csv_row": "324",
+    "airport_name": "Halle Oppin",
+    "city": "Halle",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDAQ",
+    "latitude": 51.552,
+    "longitude": 12.052667,
+    "elevation": 347,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

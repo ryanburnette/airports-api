@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7181",
+    "airport_name": "Robert Curtis Memorial Airport",
+    "city": "Noorvik",
+    "country": "United States",
+    "iata": "ORV",
+    "icao": "PFNO",
+    "latitude": 66.8175,
+    "longitude": -161.022222,
+    "elevation": 55,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

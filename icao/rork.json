@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2391",
+    "airport_name": "Kitadaito",
+    "city": "Kitadaito",
+    "country": "Japan",
+    "iata": "KTD",
+    "icao": "RORK",
+    "latitude": 25.944722,
+    "longitude": 131.326944,
+    "elevation": 80,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

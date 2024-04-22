@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8532",
+    "airport_name": "William T. Piper Mem.",
+    "city": "Lock Haven",
+    "country": "United States",
+    "iata": "LHV",
+    "icao": "KLHV",
+    "latitude": 41.1357778,
+    "longitude": -77.4223056,
+    "elevation": 556,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

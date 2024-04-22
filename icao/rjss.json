@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2347",
+    "airport_name": "Sendai",
+    "city": "Sendai",
+    "country": "Japan",
+    "iata": "SDJ",
+    "icao": "RJSS",
+    "latitude": 38.139722,
+    "longitude": 140.916944,
+    "elevation": 15,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

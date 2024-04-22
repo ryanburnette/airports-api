@@ -1,0 +1,14 @@
+{
+    "_csv_row": "367",
+    "airport_name": "Arnsberg Menden",
+    "city": "Arnsberg",
+    "country": "Germany",
+    "iata": "ZCA",
+    "icao": "EDLA",
+    "latitude": 51.483333,
+    "longitude": 7.899333,
+    "elevation": 794,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

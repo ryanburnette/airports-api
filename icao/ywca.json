@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8998",
+    "airport_name": "Wilcannia",
+    "city": "Wilcannia",
+    "country": "Australia",
+    "iata": "WIO",
+    "icao": "YWCA",
+    "latitude": -31.5174999237,
+    "longitude": 143.378997803,
+    "elevation": 250,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

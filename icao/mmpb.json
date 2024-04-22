@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1831",
+    "airport_name": "Hermanos Serdan Intl",
+    "city": "Puebla",
+    "country": "Mexico",
+    "iata": "PBC",
+    "icao": "MMPB",
+    "latitude": 19.158144,
+    "longitude": -98.371447,
+    "elevation": 7361,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

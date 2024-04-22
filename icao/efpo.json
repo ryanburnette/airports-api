@@ -1,0 +1,14 @@
+{
+    "_csv_row": "448",
+    "airport_name": "Pori",
+    "city": "Pori",
+    "country": "Finland",
+    "iata": "POR",
+    "icao": "EFPO",
+    "latitude": 61.461686,
+    "longitude": 21.799983,
+    "elevation": 44,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

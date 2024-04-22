@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3554",
+    "airport_name": "Southern California Logistics",
+    "city": "Victorville",
+    "country": "United States",
+    "iata": "VCV",
+    "icao": "KVCV",
+    "latitude": 34.597453,
+    "longitude": -117.382997,
+    "elevation": 2885,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

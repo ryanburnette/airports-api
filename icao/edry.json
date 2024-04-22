@@ -1,0 +1,14 @@
+{
+    "_csv_row": "392",
+    "airport_name": "Speyer",
+    "city": "Speyer",
+    "country": "Germany",
+    "iata": "ZQC",
+    "icao": "EDRY",
+    "latitude": 49.302776,
+    "longitude": 8.451195,
+    "elevation": 312,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

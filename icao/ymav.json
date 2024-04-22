@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3332",
+    "airport_name": "Avalon",
+    "city": "Avalon",
+    "country": "Australia",
+    "iata": "AVV",
+    "icao": "YMAV",
+    "latitude": -38.039444,
+    "longitude": 144.469444,
+    "elevation": 35,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

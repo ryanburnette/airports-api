@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7630",
+    "airport_name": "MariposaYosemite",
+    "city": "Mariposa",
+    "country": "United States",
+    "iata": "MPI",
+    "icao": "KMPI",
+    "latitude": 37.3039,
+    "longitude": -120.0222,
+    "elevation": 2454,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

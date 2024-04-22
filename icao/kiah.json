@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3550",
+    "airport_name": "George Bush Intercontinental",
+    "city": "Houston",
+    "country": "United States",
+    "iata": "IAH",
+    "icao": "KIAH",
+    "latitude": 29.984433,
+    "longitude": -95.341442,
+    "elevation": 97,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

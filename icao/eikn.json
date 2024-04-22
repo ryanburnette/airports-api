@@ -1,0 +1,14 @@
+{
+    "_csv_row": "600",
+    "airport_name": "Ireland West Knock",
+    "city": "Connaught",
+    "country": "Ireland",
+    "iata": "NOC",
+    "icao": "EIKN",
+    "latitude": 53.910297,
+    "longitude": -8.818492,
+    "elevation": 665,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

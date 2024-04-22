@@ -1,0 +1,14 @@
+{
+    "_csv_row": "629",
+    "airport_name": "Luxembourg",
+    "city": "Luxemburg",
+    "country": "Luxembourg",
+    "iata": "LUX",
+    "icao": "ELLX",
+    "latitude": 49.626575,
+    "longitude": 6.211517,
+    "elevation": 1234,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Luxembourg"
+}

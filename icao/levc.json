@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1246",
+    "airport_name": "Valencia",
+    "city": "Valencia",
+    "country": "Spain",
+    "iata": "VLC",
+    "icao": "LEVC",
+    "latitude": 39.489314,
+    "longitude": -0.481625,
+    "elevation": 225,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

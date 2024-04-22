@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3081",
+    "airport_name": "Amritsar",
+    "city": "Amritsar",
+    "country": "India",
+    "iata": "ATQ",
+    "icao": "VIAR",
+    "latitude": 31.709594,
+    "longitude": 74.797264,
+    "elevation": 756,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

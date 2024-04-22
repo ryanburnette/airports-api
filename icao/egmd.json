@@ -1,0 +1,14 @@
+{
+    "_csv_row": "509",
+    "airport_name": "Lydd",
+    "city": "Lydd",
+    "country": "United Kingdom",
+    "iata": "LYX",
+    "icao": "EGMD",
+    "latitude": 50.956111,
+    "longitude": 0.939167,
+    "elevation": 13,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

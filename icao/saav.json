@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2441",
+    "airport_name": "Sauce Viejo",
+    "city": "Santa Fe",
+    "country": "Argentina",
+    "iata": "SFN",
+    "icao": "SAAV",
+    "latitude": -31.711666,
+    "longitude": -60.811668,
+    "elevation": 56,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9452",
+    "airport_name": "Bus Terminal",
+    "city": "Allentown",
+    "country": "United States",
+    "iata": "",
+    "icao": "ATWN",
+    "latitude": 40.605604,
+    "longitude": -75.462384,
+    "elevation": 338,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

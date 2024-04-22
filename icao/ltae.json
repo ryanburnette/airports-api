@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1684",
+    "airport_name": "Akinci",
+    "city": "Ankara",
+    "country": "Turkey",
+    "iata": "",
+    "icao": "LTAE",
+    "latitude": 40.078919,
+    "longitude": 32.565625,
+    "elevation": 2767,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

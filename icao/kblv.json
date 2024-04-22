@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3790",
+    "airport_name": "Scott Afb Midamerica",
+    "city": "Belleville",
+    "country": "United States",
+    "iata": "BLV",
+    "icao": "KBLV",
+    "latitude": 38.545178,
+    "longitude": -89.835183,
+    "elevation": 459,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

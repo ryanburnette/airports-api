@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4022",
+    "airport_name": "Bert Mooney Airport",
+    "city": "Butte",
+    "country": "United States",
+    "iata": "BTM",
+    "icao": "KBTM",
+    "latitude": 45.954806,
+    "longitude": -112.497472,
+    "elevation": 5550,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

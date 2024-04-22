@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9182",
+    "airport_name": "Crystal River",
+    "city": "Crystal River",
+    "country": "United States",
+    "iata": "CGC",
+    "icao": "KCGC",
+    "latitude": 28.8676111,
+    "longitude": -82.5741111,
+    "elevation": 9,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

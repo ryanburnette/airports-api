@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3614",
+    "airport_name": "Hill Afb",
+    "city": "Ogden",
+    "country": "United States",
+    "iata": "HIF",
+    "icao": "KHIF",
+    "latitude": 41.123939,
+    "longitude": -111.973039,
+    "elevation": 4789,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

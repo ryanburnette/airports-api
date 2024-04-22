@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7375",
+    "airport_name": "Minacu Airport",
+    "city": "Minacu",
+    "country": "Brazil",
+    "iata": "MQH",
+    "icao": "SBMC",
+    "latitude": -13.526944,
+    "longitude": -48.220556,
+    "elevation": 1053,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

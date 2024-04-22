@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6107",
+    "airport_name": "Chernivtsi International Airport",
+    "city": "Chernovtsk",
+    "country": "Ukraine",
+    "iata": "CWC",
+    "icao": "UKLN",
+    "latitude": 48.259322,
+    "longitude": 25.980831,
+    "elevation": 826,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

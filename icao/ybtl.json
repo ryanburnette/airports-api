@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3330",
+    "airport_name": "Townsville",
+    "city": "Townsville",
+    "country": "Australia",
+    "iata": "TSV",
+    "icao": "YBTL",
+    "latitude": -19.2525,
+    "longitude": 146.765278,
+    "elevation": 18,
+    "utc_offset": 10,
+    "_class": "N",
+    "timezone": "Australia/Brisbane"
+}

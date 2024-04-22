@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4008",
+    "airport_name": "Piedmont Triad",
+    "city": "Greensboro",
+    "country": "United States",
+    "iata": "GSO",
+    "icao": "KGSO",
+    "latitude": 36.09775,
+    "longitude": -79.937306,
+    "elevation": 925,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

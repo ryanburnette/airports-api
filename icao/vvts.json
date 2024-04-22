@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3205",
+    "airport_name": "Tansonnhat Intl",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "iata": "SGN",
+    "icao": "VVTS",
+    "latitude": 10.818797,
+    "longitude": 106.651856,
+    "elevation": 33,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

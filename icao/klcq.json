@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6994",
+    "airport_name": "Lake City Municipal Airport",
+    "city": "Lake City",
+    "country": "United States",
+    "iata": "LCQ",
+    "icao": "KLCQ",
+    "latitude": 30.181944,
+    "longitude": -82.576944,
+    "elevation": 201,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

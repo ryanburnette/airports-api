@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9124",
+    "airport_name": "McMurdo Station Pegasus Field",
+    "city": "McMurdo Station",
+    "country": "Antarctica",
+    "iata": "",
+    "icao": "NZPG",
+    "latitude": -77.963333,
+    "longitude": 166.524444,
+    "elevation": 18,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Antarctica/South_Pole"
+}

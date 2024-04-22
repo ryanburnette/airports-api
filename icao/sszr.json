@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6069",
+    "airport_name": "Santa Rosa Airport",
+    "city": "Santa Rosa",
+    "country": "Brazil",
+    "iata": "SRA",
+    "icao": "SSZR",
+    "latitude": -27.9067,
+    "longitude": -54.5204,
+    "elevation": 984,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

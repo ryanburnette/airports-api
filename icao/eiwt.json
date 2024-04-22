@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5578",
+    "airport_name": "Weston Airport",
+    "city": "Leixlip",
+    "country": "Ireland",
+    "iata": "",
+    "icao": "EIWT",
+    "latitude": 53.351333,
+    "longitude": -6.4875,
+    "elevation": 150,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/Dublin"
+}

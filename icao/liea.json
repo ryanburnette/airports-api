@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1517",
+    "airport_name": "Alghero",
+    "city": "Alghero",
+    "country": "Italy",
+    "iata": "AHO",
+    "icao": "LIEA",
+    "latitude": 40.632133,
+    "longitude": 8.290772,
+    "elevation": 87,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

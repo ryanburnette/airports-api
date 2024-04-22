@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7204",
+    "airport_name": "Port Moller Airport",
+    "city": "Cold Bay",
+    "country": "United States",
+    "iata": "PML",
+    "icao": "PAAL",
+    "latitude": 56.006111,
+    "longitude": -160.560833,
+    "elevation": 20,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

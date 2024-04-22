@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1216",
+    "airport_name": "Bilbao",
+    "city": "Bilbao",
+    "country": "Spain",
+    "iata": "BIO",
+    "icao": "LEBB",
+    "latitude": 43.301097,
+    "longitude": -2.910608,
+    "elevation": 138,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

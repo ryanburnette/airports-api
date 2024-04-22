@@ -1,0 +1,14 @@
+{
+    "_csv_row": "370",
+    "airport_name": "Monchengladbach",
+    "city": "Moenchengladbach",
+    "country": "Germany",
+    "iata": "MGL",
+    "icao": "EDLN",
+    "latitude": 51.230356,
+    "longitude": 6.504494,
+    "elevation": 125,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

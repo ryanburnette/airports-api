@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1694",
+    "airport_name": "Sivas",
+    "city": "Sivas",
+    "country": "Turkey",
+    "iata": "VAS",
+    "icao": "LTAR",
+    "latitude": 39.813828,
+    "longitude": 36.903497,
+    "elevation": 5236,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "364",
+    "airport_name": "Lubeck Blankensee",
+    "city": "Luebeck",
+    "country": "Germany",
+    "iata": "LBC",
+    "icao": "EDHL",
+    "latitude": 53.805367,
+    "longitude": 10.719222,
+    "elevation": 53,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

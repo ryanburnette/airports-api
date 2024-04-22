@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3557",
+    "airport_name": "St Clair Co Intl",
+    "city": "Port Huron",
+    "country": "United States",
+    "iata": "PHN",
+    "icao": "KPHN",
+    "latitude": 42.910957,
+    "longitude": -82.528862,
+    "elevation": 650,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5563",
+    "airport_name": "Campbeltown Airport",
+    "city": "Campbeltown",
+    "country": "United Kingdom",
+    "iata": "CAL",
+    "icao": "EGEC",
+    "latitude": 55.4372,
+    "longitude": -5.68639,
+    "elevation": 42,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

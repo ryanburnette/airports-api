@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3829",
+    "airport_name": "Lubbock Preston Smith Intl",
+    "city": "Lubbock",
+    "country": "United States",
+    "iata": "LBB",
+    "icao": "KLBB",
+    "latitude": 33.663639,
+    "longitude": -101.822778,
+    "elevation": 3282,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

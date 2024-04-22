@@ -1,0 +1,14 @@
+{
+    "_csv_row": "291",
+    "airport_name": "Gabes",
+    "city": "Gabes",
+    "country": "Tunisia",
+    "iata": "GAE",
+    "icao": "DTTG",
+    "latitude": 33.876919,
+    "longitude": 10.103333,
+    "elevation": 26,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Africa/Tunis"
+}

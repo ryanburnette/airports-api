@@ -1,0 +1,14 @@
+{
+    "_csv_row": "125",
+    "airport_name": "Gander Intl",
+    "city": "Gander",
+    "country": "Canada",
+    "iata": "YQX",
+    "icao": "CYQX",
+    "latitude": 48.936944,
+    "longitude": -54.568056,
+    "elevation": 496,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

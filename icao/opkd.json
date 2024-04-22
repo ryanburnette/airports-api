@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5945",
+    "airport_name": "Hyderabad Airport",
+    "city": "Hyderabad",
+    "country": "Pakistan",
+    "iata": "HDD",
+    "icao": "OPKD",
+    "latitude": 25.3181,
+    "longitude": 68.3661,
+    "elevation": 130,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2310",
+    "airport_name": "Oita",
+    "city": "Oita",
+    "country": "Japan",
+    "iata": "OIT",
+    "icao": "RJFO",
+    "latitude": 33.479444,
+    "longitude": 131.737222,
+    "elevation": 19,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

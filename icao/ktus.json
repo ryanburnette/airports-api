@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3636",
+    "airport_name": "Tucson Intl",
+    "city": "Tucson",
+    "country": "United States",
+    "iata": "TUS",
+    "icao": "KTUS",
+    "latitude": 32.116083,
+    "longitude": -110.941028,
+    "elevation": 2643,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

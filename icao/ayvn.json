@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5436",
+    "airport_name": "Vanimo Airport",
+    "city": "Vanimo",
+    "country": "Papua New Guinea",
+    "iata": "VAI",
+    "icao": "AYVN",
+    "latitude": -2.69717,
+    "longitude": 141.302,
+    "elevation": 10,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

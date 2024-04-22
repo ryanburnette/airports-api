@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2952",
+    "airport_name": "Khrabrovo",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "iata": "KGD",
+    "icao": "UMKK",
+    "latitude": 54.89005,
+    "longitude": 20.592633,
+    "elevation": 42,
+    "utc_offset": 3,
+    "_class": "N",
+    "timezone": "Europe/Kaliningrad"
+}

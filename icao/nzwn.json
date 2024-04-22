@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2042",
+    "airport_name": "Wellington Intl",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "iata": "WLG",
+    "icao": "NZWN",
+    "latitude": -41.327221,
+    "longitude": 174.805278,
+    "elevation": 41,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

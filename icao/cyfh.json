@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5491",
+    "airport_name": "Fort Hope Airport",
+    "city": "Fort Hope",
+    "country": "Canada",
+    "iata": "YFH",
+    "icao": "CYFH",
+    "latitude": 51.5619,
+    "longitude": -87.9078,
+    "elevation": 899,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

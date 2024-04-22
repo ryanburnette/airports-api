@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1648",
+    "airport_name": "Bacau",
+    "city": "Bacau",
+    "country": "Romania",
+    "iata": "BCM",
+    "icao": "LRBC",
+    "latitude": 46.521946,
+    "longitude": 26.910278,
+    "elevation": 607,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Bucharest"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5450",
+    "airport_name": "Grímsey Airport",
+    "city": "Grímsey",
+    "country": "Iceland",
+    "iata": "GRY",
+    "icao": "BIGR",
+    "latitude": 66.5547,
+    "longitude": -18.0175,
+    "elevation": 66,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

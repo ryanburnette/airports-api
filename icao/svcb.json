@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2826",
+    "airport_name": "Ciudad Bolivar",
+    "city": "Ciudad Bolivar",
+    "country": "Venezuela",
+    "iata": "CBL",
+    "icao": "SVCB",
+    "latitude": 8.121898,
+    "longitude": -63.537353,
+    "elevation": 197,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

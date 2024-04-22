@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1472",
+    "airport_name": "Rhodes Diagoras",
+    "city": "Rhodos",
+    "country": "Greece",
+    "iata": "RHO",
+    "icao": "LGRP",
+    "latitude": 36.405419,
+    "longitude": 28.086192,
+    "elevation": 17,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

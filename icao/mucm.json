@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1904",
+    "airport_name": "Ignacio Agramonte Intl",
+    "city": "Camaguey",
+    "country": "Cuba",
+    "iata": "CMW",
+    "icao": "MUCM",
+    "latitude": 21.420428,
+    "longitude": -77.847433,
+    "elevation": 413,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

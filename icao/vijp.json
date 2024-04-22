@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3098",
+    "airport_name": "Jaipur",
+    "city": "Jaipur",
+    "country": "India",
+    "iata": "JAI",
+    "icao": "VIJP",
+    "latitude": 26.824192,
+    "longitude": 75.812161,
+    "elevation": 1263,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

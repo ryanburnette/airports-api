@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3441",
+    "airport_name": "Hunter Aaf",
+    "city": "Hunter Aaf",
+    "country": "United States",
+    "iata": "SVN",
+    "icao": "KSVN",
+    "latitude": 32.01,
+    "longitude": -81.145683,
+    "elevation": 42,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

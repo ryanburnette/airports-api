@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1147",
+    "airport_name": "Nairobi Wilson",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "iata": "WIL",
+    "icao": "HKNW",
+    "latitude": -1.321719,
+    "longitude": 36.814833,
+    "elevation": 5546,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Nairobi"
+}

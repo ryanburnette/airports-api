@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3334",
+    "airport_name": "Melbourne Essendon",
+    "city": "Melbourne",
+    "country": "Australia",
+    "iata": "MEB",
+    "icao": "YMEN",
+    "latitude": -37.728056,
+    "longitude": 144.901944,
+    "elevation": 282,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

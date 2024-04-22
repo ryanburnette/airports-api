@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2897",
+    "airport_name": "Hato",
+    "city": "Willemstad",
+    "country": "Netherlands Antilles",
+    "iata": "CUR",
+    "icao": "TNCC",
+    "latitude": 12.188853,
+    "longitude": -68.959803,
+    "elevation": 29,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Curacao"
+}

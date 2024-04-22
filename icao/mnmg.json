@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1863",
+    "airport_name": "Managua Intl",
+    "city": "Managua",
+    "country": "Nicaragua",
+    "iata": "MGA",
+    "icao": "MNMG",
+    "latitude": 12.141494,
+    "longitude": -86.168178,
+    "elevation": 194,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Managua"
+}

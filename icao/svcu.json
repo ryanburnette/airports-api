@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2835",
+    "airport_name": "Antonio Jose De Sucre",
+    "city": "Cumana",
+    "country": "Venezuela",
+    "iata": "CUM",
+    "icao": "SVCU",
+    "latitude": 10.450333,
+    "longitude": -64.130472,
+    "elevation": 25,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

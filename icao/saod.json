@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2463",
+    "airport_name": "Villa Dolores",
+    "city": "Villa Dolores",
+    "country": "Argentina",
+    "iata": "VDR",
+    "icao": "SAOD",
+    "latitude": -31.945183,
+    "longitude": -65.146283,
+    "elevation": 1915,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6",
+    "airport_name": "Wewak Intl",
+    "city": "Wewak",
+    "country": "Papua New Guinea",
+    "iata": "WWK",
+    "icao": "AYWK",
+    "latitude": -3.583828,
+    "longitude": 143.669186,
+    "elevation": 19,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

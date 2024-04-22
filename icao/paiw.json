@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7187",
+    "airport_name": "Wales Airport",
+    "city": "Wales",
+    "country": "United States",
+    "iata": "WAA",
+    "icao": "PAIW",
+    "latitude": 65.6225,
+    "longitude": -168.095,
+    "elevation": 22,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

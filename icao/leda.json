@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7459",
+    "airport_name": "Lleida-Alguaire Airport",
+    "city": "Lleida",
+    "country": "Spain",
+    "iata": "ILD",
+    "icao": "LEDA",
+    "latitude": 41.727778,
+    "longitude": 0.535833,
+    "elevation": 1148,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

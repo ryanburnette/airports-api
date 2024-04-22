@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8149",
+    "airport_name": "Suffield Heliport",
+    "city": "Suffield",
+    "country": "Canada",
+    "iata": "YSD",
+    "icao": "CYSD",
+    "latitude": 50.2666701,
+    "longitude": -111.182999,
+    "elevation": 2525,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

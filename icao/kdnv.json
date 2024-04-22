@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9191",
+    "airport_name": "Vermilion Regional",
+    "city": "Danville",
+    "country": "United States",
+    "iata": "DNV",
+    "icao": "KDNV",
+    "latitude": 40.1996944,
+    "longitude": -87.5955278,
+    "elevation": 696,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

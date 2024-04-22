@@ -1,0 +1,14 @@
+{
+    "_csv_row": "608",
+    "airport_name": "Billund",
+    "city": "Billund",
+    "country": "Denmark",
+    "iata": "BLL",
+    "icao": "EKBI",
+    "latitude": 55.740322,
+    "longitude": 9.151778,
+    "elevation": 247,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

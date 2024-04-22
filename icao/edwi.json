@@ -1,0 +1,14 @@
+{
+    "_csv_row": "405",
+    "airport_name": "Wilhelmshaven Mariensiel",
+    "city": "Wilhelmshaven",
+    "country": "Germany",
+    "iata": "WVN",
+    "icao": "EDWI",
+    "latitude": 53.504833,
+    "longitude": 8.053333,
+    "elevation": 16,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4039",
+    "airport_name": "Kalamazoo",
+    "city": "Kalamazoo",
+    "country": "United States",
+    "iata": "AZO",
+    "icao": "KAZO",
+    "latitude": 42.234875,
+    "longitude": -85.552058,
+    "elevation": 874,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

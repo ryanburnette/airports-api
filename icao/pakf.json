@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7202",
+    "airport_name": "False Pass Airport",
+    "city": "False Pass",
+    "country": "United States",
+    "iata": "KFP",
+    "icao": "PAKF",
+    "latitude": 54.8475,
+    "longitude": -163.410278,
+    "elevation": 20,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

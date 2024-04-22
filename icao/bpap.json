@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8637",
+    "airport_name": "Sudkreuz",
+    "city": "Berlin",
+    "country": "Germany",
+    "iata": "",
+    "icao": "BPAP",
+    "latitude": 52.475556,
+    "longitude": 13.364444,
+    "elevation": 136,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

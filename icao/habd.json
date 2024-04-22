@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1111",
+    "airport_name": "Bahir Dar",
+    "city": "Bahar Dar",
+    "country": "Ethiopia",
+    "iata": "BJR",
+    "icao": "HABD",
+    "latitude": 11.608075,
+    "longitude": 37.321644,
+    "elevation": 5976,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

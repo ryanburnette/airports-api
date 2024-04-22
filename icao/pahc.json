@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5962",
+    "airport_name": "Holy Cross Airport",
+    "city": "Holy Cross",
+    "country": "United States",
+    "iata": "HCR",
+    "icao": "PAHC",
+    "latitude": 62.1883,
+    "longitude": -159.775,
+    "elevation": 70,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

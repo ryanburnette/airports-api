@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3341",
+    "airport_name": "Adelaide Intl",
+    "city": "Adelaide",
+    "country": "Australia",
+    "iata": "ADL",
+    "icao": "YPAD",
+    "latitude": -34.945,
+    "longitude": 138.530556,
+    "elevation": 20,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

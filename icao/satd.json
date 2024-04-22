@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2481",
+    "airport_name": "Eldorado",
+    "city": "El Dorado",
+    "country": "Argentina",
+    "iata": "",
+    "icao": "SATD",
+    "latitude": -26.397499,
+    "longitude": -54.574722,
+    "elevation": 685,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

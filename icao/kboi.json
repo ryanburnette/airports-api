@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3495",
+    "airport_name": "Boise Air Terminal",
+    "city": "Boise",
+    "country": "United States",
+    "iata": "BOI",
+    "icao": "KBOI",
+    "latitude": 43.564361,
+    "longitude": -116.222861,
+    "elevation": 2871,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

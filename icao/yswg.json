@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3363",
+    "airport_name": "Wagga Wagga",
+    "city": "Wagga Wagga",
+    "country": "Australia",
+    "iata": "WGA",
+    "icao": "YSWG",
+    "latitude": -35.165278,
+    "longitude": 147.466389,
+    "elevation": 724,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

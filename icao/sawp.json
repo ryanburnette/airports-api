@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2499",
+    "airport_name": "Perito Moreno",
+    "city": "Perito Moreno",
+    "country": "Argentina",
+    "iata": "PMQ",
+    "icao": "SAWP",
+    "latitude": -46.537911,
+    "longitude": -70.978689,
+    "elevation": 1410,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

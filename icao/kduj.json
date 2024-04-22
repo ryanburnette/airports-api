@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5734",
+    "airport_name": "DuBois Regional Airport",
+    "city": "Du Bois",
+    "country": "United States",
+    "iata": "DUJ",
+    "icao": "KDUJ",
+    "latitude": 41.1783,
+    "longitude": -78.8987,
+    "elevation": 1817,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

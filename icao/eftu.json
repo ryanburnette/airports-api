@@ -1,0 +1,14 @@
+{
+    "_csv_row": "460",
+    "airport_name": "Turku",
+    "city": "Turku",
+    "country": "Finland",
+    "iata": "TKU",
+    "icao": "EFTU",
+    "latitude": 60.514142,
+    "longitude": 22.262808,
+    "elevation": 161,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

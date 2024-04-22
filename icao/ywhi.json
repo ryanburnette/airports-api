@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6870",
+    "airport_name": "Whitsunday Airstrip",
+    "city": "Airlie Beach",
+    "country": "Australia",
+    "iata": "WSY",
+    "icao": "YWHI",
+    "latitude": -20.276,
+    "longitude": 148.755,
+    "elevation": 60,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

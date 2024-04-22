@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8980",
+    "airport_name": "Chinchilla",
+    "city": "Chinchilla",
+    "country": "Australia",
+    "iata": "CCL",
+    "icao": "YCCA",
+    "latitude": -26.769444,
+    "longitude": 150.616667,
+    "elevation": 1030,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

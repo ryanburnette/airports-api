@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1270",
+    "airport_name": "Bellegarde",
+    "city": "Limoges",
+    "country": "France",
+    "iata": "LIG",
+    "icao": "LFBL",
+    "latitude": 45.862778,
+    "longitude": 1.179444,
+    "elevation": 1300,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

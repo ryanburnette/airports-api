@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4279",
+    "airport_name": "San Pedro",
+    "city": "San Pedro",
+    "country": "Belize",
+    "iata": "SPR",
+    "icao": "MZ10",
+    "latitude": 17.913936,
+    "longitude": -87.971075,
+    "elevation": 4,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Belize"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "401",
+    "airport_name": "Hildesheim",
+    "city": "Hildesheim",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDVM",
+    "latitude": 52.179833,
+    "longitude": 9.945667,
+    "elevation": 293,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

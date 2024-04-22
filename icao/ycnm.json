@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6259",
+    "airport_name": "Coonamble Airport",
+    "city": "Coonamble",
+    "country": "Australia",
+    "iata": "CNB",
+    "icao": "YCNM",
+    "latitude": -30.9833,
+    "longitude": 148.376,
+    "elevation": 604,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

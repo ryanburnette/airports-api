@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7869",
+    "airport_name": "New Century AirCenter Airport",
+    "city": "Olathe",
+    "country": "United States",
+    "iata": "JCI",
+    "icao": "KIXD",
+    "latitude": 38.8309167,
+    "longitude": -94.8903056,
+    "elevation": 1087,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

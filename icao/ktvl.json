@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4262",
+    "airport_name": "Lake Tahoe Airport",
+    "city": "South Lake Tahoe",
+    "country": "United States",
+    "iata": "TVL",
+    "icao": "KTVL",
+    "latitude": 38.893889,
+    "longitude": -119.995278,
+    "elevation": 8544,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

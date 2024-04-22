@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4099",
+    "airport_name": "Mahlon Sweet Fld",
+    "city": "Eugene",
+    "country": "United States",
+    "iata": "EUG",
+    "icao": "KEUG",
+    "latitude": 44.124583,
+    "longitude": -123.211972,
+    "elevation": 374,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

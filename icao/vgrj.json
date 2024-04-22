@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3072",
+    "airport_name": "Shah Mokhdum",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "iata": "RJH",
+    "icao": "VGRJ",
+    "latitude": 24.437219,
+    "longitude": 88.616511,
+    "elevation": 64,
+    "utc_offset": 6,
+    "_class": "U",
+    "timezone": "Asia/Dhaka"
+}

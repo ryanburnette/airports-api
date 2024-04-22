@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9184",
+    "airport_name": "Lincoln Regional Airport Karl Harder Field",
+    "city": "Lincoln",
+    "country": "United States",
+    "iata": "LHM",
+    "icao": "KLHM",
+    "latitude": 38.9091667,
+    "longitude": -121.3513333,
+    "elevation": 121,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

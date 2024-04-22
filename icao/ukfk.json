@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7963",
+    "airport_name": "Kerch Intl",
+    "city": "Kerch",
+    "country": "Ukraine",
+    "iata": "KHC",
+    "icao": "UKFK",
+    "latitude": 45.372869,
+    "longitude": 36.402761,
+    "elevation": 152,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

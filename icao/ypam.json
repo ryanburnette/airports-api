@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6313",
+    "airport_name": "Palm Island Airport",
+    "city": "Palm Island",
+    "country": "Australia",
+    "iata": "PMK",
+    "icao": "YPAM",
+    "latitude": -18.7553,
+    "longitude": 146.581,
+    "elevation": 28,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

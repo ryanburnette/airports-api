@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5933",
+    "airport_name": "Sari Dasht E Naz Airport",
+    "city": "Dasht-e-naz",
+    "country": "Iran",
+    "iata": "SRY",
+    "icao": "OINZ",
+    "latitude": 36.635833,
+    "longitude": 53.193611,
+    "elevation": 35,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

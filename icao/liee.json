@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1519",
+    "airport_name": "Elmas",
+    "city": "Cagliari",
+    "country": "Italy",
+    "iata": "CAG",
+    "icao": "LIEE",
+    "latitude": 39.251469,
+    "longitude": 9.054283,
+    "elevation": 13,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

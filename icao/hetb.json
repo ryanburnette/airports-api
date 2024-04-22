@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4313",
+    "airport_name": "Taba Intl",
+    "city": "Taba",
+    "country": "Egypt",
+    "iata": "TCP",
+    "icao": "HETB",
+    "latitude": 29.587778,
+    "longitude": 34.778056,
+    "elevation": 2415,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Cairo"
+}

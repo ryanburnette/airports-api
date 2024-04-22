@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1983",
+    "airport_name": "Takapoto",
+    "city": "Takapoto",
+    "country": "French Polynesia",
+    "iata": "TKP",
+    "icao": "NTGT",
+    "latitude": -14.709544,
+    "longitude": -145.245814,
+    "elevation": 12,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

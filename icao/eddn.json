@@ -1,0 +1,14 @@
+{
+    "_csv_row": "347",
+    "airport_name": "Nurnberg",
+    "city": "Nuernberg",
+    "country": "Germany",
+    "iata": "NUE",
+    "icao": "EDDN",
+    "latitude": 49.4987,
+    "longitude": 11.066897,
+    "elevation": 1046,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

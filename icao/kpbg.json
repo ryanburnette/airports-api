@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3771",
+    "airport_name": "Plattsburgh Intl",
+    "city": "Plattsburgh",
+    "country": "United States",
+    "iata": "PBG",
+    "icao": "KPBG",
+    "latitude": 44.650944,
+    "longitude": -73.468139,
+    "elevation": 234,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

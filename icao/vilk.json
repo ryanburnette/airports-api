@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3105",
+    "airport_name": "Lucknow",
+    "city": "Lucknow",
+    "country": "India",
+    "iata": "LKO",
+    "icao": "VILK",
+    "latitude": 26.760594,
+    "longitude": 80.889339,
+    "elevation": 410,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

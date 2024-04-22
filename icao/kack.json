@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3517",
+    "airport_name": "Nantucket Mem",
+    "city": "Nantucket",
+    "country": "United States",
+    "iata": "ACK",
+    "icao": "KACK",
+    "latitude": 41.253053,
+    "longitude": -70.060181,
+    "elevation": 48,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

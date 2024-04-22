@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7730",
+    "airport_name": "Texel Airport",
+    "city": "Texel",
+    "country": "Netherlands",
+    "iata": "",
+    "icao": "EHTX",
+    "latitude": 53.1153,
+    "longitude": 4.83361,
+    "elevation": 2,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

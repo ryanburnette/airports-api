@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2060",
+    "airport_name": "Al Ahsa",
+    "city": "Al-ahsa",
+    "country": "Saudi Arabia",
+    "iata": "HOF",
+    "icao": "OEAH",
+    "latitude": 25.285306,
+    "longitude": 49.485189,
+    "elevation": 588,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Riyadh"
+}

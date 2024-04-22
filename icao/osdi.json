@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2236",
+    "airport_name": "Damascus Intl",
+    "city": "Damascus",
+    "country": "Syria",
+    "iata": "DAM",
+    "icao": "OSDI",
+    "latitude": 33.410636,
+    "longitude": 36.514267,
+    "elevation": 2020,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Asia/Damascus"
+}

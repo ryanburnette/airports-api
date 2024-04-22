@@ -1,0 +1,14 @@
+{
+    "_csv_row": "59",
+    "airport_name": "Fort Resolution",
+    "city": "Fort Resolution",
+    "country": "Canada",
+    "iata": "YFR",
+    "icao": "CYFR",
+    "latitude": 61.180832,
+    "longitude": -113.689722,
+    "elevation": 526,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

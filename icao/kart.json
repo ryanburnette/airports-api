@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3838",
+    "airport_name": "Watertown Intl",
+    "city": "Watertown",
+    "country": "United States",
+    "iata": "ART",
+    "icao": "KART",
+    "latitude": 43.991922,
+    "longitude": -76.021739,
+    "elevation": 325,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2056",
+    "airport_name": "Konduz",
+    "city": "Kunduz",
+    "country": "Afghanistan",
+    "iata": "UND",
+    "icao": "OAUZ",
+    "latitude": 36.665111,
+    "longitude": 68.910833,
+    "elevation": 1457,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

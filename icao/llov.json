@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1602",
+    "airport_name": "Ovda",
+    "city": "Ovda",
+    "country": "Israel",
+    "iata": "VDA",
+    "icao": "LLOV",
+    "latitude": 29.94025,
+    "longitude": 34.93585,
+    "elevation": 1492,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Asia/Jerusalem"
+}

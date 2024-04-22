@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5582",
+    "airport_name": "Røssvoll Airport",
+    "city": "Mo i Rana",
+    "country": "Norway",
+    "iata": "MQN",
+    "icao": "ENRA",
+    "latitude": 66.3639,
+    "longitude": 14.3014,
+    "elevation": 229,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

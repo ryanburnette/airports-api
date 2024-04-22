@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7888",
+    "airport_name": "Buchanan Field Airport",
+    "city": "Concord",
+    "country": "United States",
+    "iata": "CCR",
+    "icao": "KCCR",
+    "latitude": 37.9896667,
+    "longitude": -122.0568889,
+    "elevation": 26,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

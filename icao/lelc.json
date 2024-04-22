@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1227",
+    "airport_name": "Murcia San Javier",
+    "city": "Murcia",
+    "country": "Spain",
+    "iata": "MJV",
+    "icao": "LELC",
+    "latitude": 37.774972,
+    "longitude": -0.812389,
+    "elevation": 11,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6316",
+    "airport_name": "Gove Airport",
+    "city": "Gove",
+    "country": "Australia",
+    "iata": "GOV",
+    "icao": "YPGV",
+    "latitude": -12.2694,
+    "longitude": 136.818,
+    "elevation": 192,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

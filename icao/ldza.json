@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1208",
+    "airport_name": "Zagreb",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "iata": "ZAG",
+    "icao": "LDZA",
+    "latitude": 45.742931,
+    "longitude": 16.068778,
+    "elevation": 353,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zagreb"
+}

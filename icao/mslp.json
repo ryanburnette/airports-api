@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1892",
+    "airport_name": "El Salvador Intl",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "iata": "SAL",
+    "icao": "MSLP",
+    "latitude": 13.440947,
+    "longitude": -89.055728,
+    "elevation": 101,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/El_Salvador"
+}

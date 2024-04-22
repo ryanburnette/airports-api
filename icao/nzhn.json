@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2015",
+    "airport_name": "Hamilton",
+    "city": "Hamilton",
+    "country": "New Zealand",
+    "iata": "HLZ",
+    "icao": "NZHN",
+    "latitude": -37.866661,
+    "longitude": 175.332056,
+    "elevation": 172,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

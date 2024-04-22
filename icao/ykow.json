@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6281",
+    "airport_name": "Kowanyama Airport",
+    "city": "Kowanyama",
+    "country": "Australia",
+    "iata": "KWM",
+    "icao": "YKOW",
+    "latitude": -15.4856,
+    "longitude": 141.751,
+    "elevation": 35,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

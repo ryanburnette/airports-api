@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8460",
+    "airport_name": "Jack Edwards Airport",
+    "city": "Gulf Shores",
+    "country": "United States",
+    "iata": "JKA",
+    "icao": "KJKA",
+    "latitude": 30.2896389,
+    "longitude": -87.6717778,
+    "elevation": 17,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

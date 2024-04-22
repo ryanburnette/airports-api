@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8925",
+    "airport_name": "Iowa City Municipal Airport",
+    "city": "Iowa City",
+    "country": "United States",
+    "iata": "IOW",
+    "icao": "KIOW",
+    "latitude": 41.639244,
+    "longitude": -91.546503,
+    "elevation": 668,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

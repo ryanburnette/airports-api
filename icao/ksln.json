@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5771",
+    "airport_name": "Salina Municipal Airport",
+    "city": "Salina",
+    "country": "United States",
+    "iata": "SLN",
+    "icao": "KSLN",
+    "latitude": 38.791,
+    "longitude": -97.6522,
+    "elevation": 1288,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

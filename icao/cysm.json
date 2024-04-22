@@ -1,0 +1,14 @@
+{
+    "_csv_row": "136",
+    "airport_name": "Fort Smith",
+    "city": "Fort Smith",
+    "country": "Canada",
+    "iata": "YSM",
+    "icao": "CYSM",
+    "latitude": 60.020278,
+    "longitude": -111.961944,
+    "elevation": 671,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

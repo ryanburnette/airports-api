@@ -1,0 +1,14 @@
+{
+    "_csv_row": "658",
+    "airport_name": "Longyear",
+    "city": "Svalbard",
+    "country": "Norway",
+    "iata": "LYR",
+    "icao": "ENSB",
+    "latitude": 78.246111,
+    "longitude": 15.465556,
+    "elevation": 88,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Arctic/Longyearbyen"
+}

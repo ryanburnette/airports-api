@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6290",
+    "airport_name": "Leinster Airport",
+    "city": "Leinster",
+    "country": "Australia",
+    "iata": "LER",
+    "icao": "YLST",
+    "latitude": -27.8433,
+    "longitude": 120.703,
+    "elevation": 1631,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

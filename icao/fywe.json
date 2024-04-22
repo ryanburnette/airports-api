@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5645",
+    "airport_name": "Eros Airport",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "iata": "ERS",
+    "icao": "FYWE",
+    "latitude": -22.6122,
+    "longitude": 17.0804,
+    "elevation": 5575,
+    "utc_offset": 1,
+    "_class": "S",
+    "timezone": "Africa/Windhoek"
+}

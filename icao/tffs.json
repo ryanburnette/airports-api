@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6786",
+    "airport_name": "Terre-de-Haut Airport",
+    "city": "Les Saintes",
+    "country": "Guadeloupe",
+    "iata": "LSS",
+    "icao": "TFFS",
+    "latitude": 15.8644,
+    "longitude": -61.5806,
+    "elevation": 46,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Guadeloupe"
+}

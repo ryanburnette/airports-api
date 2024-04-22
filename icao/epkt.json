@@ -1,0 +1,14 @@
+{
+    "_csv_row": "671",
+    "airport_name": "Pyrzowice",
+    "city": "Katowice",
+    "country": "Poland",
+    "iata": "KTW",
+    "icao": "EPKT",
+    "latitude": 50.474253,
+    "longitude": 19.080019,
+    "elevation": 995,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

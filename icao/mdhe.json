@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7911",
+    "airport_name": "Herrera International Airport",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "iata": "HEX",
+    "icao": "MDHE",
+    "latitude": 18.475,
+    "longitude": -69.975,
+    "elevation": 22,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santo_Domingo"
+}

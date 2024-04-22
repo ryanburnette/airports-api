@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7369",
+    "airport_name": "Campo Alegre Airport",
+    "city": "Santana do Araguaia",
+    "country": "Brazil",
+    "iata": "CMP",
+    "icao": "SNKE",
+    "latitude": -9.505,
+    "longitude": -50.625,
+    "elevation": 525,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Boa_Vista"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1050",
+    "airport_name": "Banjul Intl",
+    "city": "Banjul",
+    "country": "Gambia",
+    "iata": "BJL",
+    "icao": "GBYD",
+    "latitude": 13.337961,
+    "longitude": -16.652206,
+    "elevation": 95,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Banjul"
+}

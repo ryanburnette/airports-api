@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3200",
+    "airport_name": "Nhatrang",
+    "city": "Nhatrang",
+    "country": "Vietnam",
+    "iata": "NHA",
+    "icao": "VVNT",
+    "latitude": 12.227467,
+    "longitude": 109.192322,
+    "elevation": 20,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Saigon"
+}

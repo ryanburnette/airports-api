@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8474",
+    "airport_name": "Greater Cumberland Rgnl.",
+    "city": "Cumberland",
+    "country": "United States",
+    "iata": "CBE",
+    "icao": "KCBE",
+    "latitude": 39.615278,
+    "longitude": -78.760556,
+    "elevation": 775,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

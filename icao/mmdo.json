@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1801",
+    "airport_name": "Durango Intl",
+    "city": "Durango",
+    "country": "Mexico",
+    "iata": "DGO",
+    "icao": "MMDO",
+    "latitude": 24.124194,
+    "longitude": -104.528014,
+    "elevation": 6104,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

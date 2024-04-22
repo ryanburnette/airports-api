@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6061",
+    "airport_name": "Zorg en Hoop Airport",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "iata": "ORG",
+    "icao": "SMZO",
+    "latitude": 5.81108,
+    "longitude": -55.1907,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Paramaribo"
+}

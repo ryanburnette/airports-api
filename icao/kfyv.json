@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3760",
+    "airport_name": "Drake Fld",
+    "city": "Fayetteville",
+    "country": "United States",
+    "iata": "FYV",
+    "icao": "KFYV",
+    "latitude": 36.005094,
+    "longitude": -94.170059,
+    "elevation": 1251,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

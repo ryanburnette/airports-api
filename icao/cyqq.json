@@ -1,0 +1,14 @@
+{
+    "_csv_row": "119",
+    "airport_name": "Comox",
+    "city": "Comox",
+    "country": "Canada",
+    "iata": "YQQ",
+    "icao": "CYQQ",
+    "latitude": 49.710833,
+    "longitude": -124.886667,
+    "elevation": 84,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7073",
+    "airport_name": "San Luis Valley Regional Airport",
+    "city": "Alamosa",
+    "country": "United States",
+    "iata": "ALS",
+    "icao": "KALS",
+    "latitude": 37.435,
+    "longitude": -105.866667,
+    "elevation": 7539,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

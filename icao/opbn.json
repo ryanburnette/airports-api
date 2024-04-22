@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5938",
+    "airport_name": "Bannu Airport",
+    "city": "Bannu",
+    "country": "Pakistan",
+    "iata": "BNP",
+    "icao": "OPBN",
+    "latitude": 32.9729,
+    "longitude": 70.5279,
+    "elevation": 1325,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

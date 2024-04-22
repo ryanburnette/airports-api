@@ -1,0 +1,14 @@
+{
+    "_csv_row": "240",
+    "airport_name": "Sidi Mahdi",
+    "city": "Touggourt",
+    "country": "Algeria",
+    "iata": "TGR",
+    "icao": "DAUK",
+    "latitude": 33.067803,
+    "longitude": 6.088672,
+    "elevation": 279,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Algiers"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1291",
+    "airport_name": "Villeneuve Sur Lot",
+    "city": "Villeneuve-sur-lot",
+    "country": "France",
+    "iata": "",
+    "icao": "LFCW",
+    "latitude": 44.396946,
+    "longitude": 0.758889,
+    "elevation": 190,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

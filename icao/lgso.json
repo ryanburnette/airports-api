@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5787",
+    "airport_name": "Syros Airport",
+    "city": "Syros Island",
+    "country": "Greece",
+    "iata": "JSY",
+    "icao": "LGSO",
+    "latitude": 37.422792,
+    "longitude": 24.950936,
+    "elevation": 236,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

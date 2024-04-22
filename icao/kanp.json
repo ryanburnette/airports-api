@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8935",
+    "airport_name": "Lee Airport",
+    "city": "Annapolis",
+    "country": "United States",
+    "iata": "ANP",
+    "icao": "KANP",
+    "latitude": 38.942778,
+    "longitude": -76.568333,
+    "elevation": 34,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

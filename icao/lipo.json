@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1544",
+    "airport_name": "Montichiari",
+    "city": "Brescia",
+    "country": "Italy",
+    "iata": "VBS",
+    "icao": "LIPO",
+    "latitude": 45.428889,
+    "longitude": 10.330556,
+    "elevation": 356,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

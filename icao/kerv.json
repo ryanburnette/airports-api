@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7009",
+    "airport_name": "Kerrville Municipal Airport",
+    "city": "Kerrville",
+    "country": "United States",
+    "iata": "ERV",
+    "icao": "KERV",
+    "latitude": 29.9766667,
+    "longitude": -99.0854722,
+    "elevation": 1617,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

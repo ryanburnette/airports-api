@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3881",
+    "airport_name": "Youngstown Warren Rgnl",
+    "city": "Youngstown",
+    "country": "United States",
+    "iata": "YNG",
+    "icao": "KYNG",
+    "latitude": 41.260736,
+    "longitude": -80.679097,
+    "elevation": 1196,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

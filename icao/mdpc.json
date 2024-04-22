@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1760",
+    "airport_name": "Punta Cana Intl",
+    "city": "Punta Cana",
+    "country": "Dominican Republic",
+    "iata": "PUJ",
+    "icao": "MDPC",
+    "latitude": 18.567367,
+    "longitude": -68.363431,
+    "elevation": 47,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santo_Domingo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "627",
+    "airport_name": "Stauning",
+    "city": "Stauning",
+    "country": "Denmark",
+    "iata": "STA",
+    "icao": "EKVJ",
+    "latitude": 55.990122,
+    "longitude": 8.353906,
+    "elevation": 17,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

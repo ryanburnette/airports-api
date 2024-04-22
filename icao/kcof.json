@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3623",
+    "airport_name": "Patrick Afb",
+    "city": "Coco Beach",
+    "country": "United States",
+    "iata": "COF",
+    "icao": "KCOF",
+    "latitude": 28.234922,
+    "longitude": -80.610125,
+    "elevation": 8,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

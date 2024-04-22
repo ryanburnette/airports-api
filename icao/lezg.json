@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1252",
+    "airport_name": "Zaragoza Ab",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "iata": "ZAZ",
+    "icao": "LEZG",
+    "latitude": 41.666242,
+    "longitude": -1.041553,
+    "elevation": 863,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

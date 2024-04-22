@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7019",
+    "airport_name": "Eagle River",
+    "city": "Eagle River",
+    "country": "United States",
+    "iata": "EGV",
+    "icao": "KEGV",
+    "latitude": 45.932333,
+    "longitude": -89.268283,
+    "elevation": 1642,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1106",
+    "airport_name": "Sao Pedro",
+    "city": "Sao Vicente Island",
+    "country": "Cape Verde",
+    "iata": "VXE",
+    "icao": "GVSV",
+    "latitude": 16.833689,
+    "longitude": -25.054661,
+    "elevation": 66,
+    "utc_offset": -1,
+    "_class": "U",
+    "timezone": "Atlantic/Cape_Verde"
+}

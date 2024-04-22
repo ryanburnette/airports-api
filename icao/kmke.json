@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3717",
+    "airport_name": "General Mitchell Intl",
+    "city": "Milwaukee",
+    "country": "United States",
+    "iata": "MKE",
+    "icao": "KMKE",
+    "latitude": 42.947222,
+    "longitude": -87.896583,
+    "elevation": 723,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

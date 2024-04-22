@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2819",
+    "airport_name": "Anaco",
+    "city": "Anaco",
+    "country": "Venezuela",
+    "iata": "AAO",
+    "icao": "SVAN",
+    "latitude": 9.430225,
+    "longitude": -64.470725,
+    "elevation": 721,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

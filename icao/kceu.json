@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8802",
+    "airport_name": "Clemson",
+    "city": "Clemson",
+    "country": "United States",
+    "iata": "CEU",
+    "icao": "KCEU",
+    "latitude": 34.6722222,
+    "longitude": -82.8858889,
+    "elevation": 891,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

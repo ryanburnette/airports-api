@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1024",
+    "airport_name": "Bandundu",
+    "city": "Bandoundu",
+    "country": "Congo (Kinshasa)",
+    "iata": "FDU",
+    "icao": "FZBO",
+    "latitude": -3.311319,
+    "longitude": 17.381683,
+    "elevation": 1053,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Kinshasa"
+}

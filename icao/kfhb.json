@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8806",
+    "airport_name": "Fernandina Beach Municipal Airport",
+    "city": "Fernandina Beach",
+    "country": "United States",
+    "iata": "FHB",
+    "icao": "KFHB",
+    "latitude": 30.6118333,
+    "longitude": -81.4611944,
+    "elevation": 16,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

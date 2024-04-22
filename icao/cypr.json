@@ -1,0 +1,14 @@
+{
+    "_csv_row": "108",
+    "airport_name": "Prince Rupert",
+    "city": "Prince Pupert",
+    "country": "Canada",
+    "iata": "YPR",
+    "icao": "CYPR",
+    "latitude": 54.28611,
+    "longitude": -130.444722,
+    "elevation": 116,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

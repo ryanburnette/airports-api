@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3652",
+    "airport_name": "Midland Intl",
+    "city": "Midland",
+    "country": "United States",
+    "iata": "MAF",
+    "icao": "KMAF",
+    "latitude": 31.942528,
+    "longitude": -102.201914,
+    "elevation": 2871,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

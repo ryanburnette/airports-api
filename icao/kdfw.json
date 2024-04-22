@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3670",
+    "airport_name": "Dallas Fort Worth Intl",
+    "city": "Dallas-Fort Worth",
+    "country": "United States",
+    "iata": "DFW",
+    "icao": "KDFW",
+    "latitude": 32.896828,
+    "longitude": -97.037997,
+    "elevation": 607,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

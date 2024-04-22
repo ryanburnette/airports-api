@@ -1,0 +1,14 @@
+{
+    "_csv_row": "420",
+    "airport_name": "Helsinki Malmi",
+    "city": "Helsinki",
+    "country": "Finland",
+    "iata": "HEM",
+    "icao": "EFHF",
+    "latitude": 60.254558,
+    "longitude": 25.042828,
+    "elevation": 57,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

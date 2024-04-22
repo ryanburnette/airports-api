@@ -1,0 +1,14 @@
+{
+    "_csv_row": "356",
+    "airport_name": "Mannheim City",
+    "city": "Mannheim",
+    "country": "Germany",
+    "iata": "MHG",
+    "icao": "EDFM",
+    "latitude": 49.472706,
+    "longitude": 8.514264,
+    "elevation": 309,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

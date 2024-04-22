@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3633",
+    "airport_name": "Newport News Williamsburg Intl",
+    "city": "Newport News",
+    "country": "United States",
+    "iata": "PHF",
+    "icao": "KPHF",
+    "latitude": 37.131894,
+    "longitude": -76.492989,
+    "elevation": 43,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

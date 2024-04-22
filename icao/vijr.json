@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3099",
+    "airport_name": "Jaisalmer",
+    "city": "Jaisalmer",
+    "country": "India",
+    "iata": "JSA",
+    "icao": "VIJR",
+    "latitude": 26.888653,
+    "longitude": 70.864967,
+    "elevation": 751,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

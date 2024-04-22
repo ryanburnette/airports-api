@@ -1,0 +1,14 @@
+{
+    "_csv_row": "83",
+    "airport_name": "Chapleau",
+    "city": "Chapleau",
+    "country": "Canada",
+    "iata": "YLD",
+    "icao": "CYLD",
+    "latitude": 47.82,
+    "longitude": -83.346667,
+    "elevation": 1470,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

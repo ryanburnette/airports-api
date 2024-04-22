@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4067",
+    "airport_name": "Sarasota Bradenton Intl",
+    "city": "Sarasota",
+    "country": "United States",
+    "iata": "SRQ",
+    "icao": "KSRQ",
+    "latitude": 27.395444,
+    "longitude": -82.554389,
+    "elevation": 30,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

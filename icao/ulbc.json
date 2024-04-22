@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6111",
+    "airport_name": "Cherepovets Airport",
+    "city": "Cherepovets",
+    "country": "Russia",
+    "iata": "CEE",
+    "icao": "ULBC",
+    "latitude": 59.2736,
+    "longitude": 38.0158,
+    "elevation": 377,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

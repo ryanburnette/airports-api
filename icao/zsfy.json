@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7503",
+    "airport_name": "Fuyang Airport",
+    "city": "Fuyang",
+    "country": "China",
+    "iata": "FUG",
+    "icao": "ZSFY",
+    "latitude": 32.9,
+    "longitude": 115.816667,
+    "elevation": 500,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

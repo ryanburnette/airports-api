@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5728",
+    "airport_name": "Cape Girardeau Regional Airport",
+    "city": "Cape Girardeau",
+    "country": "United States",
+    "iata": "CGI",
+    "icao": "KCGI",
+    "latitude": 37.2253,
+    "longitude": -89.5708,
+    "elevation": 342,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

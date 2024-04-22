@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5458",
+    "airport_name": "Williams Harbour Airport",
+    "city": "Williams Harbour",
+    "country": "Canada",
+    "iata": "YWM",
+    "icao": "CCA6",
+    "latitude": 52.5669,
+    "longitude": -55.7847,
+    "elevation": 70,
+    "utc_offset": -3.5,
+    "_class": "A",
+    "timezone": "America/St_Johns"
+}

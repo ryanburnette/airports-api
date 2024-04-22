@@ -1,0 +1,14 @@
+{
+    "_csv_row": "178",
+    "airport_name": "Calgary Intl",
+    "city": "Calgary",
+    "country": "Canada",
+    "iata": "YYC",
+    "icao": "CYYC",
+    "latitude": 51.113888,
+    "longitude": -114.020278,
+    "elevation": 3557,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5871",
+    "airport_name": "Moala Airport",
+    "city": "Moala",
+    "country": "Fiji",
+    "iata": "MFJ",
+    "icao": "NFMO",
+    "latitude": -18.5667,
+    "longitude": 179.951,
+    "elevation": 13,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Fiji"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3664",
+    "airport_name": "Homer",
+    "city": "Homer",
+    "country": "United States",
+    "iata": "HOM",
+    "icao": "PAHO",
+    "latitude": 59.645556,
+    "longitude": -151.476583,
+    "elevation": 84,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

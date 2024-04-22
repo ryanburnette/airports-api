@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8219",
+    "airport_name": "Silver Springs Airport",
+    "city": "Silver Springs",
+    "country": "United States",
+    "iata": "SPZ",
+    "icao": "KSPZ",
+    "latitude": 39.4030278,
+    "longitude": -119.2511944,
+    "elevation": 4269,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

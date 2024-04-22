@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6737",
+    "airport_name": "Pajala Airport",
+    "city": "Pajala",
+    "country": "Sweden",
+    "iata": "PJA",
+    "icao": "ESUP",
+    "latitude": 67.2456,
+    "longitude": 23.0689,
+    "elevation": 542,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

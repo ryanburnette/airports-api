@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8848",
+    "airport_name": "Theodore",
+    "city": "Theodore",
+    "country": "Australia",
+    "iata": "TDR",
+    "icao": "YTDR",
+    "latitude": -24.986737,
+    "longitude": 150.093112,
+    "elevation": 560,
+    "utc_offset": 10,
+    "_class": "N",
+    "timezone": "Australia/Brisbane"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7010",
+    "airport_name": "Birrfeld",
+    "city": "Birrfeld",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSZF",
+    "latitude": 47.4436,
+    "longitude": 8.23361,
+    "elevation": 1300,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

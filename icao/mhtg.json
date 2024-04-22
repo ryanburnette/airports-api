@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1776",
+    "airport_name": "Toncontin Intl",
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "iata": "TGU",
+    "icao": "MHTG",
+    "latitude": 14.060883,
+    "longitude": -87.217197,
+    "elevation": 3294,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Tegucigalpa"
+}

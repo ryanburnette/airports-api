@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5585",
+    "airport_name": "Anda Airport",
+    "city": "Sandane",
+    "country": "Norway",
+    "iata": "SDN",
+    "icao": "ENSD",
+    "latitude": 61.83,
+    "longitude": 6.10583,
+    "elevation": 196,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

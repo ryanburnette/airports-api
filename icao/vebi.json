@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6172",
+    "airport_name": "Shillong Airport",
+    "city": "Shillong",
+    "country": "India",
+    "iata": "SHL",
+    "icao": "VEBI",
+    "latitude": 25.7036,
+    "longitude": 91.9787,
+    "elevation": 2910,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

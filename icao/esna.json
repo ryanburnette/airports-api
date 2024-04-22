@@ -1,0 +1,14 @@
+{
+    "_csv_row": "712",
+    "airport_name": "Hallviken",
+    "city": "Hallviken",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESNA",
+    "latitude": 63.738333,
+    "longitude": 15.458333,
+    "elevation": 1119,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

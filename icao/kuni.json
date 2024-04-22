@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7907",
+    "airport_name": "Ohio University Airport",
+    "city": "Athens",
+    "country": "United States",
+    "iata": "",
+    "icao": "KUNI",
+    "latitude": 39.2118928,
+    "longitude": -82.2292554,
+    "elevation": 766,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

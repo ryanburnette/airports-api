@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8290",
+    "airport_name": "Fitchburg Municipal Airport",
+    "city": "Fitchburg",
+    "country": "United States",
+    "iata": "FIT",
+    "icao": "KFIT",
+    "latitude": 42.5541111,
+    "longitude": -71.7589722,
+    "elevation": 348,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

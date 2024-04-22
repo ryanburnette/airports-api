@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1550",
+    "airport_name": "Villafranca",
+    "city": "Villafranca",
+    "country": "Italy",
+    "iata": "VRN",
+    "icao": "LIPX",
+    "latitude": 45.395706,
+    "longitude": 10.888533,
+    "elevation": 239,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

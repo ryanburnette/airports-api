@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1353",
+    "airport_name": "Provence",
+    "city": "Marseille",
+    "country": "France",
+    "iata": "MRS",
+    "icao": "LFML",
+    "latitude": 43.435555,
+    "longitude": 5.213611,
+    "elevation": 74,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

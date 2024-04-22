@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6130",
+    "airport_name": "Mid Delta Regional Airport",
+    "city": "Greenville",
+    "country": "United States",
+    "iata": "GLH",
+    "icao": "GLH",
+    "latitude": 33.4829,
+    "longitude": -90.9856,
+    "elevation": 131,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

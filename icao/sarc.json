@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2468",
+    "airport_name": "Corrientes",
+    "city": "Corrientes",
+    "country": "Argentina",
+    "iata": "CNQ",
+    "icao": "SARC",
+    "latitude": -27.445503,
+    "longitude": -58.761864,
+    "elevation": 203,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

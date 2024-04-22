@@ -1,0 +1,14 @@
+{
+    "_csv_row": "53",
+    "airport_name": "Eureka",
+    "city": "Eureka",
+    "country": "Canada",
+    "iata": "YEU",
+    "icao": "CYEU",
+    "latitude": 79.994722,
+    "longitude": -85.814167,
+    "elevation": 256,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "438",
+    "airport_name": "Kittila",
+    "city": "Kittila",
+    "country": "Finland",
+    "iata": "KTT",
+    "icao": "EFKT",
+    "latitude": 67.701022,
+    "longitude": 24.84685,
+    "elevation": 644,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

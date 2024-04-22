@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3656",
+    "airport_name": "Cherry Point Mcas",
+    "city": "Cherry Point",
+    "country": "United States",
+    "iata": "NKT",
+    "icao": "KNKT",
+    "latitude": 34.900872,
+    "longitude": -76.880733,
+    "elevation": 29,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

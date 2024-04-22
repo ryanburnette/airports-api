@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4209",
+    "airport_name": "Aeroporto de Porto Seguro",
+    "city": "Porto Seguro",
+    "country": "Brazil",
+    "iata": "BPS",
+    "icao": "SBPS",
+    "latitude": -16.438611,
+    "longitude": -39.080833,
+    "elevation": 167,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

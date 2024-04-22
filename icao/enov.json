@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4345",
+    "airport_name": "Hovden",
+    "city": "Orsta-Volda",
+    "country": "Norway",
+    "iata": "HOV",
+    "icao": "ENOV",
+    "latitude": 62.18,
+    "longitude": 6.0742,
+    "elevation": 242,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4244",
+    "airport_name": "Paulatuk",
+    "city": "Paulatuk",
+    "country": "Canada",
+    "iata": "YPC",
+    "icao": "CYPC",
+    "latitude": 62.35,
+    "longitude": -124.3333,
+    "elevation": 50,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

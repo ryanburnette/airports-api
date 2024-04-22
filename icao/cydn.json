@@ -1,0 +1,14 @@
+{
+    "_csv_row": "47",
+    "airport_name": "Dauphin Barker",
+    "city": "Dauphin",
+    "country": "Canada",
+    "iata": "YDN",
+    "icao": "CYDN",
+    "latitude": 51.100834,
+    "longitude": -100.0525,
+    "elevation": 999,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

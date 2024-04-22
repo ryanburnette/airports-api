@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9446",
+    "airport_name": "Issyk-Kul International Airport",
+    "city": "Tamchy",
+    "country": "Kyrgyzstan",
+    "iata": "ИКУ",
+    "icao": "UCFL",
+    "latitude": 42.3527,
+    "longitude": 76.4278,
+    "elevation": 5426,
+    "utc_offset": 6,
+    "_class": "N",
+    "timezone": "Asia/Bishkek"
+}

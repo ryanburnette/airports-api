@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4031",
+    "airport_name": "Milford Sound Airport",
+    "city": "Milford Sound",
+    "country": "New Zealand",
+    "iata": "MFN",
+    "icao": "NZMF",
+    "latitude": -44.67333,
+    "longitude": 167.92333,
+    "elevation": 10,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

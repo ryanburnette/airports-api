@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4326",
+    "airport_name": "Valan",
+    "city": "Honningsvag",
+    "country": "Norway",
+    "iata": "HVG",
+    "icao": "ENHV",
+    "latitude": 70.99,
+    "longitude": 25.83,
+    "elevation": 46,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

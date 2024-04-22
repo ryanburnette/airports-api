@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3412",
+    "airport_name": "Wainwright As",
+    "city": "Fort Wainwright",
+    "country": "United States",
+    "iata": "K03",
+    "icao": "PAWT",
+    "latitude": 70.613378,
+    "longitude": -159.86035,
+    "elevation": 35,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

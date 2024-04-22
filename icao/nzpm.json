@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2028",
+    "airport_name": "Palmerston North",
+    "city": "Palmerston North",
+    "country": "New Zealand",
+    "iata": "PMR",
+    "icao": "NZPM",
+    "latitude": -40.320556,
+    "longitude": 175.616944,
+    "elevation": 151,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

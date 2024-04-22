@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9189",
+    "airport_name": "Pappy Boyington",
+    "city": "Coeur d'Alene",
+    "country": "United States",
+    "iata": "COE",
+    "icao": "KCOE",
+    "latitude": 47.7743056,
+    "longitude": -116.8195833,
+    "elevation": 2320,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

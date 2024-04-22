@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5926",
+    "airport_name": "Wadi Al Dawasir Airport",
+    "city": "Wadi-al-dawasir",
+    "country": "Saudi Arabia",
+    "iata": "EWD",
+    "icao": "OEWD",
+    "latitude": 20.504275,
+    "longitude": 45.199556,
+    "elevation": 2062,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Riyadh"
+}

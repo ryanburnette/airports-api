@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8790",
+    "airport_name": "Beaver Falls",
+    "city": "Beaver Falls",
+    "country": "United States",
+    "iata": "BFP",
+    "icao": "KBFP",
+    "latitude": 40.7724722,
+    "longitude": -80.3914444,
+    "elevation": 1253,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3415",
+    "airport_name": "Hilo Intl",
+    "city": "Hilo",
+    "country": "United States",
+    "iata": "ITO",
+    "icao": "PHTO",
+    "latitude": 19.721375,
+    "longitude": -155.048469,
+    "elevation": 38,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

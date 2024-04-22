@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1899",
+    "airport_name": "Carlos Manuel De Cespedes",
+    "city": "Bayamo",
+    "country": "Cuba",
+    "iata": "BYM",
+    "icao": "MUBY",
+    "latitude": 20.396331,
+    "longitude": -76.621494,
+    "elevation": 203,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

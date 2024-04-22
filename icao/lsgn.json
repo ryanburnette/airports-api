@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6931",
+    "airport_name": "Neuchatel Airport",
+    "city": "Neuchatel",
+    "country": "Switzerland",
+    "iata": "QNC",
+    "icao": "LSGN",
+    "latitude": 46.9575,
+    "longitude": 6.86472,
+    "elevation": 1427,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

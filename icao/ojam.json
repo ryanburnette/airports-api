@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2171",
+    "airport_name": "Marka Intl",
+    "city": "Amman",
+    "country": "Jordan",
+    "iata": "ADJ",
+    "icao": "OJAM",
+    "latitude": 31.972703,
+    "longitude": 35.991569,
+    "elevation": 2555,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Asia/Amman"
+}

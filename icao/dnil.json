@@ -1,0 +1,14 @@
+{
+    "_csv_row": "267",
+    "airport_name": "Ilorin",
+    "city": "Ilorin",
+    "country": "Nigeria",
+    "iata": "ILR",
+    "icao": "DNIL",
+    "latitude": 8.440211,
+    "longitude": 4.493919,
+    "elevation": 1126,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Lagos"
+}

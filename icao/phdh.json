@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3583",
+    "airport_name": "Dillingham",
+    "city": "Dillingham",
+    "country": "United States",
+    "iata": "HDH",
+    "icao": "PHDH",
+    "latitude": 21.579475,
+    "longitude": -158.197281,
+    "elevation": 14,
+    "utc_offset": -10,
+    "_class": "A",
+    "timezone": "Pacific/Honolulu"
+}

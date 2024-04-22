@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8784",
+    "airport_name": "Lima Allen County Airport",
+    "city": "Lima",
+    "country": "United States",
+    "iata": "AOH",
+    "icao": "KAOH",
+    "latitude": 40.707478,
+    "longitude": -84.0270781,
+    "elevation": 975,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

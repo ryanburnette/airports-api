@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1235",
+    "airport_name": "Alcantarilla",
+    "city": "Murcia",
+    "country": "Spain",
+    "iata": "",
+    "icao": "LERI",
+    "latitude": 37.951111,
+    "longitude": -1.230319,
+    "elevation": 250,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

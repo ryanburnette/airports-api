@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8499",
+    "airport_name": "Reynolds Field",
+    "city": "Jackson",
+    "country": "United States",
+    "iata": "JXN",
+    "icao": "KJXN",
+    "latitude": 42.260556,
+    "longitude": -84.460556,
+    "elevation": 1001,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

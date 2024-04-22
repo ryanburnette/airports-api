@@ -1,0 +1,14 @@
+{
+    "_csv_row": "256",
+    "airport_name": "Korhogo",
+    "city": "Korhogo",
+    "country": "Cote d'Ivoire",
+    "iata": "HGO",
+    "icao": "DIKO",
+    "latitude": 9.387183,
+    "longitude": -5.556664,
+    "elevation": 1214,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Abidjan"
+}

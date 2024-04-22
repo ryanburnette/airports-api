@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8362",
+    "airport_name": "Manitoulin East",
+    "city": "Manitowaning",
+    "country": "Canada",
+    "iata": "YEM",
+    "icao": "CYEM",
+    "latitude": 45.8425,
+    "longitude": -81.8575,
+    "elevation": 869,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

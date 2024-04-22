@@ -1,0 +1,14 @@
+{
+    "_csv_row": "412",
+    "airport_name": "Kardla",
+    "city": "Kardla",
+    "country": "Estonia",
+    "iata": "KDL",
+    "icao": "EEKA",
+    "latitude": 58.990756,
+    "longitude": 22.830733,
+    "elevation": 18,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Tallinn"
+}

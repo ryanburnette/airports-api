@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8358",
+    "airport_name": "Hornepayne",
+    "city": "Hornepayne",
+    "country": "Canada",
+    "iata": "YHN",
+    "icao": "CYHN",
+    "latitude": 49.193056,
+    "longitude": -84.758889,
+    "elevation": 1099,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

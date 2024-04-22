@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7580",
+    "airport_name": "Steamboat Springs Airport-Bob Adams Field",
+    "city": "Steamboat Springs",
+    "country": "United States",
+    "iata": "SBS",
+    "icao": "KSBS",
+    "latitude": 40.51625,
+    "longitude": -106.8663056,
+    "elevation": 6882,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

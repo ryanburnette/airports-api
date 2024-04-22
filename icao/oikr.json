@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5929",
+    "airport_name": "Rafsanjan Airport",
+    "city": "Rafsanjan",
+    "country": "Iran",
+    "iata": "RJN",
+    "icao": "OIKR",
+    "latitude": 30.297714,
+    "longitude": 56.051139,
+    "elevation": 5298,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

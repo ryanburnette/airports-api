@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2683",
+    "airport_name": "Eloy Alfaro Intl",
+    "city": "Manta",
+    "country": "Ecuador",
+    "iata": "MEC",
+    "icao": "SEMT",
+    "latitude": -0.946078,
+    "longitude": -80.678808,
+    "elevation": 48,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

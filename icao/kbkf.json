@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3567",
+    "airport_name": "Buckley Afb",
+    "city": "Buckley",
+    "country": "United States",
+    "iata": "BKF",
+    "icao": "KBKF",
+    "latitude": 39.701668,
+    "longitude": -104.75166,
+    "elevation": 5662,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

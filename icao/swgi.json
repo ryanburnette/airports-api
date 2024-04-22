@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7368",
+    "airport_name": "Gurupi Airport",
+    "city": "Gurupi",
+    "country": "Brazil",
+    "iata": "GRP",
+    "icao": "SWGI",
+    "latitude": -11.728889,
+    "longitude": -49.068889,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

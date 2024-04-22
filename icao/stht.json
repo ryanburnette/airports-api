@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9505",
+    "airport_name": "Southeast",
+    "city": "Southeast",
+    "country": "United States",
+    "iata": "",
+    "icao": "STHT",
+    "latitude": 41.413179,
+    "longitude": -73.623551,
+    "elevation": 338,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

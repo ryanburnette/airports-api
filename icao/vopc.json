@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3147",
+    "airport_name": "Pondicherry",
+    "city": "Pendicherry",
+    "country": "India",
+    "iata": "PNY",
+    "icao": "VOPC",
+    "latitude": 11.968722,
+    "longitude": 79.810058,
+    "elevation": 118,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

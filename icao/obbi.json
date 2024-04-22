@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2057",
+    "airport_name": "Bahrain Intl",
+    "city": "Bahrain",
+    "country": "Bahrain",
+    "iata": "BAH",
+    "icao": "OBBI",
+    "latitude": 26.270834,
+    "longitude": 50.63361,
+    "elevation": 6,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Bahrain"
+}

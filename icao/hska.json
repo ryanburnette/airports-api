@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1170",
+    "airport_name": "Kassala",
+    "city": "Kassala",
+    "country": "Sudan",
+    "iata": "KSL",
+    "icao": "HSKA",
+    "latitude": 15.387494,
+    "longitude": 36.328842,
+    "elevation": 1671,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Khartoum"
+}

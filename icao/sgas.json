@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2699",
+    "airport_name": "Silvio Pettirossi Intl",
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "iata": "ASU",
+    "icao": "SGAS",
+    "latitude": -25.23985,
+    "longitude": -57.519133,
+    "elevation": 292,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Asuncion"
+}

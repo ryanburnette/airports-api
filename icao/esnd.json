@@ -1,0 +1,14 @@
+{
+    "_csv_row": "714",
+    "airport_name": "Sveg",
+    "city": "Sveg",
+    "country": "Sweden",
+    "iata": "EVG",
+    "icao": "ESND",
+    "latitude": 62.047811,
+    "longitude": 14.42295,
+    "elevation": 1178,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

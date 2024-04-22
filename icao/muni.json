@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7785",
+    "airport_name": "Munich HBF",
+    "city": "Munich",
+    "country": "Germany",
+    "iata": "MUQ",
+    "icao": "MUNI",
+    "latitude": 48.1408,
+    "longitude": 11.555,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

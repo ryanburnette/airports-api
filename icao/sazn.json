@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2509",
+    "airport_name": "Presidente Peron",
+    "city": "Neuquen",
+    "country": "Argentina",
+    "iata": "NQN",
+    "icao": "SAZN",
+    "latitude": -38.949,
+    "longitude": -68.155711,
+    "elevation": 895,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

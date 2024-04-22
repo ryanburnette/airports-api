@@ -1,0 +1,14 @@
+{
+    "_csv_row": "55",
+    "airport_name": "Iqaluit",
+    "city": "Iqaluit",
+    "country": "Canada",
+    "iata": "YFB",
+    "icao": "CYFB",
+    "latitude": 63.75639,
+    "longitude": -68.555832,
+    "elevation": 110,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8284",
+    "airport_name": "Capital City Airport",
+    "city": "Harrisburg",
+    "country": "United States",
+    "iata": "CXY",
+    "icao": "KCXY",
+    "latitude": 40.2171389,
+    "longitude": -76.8513611,
+    "elevation": 347,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

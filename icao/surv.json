@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8236",
+    "airport_name": "Rivera International Airport",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "iata": "RVY",
+    "icao": "SURV",
+    "latitude": -30.974444,
+    "longitude": -55.476111,
+    "elevation": 712,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Montevideo"
+}

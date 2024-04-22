@@ -1,0 +1,14 @@
+{
+    "_csv_row": "815",
+    "airport_name": "Kimberley",
+    "city": "Kimberley",
+    "country": "South Africa",
+    "iata": "KIM",
+    "icao": "FAKM",
+    "latitude": -28.802834,
+    "longitude": 24.765167,
+    "elevation": 3950,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

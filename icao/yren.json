@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8348",
+    "airport_name": "Renmark",
+    "city": "Renmark",
+    "country": "Australia",
+    "iata": "RMK",
+    "icao": "YREN",
+    "latitude": -34.118,
+    "longitude": 140.404,
+    "elevation": 115,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

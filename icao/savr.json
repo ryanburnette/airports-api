@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7311",
+    "airport_name": "Alto Rio Senguer Airport",
+    "city": "Alto Rio Senguer",
+    "country": "Argentina",
+    "iata": "ARR",
+    "icao": "SAVR",
+    "latitude": -45.016667,
+    "longitude": -70.816667,
+    "elevation": 2145,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

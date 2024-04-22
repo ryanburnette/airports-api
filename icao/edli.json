@@ -1,0 +1,14 @@
+{
+    "_csv_row": "369",
+    "airport_name": "Bielefeld",
+    "city": "Bielefeld",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDLI",
+    "latitude": 51.964833,
+    "longitude": 8.544833,
+    "elevation": 454,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

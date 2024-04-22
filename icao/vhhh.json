@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3077",
+    "airport_name": "Hong Kong Intl",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "iata": "HKG",
+    "icao": "VHHH",
+    "latitude": 22.308919,
+    "longitude": 113.914603,
+    "elevation": 28,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Hong_Kong"
+}

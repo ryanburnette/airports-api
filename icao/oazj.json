@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7500",
+    "airport_name": "Zaranj Airport",
+    "city": "Zaranj",
+    "country": "Afghanistan",
+    "iata": "ZAJ",
+    "icao": "OAZJ",
+    "latitude": 30.969167,
+    "longitude": 61.866944,
+    "elevation": 1581,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

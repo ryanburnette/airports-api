@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6284",
+    "airport_name": "Lake Evella Airport",
+    "city": "Lake Evella",
+    "country": "Australia",
+    "iata": "LEL",
+    "icao": "YLEV",
+    "latitude": -12.4989,
+    "longitude": 135.806,
+    "elevation": 256,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5997",
+    "airport_name": "Nagoya Airport",
+    "city": "Nagoya",
+    "country": "Japan",
+    "iata": "NKM",
+    "icao": "RJNA",
+    "latitude": 35.255,
+    "longitude": 136.924,
+    "elevation": 52,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

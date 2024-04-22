@@ -1,0 +1,14 @@
+{
+    "_csv_row": "820",
+    "airport_name": "Lanseria",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "iata": "HLA",
+    "icao": "FALA",
+    "latitude": -25.938514,
+    "longitude": 27.926133,
+    "elevation": 4517,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

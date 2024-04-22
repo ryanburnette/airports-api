@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1380",
+    "airport_name": "Le Bourget",
+    "city": "Paris",
+    "country": "France",
+    "iata": "LBG",
+    "icao": "LFPB",
+    "latitude": 48.969444,
+    "longitude": 2.441389,
+    "elevation": 218,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

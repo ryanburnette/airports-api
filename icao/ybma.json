@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3324",
+    "airport_name": "Mount Isa",
+    "city": "Mount Isa",
+    "country": "Australia",
+    "iata": "ISA",
+    "icao": "YBMA",
+    "latitude": -20.663889,
+    "longitude": 139.488611,
+    "elevation": 1121,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Brisbane"
+}

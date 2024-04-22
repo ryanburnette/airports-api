@@ -1,0 +1,14 @@
+{
+    "_csv_row": "204",
+    "airport_name": "Greenwood",
+    "city": "Greenwood",
+    "country": "Canada",
+    "iata": "YZX",
+    "icao": "CYZX",
+    "latitude": 44.984444,
+    "longitude": -64.916944,
+    "elevation": 92,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

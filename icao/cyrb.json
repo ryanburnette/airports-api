@@ -1,0 +1,14 @@
+{
+    "_csv_row": "128",
+    "airport_name": "Resolute Bay",
+    "city": "Resolute",
+    "country": "Canada",
+    "iata": "YRB",
+    "icao": "CYRB",
+    "latitude": 74.716944,
+    "longitude": -94.969444,
+    "elevation": 215,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

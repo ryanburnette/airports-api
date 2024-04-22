@@ -1,0 +1,14 @@
+{
+    "_csv_row": "122",
+    "airport_name": "Grande Prairie",
+    "city": "Grande Prairie",
+    "country": "Canada",
+    "iata": "YQU",
+    "icao": "CYQU",
+    "latitude": 55.179722,
+    "longitude": -118.885,
+    "elevation": 2195,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Edmonton"
+}

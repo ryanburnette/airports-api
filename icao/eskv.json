@@ -1,0 +1,14 @@
+{
+    "_csv_row": "700",
+    "airport_name": "Arvika",
+    "city": "Arvika",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESKV",
+    "latitude": 59.675856,
+    "longitude": 12.639442,
+    "elevation": 237,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

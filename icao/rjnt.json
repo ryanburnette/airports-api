@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2324",
+    "airport_name": "Toyama",
+    "city": "Toyama",
+    "country": "Japan",
+    "iata": "TOY",
+    "icao": "RJNT",
+    "latitude": 36.648333,
+    "longitude": 137.1875,
+    "elevation": 95,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

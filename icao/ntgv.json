@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1985",
+    "airport_name": "Mataiva",
+    "city": "Mataiva",
+    "country": "French Polynesia",
+    "iata": "MVT",
+    "icao": "NTGV",
+    "latitude": -14.868055,
+    "longitude": -148.717225,
+    "elevation": 11,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

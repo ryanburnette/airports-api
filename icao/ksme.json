@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7061",
+    "airport_name": "Lake Cumberland Regional Airport",
+    "city": "Somerset",
+    "country": "United States",
+    "iata": "SME",
+    "icao": "KSME",
+    "latitude": 37.053611,
+    "longitude": -84.615556,
+    "elevation": 927,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

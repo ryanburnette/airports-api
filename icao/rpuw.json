@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6791",
+    "airport_name": "Marinduque Airport",
+    "city": "Gasan",
+    "country": "Philippines",
+    "iata": "MRQ",
+    "icao": "RPUW",
+    "latitude": 13.360967,
+    "longitude": 121.825583,
+    "elevation": 32,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

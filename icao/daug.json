@@ -1,0 +1,14 @@
+{
+    "_csv_row": "237",
+    "airport_name": "Noumerat",
+    "city": "Ghardaia",
+    "country": "Algeria",
+    "iata": "GHA",
+    "icao": "DAUG",
+    "latitude": 32.384106,
+    "longitude": 3.794114,
+    "elevation": 1512,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Algiers"
+}

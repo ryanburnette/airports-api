@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1726",
+    "airport_name": "Trabzon",
+    "city": "Trabzon",
+    "country": "Turkey",
+    "iata": "TZX",
+    "icao": "LTCG",
+    "latitude": 40.995108,
+    "longitude": 39.789728,
+    "elevation": 104,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

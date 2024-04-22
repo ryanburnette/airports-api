@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3393",
+    "airport_name": "Jiangbei",
+    "city": "Chongqing",
+    "country": "China",
+    "iata": "CKG",
+    "icao": "ZUCK",
+    "latitude": 29.719217,
+    "longitude": 106.641678,
+    "elevation": 1365,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2491",
+    "airport_name": "Gobernador Castello",
+    "city": "Viedma",
+    "country": "Argentina",
+    "iata": "VDM",
+    "icao": "SAVV",
+    "latitude": -40.869222,
+    "longitude": -63.000389,
+    "elevation": 20,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

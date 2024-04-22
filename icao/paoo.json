@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8200",
+    "airport_name": "Toksook Bay Airport",
+    "city": "Toksook Bay",
+    "country": "United States",
+    "iata": "OOK",
+    "icao": "PAOO",
+    "latitude": 60.541389,
+    "longitude": -165.087222,
+    "elevation": 59,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

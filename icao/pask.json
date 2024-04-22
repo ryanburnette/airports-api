@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7182",
+    "airport_name": "Selawik Airport",
+    "city": "Selawik",
+    "country": "United States",
+    "iata": "WLK",
+    "icao": "PASK",
+    "latitude": 66.6,
+    "longitude": -159.985833,
+    "elevation": 17,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

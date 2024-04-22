@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5765",
+    "airport_name": "Rhinelander Oneida County Airport",
+    "city": "Rhinelander",
+    "country": "United States",
+    "iata": "RHI",
+    "icao": "KRHI",
+    "latitude": 45.6312,
+    "longitude": -89.4675,
+    "elevation": 1624,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

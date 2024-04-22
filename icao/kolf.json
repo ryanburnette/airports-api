@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7071",
+    "airport_name": "LM Clayton Airport",
+    "city": "Wolf Point",
+    "country": "United States",
+    "iata": "OLF",
+    "icao": "KOLF",
+    "latitude": 48.094444,
+    "longitude": -105.575,
+    "elevation": 1986,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "306",
+    "airport_name": "Koksijde",
+    "city": "Koksijde",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBFN",
+    "latitude": 51.090278,
+    "longitude": 2.652778,
+    "elevation": 20,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

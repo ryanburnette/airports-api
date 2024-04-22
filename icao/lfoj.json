@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1373",
+    "airport_name": "Bricy",
+    "city": "Orleans",
+    "country": "France",
+    "iata": "ORE",
+    "icao": "LFOJ",
+    "latitude": 47.987778,
+    "longitude": 1.760556,
+    "elevation": 412,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

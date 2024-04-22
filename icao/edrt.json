@@ -1,0 +1,14 @@
+{
+    "_csv_row": "391",
+    "airport_name": "Trier Fohren",
+    "city": "Trier",
+    "country": "Germany",
+    "iata": "ZQF",
+    "icao": "EDRT",
+    "latitude": 49.8635,
+    "longitude": 6.788167,
+    "elevation": 665,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

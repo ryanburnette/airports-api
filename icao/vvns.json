@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7701",
+    "airport_name": "Na-San Airport",
+    "city": "Son-La",
+    "country": "Vietnam",
+    "iata": "SQH",
+    "icao": "VVNS",
+    "latitude": 21.217,
+    "longitude": 104.033,
+    "elevation": 2133,
+    "utc_offset": 7,
+    "_class": "N",
+    "timezone": "Asia/Saigon"
+}

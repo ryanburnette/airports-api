@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8623",
+    "airport_name": "Belleau Airport",
+    "city": "Chateau-Thierry",
+    "country": "France",
+    "iata": "",
+    "icao": "LFFH",
+    "latitude": 49.066944,
+    "longitude": 3.356111,
+    "elevation": 719,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

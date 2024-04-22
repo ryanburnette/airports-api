@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6149",
+    "airport_name": "Fergana Airport",
+    "city": "Fergana",
+    "country": "Uzbekistan",
+    "iata": "FEG",
+    "icao": "UTKF",
+    "latitude": 40.3588,
+    "longitude": 71.745,
+    "elevation": 1980,
+    "utc_offset": 5,
+    "_class": "U",
+    "timezone": "Asia/Samarkand"
+}

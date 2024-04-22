@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8414",
+    "airport_name": "Warsaw Modlin",
+    "city": "Warsaw",
+    "country": "Poland",
+    "iata": "WMI",
+    "icao": "EPMO",
+    "latitude": 52.451111,
+    "longitude": 20.651667,
+    "elevation": 341,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2203",
+    "airport_name": "Gwadar",
+    "city": "Gwadar",
+    "country": "Pakistan",
+    "iata": "GWD",
+    "icao": "OPGD",
+    "latitude": 25.233308,
+    "longitude": 62.329494,
+    "elevation": 36,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

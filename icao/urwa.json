@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2966",
+    "airport_name": "Astrakhan",
+    "city": "Astrakhan",
+    "country": "Russia",
+    "iata": "ASF",
+    "icao": "URWA",
+    "latitude": 46.283333,
+    "longitude": 48.006278,
+    "elevation": -65,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

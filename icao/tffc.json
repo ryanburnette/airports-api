@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6077",
+    "airport_name": "St-François Airport",
+    "city": "St-François",
+    "country": "Guadeloupe",
+    "iata": "SFC",
+    "icao": "TFFC",
+    "latitude": 16.2578,
+    "longitude": -61.2625,
+    "elevation": 10,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Guadeloupe"
+}

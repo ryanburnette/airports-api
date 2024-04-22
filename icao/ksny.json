@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8815",
+    "airport_name": "Sidney Muni Airport",
+    "city": "Sidney",
+    "country": "United States",
+    "iata": "SNY",
+    "icao": "KSNY",
+    "latitude": 41.10167,
+    "longitude": -102.985,
+    "elevation": 4313,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

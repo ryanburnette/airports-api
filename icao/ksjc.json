@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3748",
+    "airport_name": "Norman Y Mineta San Jose Intl",
+    "city": "San Jose",
+    "country": "United States",
+    "iata": "SJC",
+    "icao": "KSJC",
+    "latitude": 37.3626,
+    "longitude": -121.929022,
+    "elevation": 62,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

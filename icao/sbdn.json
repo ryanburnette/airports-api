@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2550",
+    "airport_name": "Presidente Prudente",
+    "city": "President Prudente",
+    "country": "Brazil",
+    "iata": "PPB",
+    "icao": "SBDN",
+    "latitude": -22.175056,
+    "longitude": -51.424639,
+    "elevation": 1477,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

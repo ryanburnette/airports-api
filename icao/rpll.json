@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2397",
+    "airport_name": "Ninoy Aquino Intl",
+    "city": "Manila",
+    "country": "Philippines",
+    "iata": "MNL",
+    "icao": "RPLL",
+    "latitude": 14.508647,
+    "longitude": 121.019581,
+    "elevation": 75,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

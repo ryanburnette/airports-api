@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1558",
+    "airport_name": "Marina Di Campo",
+    "city": "Marina Di Campo",
+    "country": "Italy",
+    "iata": "EBA",
+    "icao": "LIRJ",
+    "latitude": 42.760277,
+    "longitude": 10.239445,
+    "elevation": 31,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

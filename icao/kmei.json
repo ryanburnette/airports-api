@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4335",
+    "airport_name": "Key Field",
+    "city": "Meridian",
+    "country": "United States",
+    "iata": "MEI",
+    "icao": "KMEI",
+    "latitude": 32.332624,
+    "longitude": -88.751868,
+    "elevation": 297,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

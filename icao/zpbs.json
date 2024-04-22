@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7505",
+    "airport_name": "Baoshan Airport",
+    "city": "Baoshan",
+    "country": "China",
+    "iata": "BSD",
+    "icao": "ZPBS",
+    "latitude": 25.053333,
+    "longitude": 99.168333,
+    "elevation": 500,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

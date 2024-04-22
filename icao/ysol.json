@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9146",
+    "airport_name": "Solomon Airport",
+    "city": "Solomon",
+    "country": "Australia",
+    "iata": "SLJ",
+    "icao": "YSOL",
+    "latitude": -22.255,
+    "longitude": 117.85,
+    "elevation": 2008,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Australia/Perth"
+}

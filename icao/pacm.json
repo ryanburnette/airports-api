@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7209",
+    "airport_name": "Scammon Bay Airport",
+    "city": "Scammon Bay",
+    "country": "United States",
+    "iata": "SCM",
+    "icao": "PACM",
+    "latitude": 61.845278,
+    "longitude": -165.571389,
+    "elevation": 14,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

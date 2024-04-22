@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2540",
+    "airport_name": "Carolina",
+    "city": "Carolina",
+    "country": "Brazil",
+    "iata": "CLN",
+    "icao": "SBCI",
+    "latitude": -7.320444,
+    "longitude": -47.458667,
+    "elevation": 565,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

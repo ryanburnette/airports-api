@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1737",
+    "airport_name": "Skopje",
+    "city": "Skopje",
+    "country": "Macedonia",
+    "iata": "SKP",
+    "icao": "LWSK",
+    "latitude": 41.961622,
+    "longitude": 21.621381,
+    "elevation": 781,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Skopje"
+}

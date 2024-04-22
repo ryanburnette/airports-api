@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8556",
+    "airport_name": "Van Wert County Airport",
+    "city": "Van Wert",
+    "country": "United States",
+    "iata": "VNW",
+    "icao": "KVNW",
+    "latitude": 40.8638295,
+    "longitude": -84.606358,
+    "elevation": 787,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

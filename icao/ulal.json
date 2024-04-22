@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7480",
+    "airport_name": "Leshukonskoye Airport",
+    "city": "Arkhangelsk",
+    "country": "Russia",
+    "iata": "LDG",
+    "icao": "ULAL",
+    "latitude": 64.895833,
+    "longitude": 45.722778,
+    "elevation": 220,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

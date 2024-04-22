@@ -1,0 +1,14 @@
+{
+    "_csv_row": "340",
+    "airport_name": "Frankfurt Main",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "iata": "FRA",
+    "icao": "EDDF",
+    "latitude": 50.026421,
+    "longitude": 8.543125,
+    "elevation": 364,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

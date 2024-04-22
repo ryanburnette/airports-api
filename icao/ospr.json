@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2240",
+    "airport_name": "Palmyra",
+    "city": "Palmyra",
+    "country": "Syria",
+    "iata": "PMS",
+    "icao": "OSPR",
+    "latitude": 34.557361,
+    "longitude": 38.316889,
+    "elevation": 1322,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Asia/Damascus"
+}

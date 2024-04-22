@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3931",
+    "airport_name": "Chiang Mai Intl",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "iata": "CNX",
+    "icao": "VTCC",
+    "latitude": 18.766847,
+    "longitude": 98.962644,
+    "elevation": 1036,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Bangkok"
+}

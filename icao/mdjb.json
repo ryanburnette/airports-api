@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5811",
+    "airport_name": "Dr Joaquin Balaguer International Airport",
+    "city": "La Isabela",
+    "country": "Dominican Republic",
+    "iata": "JBQ",
+    "icao": "MDJB",
+    "latitude": 18.5725,
+    "longitude": -69.9856,
+    "elevation": 98,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Santo_Domingo"
+}

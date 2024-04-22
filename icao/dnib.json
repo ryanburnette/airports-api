@@ -1,0 +1,14 @@
+{
+    "_csv_row": "266",
+    "airport_name": "Ibadan",
+    "city": "Ibadan",
+    "country": "Nigeria",
+    "iata": "IBA",
+    "icao": "DNIB",
+    "latitude": 7.362458,
+    "longitude": 3.978333,
+    "elevation": 725,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Lagos"
+}

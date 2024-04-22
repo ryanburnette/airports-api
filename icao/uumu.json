@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7861",
+    "airport_name": "Chkalovsky Airport",
+    "city": "Shchyolkovo",
+    "country": "Russia",
+    "iata": "CKL",
+    "icao": "UUMU",
+    "latitude": 55.878333,
+    "longitude": 38.061667,
+    "elevation": 152,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

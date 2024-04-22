@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7499",
+    "airport_name": "Tarin Kowt Airport",
+    "city": "Tarin Kowt",
+    "country": "Afghanistan",
+    "iata": "TII",
+    "icao": "OATN",
+    "latitude": 32.605278,
+    "longitude": 65.864167,
+    "elevation": 3500,
+    "utc_offset": 4.5,
+    "_class": "U",
+    "timezone": "Asia/Kabul"
+}

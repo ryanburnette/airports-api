@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2500",
+    "airport_name": "Santa Cruz",
+    "city": "Santa Cruz",
+    "country": "Argentina",
+    "iata": "RZA",
+    "icao": "SAWU",
+    "latitude": -50.01655,
+    "longitude": -68.579197,
+    "elevation": 364,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

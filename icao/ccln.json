@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8161",
+    "airport_name": "Cleveland Clinic",
+    "city": "Cleveland",
+    "country": "United States",
+    "iata": "",
+    "icao": "CCLN",
+    "latitude": 41.50225,
+    "longitude": -81.62233,
+    "elevation": 0,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

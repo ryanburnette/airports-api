@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3868",
+    "airport_name": "Columbus Afb",
+    "city": "Colombus",
+    "country": "United States",
+    "iata": "CBM",
+    "icao": "KCBM",
+    "latitude": 33.643833,
+    "longitude": -88.443833,
+    "elevation": 219,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

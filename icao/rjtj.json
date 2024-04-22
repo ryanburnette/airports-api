@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2353",
+    "airport_name": "Iruma",
+    "city": "Iruma",
+    "country": "Japan",
+    "iata": "",
+    "icao": "RJTJ",
+    "latitude": 35.841944,
+    "longitude": 139.410556,
+    "elevation": 295,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

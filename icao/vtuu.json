@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3937",
+    "airport_name": "Ubon Ratchathani",
+    "city": "Ubon Ratchathani",
+    "country": "Thailand",
+    "iata": "UBP",
+    "icao": "VTUU",
+    "latitude": 15.251278,
+    "longitude": 104.870231,
+    "elevation": 406,
+    "utc_offset": 7,
+    "_class": "U",
+    "timezone": "Asia/Bangkok"
+}

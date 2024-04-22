@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6788",
+    "airport_name": "Vieques Airport",
+    "city": "Vieques Island",
+    "country": "Puerto Rico",
+    "iata": "VQS",
+    "icao": "TJCG",
+    "latitude": 18.1158,
+    "longitude": -65.4227,
+    "elevation": 19,
+    "utc_offset": -4,
+    "_class": "U",
+    "timezone": "America/Puerto_Rico"
+}

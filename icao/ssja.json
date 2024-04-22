@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7384",
+    "airport_name": "Joacaba Airport",
+    "city": "Joacaba",
+    "country": "Brazil",
+    "iata": "JCB",
+    "icao": "SSJA",
+    "latitude": -27.172778,
+    "longitude": -51.500833,
+    "elevation": 1713,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

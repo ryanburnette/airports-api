@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4356",
+    "airport_name": "NW Arkansas Regional",
+    "city": "Bentonville",
+    "country": "United States",
+    "iata": "XNA",
+    "icao": "KXNA",
+    "latitude": 36.2818694,
+    "longitude": -94.3068111,
+    "elevation": 1287,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

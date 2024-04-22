@@ -1,0 +1,14 @@
+{
+    "_csv_row": "182",
+    "airport_name": "Charlottetown",
+    "city": "Charlottetown",
+    "country": "Canada",
+    "iata": "YYG",
+    "icao": "CYYG",
+    "latitude": 46.290001,
+    "longitude": -63.121111,
+    "elevation": 160,
+    "utc_offset": -4,
+    "_class": "A",
+    "timezone": "America/Halifax"
+}

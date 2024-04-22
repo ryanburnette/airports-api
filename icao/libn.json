@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1504",
+    "airport_name": "Lecce",
+    "city": "Lecce",
+    "country": "Italy",
+    "iata": "LCC",
+    "icao": "LIBN",
+    "latitude": 40.239228,
+    "longitude": 18.133325,
+    "elevation": 156,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

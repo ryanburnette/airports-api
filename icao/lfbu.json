@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1277",
+    "airport_name": "Brie Champniers",
+    "city": "Angouleme",
+    "country": "France",
+    "iata": "ANG",
+    "icao": "LFBU",
+    "latitude": 45.729247,
+    "longitude": 0.221456,
+    "elevation": 436,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

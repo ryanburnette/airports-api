@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3453",
+    "airport_name": "Metropolitan Oakland Intl",
+    "city": "Oakland",
+    "country": "United States",
+    "iata": "OAK",
+    "icao": "KOAK",
+    "latitude": 37.721278,
+    "longitude": -122.220722,
+    "elevation": 9,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

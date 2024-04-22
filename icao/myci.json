@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5859",
+    "airport_name": "Colonel Hill Airport",
+    "city": "Colonel Hill",
+    "country": "Bahamas",
+    "iata": "CRI",
+    "icao": "MYCI",
+    "latitude": 22.745561,
+    "longitude": -74.182353,
+    "elevation": 5,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Nassau"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "160",
+    "airport_name": "Winnipeg Intl",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "iata": "YWG",
+    "icao": "CYWG",
+    "latitude": 49.910036,
+    "longitude": -97.239886,
+    "elevation": 783,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

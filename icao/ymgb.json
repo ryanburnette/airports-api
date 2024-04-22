@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6295",
+    "airport_name": "Milingimbi Airport",
+    "city": "Milingimbi",
+    "country": "Australia",
+    "iata": "MGT",
+    "icao": "YMGB",
+    "latitude": -12.0944,
+    "longitude": 134.894,
+    "elevation": 53,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

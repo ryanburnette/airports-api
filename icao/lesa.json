@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1238",
+    "airport_name": "Salamanca",
+    "city": "Salamanca",
+    "country": "Spain",
+    "iata": "SLM",
+    "icao": "LESA",
+    "latitude": 40.952117,
+    "longitude": -5.501986,
+    "elevation": 2595,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

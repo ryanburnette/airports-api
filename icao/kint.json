@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3553",
+    "airport_name": "Smith Reynolds",
+    "city": "Winston-salem",
+    "country": "United States",
+    "iata": "INT",
+    "icao": "KINT",
+    "latitude": 36.133722,
+    "longitude": -80.222,
+    "elevation": 969,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

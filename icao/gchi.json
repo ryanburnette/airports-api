@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1052",
+    "airport_name": "Hierro",
+    "city": "Hierro",
+    "country": "Spain",
+    "iata": "VDE",
+    "icao": "GCHI",
+    "latitude": 27.814847,
+    "longitude": -17.887056,
+    "elevation": 103,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Atlantic/Canary"
+}

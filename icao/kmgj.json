@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8283",
+    "airport_name": "Orange County Airport",
+    "city": "Montgomery",
+    "country": "United States",
+    "iata": "MGJ",
+    "icao": "KMGJ",
+    "latitude": 41.5099884,
+    "longitude": -74.2646444,
+    "elevation": 364,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

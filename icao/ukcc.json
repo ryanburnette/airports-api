@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2940",
+    "airport_name": "Donetsk Intl",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "iata": "DOK",
+    "icao": "UKCC",
+    "latitude": 48.073611,
+    "longitude": 37.739722,
+    "elevation": 791,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

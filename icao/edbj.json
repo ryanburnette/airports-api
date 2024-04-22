@@ -1,0 +1,14 @@
+{
+    "_csv_row": "330",
+    "airport_name": "Jena Schongleina",
+    "city": "Jena",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDBJ",
+    "latitude": 50.915161,
+    "longitude": 11.714519,
+    "elevation": 1228,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

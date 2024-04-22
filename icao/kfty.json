@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7497",
+    "airport_name": "Fulton County Airport Brown Field",
+    "city": "Atlanta",
+    "country": "United States",
+    "iata": "FTY",
+    "icao": "KFTY",
+    "latitude": 33.7791,
+    "longitude": -84.5214,
+    "elevation": 841,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

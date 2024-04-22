@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3710",
+    "airport_name": "Chico Muni",
+    "city": "Chico",
+    "country": "United States",
+    "iata": "CIC",
+    "icao": "KCIC",
+    "latitude": 39.795383,
+    "longitude": -121.858422,
+    "elevation": 238,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7787",
+    "airport_name": "Ebenhofen BF",
+    "city": "Ebenhofen",
+    "country": "Germany",
+    "iata": "EBE",
+    "icao": "EBEN",
+    "latitude": 47.824,
+    "longitude": 10.623,
+    "elevation": 1200,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

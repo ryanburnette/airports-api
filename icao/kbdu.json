@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8854",
+    "airport_name": "Boulder Municipal",
+    "city": "Boulder",
+    "country": "United States",
+    "iata": "WBU",
+    "icao": "KBDU",
+    "latitude": 40.039444,
+    "longitude": -105.225833,
+    "elevation": 5288,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

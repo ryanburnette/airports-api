@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7049",
+    "airport_name": "BFT County Airport",
+    "city": "Beauford",
+    "country": "United States",
+    "iata": "BFT",
+    "icao": "KBFT",
+    "latitude": 32.41083,
+    "longitude": -80.635,
+    "elevation": 500,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

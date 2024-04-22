@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2852",
+    "airport_name": "Maturin",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "iata": "MUN",
+    "icao": "SVMT",
+    "latitude": 9.749067,
+    "longitude": -63.1534,
+    "elevation": 224,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

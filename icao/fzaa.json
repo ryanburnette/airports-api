@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1020",
+    "airport_name": "Ndjili Intl",
+    "city": "Kinshasa",
+    "country": "Congo (Kinshasa)",
+    "iata": "FIH",
+    "icao": "FZAA",
+    "latitude": -4.38575,
+    "longitude": 15.444569,
+    "elevation": 1027,
+    "utc_offset": 1,
+    "_class": "N",
+    "timezone": "Africa/Kinshasa"
+}

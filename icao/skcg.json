@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2714",
+    "airport_name": "Rafael Nunez",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "iata": "CTG",
+    "icao": "SKCG",
+    "latitude": 10.442381,
+    "longitude": -75.512961,
+    "elevation": 4,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

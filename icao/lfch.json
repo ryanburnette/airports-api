@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1283",
+    "airport_name": "La Teste De Buch",
+    "city": "Arcachon",
+    "country": "France",
+    "iata": "XAC",
+    "icao": "LFCH",
+    "latitude": 44.59639,
+    "longitude": -1.110833,
+    "elevation": 49,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

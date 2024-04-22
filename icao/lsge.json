@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7432",
+    "airport_name": "Ecuvillens Airport",
+    "city": "Ecuvillens",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSGE",
+    "latitude": 46.754997,
+    "longitude": 7.076111,
+    "elevation": 2293,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "79",
+    "airport_name": "Waterloo",
+    "city": "Waterloo",
+    "country": "Canada",
+    "iata": "YKF",
+    "icao": "CYKF",
+    "latitude": 43.460833,
+    "longitude": -80.378611,
+    "elevation": 1054,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

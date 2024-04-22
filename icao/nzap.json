@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2007",
+    "airport_name": "Taupo",
+    "city": "Taupo",
+    "country": "New Zealand",
+    "iata": "TUO",
+    "icao": "NZAP",
+    "latitude": -38.739723,
+    "longitude": 176.084444,
+    "elevation": 1335,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

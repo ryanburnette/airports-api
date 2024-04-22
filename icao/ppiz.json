@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3414",
+    "airport_name": "Point Lay Lrrs",
+    "city": "Point Lay",
+    "country": "United States",
+    "iata": "PIZ",
+    "icao": "PPIZ",
+    "latitude": 69.732875,
+    "longitude": -163.005342,
+    "elevation": 25,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

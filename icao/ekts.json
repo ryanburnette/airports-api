@@ -1,0 +1,14 @@
+{
+    "_csv_row": "623",
+    "airport_name": "Thisted",
+    "city": "Thisted",
+    "country": "Denmark",
+    "iata": "TED",
+    "icao": "EKTS",
+    "latitude": 57.0688,
+    "longitude": 8.705225,
+    "elevation": 23,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Copenhagen"
+}

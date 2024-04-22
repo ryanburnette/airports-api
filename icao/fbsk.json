@@ -1,0 +1,14 @@
+{
+    "_csv_row": "881",
+    "airport_name": "Sir Seretse Khama Intl",
+    "city": "Gaberone",
+    "country": "Botswana",
+    "iata": "GBE",
+    "icao": "FBSK",
+    "latitude": -24.555225,
+    "longitude": 25.918208,
+    "elevation": 3299,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Gaborone"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3785",
+    "airport_name": "Barking Sands Pmrf",
+    "city": "Barking Sands",
+    "country": "United States",
+    "iata": "BKH",
+    "icao": "PHBK",
+    "latitude": 22.022833,
+    "longitude": -159.785,
+    "elevation": 23,
+    "utc_offset": -10,
+    "_class": "A",
+    "timezone": "Pacific/Honolulu"
+}

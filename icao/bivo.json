@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5453",
+    "airport_name": "Vopnafjörður Airport",
+    "city": "Vopnafjörður",
+    "country": "Iceland",
+    "iata": "VPN",
+    "icao": "BIVO",
+    "latitude": 65.7206,
+    "longitude": -14.8506,
+    "elevation": 0,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Atlantic/Reykjavik"
+}

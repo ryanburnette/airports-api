@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2342",
+    "airport_name": "Sado",
+    "city": "Sado",
+    "country": "Japan",
+    "iata": "",
+    "icao": "RJSD",
+    "latitude": 38.060181,
+    "longitude": 138.413928,
+    "elevation": 88,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

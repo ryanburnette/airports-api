@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3337",
+    "airport_name": "Launceston",
+    "city": "Launceston",
+    "country": "Australia",
+    "iata": "LST",
+    "icao": "YMLT",
+    "latitude": -41.545278,
+    "longitude": 147.214167,
+    "elevation": 562,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Melbourne"
+}

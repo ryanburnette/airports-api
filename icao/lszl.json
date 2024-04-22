@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6930",
+    "airport_name": "Locarno Airport",
+    "city": "Locarno",
+    "country": "Switzerland",
+    "iata": "ZJI",
+    "icao": "LSZL",
+    "latitude": 46.1608,
+    "longitude": 8.87861,
+    "elevation": 650,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

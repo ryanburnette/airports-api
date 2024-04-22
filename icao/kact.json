@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3700",
+    "airport_name": "Waco Rgnl",
+    "city": "Waco",
+    "country": "United States",
+    "iata": "ACT",
+    "icao": "KACT",
+    "latitude": 31.611289,
+    "longitude": -97.230519,
+    "elevation": 516,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

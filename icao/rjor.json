@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2335",
+    "airport_name": "Tottori",
+    "city": "Tottori",
+    "country": "Japan",
+    "iata": "TTJ",
+    "icao": "RJOR",
+    "latitude": 35.530069,
+    "longitude": 134.166553,
+    "elevation": 65,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

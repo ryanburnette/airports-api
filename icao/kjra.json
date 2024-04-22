@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7729",
+    "airport_name": "West 30th St. Heliport",
+    "city": "New York",
+    "country": "United States",
+    "iata": "JRA",
+    "icao": "KJRA",
+    "latitude": 40.7545,
+    "longitude": -74.0071,
+    "elevation": 7,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

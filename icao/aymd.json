@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2",
+    "airport_name": "Madang",
+    "city": "Madang",
+    "country": "Papua New Guinea",
+    "iata": "MAG",
+    "icao": "AYMD",
+    "latitude": -5.207083,
+    "longitude": 145.7887,
+    "elevation": 20,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

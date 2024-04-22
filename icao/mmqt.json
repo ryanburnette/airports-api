@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1838",
+    "airport_name": "Queretaro Intercontinental",
+    "city": "Queretaro",
+    "country": "Mexico",
+    "iata": "QRO",
+    "icao": "MMQT",
+    "latitude": 20.617289,
+    "longitude": -100.185658,
+    "elevation": 6296,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

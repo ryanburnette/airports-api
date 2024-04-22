@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7117",
+    "airport_name": "Shungnak Airport",
+    "city": "Shungnak",
+    "country": "United States",
+    "iata": "SHG",
+    "icao": "PAGH",
+    "latitude": 66.888056,
+    "longitude": -157.1625,
+    "elevation": 197,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

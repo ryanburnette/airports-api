@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1346",
+    "airport_name": "Bron",
+    "city": "Lyon",
+    "country": "France",
+    "iata": "LYN",
+    "icao": "LFLY",
+    "latitude": 45.727172,
+    "longitude": 4.944275,
+    "elevation": 659,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

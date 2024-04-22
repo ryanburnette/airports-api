@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3959",
+    "airport_name": "Vilnius Intl",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "iata": "VNO",
+    "icao": "EYVI",
+    "latitude": 54.634133,
+    "longitude": 25.285767,
+    "elevation": 646,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Vilnius"
+}

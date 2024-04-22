@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7339",
+    "airport_name": "Stoelmans Eiland Airstrip",
+    "city": "Stoelmans Eiland",
+    "country": "Suriname",
+    "iata": "SMZ",
+    "icao": "SMST",
+    "latitude": 4.35,
+    "longitude": -54.41667,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Paramaribo"
+}

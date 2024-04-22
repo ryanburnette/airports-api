@@ -1,0 +1,14 @@
+{
+    "_csv_row": "668",
+    "airport_name": "Lech Walesa",
+    "city": "Gdansk",
+    "country": "Poland",
+    "iata": "GDN",
+    "icao": "EPGD",
+    "latitude": 54.377569,
+    "longitude": 18.466222,
+    "elevation": 489,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8354",
+    "airport_name": "Ballarat",
+    "city": "Ballarat",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YBLT",
+    "latitude": -37.511667,
+    "longitude": 143.791111,
+    "elevation": 1433,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Hobart"
+}

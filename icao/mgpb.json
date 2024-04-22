@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5812",
+    "airport_name": "Puerto Barrios Airport",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "iata": "PBR",
+    "icao": "MGPB",
+    "latitude": 15.730878,
+    "longitude": -88.583767,
+    "elevation": 33,
+    "utc_offset": -6,
+    "_class": "U",
+    "timezone": "America/Guatemala"
+}

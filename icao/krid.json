@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7777",
+    "airport_name": "Richmond Municipal Airport",
+    "city": "Richmond",
+    "country": "United States",
+    "iata": "RID",
+    "icao": "KRID",
+    "latitude": 39.7561006,
+    "longitude": -84.8427175,
+    "elevation": 1140,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/New_York"
+}

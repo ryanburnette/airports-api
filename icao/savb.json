@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2486",
+    "airport_name": "El Bolson",
+    "city": "El Bolson",
+    "country": "Argentina",
+    "iata": "EHL",
+    "icao": "SAVB",
+    "latitude": -41.943189,
+    "longitude": -71.532289,
+    "elevation": 1131,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

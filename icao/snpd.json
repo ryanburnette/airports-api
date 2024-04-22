@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8237",
+    "airport_name": "Patos de Minas Airport",
+    "city": "Patos de Minas",
+    "country": "Brazil",
+    "iata": "POJ",
+    "icao": "SNPD",
+    "latitude": -18.672778,
+    "longitude": -46.491111,
+    "elevation": 851,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

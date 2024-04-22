@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3594",
+    "airport_name": "North Island Nas",
+    "city": "San Diego",
+    "country": "United States",
+    "iata": "NZY",
+    "icao": "KNZY",
+    "latitude": 32.699219,
+    "longitude": -117.21531,
+    "elevation": 26,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

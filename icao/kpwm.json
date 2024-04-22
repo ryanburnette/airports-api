@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3862",
+    "airport_name": "Portland Intl Jetport",
+    "city": "Portland",
+    "country": "United States",
+    "iata": "PWM",
+    "icao": "KPWM",
+    "latitude": 43.646161,
+    "longitude": -70.309281,
+    "elevation": 77,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

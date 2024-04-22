@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2688",
+    "airport_name": "Mariscal Sucre Intl",
+    "city": "Quito",
+    "country": "Ecuador",
+    "iata": "UIO",
+    "icao": "SEQU",
+    "latitude": -0.141144,
+    "longitude": -78.488214,
+    "elevation": 9228,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

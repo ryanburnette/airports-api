@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1678",
+    "airport_name": "Zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "iata": "ZRH",
+    "icao": "LSZH",
+    "latitude": 47.464722,
+    "longitude": 8.549167,
+    "elevation": 1416,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

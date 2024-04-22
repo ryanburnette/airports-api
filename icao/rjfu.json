@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2313",
+    "airport_name": "Nagasaki",
+    "city": "Nagasaki",
+    "country": "Japan",
+    "iata": "NGS",
+    "icao": "RJFU",
+    "latitude": 32.916944,
+    "longitude": 129.913611,
+    "elevation": 15,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

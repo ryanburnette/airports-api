@@ -1,0 +1,14 @@
+{
+    "_csv_row": "80",
+    "airport_name": "Schefferville",
+    "city": "Schefferville",
+    "country": "Canada",
+    "iata": "YKL",
+    "icao": "CYKL",
+    "latitude": 54.805278,
+    "longitude": -66.805278,
+    "elevation": 1709,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

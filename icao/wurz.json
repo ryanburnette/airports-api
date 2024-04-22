@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7934",
+    "airport_name": "Wurzburg HBF",
+    "city": "Wurzburg",
+    "country": "Germany",
+    "iata": "WZB",
+    "icao": "WURZ",
+    "latitude": 49.7999,
+    "longitude": 9.95555,
+    "elevation": 1000,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

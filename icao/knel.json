@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3812",
+    "airport_name": "Lakehurst Naes",
+    "city": "Lakehurst",
+    "country": "United States",
+    "iata": "NEL",
+    "icao": "KNEL",
+    "latitude": 40.033333,
+    "longitude": -74.353333,
+    "elevation": 103,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

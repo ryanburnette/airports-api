@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7050",
+    "airport_name": "Adana-Incirlik Airbase",
+    "city": "Adana",
+    "country": "Turkey",
+    "iata": "UAB",
+    "icao": "KUAB",
+    "latitude": 37.00028,
+    "longitude": 35.41833,
+    "elevation": 500,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

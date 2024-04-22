@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2817",
+    "airport_name": "Nueva Hesperides Intl",
+    "city": "Salto",
+    "country": "Uruguay",
+    "iata": "STY",
+    "icao": "SUSO",
+    "latitude": -31.438481,
+    "longitude": -57.985294,
+    "elevation": 187,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Montevideo"
+}

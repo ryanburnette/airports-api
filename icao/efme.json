@@ -1,0 +1,14 @@
+{
+    "_csv_row": "443",
+    "airport_name": "Menkijarvi",
+    "city": "Menkijarvi",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFME",
+    "latitude": 62.946667,
+    "longitude": 23.518889,
+    "elevation": 331,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

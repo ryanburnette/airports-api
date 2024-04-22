@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3807",
+    "airport_name": "Reno Tahoe Intl",
+    "city": "Reno",
+    "country": "United States",
+    "iata": "RNO",
+    "icao": "KRNO",
+    "latitude": 39.499108,
+    "longitude": -119.768108,
+    "elevation": 4415,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

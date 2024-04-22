@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1646",
+    "airport_name": "Sarajevo",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "iata": "SJJ",
+    "icao": "LQSA",
+    "latitude": 43.824583,
+    "longitude": 18.331467,
+    "elevation": 1708,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Sarajevo"
+}

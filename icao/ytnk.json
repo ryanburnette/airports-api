@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6330",
+    "airport_name": "Tennant Creek Airport",
+    "city": "Tennant Creek",
+    "country": "Australia",
+    "iata": "TCA",
+    "icao": "YTNK",
+    "latitude": -19.6344,
+    "longitude": 134.183,
+    "elevation": 1236,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Darwin"
+}

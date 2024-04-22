@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1703",
+    "airport_name": "Bandirma",
+    "city": "Bandirma",
+    "country": "Turkey",
+    "iata": "BDM",
+    "icao": "LTBG",
+    "latitude": 40.317972,
+    "longitude": 27.977694,
+    "elevation": 170,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

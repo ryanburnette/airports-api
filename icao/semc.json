@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2680",
+    "airport_name": "Coronel E Carvajal",
+    "city": "Macas",
+    "country": "Ecuador",
+    "iata": "XMS",
+    "icao": "SEMC",
+    "latitude": -2.299167,
+    "longitude": -78.12075,
+    "elevation": 3452,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

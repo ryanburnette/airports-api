@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6478",
+    "airport_name": "La Cote",
+    "city": "Prangins",
+    "country": "Switzerland",
+    "iata": "",
+    "icao": "LSGP",
+    "latitude": 46.413056,
+    "longitude": 6.258611,
+    "elevation": 1350,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

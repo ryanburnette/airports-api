@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6424",
+    "airport_name": "Berezovo",
+    "city": "Berezovo",
+    "country": "Russia",
+    "iata": "NBB",
+    "icao": "USHB",
+    "latitude": 63.9241,
+    "longitude": 65.0487,
+    "elevation": 98,
+    "utc_offset": 6,
+    "_class": "N",
+    "timezone": "Asia/Yekaterinburg"
+}

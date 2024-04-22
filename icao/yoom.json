@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8831",
+    "airport_name": "Moomba",
+    "city": "Moomba",
+    "country": "Australia",
+    "iata": "MOO",
+    "icao": "YOOM",
+    "latitude": -28.1,
+    "longitude": 140.2,
+    "elevation": 143,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

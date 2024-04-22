@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1196",
+    "airport_name": "Varna",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "iata": "VAR",
+    "icao": "LBWN",
+    "latitude": 43.232072,
+    "longitude": 27.825106,
+    "elevation": 230,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Sofia"
+}

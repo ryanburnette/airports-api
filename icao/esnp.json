@@ -1,0 +1,14 @@
+{
+    "_csv_row": "723",
+    "airport_name": "Pitea",
+    "city": "Pitea",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESNP",
+    "latitude": 65.398333,
+    "longitude": 21.260833,
+    "elevation": 43,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

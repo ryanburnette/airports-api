@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3706",
+    "airport_name": "Godman Aaf",
+    "city": "Fort Knox",
+    "country": "United States",
+    "iata": "FTK",
+    "icao": "KFTK",
+    "latitude": 37.907058,
+    "longitude": -85.972106,
+    "elevation": 756,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

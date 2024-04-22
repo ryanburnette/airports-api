@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3853",
+    "airport_name": "Condron Aaf",
+    "city": "White Sands",
+    "country": "United States",
+    "iata": "WSD",
+    "icao": "KWSD",
+    "latitude": 32.341484,
+    "longitude": -106.40277,
+    "elevation": 3934,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

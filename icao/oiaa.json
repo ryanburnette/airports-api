@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2097",
+    "airport_name": "Abadan",
+    "city": "Abadan",
+    "country": "Iran",
+    "iata": "ABD",
+    "icao": "OIAA",
+    "latitude": 30.371111,
+    "longitude": 48.228333,
+    "elevation": 19,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

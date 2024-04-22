@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6145",
+    "airport_name": "Nefteyugansk Airport",
+    "city": "Nefteyugansk",
+    "country": "Russia",
+    "iata": "NFG",
+    "icao": "USRN",
+    "latitude": 61.1083,
+    "longitude": 72.65,
+    "elevation": 115,
+    "utc_offset": 6,
+    "_class": "N",
+    "timezone": "Asia/Yekaterinburg"
+}

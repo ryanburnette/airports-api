@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3964",
+    "airport_name": "Zvartnots",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "iata": "EVN",
+    "icao": "UDYZ",
+    "latitude": 40.147275,
+    "longitude": 44.395881,
+    "elevation": 2838,
+    "utc_offset": 4,
+    "_class": "E",
+    "timezone": "Asia/Yerevan"
+}

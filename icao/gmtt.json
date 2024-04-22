@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1080",
+    "airport_name": "Ibn Batouta",
+    "city": "Tanger",
+    "country": "Morocco",
+    "iata": "TNG",
+    "icao": "GMTT",
+    "latitude": 35.726917,
+    "longitude": -5.916889,
+    "elevation": 62,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/Casablanca"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "849",
+    "airport_name": "Richards Bay",
+    "city": "Richard's Bay",
+    "country": "South Africa",
+    "iata": "RCB",
+    "icao": "FARB",
+    "latitude": -28.741039,
+    "longitude": 32.092111,
+    "elevation": 109,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Johannesburg"
+}

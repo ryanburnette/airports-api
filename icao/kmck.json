@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7068",
+    "airport_name": "McCook Regional Airport",
+    "city": "McCook",
+    "country": "United States",
+    "iata": "MCK",
+    "icao": "KMCK",
+    "latitude": 40.206389,
+    "longitude": -100.592222,
+    "elevation": 2583,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

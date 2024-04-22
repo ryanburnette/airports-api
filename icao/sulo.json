@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7124",
+    "airport_name": "Camelo",
+    "city": "Camelo",
+    "country": "Uruguay",
+    "iata": "",
+    "icao": "SULO",
+    "latitude": -33.963882,
+    "longitude": -58.288612,
+    "elevation": 10,
+    "utc_offset": -3,
+    "_class": "U",
+    "timezone": "America/Montevideo"
+}

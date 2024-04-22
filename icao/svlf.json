@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2846",
+    "airport_name": "La Fria",
+    "city": "La Fria",
+    "country": "Venezuela",
+    "iata": "LFR",
+    "icao": "SVLF",
+    "latitude": 8.239167,
+    "longitude": -72.271028,
+    "elevation": 323,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

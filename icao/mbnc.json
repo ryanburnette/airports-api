@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1753",
+    "airport_name": "North Caicos",
+    "city": "North Caicos",
+    "country": "Turks and Caicos Islands",
+    "iata": "NCA",
+    "icao": "MBNC",
+    "latitude": 21.917475,
+    "longitude": -71.939561,
+    "elevation": 10,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Grand_Turk"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4045",
+    "airport_name": "Central Wisconsin",
+    "city": "Wassau",
+    "country": "United States",
+    "iata": "CWA",
+    "icao": "KCWA",
+    "latitude": 44.772726,
+    "longitude": -89.646635,
+    "elevation": 840,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

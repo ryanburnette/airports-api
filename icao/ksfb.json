@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4167",
+    "airport_name": "Orlando Sanford Intl",
+    "city": "Sanford",
+    "country": "United States",
+    "iata": "SFB",
+    "icao": "KSFB",
+    "latitude": 28.777639,
+    "longitude": -81.237489,
+    "elevation": 55,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

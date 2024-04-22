@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6000",
+    "airport_name": "Odate Noshiro Airport",
+    "city": "Odate Noshiro",
+    "country": "Japan",
+    "iata": "ONJ",
+    "icao": "RJSR",
+    "latitude": 40.1919,
+    "longitude": 140.371,
+    "elevation": 292,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1567",
+    "airport_name": "Perugia",
+    "city": "Perugia",
+    "country": "Italy",
+    "iata": "PEG",
+    "icao": "LIRZ",
+    "latitude": 43.095906,
+    "longitude": 12.513222,
+    "elevation": 693,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

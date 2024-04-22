@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3220",
+    "airport_name": "Lashio",
+    "city": "Lashio",
+    "country": "Burma",
+    "iata": "LSH",
+    "icao": "VYLS",
+    "latitude": 22.977881,
+    "longitude": 97.752183,
+    "elevation": 2450,
+    "utc_offset": 6.5,
+    "_class": "U",
+    "timezone": "Asia/Rangoon"
+}

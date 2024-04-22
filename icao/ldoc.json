@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1201",
+    "airport_name": "Cepin",
+    "city": "Cepin",
+    "country": "Croatia",
+    "iata": "",
+    "icao": "LDOC",
+    "latitude": 45.542169,
+    "longitude": 18.636233,
+    "elevation": 299,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zagreb"
+}

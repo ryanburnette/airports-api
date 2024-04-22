@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3930",
+    "airport_name": "Incheon Intl",
+    "city": "Seoul",
+    "country": "South Korea",
+    "iata": "ICN",
+    "icao": "RKSI",
+    "latitude": 37.469075,
+    "longitude": 126.450517,
+    "elevation": 23,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

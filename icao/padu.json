@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3860",
+    "airport_name": "Unalaska",
+    "city": "Unalaska",
+    "country": "United States",
+    "iata": "DUT",
+    "icao": "PADU",
+    "latitude": 53.900139,
+    "longitude": -166.5435,
+    "elevation": 22,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

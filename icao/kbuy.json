@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7859",
+    "airport_name": "Burlington-Alamance Regional Airport",
+    "city": "Burlington",
+    "country": "United States",
+    "iata": "BUY",
+    "icao": "KBUY",
+    "latitude": 36.0485433,
+    "longitude": -79.4748892,
+    "elevation": 617,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

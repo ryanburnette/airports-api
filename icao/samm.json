@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2453",
+    "airport_name": "Malargue",
+    "city": "Malargue",
+    "country": "Argentina",
+    "iata": "LGS",
+    "icao": "SAMM",
+    "latitude": -35.493597,
+    "longitude": -69.574267,
+    "elevation": 4683,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8515",
+    "airport_name": "Municipal Airport",
+    "city": "Aiken",
+    "country": "United States",
+    "iata": "AIK",
+    "icao": "KAIK",
+    "latitude": 33.6493889,
+    "longitude": -81.6850278,
+    "elevation": 529,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

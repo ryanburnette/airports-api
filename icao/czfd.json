@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5540",
+    "airport_name": "Fond-Du-Lac Airport",
+    "city": "Fond-Du-Lac",
+    "country": "Canada",
+    "iata": "ZFD",
+    "icao": "CZFD",
+    "latitude": 59.3344,
+    "longitude": -107.182,
+    "elevation": 814,
+    "utc_offset": -6,
+    "_class": "N",
+    "timezone": "America/Regina"
+}

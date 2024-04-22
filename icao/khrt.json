@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3507",
+    "airport_name": "Hurlburt Fld",
+    "city": "Mary Esther",
+    "country": "United States",
+    "iata": "HRT",
+    "icao": "KHRT",
+    "latitude": 30.427803,
+    "longitude": -86.689278,
+    "elevation": 38,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

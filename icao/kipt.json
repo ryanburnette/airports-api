@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3584",
+    "airport_name": "Williamsport Rgnl",
+    "city": "Williamsport",
+    "country": "United States",
+    "iata": "IPT",
+    "icao": "KIPT",
+    "latitude": 41.241836,
+    "longitude": -76.921094,
+    "elevation": 529,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

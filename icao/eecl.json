@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7724",
+    "airport_name": "Tallinn Linnahall Heliport",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "iata": "",
+    "icao": "EECL",
+    "latitude": 59.4486,
+    "longitude": 24.7532,
+    "elevation": 23,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Tallinn"
+}

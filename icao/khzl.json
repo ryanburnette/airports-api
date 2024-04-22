@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8473",
+    "airport_name": "Hazleton Municipal",
+    "city": "Hazleton",
+    "country": "United States",
+    "iata": "HZL",
+    "icao": "KHZL",
+    "latitude": 40.989167,
+    "longitude": -76.0025,
+    "elevation": 1603,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

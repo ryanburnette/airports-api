@@ -1,0 +1,14 @@
+{
+    "_csv_row": "149",
+    "airport_name": "Rouyn Noranda",
+    "city": "Rouyn",
+    "country": "Canada",
+    "iata": "YUY",
+    "icao": "CYUY",
+    "latitude": 48.206111,
+    "longitude": -78.835556,
+    "elevation": 988,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7265",
+    "airport_name": "Red Sucker Lake Airport",
+    "city": "Red Sucker Lake",
+    "country": "Canada",
+    "iata": "YRS",
+    "icao": "CYRS",
+    "latitude": 54.167222,
+    "longitude": -93.557222,
+    "elevation": 729,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

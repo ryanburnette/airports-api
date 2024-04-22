@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1336",
+    "airport_name": "Charnay",
+    "city": "Macon",
+    "country": "France",
+    "iata": "QNX",
+    "icao": "LFLM",
+    "latitude": 46.295103,
+    "longitude": 4.795767,
+    "elevation": 728,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

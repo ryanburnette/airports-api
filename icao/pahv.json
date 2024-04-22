@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7242",
+    "airport_name": "Healy River Airport",
+    "city": "Healy",
+    "country": "United States",
+    "iata": "HKB",
+    "icao": "PAHV",
+    "latitude": 63.8675,
+    "longitude": -148.968889,
+    "elevation": 1263,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

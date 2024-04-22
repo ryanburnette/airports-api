@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2671",
+    "airport_name": "Mariscal Lamar",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "iata": "CUE",
+    "icao": "SECU",
+    "latitude": -2.889467,
+    "longitude": -78.984397,
+    "elevation": 8306,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Guayaquil"
+}

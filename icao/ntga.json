@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1973",
+    "airport_name": "Anaa",
+    "city": "Anaa",
+    "country": "French Polynesia",
+    "iata": "AAA",
+    "icao": "NTGA",
+    "latitude": -17.352606,
+    "longitude": -145.509956,
+    "elevation": 10,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Tahiti"
+}

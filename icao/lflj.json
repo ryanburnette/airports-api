@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6479",
+    "airport_name": "Courchevel Airport",
+    "city": "Courcheval",
+    "country": "France",
+    "iata": "CVF",
+    "icao": "LFLJ",
+    "latitude": 45.3967,
+    "longitude": 6.63472,
+    "elevation": 6588,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

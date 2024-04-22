@@ -1,0 +1,14 @@
+{
+    "_csv_row": "425",
+    "airport_name": "Kiikala",
+    "city": "Kikala",
+    "country": "Finland",
+    "iata": "",
+    "icao": "EFIK",
+    "latitude": 60.462502,
+    "longitude": 23.6525,
+    "elevation": 381,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

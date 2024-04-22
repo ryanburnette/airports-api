@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4276",
+    "airport_name": "Erie Intl Tom Ridge Fld",
+    "city": "Erie",
+    "country": "United States",
+    "iata": "ERI",
+    "icao": "KERI",
+    "latitude": 42.082022,
+    "longitude": -80.176217,
+    "elevation": 733,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

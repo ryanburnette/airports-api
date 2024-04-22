@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3758",
+    "airport_name": "El Centro Naf",
+    "city": "El Centro",
+    "country": "United States",
+    "iata": "NJK",
+    "icao": "KNJK",
+    "latitude": 32.829222,
+    "longitude": -115.671667,
+    "elevation": -42,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

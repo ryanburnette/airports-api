@@ -1,0 +1,14 @@
+{
+    "_csv_row": "691",
+    "airport_name": "Save",
+    "city": "Gothenborg",
+    "country": "Sweden",
+    "iata": "GSE",
+    "icao": "ESGP",
+    "latitude": 57.774722,
+    "longitude": 11.870372,
+    "elevation": 59,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "205",
+    "airport_name": "Faro",
+    "city": "Faro",
+    "country": "Canada",
+    "iata": "ZFA",
+    "icao": "CZFA",
+    "latitude": 62.2075,
+    "longitude": -133.375833,
+    "elevation": 2351,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1749",
+    "airport_name": "Sliac",
+    "city": "Sliac",
+    "country": "Slovakia",
+    "iata": "SLD",
+    "icao": "LZSL",
+    "latitude": 48.637839,
+    "longitude": 19.134108,
+    "elevation": 1043,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Bratislava"
+}

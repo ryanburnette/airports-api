@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2328",
+    "airport_name": "Izumo",
+    "city": "Izumo",
+    "country": "Japan",
+    "iata": "IZO",
+    "icao": "RJOC",
+    "latitude": 35.413611,
+    "longitude": 132.89,
+    "elevation": 15,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

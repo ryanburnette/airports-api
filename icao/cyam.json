@@ -1,0 +1,14 @@
+{
+    "_csv_row": "21",
+    "airport_name": "Sault Ste Marie",
+    "city": "Sault Sainte Marie",
+    "country": "Canada",
+    "iata": "YAM",
+    "icao": "CYAM",
+    "latitude": 46.485001,
+    "longitude": -84.509445,
+    "elevation": 630,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

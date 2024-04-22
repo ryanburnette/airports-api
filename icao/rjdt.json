@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2297",
+    "airport_name": "Tsushima",
+    "city": "Tsushima",
+    "country": "Japan",
+    "iata": "TSJ",
+    "icao": "RJDT",
+    "latitude": 34.284889,
+    "longitude": 129.33055,
+    "elevation": 213,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

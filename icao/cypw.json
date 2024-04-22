@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5523",
+    "airport_name": "Powell River Airport",
+    "city": "Powell River",
+    "country": "Canada",
+    "iata": "YPW",
+    "icao": "CYPW",
+    "latitude": 49.8342,
+    "longitude": -124.5,
+    "elevation": 425,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

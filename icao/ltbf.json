@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1702",
+    "airport_name": "Balikesir",
+    "city": "Balikesir",
+    "country": "Turkey",
+    "iata": "BZI",
+    "icao": "LTBF",
+    "latitude": 39.619258,
+    "longitude": 27.925958,
+    "elevation": 340,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

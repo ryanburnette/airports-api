@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6336",
+    "airport_name": "Wollongong Airport",
+    "city": "Wollongong",
+    "country": "Australia",
+    "iata": "WOL",
+    "icao": "YWOL",
+    "latitude": -34.5611,
+    "longitude": 150.789,
+    "elevation": 31,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

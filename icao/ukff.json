@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2942",
+    "airport_name": "Simferopol Intl",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "iata": "SIP",
+    "icao": "UKFF",
+    "latitude": 45.052222,
+    "longitude": 33.975139,
+    "elevation": 639,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

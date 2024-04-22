@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3783",
+    "airport_name": "Moffett Federal Afld",
+    "city": "Mountain View",
+    "country": "United States",
+    "iata": "NUQ",
+    "icao": "KNUQ",
+    "latitude": 37.416142,
+    "longitude": -122.049139,
+    "elevation": 32,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

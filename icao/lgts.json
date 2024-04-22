@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1486",
+    "airport_name": "Makedonia",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "iata": "SKG",
+    "icao": "LGTS",
+    "latitude": 40.519725,
+    "longitude": 22.97095,
+    "elevation": 22,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

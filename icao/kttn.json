@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3447",
+    "airport_name": "Trenton Mercer",
+    "city": "Trenton",
+    "country": "United States",
+    "iata": "TTN",
+    "icao": "KTTN",
+    "latitude": 40.276692,
+    "longitude": -74.813469,
+    "elevation": 213,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

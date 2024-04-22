@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2458",
+    "airport_name": "La Rioja",
+    "city": "La Rioja",
+    "country": "Argentina",
+    "iata": "IRJ",
+    "icao": "SANL",
+    "latitude": -29.381636,
+    "longitude": -66.795839,
+    "elevation": 1436,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3849",
+    "airport_name": "Baltimore Washington Intl",
+    "city": "Baltimore",
+    "country": "United States",
+    "iata": "BWI",
+    "icao": "KBWI",
+    "latitude": 39.175361,
+    "longitude": -76.668333,
+    "elevation": 146,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "444",
+    "airport_name": "Mikkeli",
+    "city": "Mikkeli",
+    "country": "Finland",
+    "iata": "MIK",
+    "icao": "EFMI",
+    "latitude": 61.6866,
+    "longitude": 27.201794,
+    "elevation": 329,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8260",
+    "airport_name": "Una-Comandatuba Airport",
+    "city": "Una",
+    "country": "Brazil",
+    "iata": "UNA",
+    "icao": "SBTC",
+    "latitude": -15.355278,
+    "longitude": -38.998889,
+    "elevation": 20,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Fortaleza"
+}

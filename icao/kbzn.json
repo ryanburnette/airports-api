@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4020",
+    "airport_name": "Gallatin Field",
+    "city": "Bozeman",
+    "country": "United States",
+    "iata": "BZN",
+    "icao": "KBZN",
+    "latitude": 45.777643,
+    "longitude": -111.160151,
+    "elevation": 4500,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

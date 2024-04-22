@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3765",
+    "airport_name": "Chandler Muni",
+    "city": "Chandler",
+    "country": "United States",
+    "iata": "",
+    "icao": "KCHD",
+    "latitude": 33.269111,
+    "longitude": -111.811111,
+    "elevation": 1243,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Phoenix"
+}

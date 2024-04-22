@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3705",
+    "airport_name": "Molokai",
+    "city": "Molokai",
+    "country": "United States",
+    "iata": "MKK",
+    "icao": "PHMK",
+    "latitude": 21.152886,
+    "longitude": -157.096256,
+    "elevation": 454,
+    "utc_offset": -10,
+    "_class": "N",
+    "timezone": "Pacific/Honolulu"
+}

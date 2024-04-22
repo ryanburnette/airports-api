@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3343",
+    "airport_name": "Edinburgh",
+    "city": "Edinburgh",
+    "country": "Australia",
+    "iata": "",
+    "icao": "YPED",
+    "latitude": -34.7025,
+    "longitude": 138.620833,
+    "elevation": 67,
+    "utc_offset": 9.5,
+    "_class": "O",
+    "timezone": "Australia/Adelaide"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5801",
+    "airport_name": "Isparta Süleyman Demirel Airport",
+    "city": "Isparta",
+    "country": "Turkey",
+    "iata": "ISE",
+    "icao": "LTFC",
+    "latitude": 37.8554,
+    "longitude": 30.3684,
+    "elevation": 2835,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

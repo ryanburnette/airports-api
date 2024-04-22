@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1367",
+    "airport_name": "Tille",
+    "city": "Beauvais",
+    "country": "France",
+    "iata": "BVA",
+    "icao": "LFOB",
+    "latitude": 49.454444,
+    "longitude": 2.112778,
+    "elevation": 359,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

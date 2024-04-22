@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3666",
+    "airport_name": "Dobbins Arb",
+    "city": "Marietta",
+    "country": "United States",
+    "iata": "MGE",
+    "icao": "KMGE",
+    "latitude": 33.915382,
+    "longitude": -84.516319,
+    "elevation": 1068,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

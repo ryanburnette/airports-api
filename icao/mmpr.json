@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1836",
+    "airport_name": "Licenciado Gustavo Diaz Ordaz Intl",
+    "city": "Puerto Vallarta",
+    "country": "Mexico",
+    "iata": "PVR",
+    "icao": "MMPR",
+    "latitude": 20.680083,
+    "longitude": -105.254167,
+    "elevation": 23,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

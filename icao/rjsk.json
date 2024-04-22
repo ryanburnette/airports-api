@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2345",
+    "airport_name": "Akita",
+    "city": "Akita",
+    "country": "Japan",
+    "iata": "AXT",
+    "icao": "RJSK",
+    "latitude": 39.615556,
+    "longitude": 140.218611,
+    "elevation": 313,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

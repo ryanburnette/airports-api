@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5557",
+    "airport_name": "Heringsdorf Airport",
+    "city": "Heringsdorf",
+    "country": "Germany",
+    "iata": "HDF",
+    "icao": "EDAH",
+    "latitude": 53.878706,
+    "longitude": 14.152347,
+    "elevation": 93,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

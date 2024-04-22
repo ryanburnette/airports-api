@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2162",
+    "airport_name": "Tabriz Intl",
+    "city": "Tabriz",
+    "country": "Iran",
+    "iata": "TBZ",
+    "icao": "OITT",
+    "latitude": 38.133889,
+    "longitude": 46.235,
+    "elevation": 4459,
+    "utc_offset": 3.5,
+    "_class": "E",
+    "timezone": "Asia/Tehran"
+}

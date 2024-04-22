@@ -1,0 +1,14 @@
+{
+    "_csv_row": "531",
+    "airport_name": "Wick",
+    "city": "Wick",
+    "country": "United Kingdom",
+    "iata": "WIC",
+    "icao": "EGPC",
+    "latitude": 58.458889,
+    "longitude": -3.093056,
+    "elevation": 126,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

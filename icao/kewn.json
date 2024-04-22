@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3730",
+    "airport_name": "Craven Co Rgnl",
+    "city": "New Bern",
+    "country": "United States",
+    "iata": "EWN",
+    "icao": "KEWN",
+    "latitude": 35.072972,
+    "longitude": -77.042944,
+    "elevation": 18,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

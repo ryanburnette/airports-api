@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3564",
+    "airport_name": "Pensacola Rgnl",
+    "city": "Pensacola",
+    "country": "United States",
+    "iata": "PNS",
+    "icao": "KPNS",
+    "latitude": 30.473425,
+    "longitude": -87.186611,
+    "elevation": 121,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

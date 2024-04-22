@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3711",
+    "airport_name": "Burlington Intl",
+    "city": "Burlington",
+    "country": "United States",
+    "iata": "BTV",
+    "icao": "KBTV",
+    "latitude": 44.471861,
+    "longitude": -73.153278,
+    "elevation": 335,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

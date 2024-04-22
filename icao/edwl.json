@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6975",
+    "airport_name": "Langeoog Airport",
+    "city": "Langeoog",
+    "country": "Germany",
+    "iata": "LGO",
+    "icao": "EDWL",
+    "latitude": 53.7425,
+    "longitude": 7.49778,
+    "elevation": 7,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

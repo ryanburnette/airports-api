@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7653",
+    "airport_name": "Shively Field Airport",
+    "city": "SARATOGA",
+    "country": "United States",
+    "iata": "SAA",
+    "icao": "KSAA",
+    "latitude": 41.4448594,
+    "longitude": -106.8235264,
+    "elevation": 7012,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

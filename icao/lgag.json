@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1445",
+    "airport_name": "Agrinion",
+    "city": "Agrinion",
+    "country": "Greece",
+    "iata": "AGQ",
+    "icao": "LGAG",
+    "latitude": 38.602022,
+    "longitude": 21.351208,
+    "elevation": 154,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

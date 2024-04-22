@@ -1,0 +1,14 @@
+{
+    "_csv_row": "643",
+    "airport_name": "Floro",
+    "city": "Floro",
+    "country": "Norway",
+    "iata": "FRO",
+    "icao": "ENFL",
+    "latitude": 61.583611,
+    "longitude": 5.024722,
+    "elevation": 37,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

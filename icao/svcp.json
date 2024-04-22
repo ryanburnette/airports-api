@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2832",
+    "airport_name": "General Jose Francisco Bermudez",
+    "city": "Carupano",
+    "country": "Venezuela",
+    "iata": "CUP",
+    "icao": "SVCP",
+    "latitude": 10.660014,
+    "longitude": -63.261681,
+    "elevation": 33,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

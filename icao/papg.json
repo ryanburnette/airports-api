@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4147",
+    "airport_name": "Petersburg James A. Johnson",
+    "city": "Petersburg",
+    "country": "United States",
+    "iata": "PSG",
+    "icao": "PAPG",
+    "latitude": 56.801667,
+    "longitude": -132.945278,
+    "elevation": 105,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

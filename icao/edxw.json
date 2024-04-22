@@ -1,0 +1,14 @@
+{
+    "_csv_row": "410",
+    "airport_name": "Westerland Sylt",
+    "city": "Westerland",
+    "country": "Germany",
+    "iata": "GWT",
+    "icao": "EDXW",
+    "latitude": 54.91325,
+    "longitude": 8.340472,
+    "elevation": 51,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

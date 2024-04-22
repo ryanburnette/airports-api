@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8288",
+    "airport_name": "Lawrence Municipal Airport",
+    "city": "Lawrence",
+    "country": "United States",
+    "iata": "LWM",
+    "icao": "KLWM",
+    "latitude": 42.7171944,
+    "longitude": -71.1234167,
+    "elevation": 148,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

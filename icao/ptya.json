@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2258",
+    "airport_name": "Yap Intl",
+    "city": "Yap",
+    "country": "Micronesia",
+    "iata": "YAP",
+    "icao": "PTYA",
+    "latitude": 9.498911,
+    "longitude": 138.082497,
+    "elevation": 91,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Truk"
+}

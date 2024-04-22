@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2354",
+    "airport_name": "Kisarazu",
+    "city": "Kisarazu",
+    "country": "Japan",
+    "iata": "",
+    "icao": "RJTK",
+    "latitude": 35.398272,
+    "longitude": 139.909936,
+    "elevation": 10,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

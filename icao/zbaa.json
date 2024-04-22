@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3364",
+    "airport_name": "Capital Intl",
+    "city": "Beijing",
+    "country": "China",
+    "iata": "PEK",
+    "icao": "ZBAA",
+    "latitude": 40.080111,
+    "longitude": 116.584556,
+    "elevation": 116,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Asia/Chongqing"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3627",
+    "airport_name": "James M Cox Dayton Intl",
+    "city": "Dayton",
+    "country": "United States",
+    "iata": "DAY",
+    "icao": "KDAY",
+    "latitude": 39.902375,
+    "longitude": -84.219375,
+    "elevation": 1009,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3613",
+    "airport_name": "Savannah Hilton Head Intl",
+    "city": "Savannah",
+    "country": "United States",
+    "iata": "SAV",
+    "icao": "KSAV",
+    "latitude": 32.127583,
+    "longitude": -81.202139,
+    "elevation": 51,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

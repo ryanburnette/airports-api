@@ -1,0 +1,14 @@
+{
+    "_csv_row": "532",
+    "airport_name": "Dyce",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "iata": "ABZ",
+    "icao": "EGPD",
+    "latitude": 57.201944,
+    "longitude": -2.197778,
+    "elevation": 215,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

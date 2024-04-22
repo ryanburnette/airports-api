@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7728",
+    "airport_name": "Hilversum Airport",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "iata": "",
+    "icao": "EHHV",
+    "latitude": 52.1919,
+    "longitude": 5.14694,
+    "elevation": 3,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Amsterdam"
+}

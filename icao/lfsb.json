@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1423",
+    "airport_name": "Bale Mulhouse",
+    "city": "Mulhouse",
+    "country": "France",
+    "iata": "MLH",
+    "icao": "LFSB",
+    "latitude": 47.589583,
+    "longitude": 7.529914,
+    "elevation": 885,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

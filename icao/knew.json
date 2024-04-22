@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9188",
+    "airport_name": "Lakefront",
+    "city": "New Orleans",
+    "country": "United States",
+    "iata": "NEW",
+    "icao": "KNEW",
+    "latitude": 30.0424167,
+    "longitude": -90.02825,
+    "elevation": 7,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

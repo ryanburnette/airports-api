@@ -1,0 +1,14 @@
+{
+    "_csv_row": "95",
+    "airport_name": "Gatineau",
+    "city": "Gatineau",
+    "country": "Canada",
+    "iata": "YND",
+    "icao": "CYND",
+    "latitude": 45.521694,
+    "longitude": -75.563589,
+    "elevation": 211,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

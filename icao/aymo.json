@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5430",
+    "airport_name": "Momote Airport",
+    "city": "Momote",
+    "country": "Papua New Guinea",
+    "iata": "MAS",
+    "icao": "AYMO",
+    "latitude": -2.06189,
+    "longitude": 147.424,
+    "elevation": 12,
+    "utc_offset": 10,
+    "_class": "U",
+    "timezone": "Pacific/Port_Moresby"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "67",
+    "airport_name": "Dryden Rgnl",
+    "city": "Dryden",
+    "country": "Canada",
+    "iata": "YHD",
+    "icao": "CYHD",
+    "latitude": 49.831667,
+    "longitude": -92.744167,
+    "elevation": 1354,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

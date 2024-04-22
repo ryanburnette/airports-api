@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8712",
+    "airport_name": "Garissa",
+    "city": "Garissa",
+    "country": "Kenya",
+    "iata": "GAS",
+    "icao": "HKGA",
+    "latitude": -0.468611,
+    "longitude": 39.649444,
+    "elevation": 469,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Nairobi"
+}

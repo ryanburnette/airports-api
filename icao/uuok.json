@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6157",
+    "airport_name": "Kursk East Airport",
+    "city": "Kursk",
+    "country": "Russia",
+    "iata": "URS",
+    "icao": "UUOK",
+    "latitude": 51.7506,
+    "longitude": 36.2956,
+    "elevation": 686,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

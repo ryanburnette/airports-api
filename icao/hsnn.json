@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5701",
+    "airport_name": "Nyala Airport",
+    "city": "Nyala",
+    "country": "Sudan",
+    "iata": "UYL",
+    "icao": "HSNN",
+    "latitude": 12.0535,
+    "longitude": 24.9562,
+    "elevation": 2106,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Khartoum"
+}

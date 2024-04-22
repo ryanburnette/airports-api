@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2291",
+    "airport_name": "Nakashibetsu",
+    "city": "Nakashibetsu",
+    "country": "Japan",
+    "iata": "SHB",
+    "icao": "RJCN",
+    "latitude": 43.5775,
+    "longitude": 144.96,
+    "elevation": 234,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

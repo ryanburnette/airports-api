@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1446",
+    "airport_name": "Dimokritos",
+    "city": "Alexandroupolis",
+    "country": "Greece",
+    "iata": "AXD",
+    "icao": "LGAL",
+    "latitude": 40.855869,
+    "longitude": 25.956264,
+    "elevation": 24,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Athens"
+}

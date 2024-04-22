@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4388",
+    "airport_name": "Dubuque Rgnl",
+    "city": "Dubuque IA",
+    "country": "United States",
+    "iata": "DBQ",
+    "icao": "KDBQ",
+    "latitude": 42.402,
+    "longitude": -90.709472,
+    "elevation": 1076,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

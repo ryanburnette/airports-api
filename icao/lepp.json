@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1234",
+    "airport_name": "Pamplona",
+    "city": "Pamplona",
+    "country": "Spain",
+    "iata": "PNA",
+    "icao": "LEPP",
+    "latitude": 42.770039,
+    "longitude": -1.646331,
+    "elevation": 1504,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3843",
+    "airport_name": "Forbes Fld",
+    "city": "Topeka",
+    "country": "United States",
+    "iata": "FOE",
+    "icao": "KFOE",
+    "latitude": 38.950944,
+    "longitude": -95.663611,
+    "elevation": 1078,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

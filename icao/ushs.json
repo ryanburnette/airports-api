@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6140",
+    "airport_name": "Sovetsky Tyumenskaya Airport",
+    "city": "Sovetskiy",
+    "country": "Russia",
+    "iata": "OVS",
+    "icao": "USHS",
+    "latitude": 61.32,
+    "longitude": 63.6044,
+    "elevation": 351,
+    "utc_offset": 6,
+    "_class": "N",
+    "timezone": "Asia/Yekaterinburg"
+}

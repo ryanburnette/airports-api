@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7716",
+    "airport_name": "Dell Flight Strip",
+    "city": "Dell",
+    "country": "United States",
+    "iata": "4U9",
+    "icao": "K4U9",
+    "latitude": 44.7357483,
+    "longitude": -112.7200133,
+    "elevation": 6007,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

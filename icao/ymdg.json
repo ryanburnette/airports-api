@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6808",
+    "airport_name": "Mudgee Airport",
+    "city": "Mudgee",
+    "country": "Australia",
+    "iata": "DGE",
+    "icao": "YMDG",
+    "latitude": -32.5625,
+    "longitude": 149.611,
+    "elevation": 1545,
+    "utc_offset": 10,
+    "_class": "O",
+    "timezone": "Australia/Sydney"
+}

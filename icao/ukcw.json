@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6102",
+    "airport_name": "Luhansk International Airport",
+    "city": "Lugansk",
+    "country": "Ukraine",
+    "iata": "VSG",
+    "icao": "UKCW",
+    "latitude": 48.4174,
+    "longitude": 39.3741,
+    "elevation": 636,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1582",
+    "airport_name": "Mosnov",
+    "city": "Ostrava",
+    "country": "Czech Republic",
+    "iata": "OSR",
+    "icao": "LKMT",
+    "latitude": 49.696292,
+    "longitude": 18.111053,
+    "elevation": 844,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Prague"
+}

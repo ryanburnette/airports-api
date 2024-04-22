@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1273",
+    "airport_name": "Blagnac",
+    "city": "Toulouse",
+    "country": "France",
+    "iata": "TLS",
+    "icao": "LFBO",
+    "latitude": 43.629075,
+    "longitude": 1.363819,
+    "elevation": 499,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

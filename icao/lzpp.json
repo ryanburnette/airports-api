@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1748",
+    "airport_name": "Piestany",
+    "city": "Piestany",
+    "country": "Slovakia",
+    "iata": "PZY",
+    "icao": "LZPP",
+    "latitude": 48.625247,
+    "longitude": 17.828444,
+    "elevation": 545,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Bratislava"
+}

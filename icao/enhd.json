@@ -1,0 +1,14 @@
+{
+    "_csv_row": "645",
+    "airport_name": "Karmoy",
+    "city": "Haugesund",
+    "country": "Norway",
+    "iata": "HAU",
+    "icao": "ENHD",
+    "latitude": 59.345267,
+    "longitude": 5.208364,
+    "elevation": 86,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

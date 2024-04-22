@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5672",
+    "airport_name": "Hassan I Airport",
+    "city": "El Aaiún",
+    "country": "Western Sahara",
+    "iata": "EUN",
+    "icao": "GMML",
+    "latitude": 27.1517,
+    "longitude": -13.2192,
+    "elevation": 207,
+    "utc_offset": 0,
+    "_class": "N",
+    "timezone": "Africa/El_Aaiun"
+}

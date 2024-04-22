@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4009",
+    "airport_name": "Sioux Falls",
+    "city": "Sioux Falls",
+    "country": "United States",
+    "iata": "FSD",
+    "icao": "KFSD",
+    "latitude": 43.582014,
+    "longitude": -96.741914,
+    "elevation": 1429,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

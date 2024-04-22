@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5884",
+    "airport_name": "Niue International Airport",
+    "city": "Alofi",
+    "country": "Niue",
+    "iata": "IUE",
+    "icao": "NIUE",
+    "latitude": -19.080028,
+    "longitude": -169.925639,
+    "elevation": 209,
+    "utc_offset": -11,
+    "_class": "U",
+    "timezone": "Pacific/Niue"
+}

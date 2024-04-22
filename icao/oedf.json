@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2064",
+    "airport_name": "King Fahd Intl",
+    "city": "Dammam",
+    "country": "Saudi Arabia",
+    "iata": "DMM",
+    "icao": "OEDF",
+    "latitude": 26.471161,
+    "longitude": 49.79789,
+    "elevation": 72,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Asia/Riyadh"
+}

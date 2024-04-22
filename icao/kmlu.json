@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3732",
+    "airport_name": "Monroe Rgnl",
+    "city": "Monroe",
+    "country": "United States",
+    "iata": "MLU",
+    "icao": "KMLU",
+    "latitude": 32.510864,
+    "longitude": -92.037689,
+    "elevation": 79,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

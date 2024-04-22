@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1682",
+    "airport_name": "Esenboga",
+    "city": "Ankara",
+    "country": "Turkey",
+    "iata": "ESB",
+    "icao": "LTAC",
+    "latitude": 40.128082,
+    "longitude": 32.995083,
+    "elevation": 3125,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

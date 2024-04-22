@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7378",
+    "airport_name": "Bom Futuro Airport",
+    "city": "Lucas do Rio Verde",
+    "country": "Brazil",
+    "iata": "LVR",
+    "icao": "SWFE",
+    "latitude": -13.05,
+    "longitude": -55.910833,
+    "elevation": 500,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Campo_Grande"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6729",
+    "airport_name": "Arctic Village Airport",
+    "city": "Arctic Village",
+    "country": "United States",
+    "iata": "ARC",
+    "icao": "PARC",
+    "latitude": 68.1147,
+    "longitude": -145.579,
+    "elevation": 2092,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

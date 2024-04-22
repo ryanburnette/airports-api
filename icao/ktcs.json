@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3755",
+    "airport_name": "Truth Or Consequences Muni",
+    "city": "Truth Or Consequences",
+    "country": "United States",
+    "iata": "TCS",
+    "icao": "KTCS",
+    "latitude": 33.236944,
+    "longitude": -107.27175,
+    "elevation": 4853,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

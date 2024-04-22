@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2037",
+    "airport_name": "Woodbourne",
+    "city": "Woodbourne",
+    "country": "New Zealand",
+    "iata": "BHE",
+    "icao": "NZWB",
+    "latitude": -41.518333,
+    "longitude": 173.870278,
+    "elevation": 109,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

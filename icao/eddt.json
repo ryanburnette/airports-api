@@ -1,0 +1,14 @@
+{
+    "_csv_row": "351",
+    "airport_name": "Tegel",
+    "city": "Berlin",
+    "country": "Germany",
+    "iata": "TXL",
+    "icao": "EDDT",
+    "latitude": 52.559686,
+    "longitude": 13.287711,
+    "elevation": 122,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

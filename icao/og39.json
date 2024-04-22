@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8931",
+    "airport_name": "Longview Ranch Airport",
+    "city": "Longview",
+    "country": "United States",
+    "iata": "",
+    "icao": "OG39",
+    "latitude": 44.6608611,
+    "longitude": -119.6526153,
+    "elevation": 2080,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

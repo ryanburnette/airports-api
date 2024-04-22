@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6719",
+    "airport_name": "Kivalina Airport",
+    "city": "Kivalina",
+    "country": "United States",
+    "iata": "KVL",
+    "icao": "PAVL",
+    "latitude": 67.7362,
+    "longitude": -164.563,
+    "elevation": 13,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

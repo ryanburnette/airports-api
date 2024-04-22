@@ -1,0 +1,14 @@
+{
+    "_csv_row": "430",
+    "airport_name": "Jyvaskyla",
+    "city": "Jyvaskyla",
+    "country": "Finland",
+    "iata": "JYV",
+    "icao": "EFJY",
+    "latitude": 62.399453,
+    "longitude": 25.678253,
+    "elevation": 459,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

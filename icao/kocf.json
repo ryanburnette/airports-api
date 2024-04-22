@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8510",
+    "airport_name": "International Airport",
+    "city": "Ocala",
+    "country": "United States",
+    "iata": "OCF",
+    "icao": "KOCF",
+    "latitude": 29.1725,
+    "longitude": -82.224167,
+    "elevation": 89,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

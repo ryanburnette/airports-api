@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8063",
+    "airport_name": "Fitzgerald Municipal Airport",
+    "city": "Fitzgerald",
+    "country": "United States",
+    "iata": "FZG",
+    "icao": "KFZG",
+    "latitude": 31.6839046,
+    "longitude": -83.2709036,
+    "elevation": 365,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

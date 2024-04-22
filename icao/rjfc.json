@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2303",
+    "airport_name": "Yakushima",
+    "city": "Yakushima",
+    "country": "Japan",
+    "iata": "KUM",
+    "icao": "RJFC",
+    "latitude": 30.385569,
+    "longitude": 130.659017,
+    "elevation": 124,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

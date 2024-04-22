@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8861",
+    "airport_name": "Bremgarten Airport",
+    "city": "Bremgarten",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDTG",
+    "latitude": 47.902779,
+    "longitude": 7.617778,
+    "elevation": 300,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

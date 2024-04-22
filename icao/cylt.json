@@ -1,0 +1,14 @@
+{
+    "_csv_row": "86",
+    "airport_name": "Alert",
+    "city": "Alert",
+    "country": "Canada",
+    "iata": "YLT",
+    "icao": "CYLT",
+    "latitude": 82.517778,
+    "longitude": -62.280556,
+    "elevation": 100,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

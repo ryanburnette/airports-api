@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8852",
+    "airport_name": "Gilberto Lavaque",
+    "city": "Cafayate",
+    "country": "Argentina",
+    "iata": "CFX",
+    "icao": "SASC",
+    "latitude": -26.06245,
+    "longitude": -65.932095,
+    "elevation": 5523,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Cordoba"
+}

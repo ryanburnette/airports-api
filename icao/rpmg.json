@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4201",
+    "airport_name": "Dipolog",
+    "city": "Dipolog",
+    "country": "Philippines",
+    "iata": "DPL",
+    "icao": "RPMG",
+    "latitude": 8.601261,
+    "longitude": 123.334481,
+    "elevation": 12,
+    "utc_offset": 8,
+    "_class": "N",
+    "timezone": "Asia/Manila"
+}

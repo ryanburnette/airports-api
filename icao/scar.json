@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2641",
+    "airport_name": "Chacalluta",
+    "city": "Arica",
+    "country": "Chile",
+    "iata": "ARI",
+    "icao": "SCAR",
+    "latitude": -18.348531,
+    "longitude": -70.338742,
+    "elevation": 167,
+    "utc_offset": -4,
+    "_class": "S",
+    "timezone": "America/Santiago"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2377",
+    "airport_name": "Osan Ab",
+    "city": "Osan",
+    "country": "South Korea",
+    "iata": "OSN",
+    "icao": "RKSO",
+    "latitude": 37.090617,
+    "longitude": 127.029594,
+    "elevation": 40,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Seoul"
+}

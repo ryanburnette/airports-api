@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6029",
+    "airport_name": "Antoine De St Exupery Airport",
+    "city": "San Antonio Oeste",
+    "country": "Argentina",
+    "iata": "OES",
+    "icao": "SAVN",
+    "latitude": -40.7512,
+    "longitude": -65.0343,
+    "elevation": 85,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

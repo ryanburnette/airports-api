@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3528",
+    "airport_name": "Northern Maine Rgnl At Presque Isle",
+    "city": "Presque Isle",
+    "country": "United States",
+    "iata": "PQI",
+    "icao": "KPQI",
+    "latitude": 46.688958,
+    "longitude": -68.044797,
+    "elevation": 534,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

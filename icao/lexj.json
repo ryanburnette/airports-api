@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1251",
+    "airport_name": "Santander",
+    "city": "Santander",
+    "country": "Spain",
+    "iata": "SDR",
+    "icao": "LEXJ",
+    "latitude": 43.427064,
+    "longitude": -3.820006,
+    "elevation": 16,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

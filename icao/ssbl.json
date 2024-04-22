@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8152",
+    "airport_name": "Aeroporto Blumenau",
+    "city": "BLUMENAU",
+    "country": "Brazil",
+    "iata": "BNU",
+    "icao": "SSBL",
+    "latitude": -26.834239,
+    "longitude": -49.091696,
+    "elevation": 70,
+    "utc_offset": -3,
+    "_class": "S",
+    "timezone": "America/Sao_Paulo"
+}

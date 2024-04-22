@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3620",
+    "airport_name": "Deadhorse",
+    "city": "Deadhorse",
+    "country": "United States",
+    "iata": "SCC",
+    "icao": "PASC",
+    "latitude": 70.19475,
+    "longitude": -148.465167,
+    "elevation": 64,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

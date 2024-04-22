@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6033",
+    "airport_name": "Necochea Airport",
+    "city": "Necochea",
+    "country": "Argentina",
+    "iata": "NEC",
+    "icao": "SAZO",
+    "latitude": -38.483056,
+    "longitude": -58.817222,
+    "elevation": 72,
+    "utc_offset": -3,
+    "_class": "N",
+    "timezone": "America/Cordoba"
+}

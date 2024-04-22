@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7196",
+    "airport_name": "Nikolski Air Station",
+    "city": "Nikolski",
+    "country": "United States",
+    "iata": "IKO",
+    "icao": "PAKO",
+    "latitude": 52.941667,
+    "longitude": -168.848889,
+    "elevation": 77,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

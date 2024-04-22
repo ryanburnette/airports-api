@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3560",
+    "airport_name": "Valley Intl",
+    "city": "Harlingen",
+    "country": "United States",
+    "iata": "HRL",
+    "icao": "KHRL",
+    "latitude": 26.2285,
+    "longitude": -97.654389,
+    "elevation": 36,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

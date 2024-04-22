@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1305",
+    "airport_name": "Ancenis",
+    "city": "Ancenis",
+    "country": "France",
+    "iata": "",
+    "icao": "LFFI",
+    "latitude": 47.408056,
+    "longitude": -1.1775,
+    "elevation": 111,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

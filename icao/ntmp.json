@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5891",
+    "airport_name": "Ua Pou Airport",
+    "city": "Ua Pou",
+    "country": "French Polynesia",
+    "iata": "UAP",
+    "icao": "NTMP",
+    "latitude": -9.35167,
+    "longitude": -140.078,
+    "elevation": 16,
+    "utc_offset": -9.5,
+    "_class": "U",
+    "timezone": "Pacific/Marquesas"
+}

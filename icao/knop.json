@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7086",
+    "airport_name": "Newport Municipal Airport",
+    "city": "Newport",
+    "country": "United States",
+    "iata": "ONP",
+    "icao": "KNOP",
+    "latitude": 44.580361,
+    "longitude": -124.057917,
+    "elevation": 160,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

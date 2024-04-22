@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2287",
+    "airport_name": "New Chitose",
+    "city": "Sapporo",
+    "country": "Japan",
+    "iata": "CTS",
+    "icao": "RJCC",
+    "latitude": 42.7752,
+    "longitude": 141.692283,
+    "elevation": 82,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

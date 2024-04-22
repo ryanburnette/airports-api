@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3472",
+    "airport_name": "Gainesville Rgnl",
+    "city": "Gainesville",
+    "country": "United States",
+    "iata": "GNV",
+    "icao": "KGNV",
+    "latitude": 29.690056,
+    "longitude": -82.271778,
+    "elevation": 152,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

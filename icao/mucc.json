@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1901",
+    "airport_name": "Jardines Del Rey",
+    "city": "Cunagua",
+    "country": "Cuba",
+    "iata": "",
+    "icao": "MUCC",
+    "latitude": 22.460986,
+    "longitude": -78.328422,
+    "elevation": 13,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Havana"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3466",
+    "airport_name": "Anderson Rgnl",
+    "city": "Andersen",
+    "country": "United States",
+    "iata": "AND",
+    "icao": "KAND",
+    "latitude": 34.494583,
+    "longitude": -82.709389,
+    "elevation": 782,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3767",
+    "airport_name": "Mc Connell Afb",
+    "city": "Wichita",
+    "country": "United States",
+    "iata": "IAB",
+    "icao": "KIAB",
+    "latitude": 37.621853,
+    "longitude": -97.268192,
+    "elevation": 1371,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

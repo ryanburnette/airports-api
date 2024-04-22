@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7549",
+    "airport_name": "Tajima Airport",
+    "city": "Toyooka",
+    "country": "Japan",
+    "iata": "TJH",
+    "icao": "RJBT",
+    "latitude": 35.512778,
+    "longitude": 134.786944,
+    "elevation": 578,
+    "utc_offset": 9,
+    "_class": "U",
+    "timezone": "Asia/Tokyo"
+}

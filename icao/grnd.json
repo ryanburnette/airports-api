@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9486",
+    "airport_name": "Granada Station",
+    "city": "Granada",
+    "country": "Spain",
+    "iata": "",
+    "icao": "GRND",
+    "latitude": 37.184055,
+    "longitude": -3.60916,
+    "elevation": 2421,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

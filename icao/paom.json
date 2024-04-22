@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3615",
+    "airport_name": "Nome",
+    "city": "Nome",
+    "country": "United States",
+    "iata": "OME",
+    "icao": "PAOM",
+    "latitude": 64.512203,
+    "longitude": -165.445247,
+    "elevation": 37,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

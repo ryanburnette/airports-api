@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8274",
+    "airport_name": "St Lucie County International Airport",
+    "city": "Fort Pierce",
+    "country": "United States",
+    "iata": "FRP",
+    "icao": "KFPR",
+    "latitude": 27.497472,
+    "longitude": -80.372638,
+    "elevation": 23,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

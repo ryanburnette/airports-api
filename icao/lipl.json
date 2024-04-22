@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1542",
+    "airport_name": "Ghedi",
+    "city": "Ghedi",
+    "country": "Italy",
+    "iata": "",
+    "icao": "LIPL",
+    "latitude": 45.432167,
+    "longitude": 10.267667,
+    "elevation": 333,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Rome"
+}

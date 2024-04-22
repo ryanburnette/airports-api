@@ -1,0 +1,14 @@
+{
+    "_csv_row": "174",
+    "airport_name": "London",
+    "city": "London",
+    "country": "Canada",
+    "iata": "YXU",
+    "icao": "CYXU",
+    "latitude": 43.033056,
+    "longitude": -81.151111,
+    "elevation": 912,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

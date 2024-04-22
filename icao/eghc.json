@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5572",
+    "airport_name": "Land's End / St. Just Airport",
+    "city": "Land's End",
+    "country": "United Kingdom",
+    "iata": "LEQ",
+    "icao": "EGHC",
+    "latitude": 50.1028,
+    "longitude": -5.67056,
+    "elevation": 401,
+    "utc_offset": 0,
+    "_class": "E",
+    "timezone": "Europe/London"
+}

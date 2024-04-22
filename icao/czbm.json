@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8963",
+    "airport_name": "Bromont Airport",
+    "city": "Bromont",
+    "country": "Canada",
+    "iata": "ZBM",
+    "icao": "CZBM",
+    "latitude": 45.290833,
+    "longitude": -72.741944,
+    "elevation": 374,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

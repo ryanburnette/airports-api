@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2804",
+    "airport_name": "Capitan Carlos Martinez De Pinillos",
+    "city": "Trujillo",
+    "country": "Peru",
+    "iata": "TRU",
+    "icao": "SPRU",
+    "latitude": -8.081411,
+    "longitude": -79.108761,
+    "elevation": 106,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Lima"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1107",
+    "airport_name": "Bole Intl",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "iata": "ADD",
+    "icao": "HAAB",
+    "latitude": 8.977889,
+    "longitude": 38.799319,
+    "elevation": 7656,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Addis_Ababa"
+}

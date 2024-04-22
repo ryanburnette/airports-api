@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5525",
+    "airport_name": "Nakina Airport",
+    "city": "Nakina",
+    "country": "Canada",
+    "iata": "YQN",
+    "icao": "CYQN",
+    "latitude": 50.182777,
+    "longitude": -86.696388,
+    "elevation": 1057,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

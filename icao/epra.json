@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8029",
+    "airport_name": "RADOM",
+    "city": "RADOM",
+    "country": "Poland",
+    "iata": "QXR",
+    "icao": "EPRA",
+    "latitude": 51.231978,
+    "longitude": 21.124183,
+    "elevation": 479,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Warsaw"
+}

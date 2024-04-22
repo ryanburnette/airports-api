@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3791",
+    "airport_name": "Opa Locka",
+    "city": "Miami",
+    "country": "United States",
+    "iata": "OPF",
+    "icao": "KOPF",
+    "latitude": 25.907,
+    "longitude": -80.278389,
+    "elevation": 8,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

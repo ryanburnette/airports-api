@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8873",
+    "airport_name": "Hasselt Airport",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBZH",
+    "latitude": 50.9700012207031,
+    "longitude": 5.37507009506226,
+    "elevation": 141,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

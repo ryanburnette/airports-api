@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8162",
+    "airport_name": "Charlevoix Municipal Airport",
+    "city": "Charelvoix",
+    "country": "United States",
+    "iata": "CVX",
+    "icao": "KCVX",
+    "latitude": 45.3047778,
+    "longitude": -85.2753333,
+    "elevation": 669,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

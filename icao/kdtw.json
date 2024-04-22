@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3645",
+    "airport_name": "Detroit Metro Wayne Co",
+    "city": "Detroit",
+    "country": "United States",
+    "iata": "DTW",
+    "icao": "KDTW",
+    "latitude": 42.212444,
+    "longitude": -83.353389,
+    "elevation": 645,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

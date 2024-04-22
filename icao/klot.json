@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7886",
+    "airport_name": "Lewis University Airport",
+    "city": "Lockport",
+    "country": "United States",
+    "iata": "LOT",
+    "icao": "KLOT",
+    "latitude": 41.606326,
+    "longitude": -88.083003,
+    "elevation": 680,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

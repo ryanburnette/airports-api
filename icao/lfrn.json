@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1415",
+    "airport_name": "St Jacques",
+    "city": "Rennes",
+    "country": "France",
+    "iata": "RNS",
+    "icao": "LFRN",
+    "latitude": 48.069508,
+    "longitude": -1.734794,
+    "elevation": 124,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Paris"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "133",
+    "airport_name": "Sudbury",
+    "city": "Sudbury",
+    "country": "Canada",
+    "iata": "YSB",
+    "icao": "CYSB",
+    "latitude": 46.625,
+    "longitude": -80.798889,
+    "elevation": 1141,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/Toronto"
+}

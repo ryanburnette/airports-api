@@ -1,0 +1,14 @@
+{
+    "_csv_row": "376",
+    "airport_name": "Eggenfelden",
+    "city": "Eggenfelden",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDME",
+    "latitude": 48.396167,
+    "longitude": 12.723667,
+    "elevation": 1342,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1226",
+    "airport_name": "Jerez",
+    "city": "Jerez",
+    "country": "Spain",
+    "iata": "XRY",
+    "icao": "LEJR",
+    "latitude": 36.744622,
+    "longitude": -6.060111,
+    "elevation": 93,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Madrid"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "458",
+    "airport_name": "Tampere Pirkkala",
+    "city": "Tampere",
+    "country": "Finland",
+    "iata": "TMP",
+    "icao": "EFTP",
+    "latitude": 61.414147,
+    "longitude": 23.604392,
+    "elevation": 390,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Helsinki"
+}

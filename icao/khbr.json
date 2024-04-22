@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3850",
+    "airport_name": "Hobart Muni",
+    "city": "Hobart",
+    "country": "United States",
+    "iata": "HBR",
+    "icao": "KHBR",
+    "latitude": 34.991308,
+    "longitude": -99.051353,
+    "elevation": 1564,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

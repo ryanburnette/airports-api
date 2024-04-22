@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8106",
+    "airport_name": "Koethen Airport",
+    "city": "Koethen",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDCK",
+    "latitude": 51.7211,
+    "longitude": 11.9528,
+    "elevation": 305,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

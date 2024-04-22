@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3643",
+    "airport_name": "Rancho Murieta",
+    "city": "Rancho Murieta",
+    "country": "United States",
+    "iata": "RIU",
+    "icao": "KRIU",
+    "latitude": 38.486778,
+    "longitude": -121.102778,
+    "elevation": 141,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

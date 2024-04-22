@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3639",
+    "airport_name": "Greater Kankakee",
+    "city": "Kankakee",
+    "country": "United States",
+    "iata": "IKK",
+    "icao": "KIKK",
+    "latitude": 41.071389,
+    "longitude": -87.846278,
+    "elevation": 630,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

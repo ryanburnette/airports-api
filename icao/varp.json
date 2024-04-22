@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3020",
+    "airport_name": "Raipur",
+    "city": "Raipur",
+    "country": "India",
+    "iata": "RPR",
+    "icao": "VARP",
+    "latitude": 21.180406,
+    "longitude": 81.738753,
+    "elevation": 1041,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

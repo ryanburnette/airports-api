@@ -1,0 +1,14 @@
+{
+    "_csv_row": "22",
+    "airport_name": "Winnipeg St Andrews",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "iata": "YAV",
+    "icao": "CYAV",
+    "latitude": 50.056389,
+    "longitude": -97.0325,
+    "elevation": 760,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

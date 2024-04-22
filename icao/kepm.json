@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8666",
+    "airport_name": "Eastport Municipal Airport",
+    "city": "Eastport",
+    "country": "United States",
+    "iata": "EPM",
+    "icao": "KEPM",
+    "latitude": 44.9101111,
+    "longitude": -67.0126944,
+    "elevation": 45,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

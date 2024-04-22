@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3737",
+    "airport_name": "Coleman A Young Muni",
+    "city": "Detroit",
+    "country": "United States",
+    "iata": "DET",
+    "icao": "KDET",
+    "latitude": 42.409195,
+    "longitude": -83.009861,
+    "elevation": 626,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

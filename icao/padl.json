@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3460",
+    "airport_name": "Dillingham",
+    "city": "Dillingham",
+    "country": "United States",
+    "iata": "DLG",
+    "icao": "PADL",
+    "latitude": 59.044667,
+    "longitude": -158.5055,
+    "elevation": 74,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

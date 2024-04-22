@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5865",
+    "airport_name": "Mitiaro Island Airport",
+    "city": "Mitiaro Island",
+    "country": "Cook Islands",
+    "iata": "MOI",
+    "icao": "NCMR",
+    "latitude": -19.8425,
+    "longitude": -157.703,
+    "elevation": 25,
+    "utc_offset": -10,
+    "_class": "U",
+    "timezone": "Pacific/Rarotonga"
+}

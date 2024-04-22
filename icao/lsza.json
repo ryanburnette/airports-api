@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1675",
+    "airport_name": "Lugano",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "iata": "LUG",
+    "icao": "LSZA",
+    "latitude": 46.004275,
+    "longitude": 8.910578,
+    "elevation": 915,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Zurich"
+}

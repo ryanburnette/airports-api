@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7905",
+    "airport_name": "Lahr Airport",
+    "city": "Lahr",
+    "country": "Germany",
+    "iata": "LHA",
+    "icao": "EDTL",
+    "latitude": 48.3693,
+    "longitude": 7.82772,
+    "elevation": 511,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

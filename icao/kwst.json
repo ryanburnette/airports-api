@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8194",
+    "airport_name": "Westerly State Airport",
+    "city": "Washington County",
+    "country": "United States",
+    "iata": "WST",
+    "icao": "KWST",
+    "latitude": 41.349722,
+    "longitude": -71.803333,
+    "elevation": 81,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

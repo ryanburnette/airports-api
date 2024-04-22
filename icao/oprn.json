@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2223",
+    "airport_name": "Chaklala",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "iata": "ISB",
+    "icao": "OPRN",
+    "latitude": 33.616653,
+    "longitude": 73.099233,
+    "elevation": 1668,
+    "utc_offset": 5,
+    "_class": "N",
+    "timezone": "Asia/Karachi"
+}

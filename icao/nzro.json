@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2031",
+    "airport_name": "Rotorua",
+    "city": "Rotorua",
+    "country": "New Zealand",
+    "iata": "ROT",
+    "icao": "NZRO",
+    "latitude": -38.109167,
+    "longitude": 176.317222,
+    "elevation": 935,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

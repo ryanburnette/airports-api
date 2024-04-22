@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1830",
+    "airport_name": "Tajin",
+    "city": "Poza Rico",
+    "country": "Mexico",
+    "iata": "PAZ",
+    "icao": "MMPA",
+    "latitude": 20.602671,
+    "longitude": -97.460839,
+    "elevation": 497,
+    "utc_offset": -6,
+    "_class": "S",
+    "timezone": "America/Mexico_City"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4341",
+    "airport_name": "Liberal Muni",
+    "city": "Liberal",
+    "country": "United States",
+    "iata": "LBL",
+    "icao": "KLBL",
+    "latitude": 37.044222,
+    "longitude": -100.95986,
+    "elevation": 2885,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

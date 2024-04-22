@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2947",
+    "airport_name": "Odesa Intl",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "iata": "ODS",
+    "icao": "UKOO",
+    "latitude": 46.426767,
+    "longitude": 30.676464,
+    "elevation": 172,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Kiev"
+}

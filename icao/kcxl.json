@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3709",
+    "airport_name": "Calexico Intl",
+    "city": "Calexico",
+    "country": "United States",
+    "iata": "CXL",
+    "icao": "KCXL",
+    "latitude": 32.669502,
+    "longitude": -115.51333,
+    "elevation": 4,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

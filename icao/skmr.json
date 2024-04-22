@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2731",
+    "airport_name": "Los Garzones",
+    "city": "Monteria",
+    "country": "Colombia",
+    "iata": "MTR",
+    "icao": "SKMR",
+    "latitude": 8.823744,
+    "longitude": -75.825831,
+    "elevation": 36,
+    "utc_offset": -5,
+    "_class": "U",
+    "timezone": "America/Bogota"
+}

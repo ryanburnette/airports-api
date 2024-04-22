@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6505",
+    "airport_name": "Phoenix-Mesa Gateway",
+    "city": "Mesa",
+    "country": "United States",
+    "iata": "AZA",
+    "icao": "KIWA",
+    "latitude": 33.307833,
+    "longitude": -111.655,
+    "elevation": 1382,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

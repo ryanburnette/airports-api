@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7450",
+    "airport_name": "Pakuba Airport",
+    "city": "Pakuba",
+    "country": "Uganda",
+    "iata": "PAF",
+    "icao": "HUPA",
+    "latitude": 2.3275,
+    "longitude": 31.5,
+    "elevation": 2297,
+    "utc_offset": 3,
+    "_class": "U",
+    "timezone": "Africa/Kampala"
+}

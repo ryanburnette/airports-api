@@ -1,0 +1,14 @@
+{
+    "_csv_row": "313",
+    "airport_name": "Saint Hubert Mil",
+    "city": "St.-hubert",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBSU",
+    "latitude": 50.035833,
+    "longitude": 5.404167,
+    "elevation": 1930,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

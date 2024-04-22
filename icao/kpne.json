@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3750",
+    "airport_name": "Northeast Philadelphia",
+    "city": "Philadelphia",
+    "country": "United States",
+    "iata": "PNE",
+    "icao": "KPNE",
+    "latitude": 40.081944,
+    "longitude": -75.010586,
+    "elevation": 121,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

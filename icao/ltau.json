@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1696",
+    "airport_name": "Erkilet",
+    "city": "Kayseri",
+    "country": "Turkey",
+    "iata": "ASR",
+    "icao": "LTAU",
+    "latitude": 38.770386,
+    "longitude": 35.495428,
+    "elevation": 3463,
+    "utc_offset": 2,
+    "_class": "E",
+    "timezone": "Europe/Istanbul"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "8111",
+    "airport_name": "Rinteln Airport",
+    "city": "Rinteln",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDVR",
+    "latitude": 52.1753,
+    "longitude": 9.05333,
+    "elevation": 180,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

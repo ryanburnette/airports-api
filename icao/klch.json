@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3513",
+    "airport_name": "Lake Charles Rgnl",
+    "city": "Lake Charles",
+    "country": "United States",
+    "iata": "LCH",
+    "icao": "KLCH",
+    "latitude": 30.126112,
+    "longitude": -93.223335,
+    "elevation": 15,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

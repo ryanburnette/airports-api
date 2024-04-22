@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7576",
+    "airport_name": "Fitzroy Crossing Airport",
+    "city": "Fitzroy Crossing",
+    "country": "Australia",
+    "iata": "FIZ",
+    "icao": "YFTZ",
+    "latitude": -18.178,
+    "longitude": 125.591,
+    "elevation": 374,
+    "utc_offset": 8,
+    "_class": "U",
+    "timezone": "Australia/Perth"
+}

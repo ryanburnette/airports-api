@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1745",
+    "airport_name": "M R Stefanik",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "iata": "BTS",
+    "icao": "LZIB",
+    "latitude": 48.170167,
+    "longitude": 17.212667,
+    "elevation": 436,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Bratislava"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2987",
+    "airport_name": "Chertovitskoye",
+    "city": "Voronezh",
+    "country": "Russia",
+    "iata": "VOZ",
+    "icao": "UUOO",
+    "latitude": 51.814211,
+    "longitude": 39.229589,
+    "elevation": 514,
+    "utc_offset": 4,
+    "_class": "N",
+    "timezone": "Europe/Moscow"
+}

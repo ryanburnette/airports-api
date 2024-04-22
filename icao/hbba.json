@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1120",
+    "airport_name": "Bujumbura Intl",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "iata": "BJM",
+    "icao": "HBBA",
+    "latitude": -3.324019,
+    "longitude": 29.318519,
+    "elevation": 2582,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Africa/Bujumbura"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4351",
+    "airport_name": "Fornebu",
+    "city": "Oslo",
+    "country": "Norway",
+    "iata": "FBU",
+    "icao": "ENFB",
+    "latitude": 59.883333,
+    "longitude": 10.616667,
+    "elevation": 56,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

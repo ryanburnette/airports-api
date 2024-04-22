@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7066",
+    "airport_name": "Chadron Municipal Airport",
+    "city": "Chadron",
+    "country": "United States",
+    "iata": "CDR",
+    "icao": "KCDR",
+    "latitude": 42.8375,
+    "longitude": -103.095556,
+    "elevation": 3297,
+    "utc_offset": -7,
+    "_class": "A",
+    "timezone": "America/Denver"
+}

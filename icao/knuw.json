@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3573",
+    "airport_name": "Whidbey Island Nas",
+    "city": "Whidbey Island",
+    "country": "United States",
+    "iata": "NUW",
+    "icao": "KNUW",
+    "latitude": 48.351803,
+    "longitude": -122.655906,
+    "elevation": 47,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5733",
+    "airport_name": "Dodge City Regional Airport",
+    "city": "Dodge City",
+    "country": "United States",
+    "iata": "DDC",
+    "icao": "KDDC",
+    "latitude": 37.7634,
+    "longitude": -99.9656,
+    "elevation": 2594,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

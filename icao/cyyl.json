@@ -1,0 +1,14 @@
+{
+    "_csv_row": "185",
+    "airport_name": "Lynn Lake",
+    "city": "Lynn Lake",
+    "country": "Canada",
+    "iata": "YYL",
+    "icao": "CYYL",
+    "latitude": 56.863888,
+    "longitude": -101.07611,
+    "elevation": 1170,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Winnipeg"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7075",
+    "airport_name": "Ely Airport",
+    "city": "Ely",
+    "country": "United States",
+    "iata": "ELY",
+    "icao": "KELY",
+    "latitude": 39.299722,
+    "longitude": -114.841944,
+    "elevation": 6259,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

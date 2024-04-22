@@ -1,0 +1,14 @@
+{
+    "_csv_row": "176",
+    "airport_name": "Whitehorse Intl",
+    "city": "Whitehorse",
+    "country": "Canada",
+    "iata": "YXY",
+    "icao": "CYXY",
+    "latitude": 60.709553,
+    "longitude": -135.067269,
+    "elevation": 2317,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Vancouver"
+}

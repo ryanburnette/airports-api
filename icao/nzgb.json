@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6834",
+    "airport_name": "Great Barrier Island",
+    "city": "Claris",
+    "country": "New Zealand",
+    "iata": "GBZ",
+    "icao": "NZGB",
+    "latitude": -36.1429,
+    "longitude": 175.2819,
+    "elevation": 10,
+    "utc_offset": 12,
+    "_class": "Z",
+    "timezone": "Pacific/Auckland"
+}

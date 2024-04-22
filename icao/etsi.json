@@ -1,0 +1,14 @@
+{
+    "_csv_row": "786",
+    "airport_name": "Ingolstadt Manching",
+    "city": "Ingolstadt",
+    "country": "Germany",
+    "iata": "",
+    "icao": "ETSI",
+    "latitude": 48.715667,
+    "longitude": 11.534,
+    "elevation": 1202,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

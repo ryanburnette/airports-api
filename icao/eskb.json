@@ -1,0 +1,14 @@
+{
+    "_csv_row": "696",
+    "airport_name": "Barkarby",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "iata": "",
+    "icao": "ESKB",
+    "latitude": 59.418694,
+    "longitude": 17.890694,
+    "elevation": 50,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Stockholm"
+}

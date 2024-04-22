@@ -1,0 +1,14 @@
+{
+    "_csv_row": "9419",
+    "airport_name": "Tri-Cities",
+    "city": "Endicott",
+    "country": "United States",
+    "iata": "CZG",
+    "icao": "KCZG",
+    "latitude": 42.0471,
+    "longitude": -76.0578,
+    "elevation": 833,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

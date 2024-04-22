@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2493",
+    "airport_name": "Base Marambio",
+    "city": "Marambio Base",
+    "country": "Antarctica",
+    "iata": "",
+    "icao": "SAWB",
+    "latitude": -64.238335,
+    "longitude": -56.630833,
+    "elevation": 760,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Antarctica/South_Pole"
+}

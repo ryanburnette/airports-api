@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1605",
+    "airport_name": "Sde Dov",
+    "city": "Tel-aviv",
+    "country": "Israel",
+    "iata": "SDV",
+    "icao": "LLSD",
+    "latitude": 32.114661,
+    "longitude": 34.782239,
+    "elevation": 43,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Asia/Jerusalem"
+}

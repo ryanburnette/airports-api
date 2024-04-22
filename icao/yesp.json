@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6266",
+    "airport_name": "Esperance Airport",
+    "city": "Esperance",
+    "country": "Australia",
+    "iata": "EPR",
+    "icao": "YESP",
+    "latitude": -33.6844,
+    "longitude": 121.823,
+    "elevation": 470,
+    "utc_offset": 8,
+    "_class": "O",
+    "timezone": "Australia/Perth"
+}

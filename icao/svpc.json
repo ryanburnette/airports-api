@@ -1,0 +1,14 @@
+{
+    "_csv_row": "2854",
+    "airport_name": "General Bartolome Salom Intl",
+    "city": "Puerto Cabello",
+    "country": "Venezuela",
+    "iata": "PBL",
+    "icao": "SVPC",
+    "latitude": 10.4805,
+    "longitude": -68.073025,
+    "elevation": 32,
+    "utc_offset": -4.5,
+    "_class": "U",
+    "timezone": "America/Caracas"
+}

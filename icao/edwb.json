@@ -1,0 +1,14 @@
+{
+    "_csv_row": "402",
+    "airport_name": "Bremerhaven",
+    "city": "Bremerhaven",
+    "country": "Germany",
+    "iata": "BRV",
+    "icao": "EDWB",
+    "latitude": 53.507081,
+    "longitude": 8.572878,
+    "elevation": 11,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7966",
+    "airport_name": "Boston South Station",
+    "city": "Boston",
+    "country": "United States",
+    "iata": "",
+    "icao": "BOST",
+    "latitude": 42.35,
+    "longitude": -71.0558,
+    "elevation": 0,
+    "utc_offset": -5,
+    "_class": "A",
+    "timezone": "America/New_York"
+}

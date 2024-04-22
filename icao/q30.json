@@ -1,0 +1,14 @@
+{
+    "_csv_row": "5823",
+    "airport_name": "Mejit Atoll Airport",
+    "city": "Mejit Atoll",
+    "country": "Marshall Islands",
+    "iata": "MJB",
+    "icao": "Q30",
+    "latitude": 10.2833,
+    "longitude": 170.883,
+    "elevation": 5,
+    "utc_offset": 12,
+    "_class": "U",
+    "timezone": "Pacific/Majuro"
+}

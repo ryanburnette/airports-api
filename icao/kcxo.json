@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3619",
+    "airport_name": "Lone Star Executive",
+    "city": "Conroe",
+    "country": "United States",
+    "iata": "CXO",
+    "icao": "KCXO",
+    "latitude": 30.351833,
+    "longitude": -95.414467,
+    "elevation": 245,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

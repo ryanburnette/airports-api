@@ -1,0 +1,14 @@
+{
+    "_csv_row": "4219",
+    "airport_name": "Grand Canyon National Park Airport",
+    "city": "Grand Canyon",
+    "country": "United States",
+    "iata": "GCN",
+    "icao": "KGCN",
+    "latitude": 35.9523611,
+    "longitude": -112.1469722,
+    "elevation": 6609,
+    "utc_offset": -7,
+    "_class": "N",
+    "timezone": "America/Phoenix"
+}

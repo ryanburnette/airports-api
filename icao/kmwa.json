@@ -1,0 +1,14 @@
+{
+    "_csv_row": "6825",
+    "airport_name": "Williamson Country Regional Airport",
+    "city": "Marion",
+    "country": "United States",
+    "iata": "MWA",
+    "icao": "KMWA",
+    "latitude": 37.7549569,
+    "longitude": -89.0110936,
+    "elevation": 472,
+    "utc_offset": -6,
+    "_class": "A",
+    "timezone": "America/Chicago"
+}

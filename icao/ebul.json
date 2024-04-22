@@ -1,0 +1,14 @@
+{
+    "_csv_row": "314",
+    "airport_name": "Ursel",
+    "city": "Ursel",
+    "country": "Belgium",
+    "iata": "",
+    "icao": "EBUL",
+    "latitude": 51.144133,
+    "longitude": 3.474361,
+    "elevation": 95,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Brussels"
+}

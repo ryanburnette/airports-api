@@ -1,0 +1,14 @@
+{
+    "_csv_row": "1590",
+    "airport_name": "Ben Gurion",
+    "city": "Tel-aviv",
+    "country": "Israel",
+    "iata": "TLV",
+    "icao": "LLBG",
+    "latitude": 32.011389,
+    "longitude": 34.886667,
+    "elevation": 135,
+    "utc_offset": 2,
+    "_class": "U",
+    "timezone": "Asia/Jerusalem"
+}

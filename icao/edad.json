@@ -1,0 +1,14 @@
+{
+    "_csv_row": "319",
+    "airport_name": "Dessau",
+    "city": "Dessau",
+    "country": "Germany",
+    "iata": "",
+    "icao": "EDAD",
+    "latitude": 51.831828,
+    "longitude": 12.184033,
+    "elevation": 187,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Berlin"
+}

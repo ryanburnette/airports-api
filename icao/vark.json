@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3019",
+    "airport_name": "Rajkot",
+    "city": "Rajkot",
+    "country": "India",
+    "iata": "RAJ",
+    "icao": "VARK",
+    "latitude": 22.309183,
+    "longitude": 70.779525,
+    "elevation": 441,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}

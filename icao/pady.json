@@ -1,0 +1,14 @@
+{
+    "_csv_row": "7213",
+    "airport_name": "Kongiganak Airport",
+    "city": "Kongiganak",
+    "country": "United States",
+    "iata": "KKH",
+    "icao": "PADY",
+    "latitude": 59.960833,
+    "longitude": -162.881111,
+    "elevation": 30,
+    "utc_offset": -9,
+    "_class": "A",
+    "timezone": "America/Anchorage"
+}

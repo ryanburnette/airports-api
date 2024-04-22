@@ -1,0 +1,14 @@
+{
+    "_csv_row": "636",
+    "airport_name": "Flesland",
+    "city": "Bergen",
+    "country": "Norway",
+    "iata": "BGO",
+    "icao": "ENBR",
+    "latitude": 60.293386,
+    "longitude": 5.218142,
+    "elevation": 170,
+    "utc_offset": 1,
+    "_class": "E",
+    "timezone": "Europe/Oslo"
+}

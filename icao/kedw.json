@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3512",
+    "airport_name": "Edwards Afb",
+    "city": "Edwards Afb",
+    "country": "United States",
+    "iata": "EDW",
+    "icao": "KEDW",
+    "latitude": 34.905417,
+    "longitude": -117.883739,
+    "elevation": 2302,
+    "utc_offset": -8,
+    "_class": "A",
+    "timezone": "America/Los_Angeles"
+}

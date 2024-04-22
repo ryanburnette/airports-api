@@ -1,0 +1,14 @@
+{
+    "_csv_row": "51",
+    "airport_name": "Estevan",
+    "city": "Estevan",
+    "country": "Canada",
+    "iata": "YEN",
+    "icao": "CYEN",
+    "latitude": 49.210278,
+    "longitude": -102.965833,
+    "elevation": 1905,
+    "utc_offset": -6,
+    "_class": "N",
+    "timezone": "America/Regina"
+}

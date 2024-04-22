@@ -1,0 +1,14 @@
+{
+    "_csv_row": "3080",
+    "airport_name": "Allahabad",
+    "city": "Allahabad",
+    "country": "India",
+    "iata": "IXD",
+    "icao": "VIAL",
+    "latitude": 25.440064,
+    "longitude": 81.733872,
+    "elevation": 322,
+    "utc_offset": 5.5,
+    "_class": "N",
+    "timezone": "Asia/Calcutta"
+}
