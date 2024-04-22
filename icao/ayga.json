@@ -1,0 +1,16 @@
+[
+    {
+        "_csv_row": "id",
+        "airport_name": "airport_name",
+        "city": "city",
+        "country": "country",
+        "iata": "iata",
+        "icao": "icao",
+        "latitude": 0,
+        "longitude": 0,
+        "elevation": 0,
+        "utc_offset": 0,
+        "_class": "_class",
+        "timezone": "timezone"
+    }
+]

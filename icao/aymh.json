@@ -1,0 +1,44 @@
+[
+    {
+        "_csv_row": "id",
+        "airport_name": "airport_name",
+        "city": "city",
+        "country": "country",
+        "iata": "iata",
+        "icao": "icao",
+        "latitude": 0,
+        "longitude": 0,
+        "elevation": 0,
+        "utc_offset": 0,
+        "_class": "_class",
+        "timezone": "timezone"
+    },
+    {
+        "_csv_row": "1",
+        "airport_name": "Goroka",
+        "city": "Goroka",
+        "country": "Papua New Guinea",
+        "iata": "GKA",
+        "icao": "AYGA",
+        "latitude": -6.081689,
+        "longitude": 145.391881,
+        "elevation": 5282,
+        "utc_offset": 5282,
+        "_class": "U",
+        "timezone": "Pacific/Port_Moresby"
+    },
+    {
+        "_csv_row": "2",
+        "airport_name": "Madang",
+        "city": "Madang",
+        "country": "Papua New Guinea",
+        "iata": "MAG",
+        "icao": "AYMD",
+        "latitude": -5.207083,
+        "longitude": 145.7887,
+        "elevation": 20,
+        "utc_offset": 20,
+        "_class": "U",
+        "timezone": "Pacific/Port_Moresby"
+    }
+]
