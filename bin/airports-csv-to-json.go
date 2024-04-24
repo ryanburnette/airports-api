@@ -161,7 +161,7 @@ func main() {
 			continue
 		}
 
-		jsonData, err := json.MarshalIndent(airports, "", "    ")
+		jsonData, err := json.MarshalIndent(airport, "", "    ")
 		if err != nil {
 			fmt.Println("Error:", err)
 			return
