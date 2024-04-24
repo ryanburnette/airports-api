@@ -133,7 +133,7 @@ func main() {
 
 		utcOffset := 0
 		{
-			utcOffsetStr := record[8]
+			utcOffsetStr := record[9]
 			utcOffset, err = strconv.Atoi(utcOffsetStr)
 			if err != nil {
 				fmt.Printf("parse error on line %d (%s): utc_offset: %s\n", i, icao, utcOffsetStr)
