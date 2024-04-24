@@ -20,7 +20,7 @@ type Airport struct {
 	Latitude    float64 `json:"latitude"`
 	Longitude   float64 `json:"longitude"`
 	Elevation   int     `json:"elevation"`
-	UTCOffset   int     `json:"utc_offset"`
+	UTCOffset   float64 `json:"utc_offset"`
 	Class       string  `json:"_class"`
 	Timezone    string  `json:"timezone"`
 }
@@ -131,10 +131,10 @@ func main() {
 			}
 		}
 
-		utcOffset := 0
+		utcOffset := 0.0
 		{
 			utcOffsetStr := record[9]
-			utcOffset, err = strconv.Atoi(utcOffsetStr)
+			utcOffset, err = strconv.ParseFloat(utcOffsetStr, 64)
 			if err != nil {
 				fmt.Printf("parse error on line %d (%s): utc_offset: %s\n", i, icao, utcOffsetStr)
 			}
